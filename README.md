@@ -4,6 +4,8 @@
 
 **(*) NOTA: El nombre puede cambiar**
 
+**IMPORTANTE**: Este es un trabajo en progreso, y como tal, cualquier parte del libro y sus anexos son susceptibles de cambiar y/o contener spoilers. *Leer bajo responsabilidad del lector* :-)
+
 ## Sinopsis
 
 Año 2025. El mundo ha entrado en lo ya se conoce como la Segunda Guerra Fría. Todo país del primer mundo dedica prácticamente la totalidad de su economía al presupuesto militar y el espionaje internacional. Esto se deja entrever en la apariencia de pobreza y abandono que experimentan muchas de las grandes metrópolis del pasado. Los Estados Unidos de América, la mayor potencia mundial en otros tiempos, ha entrado en una profunda depresión económica. Los Norteamericanos se encuentran sumidos en una guerra civil en la que las matanzas no hacen más que sucederse y varios grupos pugnan por llegar al poder, mientras grandes sectores de la población intentan huir hacia Canadá o México.
