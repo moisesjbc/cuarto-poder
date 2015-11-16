@@ -14,6 +14,13 @@ La corporación RIO, la cual monopoliza los medios de comunicación de más de m
 
 En una situación tan inestable y caótica, los sucesos que están a punto de ocurrir en el seno de la corporación pueden precipitar el cambio por el que muchos claman. El coste, y las consecuencias, sin embargo, pueden llevar a la destrucción de una sociedad cuya estabilidad pende ya de un hilo.
 
+## Noticias
+
+### Creación del repositorio (16/11/2015)
+
+Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el que trabajo por temporadas a Github**. Nunca está de más recordarlo: **estás ante un trabajo en progreso y plagado de spoilers** de lo que, espero, será una obra finalizada algún día. Además, muchos de los documentos anexos datan de una época donde parecía que no me llevaba bien con el corrector ortográfico. Es por esto que **a mi aviso de spoilers debo añadir otro de erratas** que espero subsanar pronto.
+
+
 ## Agradecimientos
 
 - A **Ana “sólo letras”**. Porque nunca te demostré lo importante que fuiste para mí. Porque me animaste e inspiraste cuando comenzaba a escribir.
