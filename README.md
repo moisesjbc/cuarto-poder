@@ -6,7 +6,7 @@
 
 ## Acceso al libro
 
-- Para leer el libro en su estado actual puedes acceder al [manuscrito](manuscrito/c01_el-reencuentro).
+- Para leer el libro en su estado actual puedes acceder al [manuscrito](manuscrito/c01_el-reencuentro.md).
 
 ## Sinopsis
 
