@@ -1,10 +1,12 @@
 # Cuarto Poder
 
-*Cuarto Poder* (*) es el nombre de mi primer libro, escrito a temporadas y en mi tiempo libre. En Noviembre de 2015 decidí subirlo a *Github* para llevar un mejor control de los cambios y mutaciones sobre mi pequeño *Frankestein*.
-
-**(*) NOTA: El nombre puede cambiar**
+*Cuarto Poder* (**nombre temporal**) es el nombre de mi primer libro, escrito a temporadas y en mi tiempo libre. En Noviembre de 2015 decidí subirlo a *Github* para llevar un mejor control de los cambios y mutaciones sobre mi pequeño *Frankestein*.
 
 **IMPORTANTE**: Este es un trabajo en progreso, y como tal, cualquier parte del libro y sus anexos son susceptibles de cambiar y/o contener spoilers. *Leer bajo responsabilidad del lector* :-)
+
+## Acceso al libro
+
+- Para leer el libro en su estado actual puedes acceder al [manuscrito](manuscrito/c01_el-reencuentro).
 
 ## Sinopsis
 
@@ -13,11 +15,6 @@ Año 2025. El mundo ha entrado en lo ya se conoce como la Segunda Guerra Fría. 
 La corporación RIO, la cual monopoliza los medios de comunicación de más de medio mundo, permanece inmune a esta situación de decadencia. Su influencia, y sus garras se extienden hasta límites que la gran mayoría ignora.
 
 En una situación tan inestable y caótica, los sucesos que están a punto de ocurrir en el seno de la corporación pueden precipitar el cambio por el que muchos claman. El coste, y las consecuencias, sin embargo, pueden llevar a la destrucción de una sociedad cuya estabilidad pende ya de un hilo.
-
-## Acceso al libro
-
-- Para leer el libro en su estado actual puedes acceder al [manuscrito](manuscrito/c01_el-reencuentro).
-
 
 ## Noticias
 
