@@ -14,6 +14,11 @@ La corporación RIO, la cual monopoliza los medios de comunicación de más de m
 
 En una situación tan inestable y caótica, los sucesos que están a punto de ocurrir en el seno de la corporación pueden precipitar el cambio por el que muchos claman. El coste, y las consecuencias, sin embargo, pueden llevar a la destrucción de una sociedad cuya estabilidad pende ya de un hilo.
 
+## Acceso al libro
+
+- Para leer el libro en su estado actual puedes acceder al [manuscrito](manuscrito/c01_el-reencuentro).
+
+
 ## Noticias
 
 ### Creación del repositorio (16/11/2015)
