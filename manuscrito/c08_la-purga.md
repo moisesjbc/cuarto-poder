@@ -116,5 +116,12 @@ Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos 
 - ¿A quién debo cobrarle... - Dijo, fingiendo sentirse ofendida. Enrique escuchó las últimas palabras cada vez más lejanas, justo antes de desplomarse - …la cena de lujo que no he podido ni tan siquiera catar?
 
 
-[1]: ¿Sería “gritaron”, o “gritó”?.
-[2]: De aquí en adelante recordar poner “La Cadena” siempre con mayúsculas.
+## Navegación
+
+- [Capítulo anterior: 07 - El sótano](c07_el-sótano.md)
+- [Capítulo siguiente: 09 - Capítulo 9](c09_capítulo-9.md)
+
+## Notas
+
+- [1]: ¿Sería “gritaron”, o “gritó”?.
+- [2]: De aquí en adelante recordar poner “La Cadena” siempre con mayúsculas.

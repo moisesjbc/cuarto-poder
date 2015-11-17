@@ -49,3 +49,9 @@ Y así era; mientras que Aitor continuaba vestido de gala, tal como había asist
 - Yo no contaría con los ingleses – la superiora se mantuvo seria, solemne – lo último que recibí antes de perder la comunicación fue que los de RIO estaban tomando el control rápidamente y que habían cogido a la mayoría de los militares.
 - Vaya... - Aitor intentó buscar rápidamente algo para animar a sus interlocutores, pero cada vez era más complicado – debemos confiar en ellos. Nunca está de más mantener la esperanza.
 - Eso está bien – respondió la mujer – al menos alguien la conserva aquí.
+
+
+## Navegación
+
+- [Capítulo anterior: 09 - Capítulo 9](c09_capítulo-9.md)
+- [Capítulo siguiente: 11 - La madriguera](c11_la-madriguera.md)

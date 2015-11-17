@@ -85,4 +85,12 @@ Jonás se permitió, sin embargo, detenerse y mirar durante un momento a Lucas [
 
 El vagabundo se limitó a sonreír amargamente. Un hilillo de sangre le salía de la nariz y dividía su sonrisa en dos. Ninguna de ellas parecía albergar grandes esperanzas sobre lo que estaba por venir.
 
-[1]: Tener esto en cuenta. ¿En qué circunstancias se vieron?
+
+## Navegación
+
+- [Capítulo anterior: 10 - La huida](c10_la-huida.md)
+- [Capítulo siguiente: 12 - La bronca](c12_la-bronca.md)
+
+## Notas
+
+- [1]: Tener esto en cuenta. ¿En qué circunstancias se vieron?

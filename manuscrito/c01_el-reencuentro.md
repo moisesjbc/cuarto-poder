@@ -77,6 +77,13 @@ Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de extranj
 - Lo siento. - Se rió. - Estas cosas llevan su tiempo. ¿Cómo estás, amigo?
 
 
-[1]: Nombrar más adelante la distribución del piso.
+## Navegación
+
+- [Capítulo siguiente: 02 - La señal](c02_la-señal.md)
+
+
+## Notas
+
+- [1]: Nombrar más adelante la distribución del piso.
 “La parte principal de su piso, como la de otros tantos, consistía en una gran sala, con cinco filas de pares de oficinas-cubículo que la recorrían de sur a norte. Un pasillo central cortaba las filas en dos.”
-[2]: ¿Realmente usan el ascensor o suben por las escaleras? **Si cambio por las escaleras, tenerlo en cuenta** también más adelante.
+- [2]: ¿Realmente usan el ascensor o suben por las escaleras? **Si cambio por las escaleras, tenerlo en cuenta** también más adelante.

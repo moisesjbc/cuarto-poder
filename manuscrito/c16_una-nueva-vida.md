@@ -141,4 +141,13 @@ La familia se encaminó hacia su nuevo hogar, pero un grito a sus espaldas los d
 
 La familia decidió hacer caso a la autoridad y entró en su nuevo hogar casi por inercia. No llevaban ni una hora en aquel pueblo, y ya se preguntaban si no habrían cometido un gran error al mudarse. Con un nudo en la garganta, Mario cerró la puerta.
 
-[1]: ¿Cambiar?
+
+## Navegación
+
+- [Capítulo anterior: 15 - La emisión](c15_la-emisión.md)
+- [Capítulo siguiente: 17 - El rescate](c17_el-rescate.md)
+
+
+## Notas
+
+- [1]: ¿Cambiar?

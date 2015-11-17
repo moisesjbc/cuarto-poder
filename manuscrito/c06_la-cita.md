@@ -110,6 +110,12 @@ El puñetazo de Aitor en la barriga lo dejó sin aire y lo derribó. Los otros d
 
 “¡No tengo tiempo para estas estupideces! ¡Hoy puede ser el principio del fin de RIO!” - Pensó Aitor, apremiante, mientras corría por el túnel y rezaba por no haber perdido de vista a sus perseguidos.
 
+## Navegación
 
-[1]: ¿algo mejor que “medianos”?
-[2]: ¡CAMBIAR POR EL NOMBRE!
+- [Capítulo anterior: 05 - Planta 26](c05_planta-26.md)
+- [Capítulo siguiente: 07 - El sótano](c07_el-sótano.md)
+
+## Notas
+
+- [1]: ¿algo mejor que “medianos”?
+- [2]: ¡CAMBIAR POR EL NOMBRE!

@@ -216,16 +216,24 @@ El resto de los presentes las miraba, asustados, y susurrándose cosas entre ell
 
 [4][5][6]
 
-[1]: ¿Nombrar las cámaras por todos lados (otra vez)?
-[2]: ¿Bien dicho?
-[3]: Algo más grave que confusión.
-[4]: ¿Qué hago con Mario?
----
-a) ¿Suena ahora las notas de xilofón y todo vuelve a la normalidad?
-b) ¿Consiguen escapar por alguna ventana o algo y se reúnen con Mario?
-¿Intentan escapar pero les disparan y el alcalde dice que el juego debe continuar?
-[5]: Lara es la hija de Jonás. Este embarazó a la madre después de que escapara de La Cadena.
-→ ¿O ES LA HERMANA PEQUEÑA?
-[6]: Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
-¿Algún personaje principal es en realidad un activo de la cadena?.
 
+## Navegación
+
+- [Capítulo anterior: 17 - El rescate](c17_el-rescate.md)
+- [Capítulo siguiente: 19 - El trayecto](c19_el-trayecto.md)
+
+
+## Notas
+
+- [1]: ¿Nombrar las cámaras por todos lados (otra vez)?
+- [2]: ¿Bien dicho?
+- [3]: Algo más grave que confusión.
+- [4]: ¿Qué hago con Mario?
+    ---
+    a) ¿Suena ahora las notas de xilofón y todo vuelve a la normalidad?
+    b) ¿Consiguen escapar por alguna ventana o algo y se reúnen con Mario?
+    ¿Intentan escapar pero les disparan y el alcalde dice que el juego debe continuar?
+- [5]: Lara es la hija de Jonás. Este embarazó a la madre después de que escapara de La Cadena.
+    → ¿O ES LA HERMANA PEQUEÑA?
+- [6]: Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
+    ¿Algún personaje principal es en realidad un activo de la cadena?.

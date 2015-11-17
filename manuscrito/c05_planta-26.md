@@ -141,6 +141,12 @@ Pero no recibieron respuesta alguna. El ascensor continuaba su descenso sin paus
 
 Lucas aún trataba de mantenerse consciente, aunque era lo último que deseaba; se sentía tan mal que realmente prefería volver a perder el conocimiento. El resto de los presentes, aunque en mucho mejor estado de salud, se mostraban nerviosos. No ocurría así con Ricardo el prisionero, el cuál miró hacia Lucas y sonrió, confiado. El joven, extrañado y lidiando con sus mareos, se estuvo preguntando sobre el motivo de aquella confianza, aparentemente injustificada, hasta que el ascensor llegó a su destino.
 
+## Navegación
 
-[1]: ¿Se entiende?
-[2]: ¿Describir al venezolano?
+- [Capítulo anterior: 04 - La guardia](c04_la-guardia.md)
+- [Capítulo siguiente: 06 - La cita](c06_la-cita.md)
+
+## Notas
+
+- [1]: ¿Se entiende?
+- [2]: ¿Describir al venezolano?

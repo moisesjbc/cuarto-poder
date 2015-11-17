@@ -35,5 +35,13 @@ El rostro del jefe de policía Manuel se ensombreció aún más con una sonrisa 
 
 - Lo que tú digas, Paco. Lo que tú digas.
 
+
+## Navegación
+
+- [Capítulo anterior: 11 - La madriguera](c11_la-madriguera.md)
+- [Capítulo siguiente: 13 - La huida](c13_la-huida.md)
+
+
+## Notas
 [1]: Pensar la motivación del hombre de negro para "salvar" a Paco.
 

@@ -59,3 +59,8 @@ El policía perdió la consciencia durante lo que creyó, fueron diez minutos, �
 
 - ¡Hemos escuchado tiros en una de las plantas altas! - Gritaba el policía - ¡La 26! ¡Es la planta 26! ¡Están cayendo cristales!
 - ¡Ya nos hemos dado cuenta, estúpido! - Le espetó su superior - ¡Parece que no va a hacer falta el negociador! ¡Los rehenes están en peligro! ¡Tenemos que entrar cuánto antes!
+
+## Navegación
+
+- [Capítulo anterior: 03 - El ascenso](c03_el-ascenso.md)
+- [Capítulo siguiente: 05 - Planta 26](c05_planta-26.md)

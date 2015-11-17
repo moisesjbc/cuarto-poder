@@ -71,6 +71,14 @@ Cuando Cooper avanzó decididamente hacia el vagabundo para detenerlo, una figur
 
 - ¡Llegan tarde! ¡Vamos o perderemos el barco!
 
-[1]: Decir quienes son sin ser cansino. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
-[2]: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
+
+## Navegación
+
+- [Capítulo anterior: 12 - La bronca](c12_la-bronca.md)
+- [Capítulo siguiente: 14 - Sin título](c14_sin-título.md)
+
+## Notas
+
+- [1]: Decir quienes son sin ser cansino. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
+- [2]: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
 

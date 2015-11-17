@@ -106,3 +106,8 @@ Ana, sin mediar palabra, le propinó un puñetazo que le hizo girar la cabeza co
 - ¡Tenemos que volver a subir! - Exclamó el coronel, tratando de convencer a los presentes y a la cámara de seguridad con su mirada. Intentaba mantener su autoridad, pero frente a cuatro civiles, de los cuales uno era un enemigo y estaba inconsciente, y otro tenía el control, la tarea se le antojaba difícil. Una nota de nerviosismo comenzó a teñir su expresión mientras esperaba, ansioso, una respuesta.
 - De ninguna manera – Sentenció la voz – Puede que tardemos años en tener otra oportunidad como esta, y subir arriba ahora mismo sería un suicidio. Tendrá que confiar en su hombre.
 
+
+## Navegación
+
+- [Capítulo anterior: 06 - La cita](c06_la-cita.md)
+- [Capítulo siguiente: 08 - La purga](c08_la-purga.md)

@@ -40,3 +40,8 @@ Ana hizo una mueca. Luís sabía que esconderse no era su estilo, pero lo acepta
 - No te preocupes – quiso animarla, sin una gran convicción – puede que hayan ganado esta batalla, pero la guerra aún está por comenzar.
 - Eso es precisamente lo que me preocupa – comenzó a decir Ana, cabizbaja – que hayamos ayudado a comenzar una guerra.
 
+
+## Navegación
+
+- [Capítulo anterior: 14 - Sin título](c14_sin-título.md)
+- [Capítulo siguiente: 16 - Una nueva vida](c16_una-nueva-vida.md)

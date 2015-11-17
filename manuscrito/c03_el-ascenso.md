@@ -141,4 +141,11 @@ Los soldados escucharon la orden, y aquellos que no estaban respondiendo al fueg
 
 Aquella visión de su amiga, junto con el miedo a perderla hicieron mella en Lucas, que empezó a sentir como las fuerzas lo abandonaban a su suerte y comenzó a caer inconsciente. Sino fuera por unos brazos que lo agarraron, Lucas se habría desplomado escaleras abajo.
 
+
+## Navegación
+
+- [Capítulo anterior: 02 - La señal](c02_la-señal.md)
+- [Capítulo siguiente: 04 - La guardia](c04_la-guardia.md)
+
+## Notas
 [1]: ¿Está bien escrito?

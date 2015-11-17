@@ -131,3 +131,8 @@ A primera vista no había nada que resultara extraño... salvo un gran agujero q
 El soldado la imitó. En el piso de abajo se apilaban sillas y mesas de cualquier manera, como si efectivamente hubieran caído estrepitosamente desde el piso superior. Sin embargo, no había ni rastro de escombros del suelo fantasma. Ni siquiera había polvo.
 
 - ¿Cómo coño... - comenzó a decir Arturo, sin medir sus palabras … han hecho desaparecer el suelo?
+
+## Navegación
+
+- [Capítulo siguiente: 16 - Una nueva vida](c16_una-nueva-vida.md)
+- [Capítulo siguiente: 18 - Primer día de clase](c18_primer-día-de-clase.md)

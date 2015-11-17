@@ -40,3 +40,8 @@ Intentó reír nerviosamente, como si así pudiera paliar el dolor. Comenzó a o
 Tal como esperaba y temía, una punzada de dolor atravesó su cabeza en todas las direcciones posibles. Jonás cayó, casi sin respiración, a un lado del banco. 
 
 Ahora se encontraba de rodillas, con los brazos ejerciendo una fuerza sobrehumana contra el suelo para evitar desplomarse. Su mano derecha, temblorosa, fue agarrando las hojas que se habían caído, las arrastraba hasta tenerlas frente a su cabeza, y les dedicaba un vistazo de un segundo a cada una. La sangre no tardó en brotarle de la nariz, manchando las hojas según las iba viendo. Jonás trataba de resistir a duras penas la tentación de darse de golpes contra el suelo para dejar de sentir aquel dolor inmenso que hacía que deseara la muerte.
+
+## Navegación
+
+- [Capítulo anterior: 01 - El reencuentro](c01_el-reencuentro.md)
+- [Capítulo siguiente: 03 - El ascenso](c03_el-ascenso.md)
