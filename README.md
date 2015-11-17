@@ -18,9 +18,9 @@ En una situación tan inestable y caótica, los sucesos que están a punto de oc
 
 ## Noticias
 
-### Creación del repositorio (16/11/2015)
+### Creación del repositorio (17/11/2015)
 
-Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el que trabajo por temporadas a Github**. Nunca está de más recordarlo: **estás ante un trabajo en progreso y plagado de spoilers** de lo que, espero, será una obra finalizada algún día. Además, muchos de los documentos anexos datan de una época donde parecía que no me llevaba bien con el corrector ortográfico. Es por esto que **a mi aviso de spoilers debo añadir otro de erratas** que espero subsanar pronto.
+Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el que trabajo por temporadas a Github**. Nunca está de más recordarlo: **estás ante un trabajo en progreso y plagado de spoilers** de lo que, espero, será una obra finalizada algún día. Además, muchos de los documentos anexos datan de una época en la cual parecía que no me llevaba bien con el corrector ortográfico. Es por esto que **a mi aviso de spoilers debo añadir otro de erratas** que espero subsanar pronto.
 
 
 ## Agradecimientos
