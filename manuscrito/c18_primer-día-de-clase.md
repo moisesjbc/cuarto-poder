@@ -214,8 +214,6 @@ La turba se había detenido a pocos metros de ellas, tras el alcalde. Sus caras 
 El resto de los presentes las miraba, asustados, y susurrándose cosas entre ellos. El alcalde, inmóvil, continuaba mirándolas con una sonrisa pícara. Entonces susurró algo. Lara, aterrada, creyó leer en sus labios:
 - Hasta mañana.
 
-[4][5][6]
-
 
 ## Navegación
 
@@ -228,12 +226,3 @@ El resto de los presentes las miraba, asustados, y susurrándose cosas entre ell
 - [1]: ¿Nombrar las cámaras por todos lados (otra vez)?
 - [2]: ¿Bien dicho?
 - [3]: Algo más grave que confusión.
-- [4]: ¿Qué hago con Mario?
-    ---
-    a) ¿Suena ahora las notas de xilofón y todo vuelve a la normalidad?
-    b) ¿Consiguen escapar por alguna ventana o algo y se reúnen con Mario?
-    ¿Intentan escapar pero les disparan y el alcalde dice que el juego debe continuar?
-- [5]: Lara es la hija de Jonás. Este embarazó a la madre después de que escapara de La Cadena.
-    → ¿O ES LA HERMANA PEQUEÑA?
-- [6]: Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
-    ¿Algún personaje principal es en realidad un activo de la cadena?.
