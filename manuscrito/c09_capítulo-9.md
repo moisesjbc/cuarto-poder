@@ -96,4 +96,4 @@ La puerta aún se estaba abriendo, cuando una voz masculina les gritó desde el 
 ## Navegación
 
 - [Capítulo anterior: 08 - La purga](c08_la-purga.md)
-- [Capítulo siguiente: 10 - La huida](c10_la-huida.md)
+- [Capítulo siguiente: 10 - Los preparativos](c10_los-preparativos.md)
