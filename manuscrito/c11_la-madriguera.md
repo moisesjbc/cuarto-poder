@@ -88,7 +88,7 @@ El vagabundo se limitó a sonreír amargamente. Un hilillo de sangre le salía d
 
 ## Navegación
 
-- [Capítulo anterior: 10 - La huida](c10_la-huida.md)
+- [Capítulo anterior: 10 - Los preparativos](c10_los-preparativos.md)
 - [Capítulo siguiente: 12 - La bronca](c12_la-bronca.md)
 
 ## Notas
