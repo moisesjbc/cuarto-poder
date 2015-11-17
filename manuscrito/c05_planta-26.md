@@ -11,7 +11,7 @@ Lucas estaba tendido en el suelo. Cuando pudo incorporarse un poco y sentarse co
 
 “Así que hemos conseguido entrar en la planta 26”, se sorprendió Lucas. Ya había estado allí en alguna que otra ocasión, por lo que hizo memoria y recordó la distribución del lugar: la sala-recibidor en la que se encontraban desembocaba en un pasillo más estrecho, el cual avanzaba entre dos grandes salas hasta el despacho del director de La Cadena.
 
-Lucas, Allan y un tercer soldado se encontraban ocultos [tras la esquina derecha que daba al pasillo][1]. Los dos militares se alternaban para asomarse a la esquina y responder al fuego enemigo, mientras el civil continuaba intentando hacerse a la situación. 
+Lucas, Allan y un tercer soldado se encontraban ocultos tras la esquina derecha que daba al pasillo[1]. Los dos militares se alternaban para asomarse a la esquina y responder al fuego enemigo, mientras el civil continuaba intentando hacerse a la situación. 
 
 El joven paseó su mirada por la estancia, tratando de hacer un recuento de los militares allí congregados. Tres eran los que disparaban y se protegían tras un gran recibidor de mármol situado en en centro de la sala, entre el ascensor y el pasillo dónde presumiblemente se encontraban los enemigos. Lucas observó cómo se producían disparos de algún lugar tras los soldados apostados en el recibidor. “Deben quedar soldados en las escaleras”, supuso.
 
@@ -49,7 +49,7 @@ El Venezolano salió de las escaleras dando una voltereta y se colocó trás sus
 
 - ¡No tientes tanto a la suerte! - gritó el soldado que lo había empujado.
 
-El soldado que acababa de hacer su aparición bordeó entonces el recibidor y corrió agachado hasta colocarse entre Allan y Lucas. [El Venezolano][2] miró a este último, con unos ojos que destilaban locura y cordura a partes iguales, y dijo seriamente.
+El soldado que acababa de hacer su aparición bordeó entonces el recibidor y corrió agachado hasta colocarse entre Allan y Lucas. El Venezolano[2] miró a este último, con unos ojos que destilaban locura y cordura a partes iguales, y dijo seriamente.
 
 - Arturo, encantado.
 
