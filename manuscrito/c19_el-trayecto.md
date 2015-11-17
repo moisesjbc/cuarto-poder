@@ -1,6 +1,6 @@
 # 19. El trayecto
 
-[1]El traqueteo incesante del camión de carga era tan fuerte, que era un verdadero milagro que el vehículo siguiera de una pieza. Cuatro eran las personas que ocupaban la parte de atrás del transporte, como si fueran vulgar mercancía. Tres agentes con ropas blancas e impolutas custodiaban a un cuarto, éste último algo más incómodo, al estar aprisionado por una camisa de fuerza.
+El traqueteo incesante del camión de carga[1] era tan fuerte, que era un verdadero milagro que el vehículo siguiera de una pieza. Cuatro eran las personas que ocupaban la parte de atrás del transporte, como si fueran vulgar mercancía. Tres agentes con ropas blancas e impolutas custodiaban a un cuarto, éste último algo más incómodo, al estar aprisionado por una camisa de fuerza.
 
 - ¡Uf! ¡Menos mal que escapamos de allí! ¿Verdad? - Sonrió uno de los agentes, irónico. Era el superior, y como tal, tenía el honor de disfrutar de un banco para él solo. Permanecía sentado con la espalda recostada contra uno de los laterales del camión, sin importarle lo sucio y mugriento que éste estuviera.
 
@@ -123,7 +123,7 @@ Tras hacer el movimiento con la mano, el vagabundo recordó algo.
 - ¿Cómo puedes ser tan inteligente y no verlo? - Iván intentó controlarse para mantenerse sereno. Sin embargo, no pudo evitar aumentar el tono de su voz – RIO no te dejará en paz. La única manera es hacerle pagar por sus crímenes.
 RIO lleva décadas 
 
-[8][9][10]
+[8]
 
 ## Navegación
 
@@ -142,15 +142,4 @@ RIO lleva décadas
 - [6]: ¿Poner otra cosa más "paralela / neuronal"?
 - [7]: Nombrarlo más en los capítulos anteriores. Pensar en qué pudo estar haciendo durante todo este tiempo.
 - [8]: Aquí aparece Iván y la chica.
-- DESCRIBIRLOS MEJOR A TODOS (CON SUS ROPAS).
-- [9]: Iván lo ayuda a escapar de alguna manera. Es un infiltrado (¿o un doble agente?).
-    → Se descubre cuando un soldado está a punto de capturar a Jonás e Iván lo salva. Luego ambos hablan de porqué el rescate no se pudo hacer antes.
-- [10]: ¿Cómo escapa Jonás?
-    - a) Empuja la pared tras él (está suelta) y cae a la calle sobre el cacho de pared
-	    → ¿Cómo se quita el marrón Iván?
-    - b) Alguien lanza una granada cegadora dentro del camión
-	    B1) La granada la lanza Iván → ¿Cómo lo explica a sus superiores?
-    - c) Una emboscada de la resistencia. → ¿Cómo lo cuadro para que uno esté a punto de capturarlo e Iván lo mate?
-    - d) Pega un pisotón en el suelo y éste se desprende bajo él, haciéndolo caer sobre una alcantarilla abierta (Iván lo avisa secretamente) → ¡Venga hombre!
-    - e) Cegadora oculta en la bombilla del techo → ¿Cómo se ocultaría ahí?
-    - d) ¡Guante y nanomáquinas!
+    - DESCRIBIRLOS MEJOR A TODOS (CON SUS ROPAS).
