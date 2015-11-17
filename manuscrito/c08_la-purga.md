@@ -2,7 +2,7 @@
 
 El imponente edificio de 26 plantas del AT de Gran Canaria pareció engullirlos cuando entraron en él pegando tiros. El equipo antiterrorista constaba de diez hombres, pertrechados con cascos, chalecos antibalas y ropas negras reforzadas para minimizar, en lo posible, los daños inherentes a su trabajo.
 
-La entrada principal de La Cadena consistía en unas puertas de cristal automáticas y, tras un metro o dos de pasillo, otras puertas idénticas a las primeras. En otro tiempo, cada una de las hojas de cristal había mostrado, pulcra y orgullosa, el símbolo de la corporación RIO: el planeta Tierra a la izquierda, una cabeza humana de perfil a la derecha, y un río que conectaba a la primera con la frente de la segunda. Pero eso había sido antes de cometer la imprudencia de quedarse allí, en medio del tiroteo; ahora no eran más que un montón de pedazos desperdigados por el suelo.
+La entrada principal de La Cadena[2] consistía en unas puertas de cristal automáticas y, tras un metro o dos de pasillo, otras puertas idénticas a las primeras. En otro tiempo, cada una de las hojas de cristal había mostrado, pulcra y orgullosa, el símbolo de la corporación RIO: el planeta Tierra a la izquierda, una cabeza humana de perfil a la derecha, y un río que conectaba a la primera con la frente de la segunda. Pero eso había sido antes de cometer la imprudencia de quedarse allí, en medio del tiroteo; ahora no eran más que un montón de pedazos desperdigados por el suelo.
 
 Los antiterroristas, divididos en un grupo de cinco soldados a cada lado, trataban de mantener la posición en el pasillo entre las puertas fantasma. A Felipe, el hombre que encabezaba la columna de la izquierda, la idea de volver atrás, aunque fuera lo más seguro, no le atraía lo más mínimo.
 
@@ -18,7 +18,7 @@ A pocos metros frente a los cuadros se alzaba una serie de columnas que servían
 
 El que gritó fue Enrique, jefe de la unidad y el segundo en la fila de la izquierda. En ese momento la mayoría de los enemigos dejaron de disparar sobre ellos; en lugar de eso se ocultaron tras sus respectivas coberturas, en la planta superior. Aquello lo extrañó sobremanera, y pensó que seguramente se trataría de una trampa. No obstante, cuando habían rehenes en juego, no había tiempo que perder. Siguiendo su orden, el equipo se puso en marcha.
 
-- ¡Agh! - [Gritó][1] al unísono el primer hombre de cada columna.
+- ¡Agh! - Gritó[1] al unísono el primer hombre de cada columna.
 
 Ambos policías se retorcieron y cayeron al suelo.
 
