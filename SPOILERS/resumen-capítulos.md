@@ -10,7 +10,7 @@ Lucas trabaja en su cubículo de La Cadena. Cuando se dispone a abandonar su pis
     - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea? 
 - Los ingleses suben en el ascensor ¿razón de hacerlo así en un entorno hostil en lugar de hacerlo por las escaleras? → Si lo cambio, cambiar más adelante, cuando Lucas recuerda los mareos que sufre cuando sube en ascensor.
 - ¿Por qué atacan los soldados ingleses? Quizás... Inglaterra está en las últimas ante un embargo total / sanción / guerra inminente y por eso la unidad del general se lanza a la desesperada a asaltar la unidad, desobedeciendo a los superiores (NO PUEDEN VOLVER A INGLATERRA ENTONCES).**
-
+- ¿Realmente los militares usan el ascensor, o suben por las escaleras? **Si cambio por las escaleras, tenerlo en cuenta** también más adelante.
 
 # 2. La señal
 

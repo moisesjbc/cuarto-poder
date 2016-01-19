@@ -4,7 +4,7 @@ Lucas alzó la vista hacia el viejo reloj azul de la pared, y no ocultó su desa
 
 “¡Agh!, ¡céntrate en lo tuyo y así pasará más rápido, como siempre!”, se ordenó. Cuando bajó la vista hacia el monitor, se dio cuenta de que aún tenía abierto el navegador con un vídeo de caídas que le había pasado un compañero hacía cinco minutos. De manera instintiva minimizó la ventana  (no quería cerrarla, aún no había terminado de ver el vídeo) y se giró para cerciorarse de que estaba solo.
 
-Trabajaba en un cubículo cuyas cuatro paredes eran lo suficientemente altas como para que sólo tuviera que preocuparse de la entrada a sus espaldas[1]. Además, su oficina se encontraba en la esquina suroeste, la cual era poco transitada. De todas formas, Luchas echó un vistazo rápido. No pasaba nadie por el pasillo; nadie que pudiera y quisiera recriminar su acción, al menos. Su caso era de lo más curioso; debía percatarse de que no fueran sus compañeros quienes lo descubrieran, no sus superiores. Gozaba de cierta “inmunidad” frente a estos últimos desde el incidente de Inglaterra, algo que lo turbaba.
+Trabajaba en un cubículo cuyas cuatro paredes eran lo suficientemente altas como para que sólo tuviera que preocuparse de la entrada a sus espaldas. Además, su oficina se encontraba en la esquina suroeste, la cual era poco transitada. De todas formas, Luchas echó un vistazo rápido. No pasaba nadie por el pasillo; nadie que pudiera y quisiera recriminar su acción, al menos. Su caso era de lo más curioso; debía percatarse de que no fueran sus compañeros quienes lo descubrieran, no sus superiores. Gozaba de cierta “inmunidad” frente a estos últimos desde el incidente de Inglaterra, algo que lo turbaba.
 
 Ciertamente estaban jugando a volver a todos sus compañeros contra él, concediéndole favores aquí y allá sin que él los mereciera en lo más mínimo. Pero, si querían quitárselo de encima, ¿por qué no lo despedían directamente?. Eliminarlo era otra manera de acabar con el problema; un simple trámite para el inmenso poder de La Cadena.
 
@@ -42,7 +42,7 @@ La joven se sentó a su lado y se colocó uno de los auriculares que Lucas siemp
 
 Ana dejó su auricular sobre la mesa y se levantó. Seguidamente se acercó a una de las paredes de madera de dos metros de la oficina, se puso de puntillas y oteó el resto de la planta. Cuando se cercioró de que no habían superiores a la vista, susurró “¡Ahora!” como si gritara. Acto seguido cogió rápidamente su silla y desapareció por el pasillo, mientras Lucas reía por lo bajo.
 
-“Hora de volver a la amarga realidad” - pensó el joven, mientras cerraba la ventana del navegador y lo abofeteaba un fondo de escritorio con el logotipo de un rio. Lucas trabajaba para la corporación RIO, en una cadena de noticias situada en Gran Canaria. La compañía monopolizaba el sector de los medios de información, englobando emisoras de televisión y de radio, periódicos y sitios web repartidos a lo largo de más de medio mundo.
+“Hora de volver a la amarga realidad” - pensó el joven, mientras cerraba la ventana del navegador y lo abofeteaba un fondo de escritorio con el logotipo de un río. Lucas trabajaba para la corporación RIO, en una cadena de noticias situada en Gran Canaria. La compañía monopolizaba el sector de los medios de información, englobando emisoras de televisión y de radio, periódicos y sitios web repartidos a lo largo de más de medio mundo.
 
 Sin que nadie supiera cómo lo había conseguido, RIO permanecía inmune a los efectos de la guerra fría que azotaba a todo el globo. La crisis económica mundial resultante de esta guerra simplemente parecía hacer un gran favor a la corporación, eliminando los pequeños reductos de competencia que surgían cada vez con  menor frecuencia, hasta convertir a RIO en la única opción disponible en muchos lugares.
 
@@ -50,13 +50,13 @@ Lucas había trabajado como corresponsal para el principal noticiario de La Cade
 
 Así pues, el trabajo actual del joven consistía en atender las llamadas con posibles noticias de interés que llegaban a La Cadena. Posteriormente debía calificarlas, y suministrar las más jugosas a sus superiores.
 
-Lucas se acomodó y prosiguió con su trabajo, ojeando informes y eventualmente atendiendo alguna llamada, y consiguió mantenerse concretando durante un par de horas. 
+Lucas se acomodó y prosiguió con su trabajo, ojeando informes y eventualmente atendiendo alguna llamada. De esta manera consiguió mantenerse concretando durante un par de horas. 
 
-“¡No!”, se lamentó cuando sintió que ya no podía aguantar más las ganas de orinar. Podía ir cuando quisiera al lavabo, pero era algo que odiaba. Para llegar a los baños tenía que salir por la puerta este de la enorme sala llena de cubículos-oficina, y llegar hasta el fondo de un largo pasillo-almacén, con grandes estanterías a ambos lados. 
+“¡No!”, se lamentó cuando sintió que ya no podía aguantar más las ganas de orinar. Podía ir cuando quisiera al lavabo, pero era algo que evitaba como la peste. Derrotado, se levantó y se preparó para la odisea. Para llegar a los baños tenía que salir por la puerta este de la enorme sala llena de cubículos-oficina, y llegar hasta el fondo de un largo pasillo-almacén, con grandes estanterías a ambos lados.
 
-Odiaba aquel pasillo. Cada vez que lo cruzaba sufría un mareo horrible que hacía que el suelo temblara y que todo le diera vueltas. No quería ir al médico por ello (tampoco podía permitírselo), y últimamente parecía que le afectaba un poco menos. Aún así esta vez, como todas, fue un auténtico suplicio. Al llegar al pasillo y cruzar un tercio del este, ya iba tambaleándose. Intentar buscar un apoyo era inútil; las estanterías bailaban a su alrededor, amenazando con caer sobre él de un momento a otro. Lucas apenas se sentía en sí cuando logró alcanzar el baño, jadeando.
+Odiaba aquel pasillo. Cada vez que lo cruzaba sufría un mareo horrible que hacía que el suelo temblara y que todo le diera vueltas. No quería ir al médico por ello (tampoco podía permitírselo), y últimamente parecía que le afectaba un poco menos. Aún así, esta vez, como todas, fue un auténtico suplicio. Al llegar al pasillo y cruzar un tercio de este, ya iba tambaleándose. Intentar buscar un apoyo era inútil; las estanterías bailaban a su alrededor, amenazando con caer sobre él de un momento a otro. Lucas apenas se sentía en sí cuando logró alcanzar el baño, respirando nerviosamente y con un sabor a vómito en la boca.
 
-Tras hacer sus necesidades, el joven se tambaleó hacia el lavamanos y se echó agua en la cara varias veces, intentando mantenerse consciente. Acto seguido se miró en el espejo: Lucas era un chico de 30 años (un año mayor que su amiga), moreno, alto y de complexión media. Tenía los ojos marrones, a juego con su pelo castaño, el cuál le gustaba mantener bien corto. No ocurría así con el bigote y la barba, los cuales no se había afeitado en una semana “Tengo que hacerlo pronto, empieza a picarme”, pensó. 
+Tras hacer sus necesidades, el joven se tambaleó hacia el lavamanos y se echó agua en la cara varias veces, intentando mantenerse consciente. Acto seguido, se miró en el espejo: Lucas era un chico de 30 años (un año mayor que su amiga), moreno, alto y de complexión media. Tenía los ojos marrones, a juego con su pelo castaño, el cuál le gustaba mantener bien corto. No ocurría así con el bigote y la barba, los cuales no se había afeitado en una semana “Tengo que hacerlo pronto, empieza a picarme”, pensó. 
 
 La vuelta a su puesto de trabajo no era ni la mitad de traumática que el paseo hasta el baño; al decir verdad, era de lo más normal. Ni siquiera sufría mareos ni ningún otro síntoma desagradable  al volver de los lavabos, aún cuando tenia que tomar el mismo pasillo que tanto odiaba. Lucas volvió a su oficina y estuvo trabajando hasta que se hicieron las nueve de la noche, la hora de salir. 
 
@@ -64,29 +64,22 @@ La vuelta a su puesto de trabajo no era ni la mitad de traumática que el paseo 
 
 Maldecir a la ministra de trabajo era una de las costumbres más arraigadas entre los trabajadores cuando se acercaba el final del trabajo diario. La razón estribaba en que, hacía un par de años, la firma de la política había sentenciado a los trabajadores a una jornada laboral de 50 horas semanales. Al reducir la necesidad de los empresarios de contratar más trabajadores para aumentar la producción, el mercado laboral se volvió aún más árido si cabía.
 
-Como venía siendo costumbre en el país, la deforma laboral fue devastadora para la economía de muchas zonas de España. Por suerte, Gran Canaria, al igual que el resto de islas, se resistía a la crisis, experimentando incluso un crecimiento sostenido. Esto se debía a su situación estratégica, la cual había conseguido movilizar a una gran cantidad de soldados de la Península “para defenderla de los posibles invasores”. Algo estúpido, según el propio Lucas, pero que en el contexto de una guerra fría mundial, había sido suficiente para motivar el movimiento de tropas.
+Como venía siendo costumbre en el país, la reforma laboral fue devastadora para la economía de muchas zonas de España. Por suerte, Gran Canaria, al igual que el resto de islas, se resistía a la crisis, experimentando incluso un crecimiento sostenido. Esto se debía a su situación estratégica, la cual había conseguido movilizar a una gran cantidad de soldados de la Península “para defenderla de los posibles invasores”. Algo estúpido, según el propio Lucas, pero que en el contexto de una guerra fría mundial, había sido suficiente para motivar el movimiento de tropas.
 
-La llegada de los soldados, además de estimular el consumo, elevó la sensación de seguridad en las islas, algo muy codiciado por los escasos turistas que se aventuraban a viajar en el territorio nacional. Estos turistas no se amedrentaban fácilmente como el resto por las fuertes políticas del miedo llevadas a cabo por el gobierno y la prensa, un regalo importado desde los Estados Unidos. “Y ya vemos lo bien que le ha ido”, Lucas se reía amargamente en su interior cada vez que lo pensaba.
+La llegada de los soldados, además de estimular el consumo, elevó la sensación de seguridad en las islas, algo muy codiciado por los escasos turistas que se aventuraban a viajar en el territorio nacional. Estos turistas no se amedrentaban fácilmente como el resto ante las fuertes políticas del miedo llevadas a cabo por el gobierno y la prensa, un regalo importado desde los Estados Unidos. “Y ya vemos lo bien que le ha ido”, Lucas se reía amargamente en su interior cada vez que lo pensaba.
 
 - Ya está. - Le avisó Ana a sus espaldas. Lucas esperaba todos los días cinco minutos después del fin de la jornada a que su amiga terminara lo que quiera que tuviera que hacer siempre antes de salir. - Vámonos.
 - Muy bien. - Ambos jóvenes se dirigieron hacia el pasillo central que cruzaba toda la planta y llegaba hasta el ascensor situado en la pared norte.
-- ¿Y bien? - Ana se abrazó, cariñosa, al brazo de su amigo. Acostumbraba a intentarlo siempre  que iban llegando al ascensor - ¿Me contarás hoy lo de Inglaterra?
-- Que pesada... - Dijo Lucas con afecto. Mientras hablaba se fijaba en las puertas del ascensor, que habían comenzado a abrirse - Algún día lo conseguirás pero hoy n... - Se interrumpió al observar las tres siluetas que [los esperaban en el ascensor][2].
+- ¿Y bien? - Ana se abrazó, cariñosa, al brazo de su amigo. Acostumbraba a intentarlo siempre  que iban llegando al ascensor: - ¿Me contarás hoy lo de Inglaterra?
+- Que pesada... - Dijo Lucas con afecto. Mientras hablaba se fijaba en las puertas del ascensor, que habían comenzado a abrirse - Algún día lo conseguirás pero hoy n... - Se interrumpió al observar las tres siluetas que los esperaban en el ascensor.
 
-Dos soldados con fusiles escoltaban al tercero, un oficial ya entrado en años pero que parecía gozar de una excelente condición física. Tenía los ojos azules, y un pelo blanco e incipiente que luchaba contra la calvicie que amenazaba a toda su cabeza. Ana se había quedado atónita, sin palabras. No ocurría así con Lucas, quien había comenzado a reírse cuando reconoció a dos de las personas del ascensor. El tercero, el soldado a la derecha del superior, hizo el amago de levantar su fusil hacia aquel civil que osaba a reírse de su superior, pero este último alzó la mano, prohibiéndoselo.
+Dos soldados con fusiles escoltaban al tercero, un oficial ya entrado en años pero que parecía gozar de una excelente condición física. Tenía los ojos azules, y un pelo blanco e incipiente que luchaba contra la calvicie que amenazaba a toda su cabeza. Ana se había quedado atónita, incapaz de mediar palabra. No ocurría así con Lucas, quien había comenzado a reírse cuando reconoció a dos de las personas del ascensor. El tercero, el soldado a la derecha del superior, hizo el amago de levantar su fusil hacia aquel civil que osaba a reírse de su superior, pero este último alzó la mano, prohibiéndoselo.
 
-- Has tardado demasiado – Dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente callada. 
-Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de extranjero (más concretamente de inglés, se aventuraba a adivinar), respondió al joven en un perfecto Español.
+- Has tardado demasiado – Dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda. 
+Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés, respondió al joven en un perfecto Español.
 - Lo siento. - Se rió. - Estas cosas llevan su tiempo. ¿Cómo estás, amigo?
 
 
 ## Navegación
 
 - [Capítulo siguiente: 02 - La señal](c02_la-señal.md)
-
-
-## Notas
-
-- [1]: Nombrar más adelante la distribución del piso.
-“La parte principal de su piso, como la de otros tantos, consistía en una gran sala, con cinco filas de pares de oficinas-cubículo que la recorrían de sur a norte. Un pasillo central cortaba las filas en dos.”
-- [2]: ¿Realmente usan el ascensor o suben por las escaleras? **Si cambio por las escaleras, tenerlo en cuenta** también más adelante.
