@@ -1,20 +1,25 @@
 # 1. El encuentro
 
-20 de Agosto de 2025 (Miércoles)
-- **¿Se nombra la fecha en el capítulo?**
-- 18:00 → Comienzo.
-- 20:00 → Lucas va al baño.
-    - **Recordar: Lucas sufre mareos en la ida, pero no en la vuelta.**
-        - **¿Diferentes tipos de nanomáquinas para encontrar la versión idónea?**
-- 21:05 → Los terroristas (Un casual, Cooper y ¿Allan?) interceptan a Lucas y a Ana.
-    - **Suben en el ascensor ¿razón de hacerlo así en un entorno hostil en lugar de hacerlo por las escaleras? → Si lo cambio, cambiar más adelante, cuando Lucas recuerda los mareos que sufre cuando sube en ascensor.**
-- **¿Por qué atacan los soldados ingleses? Quizás... Inglaterra está en las últimas ante un embargo total / sanción / guerra inminente y por eso la unidad del general se lanza a la desesperada a asaltar la unidad, desobedeciendo a los superiores (NO PUEDEN VOLVER A INGLATERRA ENTONCES).**
+20 de Agosto de 2025 (Miércoles) - 18:00 **Fecha no nombrada en el capítulo**
 
+Lucas trabaja en su cubículo de La Cadena. Cuando se dispone a abandonar su piso con Ana, unos "terroristas" salen del ascensor y los intercepta. Los terroristas resultan ser soldados ingleses: un casual, Cooper **¿y Allan?**
+
+## Notas
+- Durante el capítulo menciono varias veces el incidente de Inglaterra, sin llegar a describirlo.
+- Lucas sufre mareos en la ida, pero no en la vuelta.
+    - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea? 
+- Los ingleses suben en el ascensor ¿razón de hacerlo así en un entorno hostil en lugar de hacerlo por las escaleras? → Si lo cambio, cambiar más adelante, cuando Lucas recuerda los mareos que sufre cuando sube en ascensor.
+- ¿Por qué atacan los soldados ingleses? Quizás... Inglaterra está en las últimas ante un embargo total / sanción / guerra inminente y por eso la unidad del general se lanza a la desesperada a asaltar la unidad, desobedeciendo a los superiores (NO PUEDEN VOLVER A INGLATERRA ENTONCES).**
+- ¿Realmente los militares usan el ascensor, o suben por las escaleras? **Si cambio por las escaleras, tenerlo en cuenta** también más adelante.
 
 # 2. La señal
 
-- 21:00 
-    - Jonás es avisado del ataque a La Cadena. Se dirige al parque y memoriza los planos de La Cadena.
+- 21:00
+
+Jonás duerme en un zulo en el sótano de una fábrica de juguetes abandonada cuando lo despiera el pitido de su portátil. Tras ser avisado por su "benefactor" sobre del ataque a La Cadena, se dirige a un parque cercano y memoriza los planos de La Cadena. Durante el proceso sufre un terrible dolor de cabeza y la sangre le brota de la nariz. 
+
+## Notas
+- Jonás lleva una mochila con alimentos y un portátil.
 - **Durante el resto del capítulo no nombro tiempos, tener esto en cuenta (por si no cuadra con el resto de la cronología).**
 - **¿Qué tal si Ajani envía a Jonás y a la sombra para que lo proteja, pero él está  ocupado – Ralentizando al ejército, o la filtración internacional... ayudando desde fuera vamos, para no meterlo tan pronto. XD**
 
