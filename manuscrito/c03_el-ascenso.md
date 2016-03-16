@@ -16,10 +16,10 @@ La cara incrédula que puso el joven hubiera arrancado más de un risa en una co
 
 - ¡No hay tiempo! - Lo apremió Cooper, interrumpiendo sus sospechas. - Allan cuidará de ella.
 - ¿Y quién cuida de mí? - Respondió Lucas, intentando aparentar diversión para restar seriedad al asunto. - No me malinterpretes Cooper, quiero ver el fin de RIO tanto como ustedes, pero no tengo intención de morir tan pronto.
-- ¡Estarás bien! - Cooper lo empujó, con tacto pero con firmeza, hacia las escaleras, donde una fila de soldados lo recibió con miradas de sorpresa, apremio, miedo..., pero sobre todo, de expectación. El coronel se giró hacia Allan y ordenó: - Cuide de ella.
+- ¡Estarás bien! - Cooper lo empujó, con tacto pero con firmeza, hacia las escaleras. Allí una fila de soldados lo recibió con miradas de sorpresa, apremio, miedo..., pero sobre todo, de expectación. El coronel se giró hacia Allan y ordenó: - Cuide de ella.
 - ¡Sí señor!
 
-El soldado esperó con Ana frente a las escaleras. Cooper corrió hacia los militares y hacia Lucas y gritó: - ¡Bien, subamos! ¡John y Lucas al frente! 
+El soldado esperó con Ana frente a las escaleras. Cooper corrió hacia los militares y Lucas y gritó: - ¡Bien, subamos! ¡John y Lucas al frente! 
 
 “Qué curioso, un tocayo inglés” - Pensó Lucas, pero enseguida se dio cuenta de que algo fallaba; sólo uno de los soldados nombrados se había puesto al frente, y todos miraban hacía él. 
 
@@ -79,11 +79,11 @@ El coronel hurgó en uno de los bolsillos de su uniforme, sacó un papel doblado
 
 *Buenos días coronel Cooper.*
 
-*Me he enterado de su ataque a RIO. Por desgracia no podré acompañarle, pero intentaré procurarle toda la ayuda posible. Para empezar, tengo entendido que conoce a Lucas, el ex-reportero de La Cadena. Procure tenerlo cerca en todo momento, pues tiene un... “sexto sentido” para el peligro. Si tiene que elegir entre dos caminos, elije uno y Lucas comienza a sentirse mal, retroceda inmediatamente y tome el otro camino. No se preocupe por tener que llevarlo en la vanguardia, es demasiado valioso para que los de la corporación lo maten. Usted y sus hombres, sin embargo ...  extremen las precauciones.*
+*Me he enterado de su ataque a RIO. Por desgracia no podré acompañarle, pero intentaré procurarle toda la ayuda posible. Para empezar, tengo entendido que conoce a Lucas, el ex-reportero de La Cadena. Procure tenerlo cerca en todo momento, pues tiene un... “sexto sentido” para el peligro. Si tiene que elegir entre dos caminos, elije uno y Lucas comienza a sentirse mal, retroceda inmediatamente y tome el otro camino. No se preocupe por tener que llevarlo en la vanguardia, es demasiado valioso para que los de la corporación lo maten. Usted y sus hombres, sin embargo...  extremen las precauciones.*
 
 *Le deseo toda la suerte del mundo.*
 
-*Ajani*
+*-- Ajani*
 
 *PD. El resto de la ayuda se le suministrará in situ.*
 
@@ -91,14 +91,13 @@ El coronel hurgó en uno de los bolsillos de su uniforme, sacó un papel doblado
 - ¡Esto es una locura! - exclamó Lucas, perplejo – no sé a que “sexto sentido” se refiere, ni sé por qué coño soy tan valioso. Además, jamás he visto a ese hombre, ¿cómo puede hablar con tanto conocimiento de mí?
 - Muy bien, te creo - lo tranquilizó su amigo, mientras cogía el mensaje y se lo volvía a guardar en el bolsillo – yo tampoco me hubiera creído nada del mensaje si no me lo hubiera enviado quien lo ha hecho. Supongo que tendremos que averiguarlo nosotros mismos. Veamos... ¿hay algún lugar o momento en el que te sientas mal mientras trabajas aquí?
 - Pues ahora que lo dices... - se intrigó Lucas – nunca cojo el ascensor, sufro unos mareos terribles cuando lo hago, así que siempre subo las escaleras.
-- ¡Mierda! - Exclamó, divertido, el coronel - ¡He estado a punto de morir! Al menos tiene el punto positivo de que seguiste bastante bien el ritmo mientras subíamos. - Lo felicitó Cooper y ambos rieron. - ¿Algo más?
+- ¡Mierda! - Exclamó, divertido, el coronel - ¡He estado a punto de morir! Al menos tiene el punto positivo de que seguiste bastante bien el ritmo mientras subíamos. - Lo felicitó Cooper y ambos sonrieron. - ¿Algo más?
 - Pues sí... la verdad – Respondió Lucas - En la planta donde trabajo, en el pasillo que va a los baños... ahí también sufro unos mareos enormes, por lo que ir al baño es un sufrimiento. Aunque luego se me pasan, y en el baño y durante la vuelta a mi puesto de trabajo no vuelvo a sentirlos. - Puntualizó.
-- ¡Mierda! - Se lamentó el militar - ¡Puede que guarden algo de valor ahí!
-- Yo...
+- ¡Mierda! - Se lamentó el militar - ¡Tengo que avisar a Allan!
 
-Pero el coronel se había centrado en echar mano de su radio lo más rápidamente posible.
+El coronel echó mano de su radio lo más rápidamente posible.
 
-- ¡Allan! ¡Compruebe el pasillo de su planta que conecta con los baños! ¡Tenga cuidado, es peligroso!
+- ¡Allan! ¡Evite el pasillo de su planta que conecta con los baños! ¡Puede ser una trampa!
 - … 
 - ¿Allan? ¡Responda!
 - … - Lucas pudo escuchar al otro lado los quejidos del soldado.
@@ -112,8 +111,8 @@ Pero el coronel se había centrado en echar mano de su radio lo más rápidament
 - ¡Estás loco! - gritó Lucas - ¡Ella nunca haría eso!
 - ¡Que te calles! - le espetó el coronel – ¡Allan!, ¿sabe hacia dónde se dirigió?
 - Sí coronel, comenzó a subir las escaleras. Yo diría que va hacia su posición.
-- Muy bien, si eso es cierto la interceptaremos y le pediremos explicaciones. ¡[Persígala][1] y evite que se quede en algún piso intermedio!
-- Enseguida.
+- Muy bien, si eso es cierto la interceptaremos y le pediremos explicaciones. ¡Persígala y evite que se quede en algún piso intermedio!
+- ¡Sí señor!.
 
 Cuando el coronel colgó su radio del uniforme, su cara se había transformado completamente; ahora mostraba una seriedad y una frialdad que no invitaban al diálogo. No obstante, Lucas se veía obligado a defender a su amiga.
 
@@ -122,7 +121,7 @@ Cuando el coronel colgó su radio del uniforme, su cara se había transformado c
 Pero el coronel se limitó a pegarle un puñetazo a la pared, molesto. - ¡Estúpido! - se recriminó. Luego miró hacia Lucas. - ¡Y tú también!
 
 - ¿Cómo?
-- ¡Forma parte de ellos, seguro! ¡Te volviste un desconfiado después de lo de Inglaterra, pero te pusieron a una tía buena al lado para que te espiara y la dejaste acercarse! ¡Todo por pensar con la polla! 
+- ¡Forma parte de ellos, seguro! ¡Te volviste un desconfiado después de lo de Inglaterra, pero te asignaron una bella espía y la dejaste acercarse! ¡Todo por pensar con la polla! 
 
 Lucas no iba a permitir aquel ataque. El enfado lo embargó rápidamente: - ¡Ana no es ninguna infiltrada! ¡Es mi amiga y confío en ella! ¡Tiene que haber alguna explicación, y no permitiré que un coronel que no tiene dos dedos de frente la acuse de algo que es mentira!
 
@@ -130,14 +129,14 @@ Aquello enfureció al militar, que empujó al joven y le lanzó un puñetazo. Pe
 
 Con el estruendo del tiroteo, ninguno de los soldados que disparaban escaleras arriba oyó nada, por lo que Ana pudo tomarse un momento para detenerse y girarse hacia Lucas. Sin tiempo a reaccionar y sin voz, el joven sólo pudo fijarse en que su amiga se había cambiado de ropa: ahora llevaba un chándal de una pieza azul y ceñido al cuerpo. Tenía un pequeño logotipo sobre el pecho izquierdo, pero Lucas no llegó a verlo con claridad. Aparte del cambio de vestuario, Ana también se había recogido el pelo y se había quitado las gafas. 
 
-De repente, Ana se inclinó hacía Lucas y lo besó muy cerca de los labios, luego alejó su cara un palmo de la de Lucas. - Lo siento mucho, debo hacerlo. Confía en mí. 
+De repente, Ana se inclinó hacía Lucas y lo besó muy cerca de los labios, luego alejó su cara un palmo de la de Lucas. - Lo siento mucho, pero debo hacerlo. Confía en mí. 
 
 - Ellos... - trató de hablar Lucas, le fallaban las palabras – ellos..., no son terroristas, lo que ocurre es que...
 - Lo sé. - Lo interrumpió Ana con una voz dulce – Y también sé lo de Inglaterra.
 - ¿Cómo...? - Quiso saber Lucas, sorprendido, pero fue en vano. Ana se limitó a sonreír, y acto seguido comenzó a subir rápidamente las escaleras.
 - ¡Detenedla! - gritó el coronel escaleras abajo, aún recuperándose de la aparatosa caída.
 
-Los soldados escucharon la orden, y aquellos que no estaban respondiendo al fuego enemigo en aquel momento se giraron rápidamente para obedecerla, pero Ana, con una gran agilidad apartó todos los fusiles, uno tras otro y golpeó a cada soldado que se interponía en su camino. Acto seguido sacó una pistola, empujó a los soldados que defendían la puerta y entró en la planta 26 mientras respondía al fuego enemigo.
+Los soldados escucharon la orden, y aquellos que no estaban respondiendo al fuego enemigo en aquel momento se giraron rápidamente para obedecer. Sin embargo Ana, con una gran agilidad, apartó todos los fusiles uno tras otro y golpeó a cada soldado que se interponía en su camino. Acto seguido sacó una pistola, empujó a los soldados que defendían la puerta y entró en la planta 26 mientras respondía al fuego enemigo.
 
 Aquella visión de su amiga, junto con el miedo a perderla hicieron mella en Lucas, que empezó a sentir como las fuerzas lo abandonaban a su suerte y comenzó a caer inconsciente. Sino fuera por unos brazos que lo agarraron, Lucas se habría desplomado escaleras abajo.
 
@@ -146,6 +145,3 @@ Aquella visión de su amiga, junto con el miedo a perderla hicieron mella en Luc
 
 - [Capítulo anterior: 02 - La señal](c02_la-señal.md)
 - [Capítulo siguiente: 04 - La guardia](c04_la-guardia.md)
-
-## Notas
-[1]: ¿Está bien escrito?
