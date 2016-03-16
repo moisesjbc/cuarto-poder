@@ -26,7 +26,10 @@ Jonás duerme en un zulo en el sótano de una fábrica de juguetes abandonada cu
 
 # 3. El ascenso
 
-- Jonás y los militares suben hasta el piso 26. Ana entra en modo ninja y también irrumpe en el piso 26 a tiros.
+- Jonás y los militares suben hasta el piso 26, dejando a Ana atrás con Allan. Cooper le enseña un email a Lucas donde el mismo Ajani habla del "sexto sentido" de Lucas y de su valor para la Cadena. Mientras tanto, Ana noquea a Allan y corre al piso 26, donde le confiesa que sabe lo de Inglaterra. Acto seguido, irrumpe en el piso 26 a tiros mientras Lucas se desmaya.
+
+## Notas
+
 - **Cooper emplea una radio que lleva colgada de su uniforme. ¿Quizás ponerle algo más moderno?**
 - **¿Qué está haciendo Ajani para no poder participar en el asalto a La Cadena?**
 
