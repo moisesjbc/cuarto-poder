@@ -65,7 +65,7 @@ Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe i
 - **Qué oportuno que las termitas sorprendan justo a Aitor. ¿Y cómo lo saben? → ¿Informados por Elizabeth / Ana?**
 
 
-## 7. El sótano
+# 7. El sótano
 
 - Lucas y los demás bajan al sótano. Jonás les pide que lo rescaten, y al final del capítulo les informa de que la policía ha irrumpido en el edificio.
 - **Iván → ¿Usarlo más adelante?**
@@ -74,14 +74,14 @@ Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe i
     - **¿Decir que antes actuaban públicamente mediante un conjunto de medios de comunicación competencia de RIO?**
 
 
-## 8. La purga
+# 8. La purga
 
 - Enrique y su unidad de antiterroristas entran en La Cadena.
 - **Describir mejor la recepción del edificio.**
 - **¿Por qué la policía no detiene al equipo antiterrorista antes de que entre en La Cadena? ¿A los de RIO les interesa no dar la orden?**
 
 
-## 9. Capítulo 9
+# 9. Capítulo 9
 
 - Cinco militares, incluyendo a Arturo, bajan al sótano y se reúnen con Ana, Lucas, Cooper y Roberto. Jonás los apremia por las muertes que se producen a su alrededor y discute con Cooper. El vagabundo levanta una pared entre los militares y Ana y Lucas. Estos últimos corren para ayudar a Jonás.
 - **¿Qué pasa con Michael? ¿Nadie pregunta por el pobre?**
@@ -89,12 +89,12 @@ Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe i
 - **Cambiar el título.**
 
 
-## 10. Los preparativos
+# 10. Los preparativos
 
 - Aitor, Fernando y más miembros de la resistencia apilan contenedores en una calle de un barrio estatal.
 
 
-## 11. La madriguera
+# 11. La madriguera
 
 - Ana y Lucas entran en la recepción del complejo subterráneo de La Cadena y se reúnen con Marcos y Lucía. 
 - **¿Cambiar el título o dejarlo?**
@@ -106,7 +106,7 @@ Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe i
 - **¡Me olvidé de Roberto! ¿Qué lo traigan y se lo encasqueten a Ana?**
 
 
-## 12. La bronca
+# 12. La bronca
 
 - Manuel le echa la bronca a Paco por su incompetencia y lo despide. Sin embargo, un hombre de negro lo chantajea de alguna manera y el jefe de policía readmite a Paco.
 - **¿Cambiar título?.**
@@ -114,7 +114,7 @@ Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe i
 - **¿Meto algo más en el capítulo o así está bien?**
 
 
-## 13. La huída
+# 13. La huída
 
 - 5 soldados, Cooper, Ana, Lucas, Roberto, Jonás y 6 miembros de la resistencia,bajan en un ascensor hasta las entrañas de La Cadena, pero les espera una emboscada. Sólo quedan vivos 9 (no se dice quienes, ¡misterio!). Un miembro de la resistencia disfrazado se reúne con ellos y les dice que se den prisa para coger el metro.
 - **¿Hacer el ascensor triangular?**
@@ -130,14 +130,14 @@ Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe i
 - **Jonás es el que les guía hasta el sótano secreto, al gran pasillo que se divide en dos, y le dice de tomar el camino correcto hacia el metro. ¿El otro camino les llevaría  directamente a la base principal de RIO y sería una matanza en el momento actual? (¿alguna defensa especial o algo que tengan que desactivar desde la base aérea?).**
 
 
-## 14. Sin título
+# 14. Sin título
 
 - Aitor, Fernando y un rebelde disfrazado de policía se dirigen al puerto a toda velocidad en un coche patrulla blindado. Su misión es rescatar a Ana y a su prisionero Roberto. Cuando llegan al puerto rescatan a Ana y descubren que Roberto está muerto. Más tarde, mientras huyen, el barco de los ingleses explota en el océano.
 - **Cambiar el título.**
 - **“por la rama principal del puerto” → ¿Tiene algún nombre específico?**
 
 
-## 15. La emisión
+# 15. La emisión
 
 Ana y Luís descansan en un piso franco. Miran la emisión en la que Elizabeth resume los acontecimientos de la noche anterior y de esa mañana y culpa a los ingleses. 
 - **¿Poner aquí que es 21 de Agosto del 2025?**
