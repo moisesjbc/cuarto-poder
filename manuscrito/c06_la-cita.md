@@ -6,11 +6,11 @@ Aunque trataba de no pensar mucho en ello, el joven sabía que si estaba allí, 
 
 El suertudo joven miró a su izquierda para gozar una vez más de las vistas: Un gran ventanal le obsequiaba con la visión de un pequeño y precioso parque, situado en la trasera del restaurante. La zona verde estaba presidida por una pequeña fuente situada en su centro, con un banco a cada lado mirando hacia ella. Una muralla de árboles, y tras esta una verja, separaban el parque del exterior. “¿Se podrá acceder a él, o es un mírame pero no me toques?”, se preguntaba Aitor.
 
-Entonces giró la cabeza hacia la derecha, donde el resto de comensales hablaba y reía, ajeno a las penurias del mundo exterior. La sala principal del restaurante era un círculo donde las mesas se distribuían alrededor de una gran fuente. Ésta contaba con seis estatuas plateadas, imponentes, de delfines plateados que saltaban fuera del agua en distintas direcciones, tratando de huir. Distintos chorros de agua, tantos como delfines, surgían a presión del centro de la fuente, cayendo después sobre la cabeza de cada cetáceo. Lejos de salpicar fuera, el agua bañaba la cabeza de los delfines y se deslizaba grácilmente sobre sus cuerpos.
+Entonces giró la cabeza hacia la derecha, donde el resto de comensales hablaba y reía, ajeno a las penurias del mundo exterior. La sala principal del restaurante era un círculo donde las mesas se distribuían alrededor de una gran fuente. Ésta contaba con seis estatuas de delfines plateados  que saltaban fuera del agua en distintas direcciones, tratando de huir. Distintos chorros de agua, tantos como delfines, surgían a presión del centro de la fuente, cayendo después sobre la cabeza de cada cetáceo. Lejos de salpicar fuera, el agua bañaba la cabeza de los delfines y se deslizaba grácilmente sobre sus cuerpos.
 
 Finalmente, Aitor miró enfrente de sí para cerciorarse de que su compañera no había desaparecido. Elizabeth seguía allí, decidiendo qué quería comer. El joven agradeció que su compañera aún dudara, pues el menú tapaba sus sugerentes atributos. “Así resistiré la tentación de mirarlas un poco más”.
 
-Había sido una tortura desde el principio. La que había sido su compañera de clase en la universidad se había presentado con un traje rojo ceñido al cuerpo, resaltando su magnífica figura. Sus hombros, brazos y sus largas piernas, así como la parte superior de sus pechos medianos[1] y firmes, se mostraban orgullosos, sin tapujos. Por suerte, Aitor contaba con una ayuda para no desgastar con la mirada los encantos femeninos de su cita; su cara también era preciosa, con unos ojos almendrados y marrones, una nariz fina, y unos labios carnosos. A cara rato, Elizabeth se apartaba de la cara los mechones más rebeldes de su larga cabellera ondulada y castaña.
+Había sido una tortura desde el principio. La que había sido su compañera de clase en la universidad se había presentado con un traje rojo ceñido al cuerpo, resaltando su magnífica figura. Sus hombros, brazos y sus largas piernas, así como la parte superior de sus pechos generosos y firmes, se mostraban orgullosos, sin tapujos. Por suerte, Aitor contaba con una ayuda para no desgastar con la mirada los encantos femeninos de su cita; su cara también era preciosa, con unos ojos almendrados y marrones, una nariz fina, y unos labios carnosos. A cara rato, Elizabeth se apartaba de la cara los mechones más rebeldes de su larga cabellera ondulada y castaña.
 
 “Tiene un pelo irresistible” - Pensó Aitor, quien no tardó en imaginarse a su acompañante desnuda frente a él, mirándolo con deseo. Su melena taparían a duras penas sus pechos perfectos. Entonces Aitor se acercaría y... - “¡Para!” - Se recriminó, enfadado consigo mismo. Ya había dejado volar su imaginación cuando se habían reunido hacía media hora, en la puerta del piso donde vivía ella. El joven se descubrió mirándole furtivamente los pechos, dejándose llevar por sus curvas, y Eli lo había sorprendido.
 
@@ -22,9 +22,9 @@ El joven se quedó en jaque y no supo qué responder. Simplemente negó con la c
 
 - Creo que ya me he decidido – Eli lo sacó de sus recuerdos, y esperó a que el camarero se le acercara para no tener que repetir su elección – Tomaré el pescado encebollado.
 - Yo la lasaña vegetal – se apresuró a añadir Aitor.
-- Muy bien – asintió el camarero tras tomar nota – si me disculpan. - Y sin esperar respuesta,  cogió las cartas y se marchó.
+- Muy bien – asintió el camarero tras tomar nota – si me disculpan. - Y sin esperar respuesta, cogió las cartas y se marchó.
 - Y bien – Eli miró a su compañero, mientras sorbía de su copa de vino - ¿después de Periodismo qué has hecho?
-- Estuve aprovechando los conocimientos adquiridos para destacar entre mis compañeros reponiendo en un supermercado durante algunos meses, luego en una tienda, después como camarero… - Ambos rieron, cómplices –. En mis ratos libres redactaba noticias y las intentaba vender a los diferentes periódicos, hasta que por fin el YYYYYY[2] me dio una oportunidad... y hasta ahora.
+- Estuve aprovechando los conocimientos adquiridos para destacar entre mis compañeros reponiendo en un supermercado durante algunos meses, luego en una tienda, después como camarero… - Ambos rieron, cómplices –. En mis ratos libres practicaba un poco de sano peloteo con los diferentes medios, hasta que por fin el YYYYYY me dio una oportunidad... y hasta ahora.
 - ¡Vaya! - su amiga fingió mirarlo con desconfianza – Así que formas parte de la competencia, ¿eh?.
 - Así que estás metida en la corporación RIO - Adivinó Aitor.
 - ¡No me digas que no me has visto! - Esta vez fingió sentirse ofendida.
@@ -72,21 +72,22 @@ La chica se quitó los tacones. Entonces sacó un calzado más deportivo de su b
 
 Cuando los dos jóvenes abandonaron la sala, todas las miradas se centraron en Aitor, cuya cara era un auténtico poema. Con la mano temblorosa, sacó su cartera y arrojó unos billetes sobre la mesa, al lado de la comida que desgraciadamente no disfrutaría. Posteriormente se levantó y corrió hacia la salida, mientras una expresión de gran nerviosismo ensombrecía su rostro. 
 
-Una vez en la calle, los porteros lo miraron fugazmente, pero enseguida volvieron a centrarse en la larga cola de personas que aspiraban a poder entrar en el Costa Agraciada. Aitor miró a su derecha y vio a la que pudo haber sido su cita y al otro hombre desapareciendo tras la esquina. El joven corrió hacia ella, y tras asegurarse de que había suficiente distancia de seguridad, se asomó con cautela. Cuando comprobó que los perseguidos no estaban mirando hacia atrás, Aitor bordeó la esquina para continuar la persecución. La calle que discurría por el lateral del restaurante estaba desierta, a excepción de ellos
+Una vez en la calle, los porteros lo miraron fugazmente, pero enseguida volvieron a centrarse en la larga cola de personas que aspiraban a poder entrar en el Costa Agraciada. Aitor miró a su derecha y vio a cita fallida y al otro hombre desapareciendo tras la esquina. El joven corrió hacia ella, y tras asegurarse de que había suficiente distancia de seguridad, se asomó con cautela. Cuando comprobó que los perseguidos no estaban mirando hacia atrás, Aitor bordeó la esquina para continuar la persecución. La calle que discurría por el lateral del restaurante estaba desierta, a excepción de ellos
 
-Me suena raro.. Bajo estas condiciones, Aitor se permitió cambiar su cara nerviosa por otra más fría
-Cambiar.. Sin dejar de correr, se sacó un pequeño teléfono móvil del bolsillo y marcó un número.
+- Sin más compañía que sus pensamientos, Aitor se permitió cambiar su cara nerviosa por otra más fría
+
+Sin dejar de correr, se sacó un pequeño teléfono móvil del bolsillo y marcó un número.
 
 - Tenías razón – Dijo, tras recibir respuesta del otro lado de la línea – substraerle el móvil nos ha hecho ganarle bastante tiempo a los ingleses, pero Andrés ha aparecido y la ha avisado – Los estoy siguiendo ahora mismo.
-- Muy bien, no los...
+- Muy bien - comenzó a decir una voz al otro lado de la línea -, no los...
 - ¡Mierda!
 - ¿Qué ocurre? - se preocupó su interlocutora.
 - Nada, casi me ven – Resopló Aitor. Tras haberse agachado rápidamente tras unos contenedores. Cuando se sintió seguro, reemprendió rápidamente la persecución – Bueno, ¿qué ibas a decirme?
--Simplemente que no los perdieras, ten mucho cuidado con ella, es peligrosa.
+- Simplemente que no los perdieras, ten mucho cuidado con ella, es peligrosa.
 - Lo tendré, te llamaré más tarde si consigo algo.
 - Muy bien, hasta entonces.
 
-Aitor se guardó el teléfono sin dejar de correr. Tras la llamada volvió a centrarse por completo en la persecución, con la mirada fija en Elizabeth. “Sabía que la hija de puta me haría correr” - El joven se alegró su decisión de llevar calzado cómodo a la cita, aunque no pudo permitirse llevar deportivas, para no despertar sospechas.
+Aitor se guardó el teléfono sin dejar de correr. Tras la llamada volvió a centrarse por completo en la persecución, con la mirada fija en Elizabeth. “Sabía que la hija de puta me haría correr” - pensó. El joven se alegró su decisión de llevar calzado cómodo a la cita, aunque no pudo permitirse llevar deportivas, para no despertar sospechas.
 
 Perseguidos y perseguidor se estaban acercando a los límites del barrio central de la ciudad, donde se encontraban. Esto significaba que Elizabeth y Andrés tendrían que tomar pronto un túnel bajo tierra para poder llegar al barrio del AT de Gran Canaria, y Aitor tendría que tener más cuidado para no ser descubierto.
 
@@ -106,7 +107,7 @@ Termitas era el nombre por el que se conocían a ciertos ladrones de los barrios
 
 - ¡Vaya vaya vaya! - Sonrió el que parecía ser el líder - mirad chicos, ¡parece que tenemos un botín con patas! - Luego giró la cabeza hacia Aitor – Y ahora quiero que... ¡Uf!
 
-El puñetazo de Aitor en la barriga lo dejó sin aire y lo derribó. Los otros dos vagabundos tardaron poco en reaccionar, pero menos tardó el botín en saltar sobre el recién derribado y continuar con su carrera.
+El puñetazo que Aitor le propinó en la barriga lo dejó sin aire y lo derribó. Los otros dos vagabundos tardaron poco en reaccionar, pero menos tardó el susodicho "botín" en saltar sobre el recién derribado y continuar con su carrera.
 
 “¡No tengo tiempo para estas estupideces! ¡Hoy puede ser el principio del fin de RIO!” - Pensó Aitor, apremiante, mientras corría por el túnel y rezaba por no haber perdido de vista a sus perseguidos.
 
@@ -114,8 +115,3 @@ El puñetazo de Aitor en la barriga lo dejó sin aire y lo derribó. Los otros d
 
 - [Capítulo anterior: 05 - Planta 26](c05_planta-26.md)
 - [Capítulo siguiente: 07 - El sótano](c07_el-sótano.md)
-
-## Notas
-
-- [1]: ¿algo mejor que “medianos”?
-- [2]: ¡CAMBIAR POR EL NOMBRE!
