@@ -54,11 +54,14 @@ Lucas despierta en medio del tiroteo de la planta 26. Allan le cuenta que Ana ú
 - ¿Razón de los militares para subir al piso 26?.
 
 
-## 6. La cita
+# 6. La cita
 
-- Elizabeth es informada del ataque por Andrés y corre hacia La Cadena. Aitor los persigue pero es abordado por las termitas.
-- **Nombre del periódico donde trabaja Aitor.**
-- **Andrés → ¿Usarlo más adelante?**
+Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe informando a la mujer del ataque a La Cadena. Ambos salen corriendo y Aitor los persigue tratando de no ser descubierto. Cuando atraviesan uno de los túneles que conectan el barrio actual con el de La Cadena, Aitor es abordado por "las termitas". Rápidamente se libra de ellos y continúa la persecución.
+
+## Notas
+
+- **¿Nombre del periódico donde trabaja Aitor?** (actualmente YYYYYY).
+- ¿Uso al personaje de Andrés más adelante (Aparte de en el capítulo de los contenedores)?
 - **Qué oportuno que las termitas sorprendan justo a Aitor. ¿Y cómo lo saben? → ¿Informados por Elizabeth / Ana?**
 
 
