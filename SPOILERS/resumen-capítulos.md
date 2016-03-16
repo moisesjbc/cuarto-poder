@@ -43,12 +43,15 @@ Paco y Miguel vigilan una de las entradas traseras a La Cadena, mientras Paco ma
 - **Paco se queja para sus interiores sobre la ineptitud de sus superiores y demás. Si es cierto que es un personaje importante de RIO recordar esto (¿amnesia inducida?)**
 
 
-## 5. Planta 26
+# 5. Planta 26
 
-- Los militares llegan a la planta 26 y se reúnen con Ana y Ricardo.
-- **¿Describir al venezolano?**
-- **Cuando bajan en el ascensor, Roberto mira hacia Lucas, confiado. ¿Por qué?**
-- **¿Razón de subir al piso 26? → ¿Se encuentran resistencia y entonces el oficial sube con otros hombres?**
+Lucas despierta en medio del tiroteo de la planta 26. Allan le cuenta que Ana únicamente atacó a los enemigos antes de irrumpir en el despacho del director. Al finalizar el tiroteo gracias a la intervención de El Venezolano, los militares se reúnen con Ana, que mantiene a Ricardo (el director) como prisionero. Jonás se comunica con ellos mediante el interfono del despacho y les facilita el acceso al "ascensor B", donde Lucas vuelve a sentirse mareado mientras descienden a muchos metros bajo tierra.
+
+## Notas
+
+- En este capítulo aparece Arturo, "El Venezolano", **pero no lo describo físicamente**.
+- Mientras bajan en el ascensor, Ricardo le sonríe, confiado, a un enfermo Lucas. **¿Por qué?**.
+- ¿Razón de los militares para subir al piso 26?.
 
 
 ## 6. La cita
