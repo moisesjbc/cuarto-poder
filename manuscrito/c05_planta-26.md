@@ -2,7 +2,7 @@
 
 - ¡Lucas! ¡Lucas!
 
-La voz le llegaba ahogada, junto al sonido del fuego cruzado. Este último se hizo cada vez más insoportable a medida que el joven recuperaba la consciencia. Sin embargo, Lucas sólo podía preocuparse de una cosa.
+La voz le llegaba ahogada, junto con sonido del fuego cruzado. Este último se hizo cada vez más insoportable a medida que el joven recuperaba la conciencia. Sin embargo, Lucas sólo podía preocuparse de una cosa.
 
 - Ana... ¿está bien? - consiguió preguntar a duras penas.
 - Yo diría que sabe cuidarse bastante bien – le respondió Allan, agachado a su lado.
@@ -11,7 +11,7 @@ Lucas estaba tendido en el suelo. Cuando pudo incorporarse un poco y sentarse co
 
 “Así que hemos conseguido entrar en la planta 26”, se sorprendió Lucas. Ya había estado allí en alguna que otra ocasión, por lo que hizo memoria y recordó la distribución del lugar: la sala-recibidor en la que se encontraban desembocaba en un pasillo más estrecho, el cual avanzaba entre dos grandes salas hasta el despacho del director de La Cadena.
 
-Lucas, Allan y un tercer soldado se encontraban ocultos tras la esquina derecha que daba al pasillo[1]. Los dos militares se alternaban para asomarse a la esquina y responder al fuego enemigo, mientras el civil continuaba intentando hacerse a la situación. 
+Lucas, Allan y un tercer soldado se encontraban ocultos tras la esquina derecha que daba al pasillo. Los dos militares se alternaban para asomarse a la esquina y responder al fuego enemigo, mientras el civil continuaba intentando hacerse a la situación. 
 
 El joven paseó su mirada por la estancia, tratando de hacer un recuento de los militares allí congregados. Tres eran los que disparaban y se protegían tras un gran recibidor de mármol situado en en centro de la sala, entre el ascensor y el pasillo dónde presumiblemente se encontraban los enemigos. Lucas observó cómo se producían disparos de algún lugar tras los soldados apostados en el recibidor. “Deben quedar soldados en las escaleras”, supuso.
 
@@ -24,9 +24,8 @@ Lo que fuera que respondiera el pobre soldado del otro lado pareció enfadar aú
 - ¿Me está tomando el pelo? ¿Desaparecido? ¡¿Cómo desaparece un puto ascensor?! ¡Quiero que se centren en el vagabundo! ¡Descubran a dónde ha ido e interróguenlo!
 
 Tras colgar, Cooper miró fugazmente hacia Lucas, pero enseguida volvió a centrarse en el tiroteo.
-Cuando te desmayaste y Ana empezó a demostrar sus habilidades, aprovechamos para avanzar un poco. 
 
-- Le aclaró Allan, cuando comprobó que Lucas había terminado de volver en sí. - Quizás hubiera sido más seguro dejarte en las escaleras, pero no me fiaba. A lo mejor tenías otra compañera ninja suelta por ahí y que no fuera una aliada – Sonrió.
+- Cuando te desmayaste y Ana empezó a demostrar sus habilidades, aprovechamos para avanzar un poco - Le aclaró Allan, cuando comprobó que Lucas había terminado de volver en sí. - Quizás hubiera sido más seguro dejarte en las escaleras, pero no me fiaba. A lo mejor tenías otra compañera ninja suelta por ahí y que no fuera una aliada – Sonrió.
 - ¿Una aliada? - Preguntó Lucas, mientras miraba a Cooper, al otro lado de la sala.
 - Sí, tu amiga sólo atacó a los nuestros para evitar que se interpusieran en su camino. Con los que se cebó fue con los enemigos. Dejó a unos cinco vivos, dos en la sala de la izquierda y tres en la de la derecha. Son pocos, pero los cabrones están dando guerra.
 - ¿Y dónde está ella? - Se preocupó el civil.
@@ -45,11 +44,11 @@ Tras aquello Lucas asintió y dejó de molestar a los militares. No quería hace
 - ¡Yo siempre apuesto por ese cabronazo suertudo! - Gritó otro de los soldados en la esquina izquierda.
 - ¿Pero quién es el... ? - volvió a intentarlo Lucas, pero se interrumpió al ver como los soldados de las escaleras se apartaban para dejar paso a uno de ellos.
 
-El Venezolano salió de las escaleras dando una voltereta y se colocó trás sus compañeros en el recibidor de mármol. Entonces asomó la cabeza por encima y miró seriamente a ambos lados del pasillo que tenía delante, tomándose su tiempo para estudiar la situación e ignorando los disparos que amenazaban su vida. Uno de sus compañeros lo empujó para obligarlo a agacharse de nuevo.
+El Venezolano salió de las escaleras dando una voltereta y se colocó tras sus compañeros en el recibidor de mármol. Entonces asomó la cabeza por encima y miró seriamente a ambos lados del pasillo que tenía delante, tomándose su tiempo para estudiar la situación e ignorando los disparos que amenazaban su vida. Uno de sus compañeros lo empujó para obligarlo a agacharse de nuevo.
 
 - ¡No tientes tanto a la suerte! - gritó el soldado que lo había empujado.
 
-El soldado que acababa de hacer su aparición bordeó entonces el recibidor y corrió agachado hasta colocarse entre Allan y Lucas. El Venezolano[2] miró a este último, con unos ojos que destilaban locura y cordura a partes iguales, y dijo seriamente.
+El soldado que acababa de hacer su aparición bordeó entonces el recibidor y corrió agachado hasta colocarse entre Allan y Lucas. El Venezolano miró a este último, con unos ojos que destilaban locura y cordura a partes iguales, y dijo seriamente.
 
 - Arturo, encantado.
 
@@ -61,7 +60,7 @@ El resto de la unidad se apresuró a seguirlo, comenzando por el grupo de la der
 
 El pasillo avanzaba 20 metros y terminaba en la puerta del despacho del director. Las paredes a ambos lados eran enteramente de cristal; o al menos lo eran antes del tiroteo que las había reducido a añicos. Estas paredes fantasma daban a dos grandes salas, una a cada lado, y que acompañaban al pasillo durante toda su longitud. 
 
-La de la derecha era una sala de reuniones, con una imponente mesa de madera que acaparaba casi la totalidad de la habitación. Del centro de la misma emergía un gran proyector que apuntaba a la pared sur; donde la soberbia mesa de madera cedía sus dominios y dejaba espacio para aquel que tuviera que realizar una presentación. La sala de la izquierda era un comedor cuya única mesa no era ni tan grande ni tan soberbia como la de la sala de reuniones, pero igualmente engullía la mayor parte de la estancia. En la pared sur había una nevera y una encimera con un fregadero y un microondas, además de otros utensilios para cocinar. “Como si esta gente trabajara y comiera aquí”, pensó Lucas con desprecio.
+La de la derecha era una sala de reuniones, con una imponente mesa de madera que acaparaba casi la totalidad de la habitación. Del centro de la misma emergía un gran proyector que apuntaba a la pared sur; donde la soberbia mesa de madera cedía sus dominios y dejaba espacio para aquel que tuviera que realizar una presentación. La sala de la izquierda era un comedor cuya única mesa no era ni tan grande ni tan soberbia como la de la sala de reuniones, pero igualmente engullía la mayor parte de la estancia. En la pared sur había una nevera y una encimera con un fregadero y un microondas, además de otros utensilios para cocinar. “Como si esta gente trabajara y comiera aquí”, pensó Lucas.
 
 La unidad continuaba avanzando rápidamente por el pasillo. Arturo corría sin parar a cubrirse, mientras disparaba sin apenas mirar hacia ambos lados. Su única función era conseguir que los enemigos se cubrieran tras las mesas, mientras sus compañeros entraban en sendas salas y tomaban posiciones ventajosas para abatirlos. Durante el avance, Lucas miró varias veces hacia atrás y sorprendió al coronel Cooper observándolo. El civil, aún molesto por su enfrentamiento con el oficial, se limitaba a asentir, indicando que se sentía bien y no notaba mareos.
 
@@ -73,7 +72,7 @@ La puerta de la oficina situada frente a ellos estaba entreabierta. A su lado, u
 
 Lucas no pudo disimular una sonrisa de tranquilidad ante aquella voz familiar. Los soldados hicieron caso omiso y entraron en la habitación de la forma en que habían sido entrenados, aunque en sus expresiones se notaba que lo hacían por seguir el protocolo. 
 
-Cuando accedieron a la gran oficina del directivo, se encontraron un reguero de cadáveres. Los únicos supervivientes, Ana y Ricardo Gómez, ocupaban el centro de la habitación. La chica apuntaba con su pistola a la cabeza del directivo, el cuál estaba de rodillas. Ricardo Gómez tenía una larga melena lacia y negra, y ostentaba un gran bigote del mismo color. Este último distraía la atención del moratón de su mejilla. Las facciones duras y marcadas, junto al gran tamaño del director, hubieran hecho a Lucas jurar que se trataba de un imponente motero, antes que el director de una prestigiosa cadena. “Qué curioso que no lo haya visto nunca”, pensó Lucas, “Desde luego lo recordaría”.
+Cuando accedieron a la gran oficina del directivo, se encontraron un reguero de cadáveres. Los únicos supervivientes, Ana y Ricardo Gómez, ocupaban el centro de la habitación. La chica apuntaba con su pistola a la cabeza del directivo, de rodillas a su lado. Ricardo Gómez tenía una larga melena lacia y negra, y ostentaba un gran bigote del mismo color. Este último distraía la atención del moratón de su mejilla. Las facciones duras y marcadas, junto al gran tamaño del director, hubieran hecho a Lucas jurar que se trataba de un imponente motero, antes que el director de una prestigiosa cadena. “Qué curioso que no lo haya visto nunca”, pensó Lucas, “Desde luego lo recordaría”.
 
 Los soldados que pudieron entrar en la habitación la habían ocupado formando un círculo alrededor de Ana y el prisionero. Lucas no podía dejar de mirar a su amiga, sin ocultar su alegría. Ella, sin embargo, permanecía impasible. Paseaba su mirada por todas las caras de la sala, sin dejar de apuntar a Ricardo.
 
@@ -97,7 +96,7 @@ Ricardo se limitó a mirar hacia otro lado, enfadado.
 La frase los cogió a todos por sorpresa. Los soldados se miraban entre sí, extrañados. Ana se limitó a suspirar mientras sonreía y miraba al coronel Cooper, cuya cara también era un poema.
 
 - Es un aliado. - Luego giró la cabeza hacia el interfono – Genial, ahora tendremos que cambiar la clave. Es una pena, me gustaba esta.
-- Lo siento mucho, señorita. - Ana hizo una mueca. “No la llames así”, pensó Lucas, divertido. - Pero esto es muy cobarde, me disculparé en persona. Voy a subirles el ascensor.
+- Lo siento mucho, señorita. - Ana hizo una mueca. “No la llames así”, pensó Lucas, sonriendo para sus adentros. - Pero esto es muy cobarde, me disculparé en persona. Voy a subirles el ascensor.
 - Pero el ascensor... - Quiso intervenir Cooper.
 - Lo desactivé yo mismo – Respondió la voz – para asegurarme de que después de mí no lo usara quién no debía.
 - ¿Eres el vagabundo? - preguntó el coronel, que ahora mostraba cierta enemistad.
@@ -119,7 +118,7 @@ El ascensor B lo puso enfermo enseguida, al igual que lo hacía el A. El mundo c
 
 - Aguanta – Fue todo lo que le dijo mientras las puertas se cerraban.
 
-El coronel dirigió su mano y su vista hacía el panel con los botones de los pisos, pero éste era inexistente. En su lugar sólo estaba el botón para cerrar las puertas, un pequeño altavoz, y una ranura para introducir tarjetas. El oficial dudó unos segundos, e hizo el amago de pedirle la tarjeta a Ana, cuando la voz de Jonás lo interrumpió.
+El coronel dirigió su mano y su vista hacía donde uno esperaría un panel con los botones de los pisos, pero éste era inexistente. En su lugar sólo estaba el botón para cerrar las puertas, un pequeño altavoz, y una ranura para introducir tarjetas. El oficial dudó unos segundos, e hizo el amago de pedirle la tarjeta a Ana, cuando la voz de Jonás lo interrumpió.
 
 - Ya le he dicho que es falsa, hombre. - Cooper investigó el techo del ascensor y no tardó en descubrir la cámara. - No se preocupe.
 
@@ -145,8 +144,3 @@ Lucas aún trataba de mantenerse consciente, aunque era lo último que deseaba; 
 
 - [Capítulo anterior: 04 - La guardia](c04_la-guardia.md)
 - [Capítulo siguiente: 06 - La cita](c06_la-cita.md)
-
-## Notas
-
-- [1]: ¿Se entiende?
-- [2]: ¿Describir al venezolano?
