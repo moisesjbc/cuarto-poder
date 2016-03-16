@@ -34,9 +34,13 @@ Jonás duerme en un zulo en el sótano de una fábrica de juguetes abandonada cu
 - **¿Qué está haciendo Ajani para no poder participar en el asalto a La Cadena?**
 
 
-## 4. La guardia
+# 4. La guardia
 
-Paco y Miguel vigilan una de las entradas traseras a La Cadena. Jonás distrae a Miguel, noquea a Paco y entra en el edificio.
+Paco y Miguel vigilan una de las entradas traseras a La Cadena, mientras Paco maldice a sus superiores por no reconocer su "gran valía". Jonás distrae a Miguel, noquea a Paco y entra en el edificio.
+
+## Notas
+
+- **Paco se queja para sus interiores sobre la ineptitud de sus superiores y demás. Si es cierto que es un personaje importante de RIO recordar esto (¿amnesia inducida?)**
 
 
 ## 5. Planta 26
