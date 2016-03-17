@@ -1,6 +1,6 @@
 # 7. El sótano
 
-Las puertas metálicas del ascensor habían comenzado a abrirse, cuando Jonás intentó salir desesperadamente para librarse del terrible mareo que, sentía, estaba a punto de matarlo. Sin embargo, Cooper fue más rápido: lo agarró y lo empujó contra la pared del fondo, sin mediar palabra. El brusco movimiento y el posterior golpe se aliaron para dar la estocada final al estómago de Lucas; el joven, que se había quedado sentado contra la pared, vomitó hacia un lado.
+Las puertas metálicas del ascensor comenzaron a abrirse. Jonás intentó salir desesperadamente para librarse del terrible mareo que, sentía, estaba a punto de matarlo. Sin embargo, Cooper fue más rápido; lo agarró y lo empujó contra la pared del fondo, sin mediar palabra. El brusco movimiento y el posterior golpe se aliaron para dar la estocada final al estómago de Lucas. El joven, que se había quedado sentado contra la pared, vomitó hacia un lado.
 
 - ¡Quietos!
 
@@ -13,9 +13,9 @@ Michael y el coronel se encontraban a cubierto a ambos lados de las puertas del 
 - Si es verdad que eres tan valioso para ellos, mejor que te tengan bien presente antes de hacer ninguna tontería - Le confirmó Ana, fría, sin dejar de mirar fijamente a los enemigos.
 - ¡He dicho quietos! - Gritó el superior de la comitiva de bienvenida, al ver que Ana se movía. Esta vez Lucas lo localizó: estaba en la segunda fila de soldados, a la izquierda del hombre del centro.
 - ¡Parece que estamos en un punto muerto! - Gritó Cooper.
-¡Yo no lo veo así! - El líder de los enemigos se permitió el lujo de reír, confiado.
-- ¡Tenemos al director! - Cooper hizo caso omiso de la prepotente risa - ¡Y a Lucas!
-- Son valiosos, ciertamente – el enemigo había dejado de reírse, pero mantenía su sonrisa – pero no imprescindibles. El señor Ricardo ya sabía que la gran mayoría de nosotros somos prescindibles en esta compañía cuando aceptó trabajar para ella. En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor – es bastante valioso para nosotros, pero por suerte no es único.
+- ¡Yo no lo veo así! - El líder de los enemigos se permitió el lujo de reír, confiado.
+- ¡Tenemos al director! - Cooper hizo caso omiso de aquella risa prepotente - ¡Y a Lucas!
+- Son valiosos, ciertamente – el enemigo había dejado de reírse, pero mantenía su sonrisa – pero no imprescindibles. El señor Ricardo ya sabía que la gran mayoría de nosotros somos prescindibles en esta... compañía, cuando aceptó trabajar para ella. En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor – es bastante valioso para nosotros, pero por suerte no es único.
 - ¿Pero por qué...? - Comenzó a decir Lucas, pero se rindió enseguida. Le fallaba la voz, y estaba casi seguro de que ni siquiera Ana, situada delante suya, lo había oído.
 - Hagamos algo, – continuó el líder, dirigiéndose a Cooper – dadnos a Ricardo y a Lucas y dejaremos que… - Se interrumpió, riéndose – No, no puedo. Han llegado hasta aquí y respeto eso. Así que les recompensaré con la verdad: hagan lo que hagan, no van a salir de aquí con vida.
 - Vaya, gracias por la sinceridad – Le respondió Ana, irónica.
@@ -34,7 +34,7 @@ Sin que nadie tuviera tiempo de reaccionar, una cortina de humo negro surgió de
 
 Y sin mediar palabra disparó contra Cooper. La bala lo hubiera alcanzado de lleno, de no ser por que al atravesar el gas simplemente se desvaneció, sin dejar rastro alguno.
 
-- ¿Pero qué...? - Cooper no había tenido tiempo de esconderse.
+- ¿Pero qué...? - preguntó un incrédulo Cooper.
 
 El líder de los enemigos se rió estrepitosamente, y los del ascensor continuaron escuchando su risa hasta instantes después de que las puertas del ascensor se cerraran y éste comenzara a bajar de nuevo.
 
@@ -44,9 +44,9 @@ El líder de los enemigos se rió estrepitosamente, y los del ascensor continuar
 - Espera, ¿lo estabas escuchando todo?
 - Sí – se limitó a afirmar Jonás.
 - ¿Y por qué no nos sacaste de ahí antes? ¡No tenemos tiempo que perder!
-- ¿Cómo? - El brusco cambio de tono confirmó que aquello había ofendido bastante al vagabundo – USTEDES SÍ tienen tiempo que perder GRACIAS A MÍ, YO NO. Estoy ocupado intentando que no me pillen. - entonces resopló, intentando calmarse - Y ahora escuchen: el ascensor debe de estar llegando al piso inferior ahora mismo. No se preocupen, en este no les espera ninguna sorpresa desagradable.
+- ¿Cómo? - El brusco cambio de tono confirmó que aquello había ofendido bastante al vagabundo – ¡Ustedes sí tienen tiempo que perder GRACIAS A MÍ!. ¡Yo no!. Estoy ocupado intentando que no me pillen. - entonces resopló, intentando calmarse - Y ahora escuchen: el ascensor debe de estar llegando al piso inferior ahora mismo. No se preocupen, en este no les espera ninguna sorpresa desagradable.
 
-Y así fue. Las puertas del ascensor se abrieron y dejaron ver un pasillo prácticamente idéntico al del piso superior, salvo por la ausencia de enemigos. Y aunque no hubiera estado desierto, a Lucas ya le importaba una mierda todo, sólo quería abandonar aquel maldito ascensor. Jadeando, se puso en pie y corrió hacia la salida. Cooper, desoyendo a Jonás, intentó agarrar a Lucas de nuevo, al menos hasta cerciorarse de que el pasillo realmente era seguro. Sin embargo, la comprobación fue tan rápida que ni siquiera tuvo que retener al joven.
+Y así fue. Las puertas del ascensor se abrieron y dejaron ver un pasillo prácticamente idéntico al del piso superior, salvo por la ausencia de enemigos. Y aún en el caso de que no hubiera sido así, a Lucas ya le daba igual; sólo quería abandonar aquel maldito ascensor. Jadeando, se puso en pie y corrió hacia la salida. Cooper, desoyendo a Jonás, intentó agarrar a Lucas de nuevo, al menos hasta cerciorarse de que el pasillo realmente era seguro. Sin embargo, la comprobación fue tan rápida que ni siquiera tuvo que retener al joven.
 
 El coronel Cooper y su escolta Michael abandonaron el ascensor con los fusiles preparados para afrontar cualquier sorpresa. Cada uno avanzó por su lado del pasillo durante unos metros, hasta donde se encontraba Lucas, sentado en el suelo y contra la pared. Tenía unas pintas lamentables y estaba cubierto de sudor, pero en su cara se dibujaba una expresión de alivio. El ligero asomo de una sonrisa evidenciaba que el joven se encontraba mucho mejor allí que en el ascensor. 
 
@@ -103,7 +103,7 @@ Ana, sin mediar palabra, le propinó un puñetazo que le hizo girar la cabeza co
 - La policía ha entrado en el edificio. Espero que detengan a sus hombres.
 - ¿Pero qué estás diciendo? - Se mosqueó el coronel.
 - Por lo que veo, hay policías que parecen seguir sus propias órdenes, y me jugaría el cuello a que son agentes infiltrados de RIO. No estoy tan seguro de que para ellos sea una prioridad capturar vivos a los “asaltantes”, tal como lo es para la policía.
-- ¡Tenemos que volver a subir! - Exclamó el coronel, tratando de convencer a los presentes y a la cámara de seguridad con su mirada. Intentaba mantener su autoridad, pero frente a cuatro civiles, de los cuales uno era un enemigo y estaba inconsciente, y otro tenía el control, la tarea se le antojaba difícil. Una nota de nerviosismo comenzó a teñir su expresión mientras esperaba, ansioso, una respuesta.
+- ¡Tenemos que volver a subir! - Exclamó el coronel, tratando de convencer a los presentes y a la cámara de seguridad con su mirada. Intentaba mantener su autoridad, pero frente a cuatro civiles, de los cuales uno era un enemigo inconsciente, y otro tenía el control de la situación, la tarea se le antojaba difícil. Una nota de nerviosismo comenzó a teñir su expresión mientras esperaba, ansioso, una respuesta.
 - De ninguna manera – Sentenció la voz – Puede que tardemos años en tener otra oportunidad como esta, y subir arriba ahora mismo sería un suicidio. Tendrá que confiar en su hombre.
 
 
