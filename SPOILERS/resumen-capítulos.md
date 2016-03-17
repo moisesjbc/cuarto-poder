@@ -67,8 +67,12 @@ Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe i
 
 # 7. El sótano
 
-- Lucas y los demás bajan al sótano. Jonás les pide que lo rescaten, y al final del capítulo les informa de que la policía ha irrumpido en el edificio.
-- **Iván → ¿Usarlo más adelante?**
+Lucas y los demás bajan al sótano, donde son interceptados por un "pelotón de fusilamiento" de RIO. Jonás los salva activando la pared de nanomáquinas (*) y llevándolos al piso correcto. Jonás les pide que lo rescaten y luego les informa de que la polícia ha irrumpido en el edificio. Cooper envía a su soldado a la superficie para traer a los compañeros que pueda.
+
+## Notas
+
+- (*) No se menciona explícitamente que sean nanomáquinas, sino "una cortina de humo negro".
+- Iván es el jefe del "pelotón de fusilamiento" y conoce a Jonás. ¿Lo uso más adelante?
 - Cuando Ana habla de la organización contraria a RIO...
     - **¿Decir el nombre?**
     - **¿Decir que antes actuaban públicamente mediante un conjunto de medios de comunicación competencia de RIO?**
