@@ -91,7 +91,9 @@ Enrique y su unidad de antiterroristas entran en La Cadena, donde son atacados p
 
 # 9. Capítulo 9
 
-- Cinco militares, incluyendo a Arturo, bajan al sótano y se reúnen con Ana, Lucas, Cooper y Roberto. Jonás los apremia por las muertes que se producen a su alrededor y discute con Cooper. El vagabundo levanta una pared entre los militares y Ana y Lucas. Estos últimos corren para ayudar a Jonás.
+Cinco militares, incluyendo a Arturo, bajan al sótano y se reúnen con Ana, Lucas, Cooper y Roberto. Jonás los apremia por las muertes que se producen a su alrededor y les informa, asustado, de que Elizabeth ha entrado en el edificio y está matando a los militares. Antes de que Cooper pueda reaccionar, el vagabundo levanta una pared entre los militares y Ana y Lucas. Estos últimos corren hasta una puerta acorazada. Mientras la puerta se abre, Ana reconoce una voz familiar.
+
+## Notas
 
 - **¿Qué pasa con Michael? ¿Nadie pregunta por el pobre?**
 - **¿Qué pasa con Allan? ¿Lucas no se preocupa por él?**
