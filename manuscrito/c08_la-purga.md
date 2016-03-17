@@ -2,7 +2,7 @@
 
 El imponente edificio de 26 plantas del AT de Gran Canaria pareció engullirlos cuando entraron en él pegando tiros. El equipo antiterrorista constaba de diez hombres, pertrechados con cascos, chalecos antibalas y ropas negras reforzadas para minimizar, en lo posible, los daños inherentes a su trabajo.
 
-La entrada principal de La Cadena[2] consistía en unas puertas de cristal automáticas y, tras un metro o dos de pasillo, otras puertas idénticas a las primeras. En otro tiempo, cada una de las hojas de cristal había mostrado, pulcra y orgullosa, el símbolo de la corporación RIO: el planeta Tierra a la izquierda, una cabeza humana de perfil a la derecha, y un río que conectaba a la primera con la frente de la segunda. Pero eso había sido antes de cometer la imprudencia de quedarse allí, en medio del tiroteo; ahora no eran más que un montón de pedazos desperdigados por el suelo.
+La entrada principal de La Cadena consistía en unas puertas de cristal automáticas y, tras un metro o dos de pasillo, otras puertas idénticas a las primeras. En otro tiempo, cada una de las hojas de cristal había mostrado, pulcra y orgullosa, el símbolo de la corporación RIO: el planeta Tierra a la izquierda, una cabeza humana de perfil a la derecha, y un río que conectaba a la primera con la frente de la segunda. Pero eso había sido antes de cometer la imprudencia de quedarse allí, en medio del tiroteo; ahora no eran más que un montón de pedazos desperdigados por el suelo.
 
 Los antiterroristas, divididos en un grupo de cinco soldados a cada lado, trataban de mantener la posición en el pasillo entre las puertas fantasma. A Felipe, el hombre que encabezaba la columna de la izquierda, la idea de volver atrás, aunque fuera lo más seguro, no le atraía lo más mínimo.
 
@@ -10,7 +10,7 @@ Los antiterroristas, divididos en un grupo de cinco soldados a cada lado, tratab
 
 Era cierto, los uniformes destinados a protegerlos los estaba asando en aquella cálida noche de verano. Para ellos, la corriente que se había formado entre el interior y el exterior de La Cadena era todo un regalo.
 
-Frente a ellos, la recepción del edificio se erguía como una sala enorme que, pecando de gula, acaparaba las dos primeras plantas del edificio. Las paredes laterales de la planta calle parecían un museo dedicado a los logros de la corporación y del AT de Gran Canaria en concreto: cada cuadro, del tamaño de una persona adulta, exhibía una imagen icónica de un reportaje de éxito, con una descripción acorde a pie de foto.
+Frente a ellos, la recepción del edificio se erguía como una sala enorme que acaparaba las dos primeras plantas del edificio. Las paredes laterales de la planta calle parecían un museo dedicado a los logros de la corporación y del AT de Gran Canaria en concreto: cada cuadro, del tamaño de una persona adulta, exhibía una imagen icónica de un reportaje de éxito, con una descripción acorde a pie de foto.
 
 A pocos metros frente a los cuadros se alzaba una serie de columnas que servían de apoyo a un  pasillo que recorría los laterales y el fondo del primer piso. Dicho pasillo alternaba, cada pocos metros, entre unas finas barandillas de cristal y unos robustos muros de ladrillo, ambos de un metro de altura. Los enemigos se encontraban desperdigados por este corredor, aprovechando las partes de ladrillo para cubrirse de los disparos efectuados por la policía. La primera planta se conectaba a la planta calle por medio de unas escaleras muy anchas y suntuosas, situadas contra la pared más alejada de la entrada.
 
@@ -18,23 +18,23 @@ A pocos metros frente a los cuadros se alzaba una serie de columnas que servían
 
 El que gritó fue Enrique, jefe de la unidad y el segundo en la fila de la izquierda. En ese momento la mayoría de los enemigos dejaron de disparar sobre ellos; en lugar de eso se ocultaron tras sus respectivas coberturas, en la planta superior. Aquello lo extrañó sobremanera, y pensó que seguramente se trataría de una trampa. No obstante, cuando habían rehenes en juego, no había tiempo que perder. Siguiendo su orden, el equipo se puso en marcha.
 
-- ¡Agh! - Gritó[1] al unísono el primer hombre de cada columna.
+- ¡Agh! - Gritó al unísono el primer hombre de cada columna.
 
 Ambos policías se retorcieron y cayeron al suelo.
 
 - ¡Armas eléctricas, no los toquen! - Gritó Enrique antes de que Manuel, el segundo de la columna de la derecha, pudiera reaccionar siquiera.
 
-Enrique se asomó rápidamente por su esquina y trató de hacer diana sobre el terrorista que efectuó los disparos. El enemigo corrió, aprovechando las coberturas de la sala. Intentaba reunirse con sus aliados, que lo esperaban en el piso superior y lo apoyaban con fuego de cobertura. Éstos últimos, que antes se habían escondido, lo habían hecho para cambiar sus armas de fuego por otras eléctricas. “No quieren provocar bajas”, reflexionó Enrique.
+Enrique se asomó rápidamente por su esquina y trató de hacer diana sobre el terrorista que efectuó los disparos, situado en la misma planta que ellos. El enemigo corrió, aprovechando las coberturas de la sala. Intentaba reunirse con sus aliados, que lo esperaban en el piso superior y lo apoyaban con fuego de cobertura. Éstos últimos, que antes se habían escondido, lo habían hecho para cambiar sus armas de fuego por otras eléctricas. “No quieren provocar bajas”, reflexionó Enrique.
 
-Los fusiles escupían ahora pequeños proyectiles que, al impactar sobre una persona, causarían el mismo efecto que habían sufrido los dos policías que yacían ahora en el suelo. Éstos últimos fueron llevados al exterior por el último de cada fila para que estuvieran a salvo, y sus escoltas volvieron  rápidamente a sus respectivos puestos.
+Los fusiles escupían ahora pequeños proyectiles que, al impactar sobre una persona, causarían el mismo efecto que habían sufrido los dos policías que yacían ahora en el suelo. Éstos últimos fueron llevados al exterior por el último de cada fila para que estuvieran a salvo, y sus escoltas volvieron rápidamente a sus respectivos puestos.
 
 El terrorista se movía ágilmente de una columna a otra mientras se encaminaba hacia las grandes escaleras. No necesitaba preocuparse de disparar, sólo de correr. Enrique dirigió a su columna al lado izquierdo de la sala para no perder de vista al enemigo que huía; un mostrador de madera que formaba un círculo completo, y detrás de éste una gran fuente con la estatua del símbolo de RIO en el centro de la sala, harían que pronto dejaran de ver al terrorista si no se movían rápidamente.
 
-Enrique llegó con gran rapidez a la primera columna de la izquierda, allí donde el enemigo los había sorprendido. Entonces, haciendo gala de una gran agilidad, logró acertar al terrorista cuando éste estaba a punto de alcanzar las escaleras. El disparo del policía alcanzó la pierna derecha del terrorista y lo hizo caer. Enrique pudo oír entonces al resto de enemigos gritándose cosas unos a otros en la planta alta. Se habían ido reagrupando progresivamente hacia el fondo de la planta uno, allí donde se encontraba el ascensor y las escaleras que subían más allá del primer piso.
+Enrique llegó con gran rapidez a la primera columna de la izquierda, allí donde el enemigo los había sorprendido. Entonces, haciendo gala de una gran agilidad, logró acertar al terrorista cuando éste estaba a punto de alcanzar las escaleras. El disparo del policía alcanzó la pierna derecha del terrorista y lo hizo caer. Enrique pudo oír entonces al resto de enemigos gritándose cosas en Inglés los unos a otros en la planta alta. Se habían ido reagrupando progresivamente hacia el fondo de la planta uno, allí donde se encontraba el ascensor y las escaleras que subían más allá del primer piso.
 
-“Se retiran, ”, pensó Enrique, “¿pero por qué se repliegan tan pronto si no tienen a donde ir?
+“¿Ya se retiran?”, dudó Enrique.
 
-El que parecía el líder de los terroristas allí presentes profirió una orden. Varios de sus subordinados avanzaron hacia las oficinas más cercanas al ascensor y las escaleras y abrieron las puertas. De cada sala comenzó a salir una fila de rehenes asustados. Las filas se fueron uniendo hasta formar una corriente de personas que bajaban a empujones las grandes escaleras hacia la planta calle y no tardaron en ocultar al enemigo abatido. Enrique dejó escapar una maldición. 
+El que parecía el líder de los terroristas allí presentes profirió una orden. Varios de sus subordinados avanzaron hacia las oficinas más cercanas a las escaleras y abrieron las puertas. De cada sala comenzó a salir una fila de rehenes asustados. Las filas se fueron uniendo hasta formar una corriente de personas que bajaban a empujones las grandes escaleras hacia la planta calle y no tardaron en ocultar al enemigo abatido. Enrique dejó escapar una maldición.
 
 - ¡Mierda! - Masculló, incapaz de visualizar a ninguno de los enemigos tras la marea de gente.
 - ¿Qué le sucede señor? ¿No es justo lo que queríamos, salvar a los rehenes? - Dudó uno de los policías del grupo de la derecha.
@@ -46,14 +46,14 @@ El que parecía el líder de los terroristas allí presentes profirió una orden
 - ¡Algunos de ellos están bajando, señor! - Gritó Juan, el tercero de la columna de la derecha. Era el mejor observador del equipo.
 - ¡Intentan llevarse al herido!
 
-Pero era inútil, la marea de gente no atendía a las órdenes de la policía y trataba de salir de allí por todos los medios, acaparando toda la sala e incapacitándolos para actuar. Los antiterroristas intentaron avanzar como pudieron entre el mobiliario y las personas, pero resultaba casi imposible. Para cuando la masa de gente ya no era tan densa, el herido había desaparecido. Ahora estaba junto a sus aliados, que lo ayudaban a subir por las escaleras de al lado del ascensor, a los pisos más allá del primero.
+Pero era inútil, la marea de gente no atendía a las órdenes de la policía y trataba de salir de allí por todos los medios, acaparando toda la sala e incapacitándolos para actuar. Los antiterroristas intentaron avanzar como pudieron entre el mobiliario y las personas, pero resultaba casi imposible. Para cuando la masa de gente ya no era tan densa, el herido había desaparecido. Ahora estaba junto a sus aliados, que lo ayudaban a subir por las escaleras de al lado del ascensor de la planta uno, a los pisos superiores.
 
 - ¡Vamos a por ellos! - Ordenó Enrique cuando los siete hombres restantes a su cargo y él se reunieron al pie de las escaleras.
 - ¿Qué pasa con todas las salas que tenemos sobre nosotros? - Juan trató de abarcarlas todas con la mano
 - Dejaremos que los policías de a pie se ganen el pan – A enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
 - ¿Y qué ocurre con los hombres de negro? - Preguntó otro.
 
-Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que habían problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver  una orden judicial que les daba carta blanca.
+Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que habían problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver una orden judicial que les daba carta blanca.
 
 Con Enrique siguieron el mismo procedimiento, pero él ya estaba harto: harto de que le arrebatarán una y otra vez la oportunidad de hacer su trabajo. Harto de que ocultaran los secretos de una corporación que apestaba a podrido si tenías un pizco de cabeza y podías olerlo. Era por ello, que desoyendo las órdenes de sus superiores y de aquellos bastardos de negro, había ordenado a su unidad entrar en el edificio de La Cadena.
 
@@ -67,7 +67,7 @@ Entre sus hombres se mezclaron las muestras de apoyo y de duda. Aquellos que se 
 
 Los ocho hombres que quedaban de la unidad antiterrorista de la policía subieron corriendo las grandes escaleras que llevaban al primer piso. Formaban una fila, con Enrique a la cabeza. Tras alcanzar la primera planta se metieron, no sin antes comprobar que era seguro, en las escaleras que llevaban a las plantas superiores. Las nuevas escaleras, mucho menos glamurosas que las presentadas en la recepción, eran de cuatro tramos. Los perseguidores podían mirar hacia arriba por el hueco de las escaleras para observar los movimientos de sus perseguidos, y éstos a su vez podían mirar hacia abajo y observarlos a ellos.
 
-- ¿Tendremos que subir 26 plantas persiguiendo a esos cabrones? - Se quejaba uno de los hombres a su espalda.
+- ¿Tendremos que subir todas estas plantas persiguiendo a esos cabrones? - Se quejaba uno de los hombres a su espalda.
 - Te he visto haciendo esfuerzos muchos mayores y por gusto, Javier – Sonrió Enrique, pero dudaba que su hombre lo hubiera visto.
 -  Ya bueno... ¡pero era una situación menos peligrosa! - Rió.
 
@@ -109,7 +109,7 @@ Los otros dos disparos que Juan había sentido justo tras de sí habían sido pa
 
 - ¿Perderé mi puesto de observador por esto? - Trató de sonreír a pesar del dolor mientras caía de rodillas, al igual que Marcos.
 
-Enrique se limitó a mirarlo y sonreír mientras suspiraba, sin molestarse en ocultar su sorpresa. Luego volvió a mirar a los traidores: si David y Mario se mostraban arrepentidos, no lo aparentaban tras los visores de sus cascos. Enrique miró tras ellos, hacía el comienzo del pasillo. Allí donde había dejado a sus otros hombres ahora solo habían tres cuerpos inmóviles, tendidos sobre el suelo. Habían recibido sus correspondientes disparos cuando reaccionaron a la amenaza, pero estos disparos provinieron de las escaleras. 
+Enrique se limitó a mirarlo y a sonreír mientras suspiraba, sin molestarse en ocultar su sorpresa. Luego volvió a mirar a los traidores: si David y Mario se mostraban arrepentidos, no lo aparentaban tras los visores de sus cascos. Enrique miró tras ellos, hacía el comienzo del pasillo. Allí donde había dejado a sus otros hombres ahora solo habían tres cuerpos inmóviles, tendidos sobre el suelo. Habían recibido sus correspondientes disparos cuando reaccionaron a la amenaza, pero estos disparos provinieron de las escaleras. 
 
 Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos por una mujer imponente vestida de rojo. Avanzaron hacia el grupo de Enrique, sin inmutarse por los cuerpos tirados en el suelo. Juan y Marcos ya habían caído inconscientes, y Enrique no pudo mantener la compostura por más tiempo. Se encontraba de rodillas frente a la mujer de rojo, a punto de desmayarse.
 
@@ -120,8 +120,3 @@ Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos 
 
 - [Capítulo anterior: 07 - El sótano](c07_el-sótano.md)
 - [Capítulo siguiente: 09 - Capítulo 9](c09_capítulo-9.md)
-
-## Notas
-
-- [1]: ¿Sería “gritaron”, o “gritó”?.
-- [2]: De aquí en adelante recordar poner “La Cadena” siempre con mayúsculas.
