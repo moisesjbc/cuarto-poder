@@ -102,7 +102,7 @@ Cinco militares, incluyendo a Arturo, bajan al sótano y se reúnen con Ana, Luc
 
 # 10. Los preparativos
 
-- Aitor, Fernando y más miembros de la resistencia apilan contenedores en una calle de un barrio estatal.
+Aitor, Fernando y más miembros de la resistencia apilan contenedores en una calle de un barrio estatal. Mientras lo hacen, Aitor se alegra de no tener que fingir más siendo un espía, ya que Elizabeth e Iván lo descubrieron en su persecución anterior. Una superiora les informa de que Elizabeth ha entrado en la Cadena.
 
 
 # 11. La madriguera
