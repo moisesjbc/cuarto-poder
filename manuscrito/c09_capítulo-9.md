@@ -1,6 +1,6 @@
 # 9. Capítulo 9
 
-El coronel Cooper no pudo evitar mostrar su alivio cuando las puertas del ascensor se abrieron ante ellos. Un grupo de cinco militares, de los que Lucas sólo conocía a Arturo “El Venezolano”, se presentó ante su oficial. Cuando los soldados abandonaron el ascensor, éste cerró sus puertas y volvió a subir. Cuatro de  los recién llegados permanecieron unos pasos por detrás del quinto, quién vaciló al ver la compañía de su superior.
+El coronel Cooper no pudo evitar mostrar su alivio cuando las puertas del ascensor se abrieron ante ellos. Un grupo de cinco militares, de los que Lucas sólo conocía a Arturo “El Venezolano”, se presentó ante su oficial. Cuando los soldados abandonaron el ascensor, éste cerró sus puertas y volvió a subir. Cuatro de los recién llegados permanecieron unos pasos por detrás del quinto, quién vaciló al ver la compañía de su superior.
 
 - ¿Señor? - Su atención se alternaba entre el joven enfermo, el hombre desmayado con pinta de motero, y la chica pelirroja armada que vigilaba el túnel frente a ellos. 
 - Son aliados... – Le respondió Cooper. - los que están conscientes, al menos. Informe.
@@ -8,7 +8,7 @@ El coronel Cooper no pudo evitar mostrar su alivio cuando las puertas del ascens
 - ¿Qué sucede?
 - Digamos que los enemigos han conseguido romper la primera línea de defensa. ¡Tienen que darse prisa!.
 - Me hago cargo de la urgencia, – le hizo saber el coronel – pero aún no estamos todos. Si vamos ahora y nos fusilan nada de esto habrá servido de algo.
-- A mí me parece que es usted quien no lo entiende. - le espetó la voz, volviendo a su estado normal de tensión – Si esperan para la reunión familiar, más posibilidades de que acaben matándome. Y si yo muero, fin de la partida – Sentenció, seguro de lo que decía.
+- A mí me parece que es usted quien no lo entiende. - le espetó la voz, volviendo a su estado normal de tensión – Si esperan para la reunión familiar, mayores posibilidades de que acaben matándome. Y si yo muero, fin de la partida – Sentenció, seguro de lo que decía.
 - Mire, es cierto que de no ser por usted no hubiéramos llegado hasta aquí. - Cooper trataba de mostrarse tranquilo, negociador, pero su voz no era capaz de ocultar la tensión que sentía. - pero es peligroso. Si lo piensa con la cabeza fría, se dará cuenta de que lo mejor es esperar. - Jonás quizo decir algo, pero Cooper continuó – Además, si ha podido resistir solo hasta ahora, podrá aguantar un poco más.
 - ¿QUÉ? ¡No estoy solo, maldito inútil!
 - ¿Cómo? - La curiosidad del militar pudo más que su orgullo herido.
@@ -33,7 +33,7 @@ La voz de Ana libró momentáneamente a Lucas de la reprimenda de su conciencia.
 - No puedo obligarla a quedarse. - La voz del oficial trataba de mantenerse impasible, solemne. - Mucha suerte.
 - Voy con ella – Se envalentonó Lucas.
 - No... - comenzó Cooper, pero el civil lo interrumpió.
--Iré en la vanguardia, que es lo que querías desde un principio, ¿no? – Lucas había olvidado lo utilizado que se había sentido por parte del coronel y Jonás en lo que respectaba a sus mareos. Pero ahora ese sentimiento había vuelto, enfriando sus palabras y su trato hacia el militar. - Si encuentro algún peligro lo marcaré... “señor”.
+- Iré en la vanguardia, que es lo que querías desde un principio, ¿no? – Lucas había olvidado lo utilizado que se había sentido por parte del coronel y Jonás en lo que respectaba a sus mareos. Pero ahora ese sentimiento había vuelto, enfriando sus palabras y su trato hacia el militar. - Si encuentro algún peligro lo marcaré... “señor”.
 
 Cooper resopló, pero finalmente cedió.
 
@@ -63,7 +63,7 @@ Pero se interrumpió cuando vio que Ana empujaba a Lucas hacia sí. Antes de que
 - ¡Qué está haciendo! - La cara de Cooper se desdibujaba tras la translucidez de la pared, pero era obvio que estaba confuso y furioso.
 - Lo siento – la disculpa parecía sincera -, pero no puedo permitirme discutir con usted la imposibilidad de lo que me pide. ¿Ana?.
 - Ana asintió, agarró a Lucas del brazo y empezó a correr, empujándolo consigo durante los primeros metros. Su amigo reaccionó rápidamente, y poco después, ambos corrían codo con codo.
-- ¡Puto vagabundo! - Profirió el coronel - ¡Quita esta mierda de en medio! ¡Nos vas a matar a todos!
+- ¡Puto vagabundo! - Profirió el coronel - ¡Desactiva esta pared! ¡Nos vas a matar a todos!
 - ¡Usted es el que nos va a matar a todos! - Le espetó el vagabundo - Las posibilidades eran mínimas si conseguían venir todos sus refuerzos. ¡Ahora es imposible!
 
 Ana y Lucas continuaban corriendo, mientras se alejaban del ascensor, de los militares y de la pared negra. Podían escuchar perfectamente cómo el militar aporreaba el muro impenetrable que los separaba.
@@ -77,11 +77,11 @@ Por la distancia, Lucas no llegó a entender lo que escupía Cooper entre gritos
 - ¿Sabías lo que iba a hacer?
 - No – Ana se permitió sonreír fugazmente - pero me fijé en que este pasillo también tenía esos “poros” en la pared como en la planta del pelotón de fusilamiento. A medida que la tensión entre Jonás y el coronel iba en aumento... supuse que “el vagabundo” podría valerse de ese as en la manga.
 - Entiendo – se limitó a asentir su amigo – Bien, veamos que nos espera tras la esquina...
-- Un pequeño pasillo hasta una gran puerta acorazada. Ese tramo está libre.
+- Un pequeño pasillo hasta una gran puerta acorazada. Ese tramo está libre - Reveló la voz omnipresente del vagabundo.
 
 “Gracias, Jonás, me has quitado todo el misterio” - se dijo Lucas, divertido. Trataba de relajar la enorme tensión que sentía.
 
-Los dos jóvenes confiaron en la voz y cruzaron la esquina sin pararse a mirar. Tal como se les dijo, lo único que encontraron fue una imponente puerta acorazada que ocupaba toda la pared frontal. Cuando se detuvieron frente a ella, esta comenzó a abrirse como por arte de magia.
+Los dos jóvenes confiaron en la voz y cruzaron la esquina sin pararse a mirar. Tal como se les había informado, lo único que encontraron fue una imponente puerta acorazada que ocupaba toda la pared frontal. Cuando se detuvieron frente a ella, esta comenzó a abrirse como por arte de magia.
 
 - Los enemigos están al fondo – Se limitó a decir Jonás -, lo que tenéis delante son aliados.
 
