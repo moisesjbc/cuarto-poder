@@ -80,7 +80,11 @@ Lucas y los demás bajan al sótano, donde son interceptados por un "pelotón de
 
 # 8. La purga
 
-- Enrique y su unidad de antiterroristas entran en La Cadena.
+Enrique y su unidad de antiterroristas entran en La Cadena, donde son atacados por los terroristas con armas eléctricas. Persiguen a los terroristas escaleras arribas, pero estos vuelan el tramo de escaleras entre las plantas 24 y 25. Mientras los policías buscan nuevas rutas en la planta 23, dos traidores, un grupo de hombres de negro y Elizabeth matan a los polícias.
+
+
+## Notas
+
 - **Describir mejor la recepción del edificio.**
 - **¿Por qué la policía no detiene al equipo antiterrorista antes de que entre en La Cadena? ¿A los de RIO les interesa no dar la orden?**
 
@@ -88,6 +92,7 @@ Lucas y los demás bajan al sótano, donde son interceptados por un "pelotón de
 # 9. Capítulo 9
 
 - Cinco militares, incluyendo a Arturo, bajan al sótano y se reúnen con Ana, Lucas, Cooper y Roberto. Jonás los apremia por las muertes que se producen a su alrededor y discute con Cooper. El vagabundo levanta una pared entre los militares y Ana y Lucas. Estos últimos corren para ayudar a Jonás.
+
 - **¿Qué pasa con Michael? ¿Nadie pregunta por el pobre?**
 - **¿Qué pasa con Allan? ¿Lucas no se preocupa por él?**
 - **Cambiar el título.**
