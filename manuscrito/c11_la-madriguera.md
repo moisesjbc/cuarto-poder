@@ -1,22 +1,22 @@
 # 11. La madriguera
 
-Cuando la gran puerta acorazada se abrió lo suficiente como para ver lo que había al otro lado,  un inmenso contraste los golpeó. Lo que era un pasillo de hormigón frío, estrecho y sin vida, se transformaba, tras el umbral de la imponente puerta, en una amplia pero cálida sala que invitaba a quedarse. Lo único que podía hacerte desistir de esa idea era el tiroteo que se podía escuchar al fondo.
+Cuando la gran puerta acorazada se abrió lo suficiente como para ver lo que había al otro lado, un inmenso contraste les golpeó. Lo que era un pasillo de hormigón frío, estrecho y sin vida, se transformaba, tras el umbral de la imponente puerta, en una amplia pero cálida sala que invitaba a quedarse. Lo único que podía hacerte desistir de esa idea era el tiroteo que se podía escuchar al fondo.
 
-La habitación, de dos pisos de altura, y más larga que ancha, comenzaba en su primer tercio con un estrecho pasillo central. Este avanzaba junto con una fila de tres bancos, uno tras otro, a cada lado. Los asientos eran de una madera fina y delicada, así como también lo eran el techo y las paredes de la estancia.
+La habitación alargada, de dos pisos de altura, comenzaba en su primer tercio con un estrecho pasillo central. Este avanzaba custodiado a ambos lados por sendas filas de tres bancos. Los asientos eran de una madera fina y delicada, así como también lo eran el techo y las paredes de la estancia.
 
-Apenas Lucas y Ana cruzaron el umbral, la gran puerta acoraza comenzó a cerrarse tras ellos. Ana avanzó rápidamente entre los bancos, manteniéndose agachada e intentando identificar cualquier posible amenaza. Lucas la seguía como podía, sintiéndose sumamente torpe mientras  intentaba imitar sus movimientos. 
+Apenas Lucas y Ana cruzaron el umbral, la gran puerta acoraza comenzó a cerrarse tras ellos. Ana avanzó rápidamente entre los bancos, manteniéndose agachada e intentando identificar cualquier posible amenaza. Lucas la seguía como podía, sintiéndose sumamente torpe mientras intentaba imitar sus movimientos. 
 
 Tras el pasillo inicial se encontraba un gran mostrador circular de madera. Ana y Lucas se detuvieron en la parte delantera, y la joven asomó ligeramente la cabeza por encima.
 
 - Ahí está. - Sonrió - No dispares.
 
-Lucas apenas tuvo tiempo de reaccionar, cuando su amiga echó a correr, manteniéndose agachada, por el lado derecho del mostrador. Avanzaba rápidamente hacia el final de la sala. Cuando Lucas salió de su escondite, observó que habían dos personas, un hombre y una mujer, que se escondían a ambos lados de la única puerta situada en el centro de la pared del fondo. La pareja desconocida (la cuál vestía de manera bastante formal, se sorprendió Lucas) no había reparado en los nuevos visitantes, pues estaban ocupados respondiendo con disparos a una amenaza invisible.
+Lucas apenas tuvo tiempo de reaccionar, cuando su amiga echó a correr, manteniéndose agachada, por el lado derecho del mostrador. Avanzaba rápidamente hacia el final de la sala. Cuando Lucas salió de su escondite, observó que habían dos personas, un hombre y una mujer, que se escondían a ambos lados de la única puerta situada en el centro de la pared del fondo. La pareja desconocida, vestida de manera formal, no había reparado en los nuevos visitantes, pues estaban ocupados respondiendo con disparos a una amenaza invisible.
 
 - ¡Ah! - El hombre apenas tuvo tiempo de girarse cuando finalmente escuchó los pasos que corrían hacía él. Ana, con extrema rapidez, desvió su arma y lo miró fijamente.
 
 La mujer desconocida que estaba a la izquierda de la puerta tampoco tuvo tiempo de reaccionar. Cuando al fin lo hizo, pareció reconocer a Ana, y rápidamente volvió a centrarse en el enemigo invisible que se ocultaba en algún lugar tras la puerta. Ni siquiera se dio cuenta de que Lucas la apuntaba con su pistola, intentando controlar el ligero temblor que jugaba con su pulso.
 
-Lucas no supo entonces por qué sentirse peor: por no haber disparado a quien podría haber matado a su mejor amiga, o por haber estado a punto de hacerlo y matar a una aliada. Sin dejar más tiempo para el abatimiento, volvió a fijarse en su Ana. Su amiga y el hombre, una persona de color y bastante alta, se miraban fijamente, con extrema seriedad. Tras un instante, ambos sonrieron.
+Lucas no supo entonces por qué sentirse peor: por no haber disparado a quien podría haber matado a su mejor amiga, o por haber estado a punto de hacerlo y matar a la que parecía ser una aliada. Sin dejar más tiempo para el abatimiento, volvió a fijarse en Ana. Su amiga y el hombre, una persona de color bastante alta, se miraban fijamente, con extrema seriedad. Tras un instante, ambos sonrieron.
 
 - ¡Siempre me sorprendes! - rió, sin dejar de mirar a Ana - ¿Cuándo me tocará a mí?
 - Nunca, como sigas así – Rió a su vez Ana, mientras le soltaba la mano. 
@@ -70,7 +70,7 @@ Los militares atravesaron la recepción con rapidez, bordeando el gran mostrador
 
 Los militares hicieron caso omiso del comentario. Cuando se produjo la explosión, entraron con gran rapidez en el pasillo y Lucas los perdió de vista. Tuvo que conformarse (y no quería arriesgarse por la curiosidad) con escuchar los disparos y desear que la victoria recayera sobre Cooper y los suyos.
 
-Ana volvió a asomarse a la puerta. Tras unos segundos, se giró hacia Lucas y Marcos.
+Tras unos minutos, Ana volvió a asomarse a la puerta. Entonces se giró hacia Lucas y Marcos.
 
 - No sé como lo ha hecho Jonás, pero los ha motivado. Muy bien, vamos.
 
@@ -80,7 +80,7 @@ A medida que se iban acercando a los militares, Lucas se dio cuenta de que no es
 
 Jonás se permitió, sin embargo, detenerse y mirar durante un momento a Lucas.
 
-- Al fin nos volvemos a ver[1]. Veamos qué ocurre a partir de ahora.
+- Al fin nos volvemos a ver. Veamos qué ocurre a partir de ahora.
 - ¿Qué? - se extrañó Lucas. No recordaba haber visto a aquel hombre jamás.
 
 El vagabundo se limitó a sonreír amargamente. Un hilillo de sangre le salía de la nariz y dividía su sonrisa en dos. Ninguna de ellas parecía albergar grandes esperanzas sobre lo que estaba por venir.
@@ -90,7 +90,3 @@ El vagabundo se limitó a sonreír amargamente. Un hilillo de sangre le salía d
 
 - [Capítulo anterior: 10 - Los preparativos](c10_los-preparativos.md)
 - [Capítulo siguiente: 12 - La bronca](c12_la-bronca.md)
-
-## Notas
-
-- [1]: Tener esto en cuenta. ¿En qué circunstancias se vieron?
