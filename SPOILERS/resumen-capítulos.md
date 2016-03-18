@@ -135,7 +135,12 @@ Manuel le echa la bronca a Paco por su incompetencia y lo despide. Sin embargo, 
 
 # 13. La huída
 
-- 5 soldados, Cooper, Ana, Lucas, Roberto, Jonás y 6 miembros de la resistencia,bajan en un ascensor hasta las entrañas de La Cadena, pero les espera una emboscada. Sólo quedan vivos 9 (no se dice quienes, ¡misterio!). Un miembro de la resistencia disfrazado se reúne con ellos y les dice que se den prisa para coger el metro.
+5 soldados, Cooper, Ana, Lucas, Roberto, Jonás y 6 miembros de la resistencia,bajan en un ascensor hasta las entrañas de La Cadena, pero les espera una emboscada. Sólo quedan vivos 9 (no se dice quienes, ¡misterio!). Un miembro de la resistencia disfrazado se reúne con ellos y les dice que se den prisa para coger el barco.
+
+## Notas
+
+- ¿Decir quienes son los soldados y miembros de la resistencia sin ser cansino?. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
+- Después del tiroteo: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
 - **¿Hacer el ascensor triangular?**
 - **¿Cambiar el título para no hacer “spoiler”?**
 - **Aclarar quiénes son y cómo se colocan al principio, en el ascensor, en el puente, etc.**
