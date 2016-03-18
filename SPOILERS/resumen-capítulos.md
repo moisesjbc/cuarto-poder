@@ -107,9 +107,13 @@ Aitor, Fernando y más miembros de la resistencia apilan contenedores en una cal
 
 # 11. La madriguera
 
-- Ana y Lucas entran en la recepción del complejo subterráneo de La Cadena y se reúnen con Marcos y Lucía. 
+Ana y Lucas entran en la recepción del complejo subterráneo de La Cadena, donde se reúnen con Marcos, compañero y amigo de Ana; y Lucía. Marcos les informa de que Jonás se encuentra en la sala de seguridad, en el segundo piso. Cooper y sus hombres los alcanzan y ayudan a liberar a Jonás. Jonás saluda a Lucas con un "Al fin nos volvemos a ver".
+
+## Notas
+
 - **¿Cambiar el título o dejarlo?**
 - **Jonás está muy callado durante todo el comienzo del capítulo. ¿Alguna razón en especial?**
+- **¿En qué circunstancias se vieron anteriormente Jonás y Lucas? O Jonás a Lucas?**
 - **Los militares entran y limpian el pasillo con la misma. Jonás les prometió que los llevaría hasta las pruebas, pero después les vende la moto. Especificarlo en algún momento (decir que Lucas piensa que han debido hacer un trato, o algo por el estilo).**
 - **Quizás la parte de que entran los soldados a saco la cuento muy rápido?**
 - **Hablo de Cooper y 5 militares más, ¿está bien? → Parece que sí.**
