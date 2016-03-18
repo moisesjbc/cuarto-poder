@@ -1,12 +1,12 @@
 # 13. La huida
 
-El ascensor al final del pasillo era diferente a aquellos en los que se habían montado hasta entonces; este era cilíndrico, mucho mas grande y de color blanco. Sus paredes eran de cristal, aunque esto no era de gran utilidad en el nivel actual; el espacio alrededor del elevador se extendía medio metro y se topaba con una pared cubierta con placas blancas y rectangulares.
+El ascensor al final del pasillo era diferente a aquellos en los que se habían montado hasta entonces; este era cilíndrico, blanco y mucho mas grande. Sus paredes eran de cristal, aunque esto no era de gran utilidad en el nivel actual; el espacio alrededor del elevador se extendía medio metro y se topaba con una pared cubierta con placas blancas y rectangulares.
 
-Los miembros de la resistencia y los militares[1] entraron en el ascensor y ocuparon posiciones alternas a lo largo de su curvatura. Únicamente tres personas se posicionaron en el centro: el coronel Cooper, Jonás el vagabundo, y Roberto, el director motero del AT de Gran Canaria. Este último permanecía de rodillas y esposado. 
+Los miembros de la resistencia y los militares entraron en el ascensor y ocuparon posiciones alternas a lo largo de su curvatura. Únicamente tres personas se posicionaron en el centro: el coronel Cooper, Jonás el vagabundo, y Roberto, el director motero del AT de Gran Canaria. Este último permanecía de rodillas y esposado. 
 
-Jonás estaba ocupado tecleando en un complejo panel, lleno de botones, que se alzaba en el centro mismo del ascensor. El coronel permanecía justo detrás suyo. Observaba de vez en cuanto a Roberto, pero se mantenía concentrado en el vagabundo; Lucas pudo adivinar la expresión de desconfianza en su rostro.
+Jonás estaba ocupado tecleando en un complejo panel, lleno de botones, que se alzaba en el centro mismo del ascensor. El coronel permanecía justo detrás suyo. Observaba de vez en cuando a Roberto, pero se mantenía concentrado en el vagabundo; Lucas pudo adivinar la expresión de desconfianza en su rostro.
 
-El ascensor comenzó un descenso lento y silencioso. La única prueba perceptible de su movimiento se dilucidaba más allá de los cristales, donde unas luces verticales y alargadas se despedían de ellos a medida que subían y el ascensor bajaba.
+El ascensor comenzó un descenso lento y silencioso. La única prueba perceptible de su movimiento se dilucidaba más allá de los cristales, donde unas luces verticales y alargadas los saludaban y se despedían a medida que el ascensor bajaba.
 
 - Je, – murmuró Lucas, tratando de romper aquel silencio incómodo – inocencia. Como si eso los caracterizara.
 
@@ -14,15 +14,15 @@ El ascensor comenzó un descenso lento y silencioso. La única prueba perceptibl
 
 - El blanco simboliza la inocencia... y aquí el ascensor es blanco, las paredes de fuera son blancas, las luces...
 
-El joven miró a su alrededor, sólo para certificar que nadie parecía prestarle la más mínima atención. Sintió como un rubor le hacía cosquillas en las mejillas, y la vergüenza que lo acompañaba... fue indescriptible.
+El joven miró a su alrededor, sólo para certificar que nadie parecía prestarle la más mínima atención. Sintió como un rubor le hacía cosquillas en las mejillas. Y la vergüenza que lo embargó... fue indescriptible.
 
-Continuaron en silencio, descendiendo con la misma visión de placas y luces blancas durante unos metros más. La monotonía se rompió súbitamente cuando el hueco de medio metro entre el elevador y las paredes pasó a convertirse en uno mucho más grande. Ahora atravesaban plantas enteras, de las cuales únicamente alcanzaban a ver sus terrazas, que rodeaban el ascensor formando una circunferencia. Estas se encontraban a unos cinco metros de ellos, y conectaban con el elevador por dos extremos opuestos, con un pequeño pasillo que bordeaba el ascensor por ambos lados.
+Continuaron en silencio, descendiendo con la misma visión de placas y luces blancas durante unos metros más. La monotonía se rompió súbitamente cuando el hueco de medio metro entre el elevador y las paredes pasó a convertirse en uno mucho más grande. Ahora atravesaban plantas enteras, de las cuales únicamente alcanzaban a ver sus terrazas rodeando el ascensor. Estas se encontraban a unos cinco metros de ellos, y conectaban con el elevador por dos extremos opuestos, con un pequeño pasillo que bordeaba el ascensor por ambos lados.
 
 Todo allí era blanco: los techos, las paredes, los suelos, las barandillas de las terrazas, etc. Parecía que los diseñadores de aquella construcción no conocieran otros colores.
 
 - ¡Ahí están! - Gritó uno de los miembros de la resistencia.
 
-Las primeras plantas que atravesaron estaban desiertas. Sin embargo, a medida que descendían, comenzaron a ver cada vez a más personal de RIO armado. Se organizaban en las terrazas que daban al elevador, expectantes.
+Las primeras plantas que atravesaron estaban desiertas. Sin embargo, a medida que descendían, comenzaron a ver a cada vez más personal de RIO armado. Se organizaban en las terrazas que daban al elevador, expectantes.
 
 Jonás ya les había avisado de que los cristales del ascensor eran antibalas, por los que, ni los de fuera, ni los de dentro, se molestaban en desperdiciar munición, o tan siquiera en apuntar. No obstante, la tensión se dejaba entrever entre los presentes, pues sólo un cristal los separaba de una muerte segura, y eso no era algo fácil de ignorar. Además, tendrían que abandonar el ascensor tarde o temprano, lo cual menguaba aún más sus expectativas de supervivencia.
 
@@ -34,13 +34,13 @@ De repente, el elevador se detuvo en seco, sobresaltando a sus ocupantes. Se mir
 - Porque, de momento, todo está siguiendo el plan.
 - ¿De qué hablas? Si esto es...
 - ¡Señor! - Lo interrumpió uno de los militares. El receptáculo había comenzado a oscurecerse. Una nube de gas negro había salido de ninguna parte y avanzaba hacia ellos desde todas las direcciones.
-- ¡Otra vez no! - Exclamó el coronel, compartiendo el hastío con casi todos los presentes en el ascensor - ¡Pero qué...!
+- ¡Otra vez no! - Exclamó el coronel - ¡Pero qué...!
 
 La nube empezó a atravesar el ascensor y a deshacerlo literalmente. Las paredes se difuminaban, se evaporaban, al entrar en contacto con la espesa negrura. Todos los presentes empezaron a retroceder hacia el centro del elevador.
 
 - ¡Alto! ¿Qué estás haciendo?
 
-El coronel volvió a centrarse en Jonás el vagabundo, quien había alzado el puño derecho. Nadie se había percatado hasta entonces de que tenía un guante negro hecho con algún material plástico muy resistente. Jonás miró fugazmente al general:
+El coronel volvió a centrarse en Jonás el vagabundo, quien había alzado el puño derecho. Nadie se había percatado hasta entonces de que tenía un guante negro hecho de un material plástico aparentemente muy resistente. Jonás miró fugazmente al general:
 
 - ¡Salvarnos! ¿Le parece poco? ¡Acérquense a esa puerta! - Ordenó, señalando con la mano desnuda a la puerta que tenía a su izquierda.
 
@@ -63,9 +63,9 @@ Iban por la mitad del puente cuando la sangre salpicó de lleno a Cooper y al re
 
 Jonás comenzó a correr al tiempo que miraba hacia arriba. La habitación abierta por un lado que formaba la nube de gas comenzó a convertirse en una pared totalmente opaca sobre ellos. Los presentes que tuvieron tiempo de reaccionar comenzaron a responder al fuego enemigo proveniente del piso actual y de los inferiores.
 
-Durante la carrera por la supervivencia, Lucas se sentía doblemente mal: por un lado, no era capaz de acertar la mitad de sus disparos; por otro lado, volvió a observar cómo algunos enemigos evitaban dispararle; en vez de eso, enfocaban sus disparos al resto de militares y miembros de la resistencia. Lucas, aunque agradecía seguir con vida, odiaba el sentirse un vulgar VIP y que otras personas murieran en su lugar.
+Durante la carrera por la supervivencia, Lucas se sintió doblemente mal: por un lado porque no era capaz de acertar la mitad de sus disparos. Por otro lado, volvió a observar cómo algunos enemigos evitaban dispararle y en vez de eso, enfocaban sus disparos al resto de militares y miembros de la resistencia. Lucas, aunque agradecía seguir con vida, odiaba sentirse más importante que aquellos que estaban actuando y muriendo por derrocar a RIO.
 
-Cuando llegaron al final del puente, el grupo de dieciséis personas se había reducido a uno de nueve[2]. Los supervivientes avanzaron unos metros en el pasillo de oficinas que continuaba tras el puente, ya a salvo de los disparos enemigos. Antes de que nadie pudiera pararse a descansar, o a comprobar que las oficinas estuvieran limpias, Jonás prosiguió la marcha, haciendo caso omiso de las órdenes de alto del general. 
+Cuando llegaron al final del puente, el grupo de dieciséis personas se había reducido a uno de nueve. Los supervivientes avanzaron unos metros en el pasillo de oficinas que continuaba tras el puente, ya a salvo de los disparos enemigos. Antes de que nadie pudiera pararse a descansar, o a comprobar que las oficinas estuvieran limpias, Jonás prosiguió la marcha, haciendo caso omiso de las órdenes de alto del general. 
 
 Cuando Cooper avanzó decididamente hacia el vagabundo para detenerlo, una figura se asomó tras una esquina al final del pasillo, a unos metros frente a ellos. Vestía como un enemigo, pero no actuaba como tal. Ni siquiera se inmutó al ver a los militares y la resistencia; daba incluso la sensación de que los había estado esperando durante mucho tiempo.
 
@@ -76,9 +76,3 @@ Cuando Cooper avanzó decididamente hacia el vagabundo para detenerlo, una figur
 
 - [Capítulo anterior: 12 - La bronca](c12_la-bronca.md)
 - [Capítulo siguiente: 14 - Sin título](c14_sin-título.md)
-
-## Notas
-
-- [1]: Decir quienes son sin ser cansino. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
-- [2]: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
-
