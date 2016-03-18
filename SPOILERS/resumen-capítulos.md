@@ -156,7 +156,8 @@ Manuel le echa la bronca a Paco por su incompetencia y lo despide. Sin embargo, 
 
 # 14. Sin título
 
-- Aitor, Fernando y un rebelde disfrazado de policía se dirigen al puerto a toda velocidad en un coche patrulla blindado. Su misión es rescatar a Ana y a su prisionero Roberto. Cuando llegan al puerto rescatan a Ana y descubren que Roberto está muerto. Más tarde, mientras huyen, el barco de los ingleses explota en el océano.
+Aitor, Fernando y un rebelde disfrazado de policía se dirigen al puerto a toda velocidad en un coche patrulla blindado. Su misión es rescatar a Ana y a su prisionero Roberto. Cuando llegan al puerto rescatan a Ana y descubren que Roberto y Lucas están muertos. Más tarde, mientras huyen, el barco de los ingleses explota en el océano.
+
 - **Cambiar el título.**
 - **“por la rama principal del puerto” → ¿Tiene algún nombre específico?**
 
