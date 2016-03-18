@@ -123,9 +123,13 @@ Ana y Lucas entran en la recepción del complejo subterráneo de La Cadena, dond
 
 # 12. La bronca
 
-- Manuel le echa la bronca a Paco por su incompetencia y lo despide. Sin embargo, un hombre de negro lo chantajea de alguna manera y el jefe de policía readmite a Paco.
+Manuel le echa la bronca a Paco por su incompetencia y lo despide. Sin embargo, un hombre de negro lo chantajea de alguna manera y el jefe de policía readmite a Paco.
+
+## Notas
+
 - **¿Cambiar título?.**
 - **¿Con qué chantajea el hombre de negro a Manuel?**
+- **Pensar la motivación del hombre de negro para "salvar" a Paco.**
 - **¿Meto algo más en el capítulo o así está bien?**
 
 
