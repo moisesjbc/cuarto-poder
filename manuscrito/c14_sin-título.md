@@ -9,7 +9,7 @@
 
 Corrían a toda prisa por la calle, dejando atrás la emboscada que habían preparado para cubrir la huida de sus aliados. Avanzaron un par de manzanas amparados por la oscuridad y el abandono propios de un barrio estatal. Entonces giraron hacia la izquierda, en el último cruce antes de llegar a la calle que discurría paralela al muro.
 
-Finalmente llegaron a la dirección destino: un edificio abandonado de tres plantas, sucio y lleno de grietas, donde un vagabundo los esperaba con la puerta abierta. Fernando y Aitor se adentraron en el edificio y se encaminaron rápidamente hacia el sótano. Allí los esperaba otro vagabundo, este sujetando la puerta de una trampilla abierta en la pared. “Genial, nos han ahorrado bastante tiempo”, se alegró Aitor, quien conocía el estado normal del pasadizo: cerrado y tras un pesado armario que ahora descansaba a la izquierda. 
+Finalmente llegaron a la dirección destino: un edificio abandonado de tres plantas, sucio y lleno de grietas, donde un vagabundo los esperaba con la puerta abierta. Fernando y Aitor se adentraron en el edificio y se encaminaron rápidamente hacia el sótano. Allí los esperaba otro vagabundo, sujetando la puerta de una trampilla abierta en la pared. “Genial, nos han ahorrado bastante tiempo”, se alegró Aitor, quien conocía el estado normal del pasadizo: cerrado y tras un pesado armario que ahora descansaba a la izquierda. 
 
 Los dos agentes de la resistencia cruzaron la trampilla y corrieron por un túnel que parecía a punto de venirse abajo de un momento a otro. No tardaron en pasar bajo el muro que en la superficie impedía el acceso al barrio empresarial de El Puerto. 
 
@@ -20,7 +20,7 @@ Al otro lado del túnel los esperaba un garaje mucho más limpio y en mejor esta
 - Sólo Ana y su prisionero, ¿entendido?
 - Entendido – Se limitó a responder el copiloto.
 
-El camino hasta el puerto fue corto y sin mayores incidentes que un par de sustos en las intersecciones que atravesaban a toda velocidad. Cuando llegaron al puerto, el policía no dejó de acelerar el coche patrulla, abalanzándose contra la verja de la entrada. Poco importaban los disparos que descargaban sobre ellos el grupo de militares apostado allí; el coche estaba convenientemente blindado.
+El camino hasta el puerto fue corto y sin mayores incidentes que un par de sustos en las intersecciones que atravesaban a toda velocidad. Cuando llegaron al puerto, el policía no dejó de acelerar el coche patrulla, abalanzándose contra la verja de la entrada. Poco importaban los disparos que descargaban sobre ellos el grupo de militares apostado allí, pues el coche estaba convenientemente blindado.
 
 La valla no pudo hacer nada ante la embestida del automóvil, precipitándose hacia el suelo y dejando paso a los intrusos. El coche se encontró con un gran barco de mercancías que zarpaba en ese mismo instante. Los ocupantes del coche patrulla podían escuchar disparos provenientes del barco, así como de algún lugar del puerto. 
 
@@ -42,7 +42,7 @@ Entonces Aitor se acordó. Se giró en su asiento y miró fijamente a Ana. Esta 
 - Lucas... - Vaciló el chico.
 - También ha muerto.
 
-Todos guardaron silencio, aunque únicamente Aitor comprendía completamente el porqué.
+Todos guardaron silencio.
 
 - Lo siento mucho. Si puedo... 
 
