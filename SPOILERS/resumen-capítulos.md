@@ -190,10 +190,17 @@ La familia Pérez llega a la ciudad burbuja tras un viaje de muchas horas en coc
 
 # 17. El rescate
 
-- Ana va con un equipo de rebeldes a rescatar a Arturo de una prisión de RIO camuflada como un hospital psiquiátrico.
+Han pasado 3 meses. Ana va con un equipo de rebeldes a rescatar a Arturo Ramírez (El Venezolano) de una prisión de RIO camuflada como un hospital psiquiátrico. Éste les indica que todos los días le inyectaban algo y le hacían caminar en una habitación de un lado para otro, preguntándole qué sentía. Cuando llegan a la habitación, hay un agujero perfectamente cuadrado en el suelo, sin escombros ni marcas de derrumbe.
+
+
+## Notas
+
+- Tiempo pasado: 3 meses.
 - **Hablar del logotipo de la resistencia.**
 - **Describir bien el chándal.**
 - **Que Ana le ordene a Miguel recopilar información y que se vayan o algo.**
+- ¿Qué le inyectaban a Arturo?
+- Quizás cuando empiezo a hablar de los pasillos y la distribución de los pisos me lío un poco. Aclarar.
 - **¿Expreso dónde está la sala de control y por qué se asaltó por separado?**
 - **Decir cuántos son en el grupo que va con Ana y el otro.**
 - **Cuando suben a la azotea → nombrar que hay árboles alrededor y tal.**
