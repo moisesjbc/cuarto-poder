@@ -29,7 +29,7 @@ Ana retrocedió entonces para dirigirse hacia donde yacía su amiga en el suelo.
 
 - ¿Estás bien?
 - Sí. En peores me he visto – sonrió Maria.
-- Me alegro – le devolvió la sonrisa, afectuosa. Ana se dirigió entonces al resto de sus subalternos, que descansaban a lo largo del pasillo. Todos vestían un chandal azul de una pieza y cremallera en la parte delantera. – comprueben las habitaciones en busca del paquete. No liberen a nadie más, el equipo de limpieza se encargará de ello. ¿Entendido?
+- Me alegro – le devolvió la sonrisa, afectuosa. Ana se dirigió entonces al resto de sus subalternos, que descansaban a lo largo del pasillo. Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. – comprueben las habitaciones en busca del paquete. No liberen a nadie más, el equipo de limpieza se encargará de ello. ¿Entendido?
 - ¡Sí! - Asintieron todos al unísono.
 
 Los agentes comenzaron entonces a echar un rápido vistazo rápido a través del recuadro de cristal de cada puerta. Una rápida comprobación, y cada agente pasaba con presteza a la siguiente puerta.
@@ -54,23 +54,23 @@ Ana suspiró. La poca memoria de Miguel era leyendaria. - Ramírez. Arturo Ramí
 - Bien. Veamos... - la búsqueda se demoró uno o dos minutos, que Ana aprovechó para comprobar las habitaciones cercanas - ¡Lo encontré! La habitación es la 615.
 - ¡Uff! Y nosotros aún íbamos por la planta 3 – Rió Ana, quien descolgó la radio sin ni siquiera despedirse. ¡Muy bien! ¡Nuestro objetivo está en la sexta planta, habitación 615! ¡Ustedes suban por las escaleras de su lado! - Gritó al grupo que había tomado el camino de la izquierda. Luego se centró en el grupo que la acompañaba - ¡Ustedes conmigo!.
 
-Ambos equipos se pusieron rápidamente en marcha. El grupo de Ana avanzó por su pasillo hasta el final, donde éste giraba hacia la izquierda. Un agente que iba por delante de ella se asomó rápidamente y confirmó que tenían vía libre. Tras la esquina, el pasillo avanzaba 2 metros y acababa en unas escaleras de dos tramos. 
+Ambos equipos se pusieron rápidamente en marcha. El grupo de Ana avanzó por su pasillo hasta el final, donde éste giraba hacia la izquierda. Un agente que iba por delante de ella se asomó rápidamente y confirmó que tenían vía libre. Tras la esquina, el pasillo avanzaba 2 metros y acababa en unas escaleras de dos tramos.
 
 - El equipo comenzó a subir las escaleras rápidamente, preocupándose en cada piso por no toparse con una emboscada. Sin embargo, no encontraron ningún peligro hasta que llegaron al sexto piso. Fue entonces cuando un disparo golpeó el pecho de Ana, quien cayó de espaldas sobre un aliado que iba tras ella. Ambos cayeron aparatosamente.
 
 - ¡Ana! ¿Está bien? - se preocupó el agente sobre el que había caído. Ambos estaban aún en el suelo, escaleras abajo.
-- Sí... - se quejó Ana, al tiempo que se incorporaba lentamente – es la tercera vez que el chaleco me salva – Entonces, sintiendo el morbo de ver lo que pudo haber acabado con su vida, se bajó la cremallera de su chandal. Tras ésto, arrancó la bala aplastada cerca de su corazón, la observó durante unos segundos y entonces se la guardó en uno de los bolsillos del pantalón – ¡Un recuerdo! – sonrió, ante la mueca de extrañeza de su compañero.
+- Sí... - se quejó Ana, al tiempo que se incorporaba lentamente – es la tercera vez que el chaleco me salva – Entonces, sintiendo el morbo de ver lo que pudo haber acabado con su vida, se bajó la cremallera de su chándal. Tras esto, arrancó la bala aplastada cerca de su corazón, la observó durante unos segundos y entonces se la guardó en uno de los bolsillos del pantalón – ¡Un recuerdo! – sonrió, ante la mueca de extrañeza de su compañero.
 
 La joven ayudó entonces a levantarse al agente que aún se encontraba en el suelo – Muy bien, vamos allá.
 
 Cuando volvieron a lo alto de las escaleras, el grupo había conseguido abatir al enemigo que disparó a Ana, pero este se había cobrado dos vidas antes.
 
--  Qué raro – se extrañó la joven, ignorando los dos cuerpos tendidos a sus pies y centrándose en el pequeño tramo de pasillo que se extendía frente a ellos - ¿sólo estaba ese enemigo?
+- Qué raro – se extrañó la joven, ignorando los dos cuerpos tendidos a sus pies y centrándose en el pequeño tramo de pasillo que se extendía frente a ellos - ¿sólo estaba ese enemigo?
 - Así es – le confirmó un subalterno.
 
 Entonces Ana reaccionó - ¡Mierda! ¡Sólo fue para retrasarnos! ¡Vamos! - Y sin apenas dar tiempo al grupo a reaccionar, echó a correr. El tramo de pasillo avanzaba dos metros y entonces doblaba hacia la derecha. Por analogía con la tercera planta, Ana supuso que la habitación 615 se encontraría justo en el pasillo que continuaba tras la esquina, por lo que corrió y se situó tras esta. Suspiró antes de asomar la cabeza lo mínimo como para poder ver lo que había al otro lado sin peligro.
 
-El pasillo doblaba hacia la izquierda en el centro, y hacia la derecha al fondo. Fue al final donde Ana avistó a un enemigo que, en el mismo pasillo que ella, se asomaba a la esquina y disparaba, seguramente al equipo que había tomado las otras escaleras. La joven efectuó un disparo certero que   abatió al enemigo y, acto seguido, el segundo equipo apareció tras la esquina.
+El pasillo doblaba hacia la izquierda en el centro, y hacia la derecha al fondo. Fue al final donde Ana avistó a un enemigo que, en el mismo pasillo que ella, se asomaba a la esquina y disparaba, seguramente al equipo que había tomado las otras escaleras. La joven efectuó un disparo certero que abatió al enemigo y, acto seguido, el segundo equipo apareció tras la esquina.
 
 Ana hizo una seña visible por todos, indicando que se dirigieran hacia allí donde el pasillo doblaba a la izquierda. Ambos equipos comenzaron a correr hacia el lugar señalado. Cuando bordearon la esquina con sumo cuidado, se encontraron con un pasillo desierto.
 
@@ -87,7 +87,7 @@ Ana contó hasta 5 cuerpos tendidos alrededor del vehículo. A primera vista par
 
 - ¡Un momento! - Exclamó el objetivo cuando la vio - ¡tú eres la chica del asalto a La Cadena! ¡La que nos dejó en ridículo! - Lejos de decirlo seriamente, Arturo había comenzado a sonreír, divertido.
 - Exacto. Ana, si no te importa – le devolvió la sonrisa –, y tú debes ser Arturo Ramírez.
-- Por favor, llámame Arturo El Venezolano.
+- Por favor, llámame El Venezolano.
 - Como desees.
 - Gracias. Esto... - comenzó a decir, tiritando - ¿te importa si entramos dentro? Esta camisa de fuerza no es tan abrigada como pensaba.
 - Desde luego.
