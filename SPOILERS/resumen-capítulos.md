@@ -164,7 +164,10 @@ Aitor, Fernando y un rebelde disfrazado de policía se dirigen al puerto a toda 
 
 # 15. La emisión
 
-Ana y Luís descansan en un piso franco. Miran la emisión en la que Elizabeth resume los acontecimientos de la noche anterior y de esa mañana y culpa a los ingleses. 
+Ana y Luís (el polícia de incógnito del capítulo anterior) descansan en un piso franco. Miran la emisión en la que Elizabeth Ramirez resume los acontecimientos de la noche anterior y de esa mañana, culpando a los ingleses. Luis le indica que las órdenes son desaparecer hasta que las cosas se calmen. A Ana le preocupa haber ayudado a iniciar una guerra. 
+
+## Notas
+
 - **¿Poner aquí que es 21 de Agosto del 2025?**
 - **Contar que un miembro de la resistencia la está interrogando sobre los sucesos. Se dice quiénes murió, y que Lucas murió más tarde, en el puerto.**
     - **¿Estos? → Lucas, Ana, Cooper, Jonás, 3 soldados (incluyendo al Venezolano ¿y a Allan?) y 2 rebeldes.**
