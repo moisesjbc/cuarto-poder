@@ -4,13 +4,15 @@
 
 *Tras la matanza, los terroristas consiguieron huir, burlando a la policía y llegando hasta el puerto, donde trataron de escapar de incógnito en un barco mercantil. Sin embargo, la rápida reacción de nuestro ejército hizo que los terroristas quedaran rodeados. No obstante los atacantes, antes de que pudieran ser detenidos, prefirieron suicidarse. Para ello detonaron un artefacto explosivo colocado estratégicamente, hundiendo la embarcación con ellos dentro.*
 
-*La recuperación de los cuerpos del barco hundido, así como los abatidos en nuestra emisora, ha destapado una verdad que nos ha dejado sin palabras: los terroristas son en realidad militares ingleses encubiertos, presuntamente liderados por el general Cooper, un oficial condecorado. Las reacciones no se han hecho esperar, y el gobierno español ha pedido explicaciones a Inglaterra, quien niega toda relación con el ataque.*
+*La recuperación de los cuerpos del barco hundido, así como de los abatidos en nuestra emisora, ha destapado una verdad que nos ha dejado sin palabras: los terroristas son en realidad militares ingleses encubiertos, presuntamente liderados por el general Cooper, un oficial condecorado. Las reacciones no se han hecho esperar, y el gobierno español ha pedido explicaciones a Inglaterra, quien niega toda relación con el ataque.*
 
 *Sin embargo, no se nos pasa por alto que los Ingleses tenían una razón de peso para atacar a la corporación RIO. Si nuestros telespectadores lo recuerdan, nuestros informativos fueron los que destaparon la gran conspiración hace tres años, cuando Inglaterra planeaba atacar Estados Unidos aprovechando su delicada situación interna.*
 
 *El reportaje que descubrió ese nefasto plan corrió a cargo de nuestro gran exreportero Lucas, quien, lamentablemente, falleció también durante los acontecimientos de anoche y hoy. Su cuerpo, hallado en el puerto, refuerza la teoría de una represalia por parte del gobierno inglés.*
 
-*A lo largo de la mañana seguiremos informándoles sobre este trágico suceso, permanezcan atentos. Elizabeth Ramirez para el AT de Gran Canaria, corporación RIO.*
+*A lo largo de la mañana seguiremos informándoles sobre este trágico suceso. Permanezcan atentos.*
+
+*Elizabeth Ramirez para el AT de Gran Canaria, corporación RIO.*
 
 - Hija de puta, tú lo mataste – Ana miraba con desprecio a aquella asesina en el destartalado televisor que tenía enfrente. Escupía las palabras como si pudiera hacérselas llegar a través de las ondas – Juro que acabaré contigo.
 - Entiendo lo que estás pasando – Luís se mostró comprensivo – pero necesito saber qué pasó.
@@ -33,7 +35,7 @@ Luís resopló, sin dejar de mirar, meditativo, el paisaje desolador de un barri
 - Eso parece. Y por como gritaba, pareciera que realmente prefería la muerte.
 - Ya veo – respondió Luís, sombrío.
 - ¿Qué se nos ordena? - preguntó Ana, ya cansada del interrogatorio - ¿Cuál es el siguiente paso?
--  Desaparecer – contestó su compañero –, al menos de momento. Hemos abierto la Caja de Pandora.
+- Desaparecer – contestó su compañero –, al menos de momento. Hemos abierto la Caja de Pandora.
 
 Ana hizo una mueca. Luís sabía que esconderse no era su estilo, pero lo aceptaría para no comprometer a los suyos.
 
