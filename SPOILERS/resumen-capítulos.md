@@ -182,7 +182,7 @@ La familia Pérez llega a la ciudad burbuja tras un viaje de muchas horas en coc
 
 ## Notas
 
-- Familia: Mario (31 años, técnico informático), Lucía (35 años, rubia, profesora de matemáticas), Lara (estudiante, 16 años) y Elizabeth (estudiante, 14 años).
+- Familia: Mario (31 años, técnico informático), Lucía (35 años, rubia, profesora de matemáticas), Lara (estudiante, 16 años, melena castaña y lacia hasta media espalda) y Elizabeth (estudiante, 14 años, pelo rubio y rizado hasta los hombros).
 - El alcalde menciona que la muralla tiene más puertas pequeñas a parte de la principal y que se mantienen abiertas (¿mentira?).
 - Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
 - **¿Describir mejor a la familia?**
@@ -212,7 +212,13 @@ Han pasado 3 meses. Ana va con un equipo de rebeldes a rescatar a Arturo Ramíre
 
 # 18. Primer día de clase
 
-- Lara y Elizabeth juegan en su nueva casa. Luego, la familia va a su primer día de trabajo en el pueblo.
+Lara y Elizabeth juegan en su nueva casa. Luego, la familia va a su primer día de trabajo en el pueblo. Mientras está en clase, Lara resuelve una ecuación enorme sin apenas fijarse en ella. Entonces se escucha un xilófono emitía tres notas graves y cortas, seguidas de una larga y aguda. Al grito de "¡traidor!" los alumnos comienzan a atacar al profesor. Lara escapa y se choca con su hermana en el pasillo. Ambas buscan y rescastan a su madre que también está sufriendo el ataque de los alumnos. Escapan del instituto y el alcalde Batido de Maíz les felicita por haber superado "el primer nivel" mientras una horda de personas vienen corriendo para atacarles. El alcalde hace una señal a una de las cámaras y vuelve a sonar el xilófono, volviendo a las personas a la "normalidad".
+
+
+## Notas
+
+- ¿Nombrar las cámaras por todos lados (otra vez)?
+- ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies".
 
 
 # 19. El trayecto
