@@ -178,7 +178,13 @@ Ana y Luís (el polícia de incógnito del capítulo anterior) descansan en un p
 
 # 16. Una nueva vida
 
-- La familia Pérez llega a la ciudad burbuja, donde el alcalde Batido de Maíz los presenta al pueblo. Todo el pueblo se resguarda en sus casas cuando suenan las notas del xilofón. La familia se dirige a su nuevo hogar, donde un joven en bici les aconseja que huyan.
+La familia Pérez llega a la ciudad burbuja tras un viaje de muchas horas en coche por tierras desérticas. Una vez allí el alcalde Batido de Maíz los presenta al pueblo. Todo el pueblo se resguarda en sus casas cuando suenan las notas del xilofón. La familia se dirige a su nuevo hogar, donde un joven en bici (pelo castaño y ondulado) les aconseja que huyan.
+
+## Notas
+
+- Familia: Mario (31 años, técnico informático), Lucía (35 años, rubia, profesora de matemáticas), Lara (estudiante, 16 años) y Elizabeth (estudiante, 14 años).
+- El alcalde menciona que la muralla tiene más puertas pequeñas a parte de la principal y que se mantienen abiertas (¿mentira?).
+- Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
 - **¿Describir mejor a la familia?**
 
 
