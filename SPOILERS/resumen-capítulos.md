@@ -223,6 +223,19 @@ Lara y Elizabeth juegan en su nueva casa. Luego, la familia va a su primer día 
 
 # 19. El trayecto
 
-Agentes de RIO escoltan en una furgoneta al prisionero Jonás del “psiquiátrico” en el que lo retenían junto al Venezolano a su nueva prisión. Por el camino Jonás consigue escapar, ayudado por Iván, quien es un agente de la resistencia (**¿O un agente doble?**).
+Iván y dos agentes de RIO escoltan en una furgoneta al prisionero Jonás del “psiquiátrico” en el que lo retenían junto al Venezolano a su nueva prisión. Por el camino Jonás consigue escapar, ayudado por Iván, quien es un agente de la resistencia. Huyen a un piso franco e Iván le pone al día sobre los últimos movimientos de RIO y la resistencia, cuando una agente les interrumpe. Le informa sobre otra ciudad burbuja encontrada para la que Ana está preparando su liberación personalmente. Cuando Jonás pregunta por ello, Iván le pasa la foto, mientras dice "Parece que es tiempo de resurecciones".
 
+
+## Notas
+
+- En este capítulo se menciona que Jonás tiene nanomáquinas en su cabeza.
 - Escribí que Jonás calculaba el factorial de 100. Cambiar esto, ya que el factorial de 100 no es “algo neuronal”.
+- IMPORTANTE: Cambiar camión por furgón. Y decir que los captores de Jonás van vestidos de seguritas (por ejemplo, o algo de incógnito que vaya con el furgón, que no pueden ir alegremente con uniformes de RIO por ahí).
+- Recordar:
+    - Jonás hace “derecha, derecha, izquierda”.
+    - Iván lo salva.
+    - Mencionar que derecha, derecha, izquierda es lo que le indicó Iván al frotarse la calva por un lado o por otro. → ¿Buena señal?
+- Aclarar: ¿Dónde están?
+- Jonás menciona que fue obligado a programarle la clave del xilófono a los "sujetos". Cuando le preguntan por "programar" se señala la cabeza.
+- Nombrarlo más a Ajani en capítulos anteriores. Pensar en qué pudo estar haciendo durante todo este tiempo.
+- No menciono que la foto es de la familia Pérez, ni la reacción de Jonás. Mencionar en capítulos posteriores.
