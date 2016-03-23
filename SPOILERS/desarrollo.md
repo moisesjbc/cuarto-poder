@@ -1,3 +1,37 @@
+# Esbozo del resto del libro
+
+1. Ana y los suyos liberan la ciudad burbuja, rescatando a "Mario" y a su familia. Mario resulta ser Lucas y Lara, la hermana de Jonás.
+
+    - ¿Cómo se "desprograma" a Mario, Lara y los demás?
+    - ¿Quiénes resultan son Lucía y Elizabeth?
+    - ¿Jonás se desentiende de todo y sólo quiere irse con su hermana?
+    - ¿Cómo liberan la ciudad burbuja?
+    - ¿Cuando están huyendo, una nube de nanomáquinas enorme desintegra la ciudad? ¿Otra cuestión más creible para que RIO destruya pruebas de las ciudades burbuja?
+    - Nombrar que las ciudades burbujas interceptan todas las comunicaciones con el exterior.
+
+2. Sucesos del almacén en África.
+
+    - ¿Interés de ir ahí?
+    - ¿Qué encuentran finalmente ahí?
+    - Introducimos a Ajani.
+    - Recuperar hechos del relato original.
+    - ¿Mover esto al final y que sea una emboscada de RIO?
+
+3. ¿Se planea un plan de ataque contra RIO para acceder a su base de datos interna y exponer todas sus prácticas (Estilo Prison Break)?
+
+## Tener en cuenta
+
+- Explicar lo de las nanomáquinas.
+- ¿Ajani conoce Atlántida?
+- Explicar la utilidad de las ciudades burbuja.
+- ¿Qué hace Atlántida en todo este tiempo?
+- ¿Cooper? ¿Aitor? ¿Kasim?
+- Explicar lo de la sensibilidad de Lucas a las mismas.
+- Introducir a Ajani.
+- Contar la historia falsa de RIO.
+- Atlántida.
+- **Integrar resto de notas de este documento y del resumen de capítulos aquí**.
+
 # 1. Contexto
 
 Guerra fría a escala global. Países destinando la mayor parte del presupuesto al gasto militar y de espionaje, empobreciendo a la población civil.
@@ -9,7 +43,7 @@ Interés de RIO en esta situación: “cuando los problemas te rodean, pocas per
 
 ## 2.1. Descripción
 
-RIO es una corporación de medios de información que ocupa una posición de monopolio en un mundo dominado por una guerra fía a escala global.
+RIO es una corporación de medios de información que ocupa una posición de monopolio en un mundo dominado por una guerra fría a escala global.
 
 ## 2.2. Origen real de RIO
 
