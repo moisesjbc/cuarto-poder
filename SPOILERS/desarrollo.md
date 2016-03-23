@@ -192,6 +192,7 @@ Posible motivo: ampliar el control de RIO sobre los habitantes de La Tierra.
 - La hija de Jonás es realmente la de Paco. Paco se hizo el malo e hizo que Jonás pensara esto para poder salvar a su hija → Ella recibe una carta de Paco tras su muerte: “Nunca sabrás... lo mucho que te quiero”.
 - FIN -> BOMBA NUCLEAR (O BOMBAS REPARTIDAS POR TODO EL MUNDO, PROVOCANDO LA GUERRA)
     - Antes de las explosiones, Jonás corre hacia el enemigo y se convierte en una nube de nanomáquinas que se lleva al enemigo consigo. Jonás quiere salvarlo para interrogarlo y saber dónde esconde a su hija.
+    - Lucas es teletransportado. El libro termina con Lucas fijándose en que hay dos lunas y preguntándose dónde está.
 - En alguna parte (¿del segundo libro?) Ana mata a su hermana cuando intentan chantajearla con matarla. “El objetivo antes que la familia”.
 - Idea: Jonás es un agente durmiente de RIO para infiltrarse en la resistencia y destruirla desde dentro. Al final del libro mata a los líderes por orden de Paco, el “polícia torpe” que resulta uno de los mandamases de RIO.
     - Mirar cómo juntar esto con lo de Atlántida.
