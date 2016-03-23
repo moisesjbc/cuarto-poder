@@ -36,7 +36,7 @@
 
 Guerra fría a escala global. Países destinando la mayor parte del presupuesto al gasto militar y de espionaje, empobreciendo a la población civil.
 
-Interés de RIO en esta situación: “cuando los problemas te rodean, pocas personas se paran a mirar hacia las estrellas”.
+
 
 
 # 2. La corporación RIO
@@ -56,6 +56,8 @@ La corporación RIO surge como un mecanismo de control de los colonos para mante
 - Pueden ir rescatando a gente poco a poco tras asegurarse de que no son una amenaza.
 [2]: En el libro puedo incluir alguna referencia a que la computación cuántica se demostró una pérdida de tiempo. Esto es una invención de RIO para evitar que la humanidad progrese y descubra a los colonos.
 [3]: ¿No hay un plan maestro?
+
+Interés de RIO en esta situación: “cuando los problemas te rodean, pocas personas se paran a mirar hacia las estrellas”.
 
 ## 2.3. Origen ficticio de RIO (¿y real?) de la resistencia
 
@@ -253,10 +255,6 @@ Posible motivo: ampliar el control de RIO sobre los habitantes de La Tierra.
 
 
 (*) ¿Lo de darle capacidad de cómputo a Jonás mediante nanomáquinas no sería contraproducente con frenar el progreso de la humanidad?
-
-# 5.1. Alternativa a la huida
-
-En el siguiente capítulo, los soldados llegan al final del pasillo, y descubren que el pasillo gira a ambos lados para bordear un cuadrado. Al otro lado ven un gran cuadro, el cual se levanta y deja ver un ascensor detrás. Cuando están en él, Jonás les habla por el interfono del teléfono, diciendo que está arriba con Ana (él llegó antes que ella). Jonás dice que están en un archivo de la corporación y tiene las pruebas de lo de Inglaterra, así como mucha más información. Para proteger a los militares, Jonás bloquea el acceso a su sala y promete llevarles la información, alegando que "Ana sabrá cuidarnos muy bien". En su lugar los lleva al sótano en el ascensor (no les queda otra, la policía y los de la cadena están llegando a la planta 26) y les indica como llegar al metro. Jonás les avisa de que Lucas mareará en el metro, pero estarán a salvo (inutilizó el control remoto de las nanomáquinas -NO DICE ESTO). Se pierde la comunicación con Jonás y Ana. Ana aparecerá algunos capítulos (por ejemplo xD) y les dará parte de la información, así como los planos de la base aérea. Dirá que capturaron a Jonás y que este, antes de despedirse de Ana le dijo que seguramente lo llevarían allí, y que tienen que rescatarlo. Pero antes... (¿ciudades burbuja, o almacén en áfrica?) -> Jonás no pudo recuperar la información y las pruebas, pero consiguió averigurar el destino, el almacén de África. Ciudades burbuja después, cuando consiguen repartir las pruebas de lo de Inglaterra.
 
 
 # 6. Notas varias
