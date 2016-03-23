@@ -48,6 +48,7 @@ El vagabundo, ignorando la cara de pocos amigos con la que el coronel avanzaba h
 
 Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la nariz y dividía su sonrisa en dos. Ninguna de ellas parecía albergar grandes esperanzas.
 
+
 # 5. Lluvia de ideas para la forma de escapar de Jonás en el capítulo 19.
 
 - ¿Cómo escapa Jonás?
@@ -59,3 +60,11 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
     - d) Pega un pisotón en el suelo y éste se desprende bajo él, haciéndolo caer sobre una alcantarilla abierta (Iván lo avisa secretamente) → ¡Venga hombre!
     - e) Cegadora oculta en la bombilla del techo → ¿Cómo se ocultaría ahí?
     - d) ¡Guante y nanomáquinas!
+
+
+# 6. Idas de olla varias / descartes
+
+- Las nanomáquinas de Jonás le permite manejar a otras personas con una restricción: cuando está en el modo “fantasma” tiene que moverse y poseer a la víctima estando en su misma posición para poder sincronizarse con ella.
+    - Al final del libro, cuando está a punto de poseer al malo: éste dice “no, no me poseerás” y empezará a bailar y a moverse hacia todos lados.
+- Lara es la hija de Jonás, no su hermana. El vagabundo embarazó a la madre de Lara después de que escapara de La Cadena.
+- Hacer algún minicapítulo de cuando capturan a Jonás. Sucesión de pruebas, y el pensamiento de Jonás yéndose por las ramas resolviendo múltiples problemas y sangrándole la nariz. Los científicos probando compuestos.
