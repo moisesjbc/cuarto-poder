@@ -211,7 +211,7 @@ El alcalde hizo caso omiso de la segunda pregunta: - Digamos que… - buscaba me
 - ¡Joder! - se preocupó Elizabeth. Mirando hacia todos lados, sin encontrar una vía de escape. - ¡Mierda!
 - ¡Pero hoy no! - sonrió el alcalde.
 
-Seguidamente miró ligeramente hacia la izquierda y hacia arriba, hacia una cámara de seguridad situada en el muro del instituto y asintió con la cabeza. Entonces las supervivientes escucharon un ruido familiar proveniente de todas partes: tres notas de xilofón cortas y agudas, seguidas de una larga y grave.
+Seguidamente miró ligeramente hacia la izquierda y hacia arriba, hacia una cámara de seguridad situada en el muro del instituto y asintió con la cabeza. Entonces las supervivientes escucharon un ruido familiar proveniente de todas partes: tres notas de xilofóno cortas y agudas, seguidas de una larga y grave.
 
 - ¡Mirad! - gritó Elizabeth, mirando hacia delante.
 La turba se había detenido a pocos metros de ellas, tras el alcalde. Sus caras se habían transformado por completo y ya no quedaba ni rastro de la furia anterior.

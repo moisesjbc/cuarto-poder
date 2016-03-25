@@ -142,3 +142,4 @@ Iván se giró hacia él.
 ## Navegación
 
 - [Capítulo anterior: 18 - Primer día de clase](c18_primer-día-de-clase.md)
+- [Capítulo siguiente: 20 - Escapando del infierno](c20_escapando_del_infierno.md)

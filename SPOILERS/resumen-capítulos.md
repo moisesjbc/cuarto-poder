@@ -239,3 +239,8 @@ Iván y dos agentes de RIO escoltan en una furgoneta al prisionero Jonás del �
 - Jonás menciona que fue obligado a programarle la clave del xilófono a los "sujetos". Cuando le preguntan por "programar" se señala la cabeza.
 - Nombrarlo más a Ajani en capítulos anteriores. Pensar en qué pudo estar haciendo durante todo este tiempo.
 - No menciono que la foto es de la familia Pérez, ni la reacción de Jonás. Mencionar en capítulos posteriores.
+
+
+# 20. Escapando del infierno
+
+
