@@ -1,18 +1,18 @@
 # Esbozo del resto del libro
 
-1. Ana y los suyos liberan la ciudad burbuja, rescatando a "Mario" y a su familia. Mario resulta ser Lucas y Lara, la hermana pequeña de Jonás.
+1. Lucas despierta de su "hipnosis" y Lara se reúne con su hermano mayor Jonás.
 
-    - ¿Cómo se "desprograma" a Mario, Lara y los demás?
-    - ¿Quiénes resultan son Lucía y Elizabeth?
+    - ¿Quiénes resultan ser Lucía y Elizabeth?
     - ¿Jonás se desentiende de todo y sólo quiere irse con su hermana?
-    - ¿Cómo liberan la ciudad burbuja?
+    - **¿Publican información sobre cada ciudad burbuja o RIO se encarga de borrar todas las pruebas (inhibidores)?**
     - ¿Cuando están huyendo, una nube de nanomáquinas enorme desintegra la ciudad? ¿Otra cuestión más creible para que RIO destruya pruebas de las ciudades burbuja?
     - Nombrar que las ciudades burbujas interceptan todas las comunicaciones con el exterior.
     - Antes del rescate poner alguna situación que le de mareo a Mario -> ¿Y si los lectores lo reconocen rápidamente?
+        - O mencionarlo ahora a posteriori.
     - Mencionar la foto de la familia Pérez. ¿Quizás es de cuando estaban siendo presentados ante el pueblo?
     - ¿Cómo se la cuelan tan bien que mataron a Lucas? ¿Cómo “lo cambian”? → ¿Nanomáquinas dentro suyo?
 
-2. Lucas se une a la resistencia y es entrenado por esta. Descubre la historia falsa de RIO y de la resistencia.
+2. Lucas es entrenado por esta. Descubre la historia falsa de RIO y de la resistencia.
 
     - Recalcar que Ana y otras personas lo suelen observar durante los entrenamientos y discuten entre sí (¿reclutarlo para Atlanta?).
     - Contar también que entra en un equipo de "detectores" de nanomáquinas
