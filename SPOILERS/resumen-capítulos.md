@@ -243,4 +243,8 @@ Iván y dos agentes de RIO escoltan en una furgoneta al prisionero Jonás del �
 
 # 20. Escapando del infierno
 
+Lucía, Lara y Elizabeth se reúnen con Mario frente a su casa. Todos se suben al coche y tratan de huir de la ciudad mientras el alcalde Batido de Maíz se burla de ellos por megafonía. Justo cuando son emboscados en una de las calles por los vecinos, las notas de xilófono hace que estos últimos se dirijan a la plaza de la ciudad a gritos de "¡traidor!". Hombres y mujeres vestidos de azul (resistencia) capturan a la familia y la lleva a la plaza para presenciar la ejecución del alcalde y otras personas. Entonces suenan las notas de xilófono, pero esta vez son diferentes (tres notas agudas y largas de xilófono, seguida de una grave y corta). Toda la ciudad comienza a sentirme mal y a desplomarse. Una mujer pelirroja se acerca a Mario y le pregunta "¿Lucas?". Mario responde "¿Ana?" justo antes de desmayarse.
 
+## Notas
+
+- Tengo la sensación de que a veces me refiero a la ciudad burbuja como un pueblo y otras veces como una ciudad. Comprobar en este y en los otros capítulos relacionados.

@@ -142,8 +142,32 @@ Fue entonces cuando escucharon gritar al alcalde.
 - ¡No! ¡Parad! ¡Tengo información relevante sore RIO! ¡Tengo información relevante sobre RIO! ¡Noooo!
 - ¡Muerte!
 
-La familia fue conducida por entre la multitud hasta primera fila. Nadie de los presente los miraba a ellos, sino que miraban directamente hacia el escenario del centro de la plaza, al pie de la gran torre de piedra rojiza bajo la cual la familia habia sido presentada a la ciudad el día anterior. Los gritos de "¡muerte!" eran ensordecedores.
+Los captores conducían a la familia por entre la multitud hasta primera fila. Nadie de los presente los miraba a ellos, sino que miraban directamente hacia el escenario del centro de la plaza, al pie de la gran torre de piedra rojiza bajo la cual la familia habia sido presentada a la ciudad el día anterior. Los gritos de "¡muerte!" eran ensordecedores.
 
+Cuando la familia llegó a primera fila, vieron al alcalde Batido de Maíz, junto con otros cautivos, de rodillas sobre el escenario. Tras cada uno de ellos había un hombre o mujer con la misma ropa azul que los captores de la familia Pérez. Cada uno de los que estaban de pie apuntaba con su pistola al arrodillado que tenían frente a sí.
+
+- ¿Papá? - Surruró Elizabeth.
+- Dime.
+- ¿Por qué te mira la mujer del centro?
+
+Era verdad. La mujer de chandal azul y pelo pelirrojo situada tras el alcalde Batido de Maíz había dejado de mirar al alcalde para mirar fijamente a Mario. ¿Acababa de sonreirle? De repente, su gesto se tornó serio y volvió a mirar a la congregación allí reunida, sin dejar de encañonar a Batido de Maíz.
+
+- Esta ciudad burbuja...
+- ¡No, por favor! - suplicó el alcalde Batido de Maíz.
+- ¡Esta ciudad burbuja queda liberada!
+
+El eco de los disparos fue pronto superado por la ovación del público, pero a los pocos segundos, también ésta fue silenciada por otro ruido.
+
+Tres notas agudas y largas de xilófono, seguida de una grave y corta.
+
+La familia empezó a sentir cómo les fallaban las piernas. Instintivamente, los padres abrazaron a sus hijas; Lucía abrazó a Lara, y Mario a Elizabeth. Mientras se tambaleaban comprobaron que no eran los únicos. A excepción de los extranjeros vestidos de azul, toda la ciudad había comenzado a sentirse mal. Mario vio incluso que algunos vecinos vomitaban antes de desplomarse.
+
+- ¡Papá! ¡La mujer...! - el grito de Elizabeth se desvaneció a medida que perdía la consciencia.
+
+Mario intentó agarrarla, pero entonces él también cayó y lo único que pudo hacer antes de desplomarse fue intentar no aterrizar sobre su hija pequeña. Tendido en el suelo miró a su lado; Lucía y Lara también se habían caído. Entonces comenzaron los gritos. A todos los vecinos les embargó un terrible dolor de cabeza durante unos segundos. Mario estuvo a punto de perder la consciencia pero entonces el dolor se desvaneció, y con él algo más. No se sentía él mismo.
+
+- ¿Lucas? - La mujer pelirroja se encontraba de pie a su lado, mirándolo con preocupación.
+- ¿Ana? - Fue su respuesta antes de desmayarse.
 
 
 # Navegación
