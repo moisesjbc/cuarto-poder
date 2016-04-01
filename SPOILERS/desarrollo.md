@@ -7,31 +7,45 @@
     - **¿Publican información sobre cada ciudad burbuja o RIO se encarga de borrar todas las pruebas (inhibidores)?**
     - ¿Cuando están huyendo, una nube de nanomáquinas enorme desintegra la ciudad? ¿Otra cuestión más creible para que RIO destruya pruebas de las ciudades burbuja?
     - Nombrar que las ciudades burbujas interceptan todas las comunicaciones con el exterior.
+    - ¿Lucas recuerda su estancia su vida como Mario? ¿O simplemente tiene flashbacks.
     - Antes del rescate poner alguna situación que le de mareo a Mario -> ¿Y si los lectores lo reconocen rápidamente?
         - O mencionarlo ahora a posteriori.
     - Mencionar la foto de la familia Pérez. ¿Quizás es de cuando estaban siendo presentados ante el pueblo?
     - ¿Cómo se la cuelan tan bien que mataron a Lucas? ¿Cómo “lo cambian”? → ¿Nanomáquinas dentro suyo?
+    - Explicar la utilidad de las ciudades burbuja.
+    - Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
+    ¿Algún personaje principal es en realidad un activo de la cadena?.
 
-2. Lucas es entrenado por esta. Descubre la historia falsa de RIO y de la resistencia.
+2. Aitor y su equipo liberan la ciudad burbuja donde se encuentra Cooper.
+
+    - En esta ciudad burbuja, cada cierto tiempo proyecta un holograma en el cielo con el siguiente gran peligro: aire venenoso, criaturas peligrosas, etc.
+    - ¿Ambos mueren al final del capítulo?
+
+3. Lucas es entrenado por la resistencia. Descubre la historia falsa de RIO y de la resistencia.
 
     - Recalcar que Ana y otras personas lo suelen observar durante los entrenamientos y discuten entre sí (¿reclutarlo para Atlanta?).
     - Contar también que entra en un equipo de "detectores" de nanomáquinas
         - RM: Reality Makers
     - Explicar lo de la sensibilidad de Lucas a las mismas.
     - RIO surgue en la Revolución Industrial para aprovechar la gran influencia de la prensa escrita sobre los obreros. La resistencia nace a partir de uno de los obreros radicales que es acusado injustamente de asesinato para acallarlo.
+    - RIO pierde poder en Inglaterra y ve un nuevo nicho en España.
+        - **PENSAR: significado falso de las siglas RIO**
+        - Relacionar con hechos históricos.
+        - ¿Cuándo fue y qué pudieron encontrar en España en esa época que los atrajera más que a nadie? (¿Descubrimiento de América? ¿Edad de Oro?).
 
-3. Sucesos del almacén en África.
+4. La resistencia es avisada sobre un campo de entrenamiento de RIO donde se entrena a niños soldado (**¿con qué fin?**). Cuando Lucas y los demás están allí descubren que se trata de una emboscada de RIO.
 
     - ¿Interés de ir ahí?
     - ¿Por qué un almacén en áfrica? ¿Seguimiento de un proyecto para crear niños soldado que pasen a formar parte del ejército de la corporación RIO (CONEXIÓN CON AJANI Y KARIM)? 
     - ¿Realmente Ana, Lucas y el resto están en otro - cuál - y en este capítulo son otras personas de la resistencia?
+    - ¿Especificar cómo era el plan de que Lucas y otros miembros valiosos de la resistencia fueran allí?
+    - ¿O especificar un ataque simultáneo a múltiples lugares de la resistencia?
     - ¿Qué encuentran finalmente ahí?
     - Introducimos a Ajani.
     - Recuperar hechos del relato original.
-    - ¿Mover esto al final y que sea una emboscada de RIO?
     - Cuando Ajani haga su aparición, hacer referencia a los soldados que caen sin razón aparente (la francotiradora – la sombra).
+    - **¿Terminar libro con traspaso de Lucas a Atlanta?**
 
-4. ¿Se planea un plan de ataque contra RIO para acceder a su base de datos interna y exponer todas sus prácticas (Estilo Prison Break)?
 
 # A tener en cuenta
 
@@ -55,19 +69,11 @@
 
 (*) El objetivo de las nanomáquinas puede ser el control total de la población para permitir que progrese siempre que el progreso no les lleve a descubrir Atlanta (¿es Atlanta o Atlántida?)
 
+
 ## Atlántida
 
 - ¿Ajani conoce Atlántida?
-
-
-## Ciudades burbuja
-
-- Explicar la utilidad de las ciudades burbuja.
-- Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
-    ¿Algún personaje principal es en realidad un activo de la cadena?.
-- ¿Mejorar sus tácticas de control / reinicio mental?
-- Idea loca: las ciudades burbuja no existen físicamente. Se inducen a las en un coma inducido y se les plantea esa realidad para convertirlos en agentes durmientes y / o torturarlos.
-    - También puede ser que sea una prueba para ciudadanos prometedores para Atlanta.
+- ¿Las ciudades burbujas son pruebas para descubrir ciudadanos prometedores para Atlanta?
 
 
 ## Inglaterra
@@ -86,7 +92,6 @@
     - a) Jonás no es consciente de ello hasta que lo intentan conectar o se conecta por alguna razón.(*)
     - b) Jonás lleva tiempo conectándose con otros sujetos de prueba que forman una organización secreta para vengarse de RIO y tumbarla.
 Posible motivo: ampliar el control de RIO sobre los habitantes de La Tierra.
-- Idea: incluir lo de la ciudad burbuja que cada cierto tiempo proyecta un holograma en el cielo con el siguiente gran peligro: aire venenoso, criaturas peligrosas, etc.
 
 ## Posibles finales
 
@@ -147,24 +152,6 @@ La corporación RIO surge como un mecanismo de control de los colonos para mante
 - “Cuando los problemas te rodean, pocas personas se paran a mirar hacia las estrellas”.
 
 - ¿La gente de RIO sabe lo de Atlántida? ¿También están engañados? ¿50/50?.
-
-### Origen del nombre RIO
-
-- RIO, en privado, son las siglas de “Reality is Ours!”, pero de cara al público, es un nombre. ¿No debería ponerlo como “Río” en el libro?.
-- Sobre el significado de RIO en español...
-    - a) Dejan RIO como el nombre desde el principio. ¿En su momento se dieron cuenta del significado en Español y usaron ese nombre de cara al público desde el principio?
-        - Mejor no. Prefiero que la “RIO pública” nazca más adelante, quizás cuando llegan a España y se dan cuenta de la casualidad del nombre.
-    - b) Internamente usan RIO. Públicamente se confunden entre multitud de medios de comunicación sin conexión aparente.
-        - Al llegar a España se dan cuenta de la casualidad del nombre y lo usan como nombre.
-- **Cambiar el nombre de RIO si cambio su origen.**
-
-### RIO en España
-
-- a) RIO pierde poder en Inglaterra y ve un nuevo nicho en España.
-    - Relacionar con hechos históricos.
-    - ¿Cuándo fue y qué pudieron encontrar en España en esa época que los atrajera más que a nadie? (¿Descubrimiento de América? ¿Edad de Oro?).
-- b) RIO no pierde poder en Inglaterra, simplemente se expande. Se hace fuerte en España cuando ve todo el poder de la telebasura y los desmanes de los políticos.
-
 
 # Notas varias
 
