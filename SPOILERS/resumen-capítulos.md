@@ -248,3 +248,9 @@ Lucía, Lara y Elizabeth se reúnen con Mario frente a su casa. Todos se suben a
 ## Notas
 
 - Tengo la sensación de que a veces me refiero a la ciudad burbuja como un pueblo y otras veces como una ciudad. Comprobar en este y en los otros capítulos relacionados.
+
+# 21. Sin título
+
+## Notas
+
+- Cambiar título.
