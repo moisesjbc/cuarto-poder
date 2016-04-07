@@ -25,13 +25,36 @@ Joseph la ignoró a ella también.
 
 La furgoneta se detuvo en medio de un páramo desierto al merced de la noche. Conductor y pasajeros se equiparon con sus gafas de visión nocturna y abandonaron el vehículo, situándose frente a este.
 
-En el horizonte vislumbraron las altas murallas de piedra que rodeaban a la ciudad. Una sucesión de focos emplazados a lo largo de la muralla bañaba de luz unos 50 metros hacia fuera.
+En el horizonte vislumbraron las altas murallas de piedra que rodeaban a la ciudad. Una sucesión de focos emplazados a lo largo de los muros bañaba de luz unos 50 metros hacia fuera.
 
 - Vamos... - Joseph no dejaba de mirar hacia la parte superior del gran portón de madera. Creía ver una figura humana situada sobre la puerta, pero no podía asegurarlo -, vamos... .
 
-Entonces una luz
+Entonces apareció una nueva luz, tímida, sobre el portón de madera. Parpadeó un par de veces antes.
 
+- Esa es nuestra señal - se alegrón Joseph - ¡vamos!.
 
+El conductor, Lidia y Aitor avanzaban por el lado izquierdo de la carretera de piedras que conducía directamente hacia la entrada sur de la ciudad. Marta y Joseph corrían por el lado derecho.
+
+- Los laterales están mejor que la carretera - dijo Lidia, divertida.
+
+Joseph se limitó a mandarla a callar.
+
+- ¡Shhh!.
+
+Los dos subgrupos continuaron en silencio hasta alcanzar la entrada de la ciudad. Esperaron a que el gran portón de madera se abriera, pero en lugar de eso, alguien los avisó desde arriba.
+
+- ¡Eh! - era un grito ahogado, para evitar despertar a nadie. Los miembros de la resistencia miraron hacia arriba. - ¡Subid!
+
+La misteriosa figura les ofreció una cuerda por el muro a la derecha del portón. Los visitantes se miraron entre sí.
+
+- Pensé que nos abrirían el portón - se extrañó Aitor.
+- Yo también - respondió Joseph, agarrando la cuerda y subiendo por ella.
+
+El grupo siguió a su superior, intentando no usar la cuerda más de dos personas a la vez, por si acaso. A medida que llegaban arriba, la figura misteriosa se transformaba en una mujer de unos treinta años, con el pelo largo, castaño y rizado, aplastado bajo una gorra blanca con el escudo de la ciudad. Su figura esbelta quedaba resaltada por un uniforme completamente blanco salvo por unas líneas horizontales azules en las mangas de la camisa y el pantalón. La agente infiltrada le tendió la mano a cada uno y esperó a que todos subieran antes de hablar.
+
+- Hola, mi nombre es Alicia. En primer lugar, siento no haber abierto el portón. Con la liberación de las últimas ciudades burbuja RIO se ha vuelto más desconfiada y ha añadido sistemas de alarma más sofisticados. Oh, no se preocupe - se interrumpió al observar a Joseph activando su radio - mis compañeros de las puertas este y oeste avisarán a sus hombres. Bien, tal como informé a nuestros superiores, el sistema de entrenamiento no se activará de nuevo hasta las 5, por lo que tenemos una hora para capturar el centro de control. Yo les guiaré hasta allí ¿Entendido? - y sin esperar respuesta, añadió - Bien.
+
+Alicia avanzó unos metros por la parte superior de la muralla, alejándose del portón. Los visitantes la siguieron de cerca hasta que la infiltrada llegó a un montón de cuerda <... se asomó por el lado interior de la muralla>
 
 
 # Navegación

@@ -13,6 +13,7 @@
     - Mencionar la foto de la familia Pérez. ¿Quizás es de cuando estaban siendo presentados ante el pueblo?
     - ¿Cómo se la cuelan tan bien que mataron a Lucas? ¿Cómo “lo cambian”? → ¿Nanomáquinas dentro suyo?
     - Explicar la utilidad de las ciudades burbuja.
+        - **En el capítulo 21 hablo del "sistema de entrenamiento de RIO"**.
     - Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
     ¿Algún personaje principal es en realidad un activo de la cadena?.
 
