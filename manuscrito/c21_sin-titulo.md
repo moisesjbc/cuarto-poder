@@ -54,7 +54,26 @@ El grupo siguió a su superior, intentando no usar la cuerda más de dos persona
 
 - Hola, mi nombre es Alicia. En primer lugar, siento no haber abierto el portón. Con la liberación de las últimas ciudades burbuja RIO se ha vuelto más desconfiada y ha añadido sistemas de alarma más sofisticados. Oh, no se preocupe - se interrumpió al observar a Joseph activando su radio - mis compañeros de las puertas este y oeste avisarán a sus hombres. Bien, tal como informé a nuestros superiores, el sistema de entrenamiento no se activará de nuevo hasta las 5, por lo que tenemos una hora para capturar el centro de control. Yo les guiaré hasta allí ¿Entendido? - y sin esperar respuesta, añadió - Bien.
 
-Alicia avanzó unos metros por la parte superior de la muralla, alejándose del portón. Los visitantes la siguieron de cerca hasta que la infiltrada llegó a un montón de cuerda <... se asomó por el lado interior de la muralla>
+Alicia avanzó unos metros por la parte superior de la muralla, alejándose del portón. Los visitantes la siguieron de cerca hasta que la infiltrada se detuvo y se asomó por el lado interior de la muralla. Entonces se encaramó y comenzó a bajar por una cuerda. 
+
+Joseph y su grupo imitaron a Alicia. Mientras bajaban, se lamentaban del ruido que producía su decenso en medio de una noche por lo demás silenciosa.
+
+- No se procupen - dijo Alicia desde más abajo, sin parar de descender -, me he encargado de los guardias de este sector. Estamos a salvo.
+- ¿Y los vecinos? - se procupó Joseph.
+- Las casas de esta zona de la muralla están en obras y sus habitantes ha sido realojados en otros lugares. No digo que nos pongamos a gritar, pero tampoco me preocuparía del ruido de pisadas.
+- Entiendo.
+
+Cuando Alicia llegó al suelo, y sin esperar al grupo, cruzó la calle y entró en una de las casas en obras en la otra acera. Joseph en cambio, esperó a que sus unidad al completo estuviera a pie de calle para seguir a la infiltrada al interior. Mientras cruzaban la calle, Marta, en segunda posición, no perdía de vista el cielo.
+
+- Sin proyecciones - informó al grupo en voz baja.
+- Perfecto - se alegró Joseph.
+
+La unidad entró en la casa donde habían visto entrar a Alicia. A primera vista, la única pista de que hubieran obras en la casa era el cordón de seguridad que la rodeaba y que Alicia había sorteado para entrar. Por lo demás, el grupo estaba entrando en una casa azul de dos plantas cuya fachada aparentaba ser la de un hogar perfectamente habitable.
+
+El olor a muerte abofeteó a cada uno de los miembros de la resistencia según accedían a aquel lugar. La unidad entró en un recibidor presidido por una mesa de cristal hecha añicos y con muestras de sangre. Joseph y los suyos alzaron la vista y sus armas hacia arriba. Una suntuosa escalera de madera situada en la pared izquierda ascendía hasta el segundo piso, del cuál sólo alcanzaban a ver una barandilla de madera que daba al primer piso y que estaba destrozada allí desde donde parecía que habían tirado a la víctima. El grupo estuvo tentado de subir a investigar, pero entonces Alicia los llamó desde la parte trasera del recibidor, pasando la mesa trasera, donde un arco daba paso a lo que parecía ser el salón.
+
+- ¡Eh! ¡Por aquí!
+
 
 
 # Navegación
