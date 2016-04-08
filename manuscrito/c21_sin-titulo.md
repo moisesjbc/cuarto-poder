@@ -56,10 +56,10 @@ El grupo siguió a su superior, intentando no usar la cuerda más de dos persona
 
 Alicia avanzó unos metros por la parte superior de la muralla, alejándose del portón. Los visitantes la siguieron de cerca hasta que la infiltrada se detuvo y se asomó por el lado interior de la muralla. Entonces se encaramó y comenzó a bajar por una cuerda. 
 
-Joseph y su grupo imitaron a Alicia. Mientras bajaban, se lamentaban del ruido que producía su decenso en medio de una noche por lo demás silenciosa.
+Joseph y su grupo imitaron a Alicia. Mientras bajaban, se lamentaban del ruido que producía su descenso en medio de una noche por lo demás silenciosa.
 
-- No se procupen - dijo Alicia desde más abajo, sin parar de descender -, me he encargado de los guardias de este sector. Estamos a salvo.
-- ¿Y los vecinos? - se procupó Joseph.
+- No se preocupen - dijo Alicia desde más abajo, sin parar de descender -, me he encargado de los guardias de este sector. Estamos a salvo.
+- ¿Y los vecinos? - se preocupó Joseph.
 - Las casas de esta zona de la muralla están en obras y sus habitantes ha sido realojados en otros lugares. No digo que nos pongamos a gritar, pero tampoco me preocuparía del ruido de pisadas.
 - Entiendo.
 
@@ -74,7 +74,33 @@ El olor a muerte abofeteó a cada uno de los miembros de la resistencia según a
 
 - ¡Eh! ¡Por aquí!
 
+Joseph, Marta, Lidia, Aitor y el conductor avanzaron hasta la siguiente estancia, donde también había señales de lucha. Los sillones estaban destartalados y salpicados de sangre, y la mesa frente a ellos había corrido la misma suerte que su hermana del recibidor. Alicia avanzó hasta la puerta corredera que daba al jardín trasero, seguida por Joseph y los suyos.
 
+- ¿Qué ha pasado aquí? - Se interesó Joseph, sin dejar de seguir a Alicia.
+- Proyectaron sobre el cielo la señal de exceso de población - respondió la mujer mientras salía al jardín trasero. La brisa nocturna acarició su pelo largo y castaño.
+- Malditos cabrones.
+
+Los miembros de la resistencia y Alicia avanzaron por el jardín trasero y accedieron mediante una pequeña puerta en la valla de madera a la calle. Continuaron avanzando, pendientes de sus alrededor,  hacia la avenida. Joseph se llevo la mano a un pequeño auricular en su oído derecho y sonrió, antes de responder ante el pequeño micrófono que acariciaba su mejilla.
+
+- Perfecto, esperad ahí - y al presionar de nuevo el botón del auricular para interrumpir la comunicación, informó a su grupo - ya se encuentran rodeando la plaza principal. Nos están esperando.
+- Pensé que llegarían todos al unísono - se extrañó Alicia.
+- Nos gusta tomárnoslo como una competición - sonrió Joseph -, y parece que hemos perdido.
+
+El grupo alcanzó la calle principal y la encontró desierta, como era de esperar a aquellas horas de la noche. Se trataba de una avenida de doble sentido, con ambos carriles separados por una línea de árboles que se alzaban orgullosos y robustos. La unidad avanzaba en fila india por la acera de la derecha, presididos por Alicia.
+
+Mientras avanzaban, Aitor, en tercera posición tras Joseph, se giró y miró fijamente a Marta, Lidia y el conductor, sin dejar de avanzar. Sus compañeros asintieron. Entonces Aitor le golpeó el hombro derecho a Joseph y todos menos la infiltrada se detuvieron en seco.
+
+- Se acabó, Alicia.
+- ¿Qué?
+
+Alicia había avanzado varios metros antes de detenerse. Cuando se giró, la unidad estaba encañonándola.
+
+- a) Los miembros de la resistencia en realidad son de RIO. Intervinieron las comunicaciones de la resistencia y se hicieron pasar por ella para descubrir a los agentes infiltrados.
+    - Quizás muy intrincado.
+    - ¿Por qué durante primera parte del capítulo los de la resistencia actúan como tal si no es necesario?
+    - Aclarar que este Aitor es otro o si es el mismo, aclarar qué le pasó.
+- b) La que es de RIO es Alicia y los otros equipos se lo comunicaron a Joseph por el auricular. Alicia activa el sistema de la ciudad antes de morir / escapar.
+    - Cambiar y decir que Joseph es el que avisa al equipo de la traidora en lugar de Aitor.
 
 # Navegación
 
