@@ -107,7 +107,7 @@ El silencio de la noche dejó de ser cuando tres notas agudas y largas de xilóf
 
 - A mi señal, entrad en la casa. - Se limitó a ordenar Joseph, sin dejar de mirar al cielo nocturno. Su unidad no dejó de formar guardia alrededor de la puerta, listos para entrar en cualquier momento.
 
-Los altavoces de la ciudad escupieron un vostezo.
+Los altavoces de la ciudad escupieron un bostezo.
 
 - Ahhhh, cada vez los de la resistencia son más maleducados. ¿Qué horas son estas para venir de visita? - la voz provenía de todos lados - Normalmente haría una o dos gracias, pero quiero terminar rápido para volver a la cama. Empecemos con el juego.
 
@@ -117,7 +117,7 @@ Por fin, la secuencia de imágenes se detuvo para mostrar la silueta de una cabe
 
 - ¡Lluvia de fuego! - gritó Joseph a los sueños - ¡Adentro!.
 
-Los vecinos comenzaron a correr hacia sus respectivas casas para guarecerse. El conductor y Lidia abatieron a tiros a aquellos que prentendían entrar en la casa en la que Joseph les había ordenado entrar. Entonces el equipo corrió dentro de la casa y se alejó de las ventanas, por las que empezaba a colarse una luz intensa. Fuera en la calle, había empezado a caer proyectiles incendiarios que dejaban una estela ígnea tras de sí. Las primeras explosiones rompieron las ventanas y la unidad se cubrió tras unos sillones de la lluvia de cristales.
+Los vecinos comenzaron a correr hacia sus respectivas casas para guarecerse. El conductor y Lidia abatieron a tiros a aquellos que pretendían entrar en la casa en la que Joseph les había ordenado entrar. Entonces el equipo corrió dentro de la casa y se alejó de las ventanas, por las que empezaba a colarse una luz intensa. Fuera en la calle, había empezado a caer proyectiles incendiarios que dejaban una estela ígnea tras de sí. Las primeras explosiones rompieron las ventanas y la unidad se cubrió tras unos sillones de la lluvia de cristales.
 
 De repente, sintieron la destrucción sobre sus cabezas. Un proyectil atravesó el techo y envolvió la estancia en llamas.
 
