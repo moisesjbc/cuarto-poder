@@ -251,10 +251,9 @@ Lucía, Lara y Elizabeth se reúnen con Mario frente a su casa. Todos se suben a
 
 # 21. Sin título
 
-## Notas
-
-- 
+Tres equipos de la resistencia entran a liberar una ciudad burbuja con ayuda de infiltrados. El equipo encargado de la puerta sur siguen a Alicia, su guía, hasta que Joseph recibe una comunicación. El equipo descubre que Alicia es una traidora y Joseph (el líder) la mata. Sin embargo, RIO ha escuchado las comunicaciones y "activa" la ciudad burbuja. Todos los vecinos salen a la calle para observar el cielo, dónde se proyecta la silueta de un hombre escupiendo fuego. La unidad de Joseph entra en una casa para cubrirse de una lluvia de proyectiles de fuego, hasta que uno cae en medio de la estancia.
 
 ## Notas
 
 - Cambiar título.
+- Indicar qué pasa con el resto de equipos (en este o en siguientes capítulos).

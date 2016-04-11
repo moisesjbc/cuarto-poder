@@ -88,19 +88,39 @@ Los miembros de la resistencia y Alicia avanzaron por el jardín trasero y acced
 
 El grupo alcanzó la calle principal y la encontró desierta, como era de esperar a aquellas horas de la noche. Se trataba de una avenida de doble sentido, con ambos carriles separados por una línea de árboles que se alzaban orgullosos y robustos. La unidad avanzaba en fila india por la acera de la derecha, presididos por Alicia.
 
-Mientras avanzaban, Aitor, en tercera posición tras Joseph, se giró y miró fijamente a Marta, Lidia y el conductor, sin dejar de avanzar. Sus compañeros asintieron. Entonces Aitor le golpeó el hombro derecho a Joseph y todos menos la infiltrada se detuvieron en seco.
+Mientras avanzaban, Joseph giró la cabeza hacia su equipo y asintió. Todos menos la infiltrada se detuvieron en seco.
 
 - Se acabó, Alicia.
 - ¿Qué?
 
-Alicia había avanzado varios metros antes de detenerse. Cuando se giró, la unidad estaba encañonándola.
+Alicia había avanzado varios metros antes de detenerse. Cuando se giró, la unidad estaba encañonándola. Lejos de sorprenderse, Alicia sonrió.
 
-- a) Los miembros de la resistencia en realidad son de RIO. Intervinieron las comunicaciones de la resistencia y se hicieron pasar por ella para descubrir a los agentes infiltrados.
-    - Quizás muy intrincado.
-    - ¿Por qué durante primera parte del capítulo los de la resistencia actúan como tal si no es necesario?
-    - Aclarar que este Aitor es otro o si es el mismo, aclarar qué le pasó.
-- b) La que es de RIO es Alicia y los otros equipos se lo comunicaron a Joseph por el auricular. Alicia activa el sistema de la ciudad antes de morir / escapar.
-    - Cambiar y decir que Joseph es el que avisa al equipo de la traidora en lugar de Aitor.
+- La comunicación de antes era un aviso de la traición inminente, ¿verdad Joseph?.
+- Exactamente.
+
+El equipo de Joseph formó un semicírculo frente a la traidora. Estaban pendientes de cualquier movimiento, no sólo de Alicia, sino de los alrededores. La traidora dirigía una mirada rápida a cada uno mientras hablaba.
+
+- El único problema (para ustedes) es que en las ciudades burbujas no sólo interrumpimos toda comunicación con el exterior - entonces sonrió a Joseph -, salvo filtraciones, por supuesto. También escuchamos todas las comunicaciones que se producen dentro; ya sabía que me habían descubierto - dijo, señalándose el comunicador de su oído.
+- Entiendo. Aitor, Marta - dijo, sin dejar de mirar a Alicia - abrid una de las casas cercanas. Conductor, Lidia, cubrid los laterales.
+
+El silencio de la noche dejó de ser cuando tres notas agudas y largas de xilófono, seguida de una grave y corta, fueron escupidas por todos los altavoces de la ciudad. Antes de que Alicia pudiera reaccionar, Joseph le disparó en la cabeza. El cuerpo se desplomó, al tiempo que todas las puertas de la ciudad de abrían casi al unísono. Aitor y Marta, que se encontraban forzando una, se apartaron a un lado al ver que se abría desde el interior. Se apartaron a un lado para dejar salir a los vecinos, que con semblante serio ignoraban a los extranjeros y se limitaban a avanzar hasta el borde de la acera. Mujeres, hombres y niños formaron una fila en el borde de la acera, a cada lado de la avenida. Todos miraban fijamente al cielo.
+
+- A mi señal, entrad en la casa. - Se limitó a ordenar Joseph, sin dejar de mirar al cielo nocturno. Su unidad no dejó de formar guardia alrededor de la puerta, listos para entrar en cualquier momento.
+
+Los altavoces de la ciudad escupieron un vostezo.
+
+- Ahhhh, cada vez los de la resistencia son más maleducados. ¿Qué horas son estas para venir de visita? - la voz provenía de todos lados - Normalmente haría una o dos gracias, pero quiero terminar rápido para volver a la cama. Empecemos con el juego.
+
+Un gran holograma se proyectó en el cielo. Una sucesión de siluetas blancas se emitían a gran velocidad, sin dar apenas tiempo a reconocerlas, al tiempo que el ruido de una tragaperras resonaba en todos y cada uno de los altavoces de la ciudad. Joseph y todos los vecinos miraban fijamente a la proyección, mientras el equipo de la resistencia buscaban posibles peligros en los alrededores.
+
+Por fin, la secuencia de imágenes se detuvo para mostrar la silueta de una cabeza escupiendo fuego. El holograma añadió una explosión de partículas blancas que parecía llover sobre la ciudad, acompañado por el ruido de una explosión auténtica.
+
+- ¡Lluvia de fuego! - gritó Joseph a los sueños - ¡Adentro!.
+
+Los vecinos comenzaron a correr hacia sus respectivas casas para guarecerse. El conductor y Lidia abatieron a tiros a aquellos que prentendían entrar en la casa en la que Joseph les había ordenado entrar. Entonces el equipo corrió dentro de la casa y se alejó de las ventanas, por las que empezaba a colarse una luz intensa. Fuera en la calle, había empezado a caer proyectiles incendiarios que dejaban una estela ígnea tras de sí. Las primeras explosiones rompieron las ventanas y la unidad se cubrió tras unos sillones de la lluvia de cristales.
+
+De repente, sintieron la destrucción sobre sus cabezas. Un proyectil atravesó el techo y envolvió la estancia en llamas.
+
 
 # Navegación
 

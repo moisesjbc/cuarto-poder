@@ -74,3 +74,10 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
 - Ida de olla: Lucas consulta un libro "La historia de RIO" donde se cuenta lo de su nacimiento en la Revolución Industrial. Acto seguido encuentra otro libro con el título "La VERDADERA historia de RIO". Alguien le grita que no lo abra, pero es demasiado tarde; el libro explota y mata a Lucas.
 - Al final del libro, antes de las explosiones, Jonás corre hacia el enemigo y se convierte en una nube de nanomáquinas que se lleva al enemigo consigo. Jonás quiere salvarlo para interrogarlo y saber dónde esconde a su hija.
 - Idea loca: las ciudades burbuja no existen físicamente. Se introducen a las personas en un coma inducido y se les plantea esa realidad para convertirlos en agentes durmientes y / o torturarlos.
+- Al final del capítulo 21, cuando el equipo de la resistencia de Aitor intenta liberar una ciudad burbuja, barajé dos opciones:
+    - a) Los miembros de la resistencia en realidad son de RIO. Intervinieron las comunicaciones de la resistencia y se hicieron pasar por ella para descubrir a los agentes infiltrados.
+        - Quizás muy intrincado.
+        - ¿Por qué durante primera parte del capítulo los de la resistencia actúan como tal si no es necesario?
+        - Aclarar que este Aitor es otro o si es el mismo, aclarar qué le pasó.
+    - b) La que es de RIO es Alicia y los otros equipos se lo comunicaron a Joseph por el auricular. Alicia activa el sistema de la ciudad antes de morir / escapar.
+        - Cambiar y decir que Joseph es el que avisa al equipo de la traidora en lugar de Aitor.
