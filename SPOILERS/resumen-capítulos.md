@@ -258,3 +258,9 @@ Tres equipos de la resistencia entran a liberar una ciudad burbuja con ayuda de 
 - Cambiar título.
 - Indicar qué pasa con el resto de equipos (en este o en siguientes capítulos).
 - Describir armas y demás.
+
+# 22. El despertar
+
+
+
+## Notas
