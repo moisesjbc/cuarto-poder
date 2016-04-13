@@ -6,12 +6,11 @@
     - ¿Jonás se desentiende de todo y sólo quiere irse con su hermana?
     - **¿Publican información sobre cada ciudad burbuja o RIO se encarga de borrar todas las pruebas (inhibidores)?**
     - ¿Cuando están huyendo, una nube de nanomáquinas enorme desintegra la ciudad? ¿Otra cuestión más creible para que RIO destruya pruebas de las ciudades burbuja?
-    - Nombrar que las ciudades burbujas interceptan todas las comunicaciones con el exterior.
     - ¿Lucas recuerda su estancia su vida como Mario? ¿O simplemente tiene flashbacks.
     - Antes del rescate poner alguna situación que le de mareo a Mario -> ¿Y si los lectores lo reconocen rápidamente?
         - O mencionarlo ahora a posteriori.
+    - Aclarar que ha pasado tiempo desde que Lucas fue dado por muerto, Mario llevaba tiempo "creándose".
     - Mencionar la foto de la familia Pérez. ¿Quizás es de cuando estaban siendo presentados ante el pueblo?
-    - ¿Cómo se la cuelan tan bien que mataron a Lucas? ¿Cómo “lo cambian”? → ¿Nanomáquinas dentro suyo?
     - Explicar la utilidad de las ciudades burbuja.
         - **En el capítulo 21 hablo del "sistema de entrenamiento de RIO"**.
     - Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
