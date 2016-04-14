@@ -261,6 +261,6 @@ Tres equipos de la resistencia entran a liberar una ciudad burbuja con ayuda de 
 
 # 22. El despertar
 
-
+Lucas despierta y abraza a Ana fuertemente. Lara, la que había sido su hija mayor, resulta ser la hermana pequeña de Jonás, también presente en el lugar. Elizabeth, quien también conserva su nombre original (igual que Lara), rompe al llorer, aparentemente por haber perdido a su familia antes de ser capturada. Lucas es grabado por un cámara de la resistencia y Ana le explica que se trata de poner contra las cuerdas a RIO por mentir sobre su muerte. Lucas acepta unirse a la resistencia y Ana lo deja para atar cabos antes de que llegue el transporte. Mientras espera, Lucas se acerca a su familia y se da cuenta de que Lara y Jonás parecen haber desaparecido.
 
 ## Notas

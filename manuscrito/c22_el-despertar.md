@@ -58,12 +58,42 @@ Lara y Lucas se separaron y se incorporaron mientras María ayudaba a Elizabeth 
 
 "¿Los menores de edad conservan su nombre?" - pensó Lucas, al recordar que la hermana de Jonás también había conservado su nombre original: "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
 
-- Documentamos la liberación de cada ciudad burbuja que hacemos y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Elizabeth, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz - eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
+- Documentamos la liberación de cada ciudad burbuja y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Elizabeth, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz - eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
+- Entiendo.
 
----
-- *¿Inglaterra? ¿Lo sueltan en una ciudad "a tomar por culo" sin más?*
-- *poner que están grabando a Lucas y éste dirigue un mensaje a RIO*
----
+La mirada de Lucas volvió a posarse sobre aquel cámara que parecía tener un fetiche con él. Resulta la curiosidad sobre su observador, Lucas lanzó otra pregunta.
+
+- ¿Por qué RIO se molesta en mantenerme vivo?
+- Oh, eso. Digamos que tienes una "sensibilidad especial" muy valiosa para ellos. Si te unieras a la resistencia, podría decirte más... - Ana le sonrió con su picarezca habitual, intentando...
+- Lo haré. Me uniré a ustedes.
+
+Ana no pudo disimular la sorpresa, pero rápidamente volvió a sonreir.
+
+- Qué fácil.
+- Ahora estoy seguro de que RIO nunca me dejará en paz, y todo lo que le ha hecho a esta gente... Quiero luchar contra ellos.
+- Me alegro tanto.
+
+Su amiga le posó una mano sobre el hombro. Lucas sonrió y miró a su alrededor.
+
+- ¿Y ahora qué? - Inquirió - ¿Qué pasará con toda esta gente?
+- Se les ofrecerá la oportunidad de unirse a nosotros. De hecho, ya se está haciendo - Lucas miró a su alrededor y vio a los miembros de la resistencia yendo de vecino en vecino y hablando con ellos -. Aquellos que acepten, como tú, serán llevados a campamentos de la resistencia para formarlos y entrenarlos.
+- ¿Y los que se nieguen?
+- Serán realojados en barrios estatales - al ver el gesto de repulsa de su amigo, añadió -. Sí, lo sé, lo sé. Es una putada, pero la resistencia no tiene suficientes medios para procurarles algo mejor.
+
+La pareja permaneció sin hablar durante unos instantes. Finalmente Ana rompió el silencio.
+
+- Escucha, pronto llegará el transporte y tengo que atar algunos cabos antes. Te prometo que cuando llegemos al campamento charlalemos largo y tendido, ¿ok?.
+
+Ella lo abrazó y se marchó hacia el escenario donde se había producido la ejecución del alcalde Batido de Maíz y su séquito. Ignorando los cadáveres, Ana cruzó la zona y se adentró por la puerta de la gran torre de la plaza.
+
+Lucas se quedó un rato mirando hacia la puerta, quizás esperando que su amiga saliera en un par de segundos, cosa que no ocurrió. Entonces se acordó de su antigua familia y pensó en unirse a ellos en lo que Ana volvía. 
+
+Elizabeth y María seguían juntas, observando la plaza en silencio. La adolescente había dejado de llorar, aunque amenazaba con volver a hacerlo en cualquier momento. Jonás recordó a la Elizabeth que había conocido siendo Mario, su padre; una chica alegre, siempre dispuesta a molestar a su hermana mayor...
+
+- ¿Y Lara? - dejó escapar en voz alta.
+
+María y Elizabeth miraron hacía él y se giraron hacia donde Lara estaba hasta hace unos escasos momentos. No había rastro ni de ella ni de Jonás.
+
 
 # Navegación
 

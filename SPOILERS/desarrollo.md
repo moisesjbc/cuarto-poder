@@ -4,7 +4,6 @@
 
     - ¿Quiénes resultan ser Lucía y Elizabeth?
     - ¿Jonás se desentiende de todo y sólo quiere irse con su hermana?
-    - **¿Publican información sobre cada ciudad burbuja o RIO se encarga de borrar todas las pruebas (inhibidores)?**
     - ¿Cuando están huyendo, una nube de nanomáquinas enorme desintegra la ciudad? ¿Otra cuestión más creible para que RIO destruya pruebas de las ciudades burbuja?
     - ¿Lucas recuerda su estancia su vida como Mario? ¿O simplemente tiene flashbacks.
     - Antes del rescate poner alguna situación que le de mareo a Mario -> ¿Y si los lectores lo reconocen rápidamente?
@@ -15,6 +14,15 @@
         - **En el capítulo 21 hablo del "sistema de entrenamiento de RIO"**.
     - Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
     ¿Algún personaje principal es en realidad un activo de la cadena?.
+    - CLASIFICAR
+        - *Especificar en el capítulo ¿19? que la foto que ve Jonás es de una familia siendo presentada por un alcalde estrambótico*
+        - *¿Inglaterra?* 
+        - *¿Lo sueltan en una ciudad "a tomar por culo" sin más?*
+        - *poner que están grabando a Lucas y éste dirigue un mensaje a RIO*
+
+
+- NOTA: después del "cambio de contexto" de Mario en la ciudad burbuja y demás, con toda probabilidad los lectores olvidarán cosas como los barrios estatales, a Elizabeth (la mala), etc.
+
 
 2. Aitor y su equipo liberan la ciudad burbuja donde se encuentra Cooper.
 
