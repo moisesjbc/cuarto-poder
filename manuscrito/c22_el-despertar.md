@@ -97,4 +97,4 @@ María y Elizabeth miraron hacía él y se giraron hacia donde Lara estaba hasta
 
 # Navegación
 
-- [Capítulo anterior: 21 - Sin título](c21_sin-título.md)
+- [Capítulo anterior: 21 - Mirando al cielo](c21_mirando-al-cielo.md)
