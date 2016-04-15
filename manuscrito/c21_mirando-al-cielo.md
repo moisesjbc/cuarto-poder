@@ -122,7 +122,7 @@ Los vecinos comenzaron a correr hacia sus respectivas casas para guarecerse. El 
 De repente, sintieron la destrucción sobre sus cabezas. Un proyectil atravesó el techo y envolvió la estancia en llamas.
 
 
-# Navegación
+## Navegación
 
 - [Capítulo anterior: 20 - Escapando del infierno](c20_escapando_del_infierno.md)
 - [Capítulo siguiente: 22 - El despertar](c22_el-despertar.md)

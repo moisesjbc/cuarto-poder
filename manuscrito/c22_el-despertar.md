@@ -95,6 +95,6 @@ Elizabeth y María seguían juntas, observando la plaza en silencio. La adolesce
 María y Elizabeth miraron hacía él y se giraron hacia donde Lara estaba hasta hace unos escasos momentos. No había rastro ni de ella ni de Jonás.
 
 
-# Navegación
+## Navegación
 
 - [Capítulo anterior: 21 - Mirando al cielo](c21_mirando-al-cielo.md)
