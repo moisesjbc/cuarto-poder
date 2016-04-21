@@ -1,58 +1,29 @@
 # Esbozo del resto del libro
 
-1. Lucas despierta de su "hipnosis" y Lara se reúne con su hermano mayor Jonás.
-
-    - ¿Quiénes resultan ser Lucía y Elizabeth?
-    - ¿Jonás se desentiende de todo y sólo quiere irse con su hermana?
-    - ¿Cuando están huyendo, una nube de nanomáquinas enorme desintegra la ciudad? ¿Otra cuestión más creible para que RIO destruya pruebas de las ciudades burbuja?
-    - ¿Lucas recuerda su estancia su vida como Mario? ¿O simplemente tiene flashbacks.
-    - Antes del rescate poner alguna situación que le de mareo a Mario -> ¿Y si los lectores lo reconocen rápidamente?
-        - O mencionarlo ahora a posteriori.
-    - Aclarar que ha pasado tiempo desde que Lucas fue dado por muerto, Mario llevaba tiempo "creándose".
-    - Mencionar la foto de la familia Pérez. ¿Quizás es de cuando estaban siendo presentados ante el pueblo?
-    - Explicar la utilidad de las ciudades burbuja.
-        - **En el capítulo 21 hablo del "sistema de entrenamiento de RIO"**.
-    - Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
+- Mencionar que Jonás lleva puesto un guante negro.
+- Aclarar que ha pasado tiempo desde que Lucas fue dado por muerto, Mario llevaba tiempo "creándose".
+- Significado falso de las siglas RIO / o cambiar "corporación RIO" por "corporación Rio" en el resto de la novela.
+- Aitor, Cooper, El Venelozano, etc.
+- ¿Qué hago con Lucía / María y Elizabeth?
+    - ¿Quiénes resultan ser María y Elizabeth?
+- **¿Qué ocurre con la cinta donde aparece Lucas y la liberación de la ciudad burbuja?**
+- ¿Qué hago con Jonás? - ¿Jonás se desentiende de todo y sólo quiere irse con su hermana?
     ¿Algún personaje principal es en realidad un activo de la cadena?.
     - CLASIFICAR
         - *Especificar en el capítulo ¿19? que la foto que ve Jonás es de una familia siendo presentada por un alcalde estrambótico*
-        - *¿Inglaterra?* 
         - *¿Lo sueltan en una ciudad "a tomar por culo" sin más?*
         - *poner que están grabando a Lucas y éste dirigue un mensaje a RIO*
+- **NOTA:** después del "cambio de contexto" de Mario en la ciudad burbuja y demás, con toda probabilidad los lectores olvidarán cosas como los barrios estatales, a Elizabeth (la mala), etc.
 
+1. Lucas y los demás tratan de huir usando un tren que pasa cerca de la ciudad y que es usado por Rio para llevar suministros y activos (¡Gracias Koutetsujou no Kabaneri!). Al terminar el capítulo, el tren es interceptado por el ejército por amenaza terrorista.
 
-- NOTA: después del "cambio de contexto" de Mario en la ciudad burbuja y demás, con toda probabilidad los lectores olvidarán cosas como los barrios estatales, a Elizabeth (la mala), etc.
+    - Poner que los de RIO se cambian de ropa para no ir todos de azul diciendo "ey, somos de la resistencia".
+    - Pensar qué hago con Jonás y Lara, etc.
+    - Hablar de Inglaterra defendiéndose frente a las acusaciones de atacar RIO.
 
+2. Los militares ¿empiezan a desalojarlos? y se descubre que son de RIO. Aparece Ajani para salvar el día.
 
-2. Aitor y su equipo liberan la ciudad burbuja donde se encuentra Cooper.
-
-    - En esta ciudad burbuja, cada cierto tiempo proyecta un holograma en el cielo con el siguiente gran peligro: aire venenoso, criaturas peligrosas, etc.
-    - ¿Ambos mueren al final del capítulo?
-
-3. Lucas es entrenado por la resistencia. Descubre la historia falsa de RIO y de la resistencia.
-
-    - Recalcar que Ana y otras personas lo suelen observar durante los entrenamientos y discuten entre sí (¿reclutarlo para Atlanta?).
-    - Contar también que entra en un equipo de "detectores" de nanomáquinas
-        - RM: Reality Makers
-    - Explicar lo de la sensibilidad de Lucas a las mismas.
-    - RIO surgue en la Revolución Industrial para aprovechar la gran influencia de la prensa escrita sobre los obreros. La resistencia nace a partir de uno de los obreros radicales que es acusado injustamente de asesinato para acallarlo.
-    - RIO pierde poder en Inglaterra y ve un nuevo nicho en España.
-        - **PENSAR: significado falso de las siglas RIO**
-        - Relacionar con hechos históricos.
-        - ¿Cuándo fue y qué pudieron encontrar en España en esa época que los atrajera más que a nadie? (¿Descubrimiento de América? ¿Edad de Oro?).
-
-4. La resistencia es avisada sobre un campo de entrenamiento de RIO donde se entrena a niños soldado (**¿con qué fin?**). Cuando Lucas y los demás están allí descubren que se trata de una emboscada de RIO.
-
-    - ¿Interés de ir ahí?
-    - ¿Por qué un almacén en áfrica? ¿Seguimiento de un proyecto para crear niños soldado que pasen a formar parte del ejército de la corporación RIO (CONEXIÓN CON AJANI Y KARIM)? 
-    - ¿Realmente Ana, Lucas y el resto están en otro - cuál - y en este capítulo son otras personas de la resistencia?
-    - ¿Especificar cómo era el plan de que Lucas y otros miembros valiosos de la resistencia fueran allí?
-    - ¿O especificar un ataque simultáneo a múltiples lugares de la resistencia?
-    - ¿Qué encuentran finalmente ahí?
-    - Introducimos a Ajani.
-    - Recuperar hechos del relato original.
-    - Cuando Ajani haga su aparición, hacer referencia a los soldados que caen sin razón aparente (la francotiradora – la sombra).
-    - **¿Terminar libro con traspaso de Lucas a Atlanta?**
+3. Hay un tiroteo y en una explosión (¿O Ajani le pega un puñetazo?), Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
 
 
 # A tener en cuenta

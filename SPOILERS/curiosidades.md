@@ -81,3 +81,107 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
         - Aclarar que este Aitor es otro o si es el mismo, aclarar qué le pasó.
     - b) La que es de RIO es Alicia y los otros equipos se lo comunicaron a Joseph por el auricular. Alicia activa el sistema de la ciudad antes de morir / escapar.
         - Cambiar y decir que Joseph es el que avisa al equipo de la traidora en lugar de Aitor.
+
+## 6.1. Finales alternativos del libro
+
+### 6.1.1. Almacén de áfrica - Final alternativo del libro
+
+- La resistencia es avisada sobre un campo de entrenamiento de RIO donde se entrena a niños soldado (**¿con qué fin?**). Cuando Lucas y los demás están allí descubren que se trata de una emboscada de RIO.
+
+    - ¿Interés de ir ahí?
+    - ¿Por qué un almacén en áfrica? ¿Seguimiento de un proyecto para crear niños soldado que pasen a formar parte del ejército de la corporación RIO (CONEXIÓN CON AJANI Y KARIM)? 
+    - ¿Realmente Ana, Lucas y el resto están en otro - cuál - y en este capítulo son otras personas de la resistencia?
+    - ¿Especificar cómo era el plan de que Lucas y otros miembros valiosos de la resistencia fueran allí?
+    - ¿O especificar un ataque simultáneo a múltiples lugares de la resistencia?
+    - ¿Qué encuentran finalmente ahí?
+    - Introducimos a Ajani.
+    - Recuperar hechos del relato original.
+    - Cuando Ajani haga su aparición, hacer referencia a los soldados que caen sin razón aparente (la francotiradora – la sombra).
+    - **¿Terminar libro con traspaso de Lucas a Atlanta?**
+
+### 6.1.2. Entrenamiento en el campamento de la resistencia
+
+1. Lucas y los demás llegan hasta el campamento de la resistencia, en XXX (la ciudad burbuja también estaba allí).
+
+    - Decir dónde está la ciudad burbuja (recordar, horas y horas para llegar allí en coche).
+    - ¿Qué vehículos usan?
+        - ¿Por qué esperarían por la extracción si ya tienen vehículos en la ciudad burbuja?
+        - Usan un tren que para cerca de la ciudad 
+            - ¿Por qué no lo usan Joseph y su equipo en la otra ciudad burbuja?
+    - ¿Por qué RIO no los detecta / intercepta?
+    - ¿Qué ocurre con Jonás y Lara? (en el capítulo 22 no se les ve al final).
+    - Recalcar que Ana y otras personas lo suelen observar durante los entrenamientos y discuten entre sí (¿reclutarlo para Atlanta?).
+
+2. Comienza el entrenamiento de Lucas como "detector" de RIO.
+
+    - RM: Reality Makers
+    - Mencionar que Mario sufrió mareos en algunos lugares.
+    - Explicar lo de la sensibilidad de Lucas a las mismas.
+    - RIO surgue en la Revolución Industrial para aprovechar la gran influencia de la prensa escrita sobre los obreros. La resistencia nace a partir de uno de los obreros radicales que es acusado injustamente de asesinato para acallarlo.
+    - Explicar la utilidad de las ciudades burbuja.
+        - **En el capítulo 21 hablo del "sistema de entrenamiento de RIO"**.
+        - Los que sobreviven (traidores o se meten a modo de entrenamiento) a las ciudades burbuja se convierten en activos de la cadena.
+
+3. El campamento es atacado por RIO.
+
+    - 
+
+4. Aparece Ajani para salvar el día.
+
+    - 
+
+5. En una explosión (¿O Ajani le pega un puñetazo?), Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
+
+### 6.1.3. Otros finales
+
+---
+1. Lucas y los demás llegan hasta el campamento de la resistencia, en XXX (la ciudad burbuja también estaba allí).
+2. La resistencia les cuenta la historia falsa detrás de RIO.
+3. La historia de Lucas es publicada por televisión pirateando la señal.
+4. RIO no tarda en desmentirlo todo.
+5. RIO ataca el campamento. En una explosión, Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
+---
+
+---
+1. Lucas y los demás llegan hasta el campamento de la resistencia, en XXX (la ciudad burbuja también estaba allí).
+2. Comienza el entrenamiento de Lucas como "detector" de RIO.
+3. El campamento es atacado por RIO.
+4. Aparece Ajani para salvar el día.
+5. En una explosión (¿O Ajani le pega un puñetazo?), Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
+---
+
+---
+1. Lucas y los demás llegan al campamento de la resistencia, en XXX (la ciudad burbuja también estaba allí).
+2. El equipo de Aitor llega al campamento. Cooper va con ellos.
+3. ¿Cooper intenta asesinar a Lucas? / El lugar de la resistencia es atacado por RIO.
+---
+
+---
+1. Lucas y los demás están siendo extraidos cuando reciben un ataque de RIO.
+2. Ajani hace acto de aparición (¿infiltrado entre las fuerzas invasoras?) y los salva.
+3. Hay una gran explosión, Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
+---
+
+---
+1. Mientras Lucas y los demás esperan por la extracción llega un ataque aéreo y tropas de asalto de RIO.
+2. Los miembros de la resistencia y los vecinos de la ciudad se resguardan en el centro de control, bajo la torre de la ciudad.
+    2.A. Lucas empieza a leer el libro con el origen de RIO y el libro explota -> FIN.
+3. Ajani hace acto de aparición (¿infiltrado entre las fuerzas invasoras?) y los salva.
+4. Lucas detecta una "trampilla" de nanomáquinas y la usan para escapar.
+---
+
+---
+1. Lucas es entrenado por la resistencia. Descubre la historia falsa de RIO y de la resistencia.
+
+    - RIO pierde poder en Inglaterra y ve un nuevo nicho en España.
+        - Relacionar con hechos históricos.
+        - ¿Cuándo fue y qué pudieron encontrar en España en esa época que los atrajera más que a nadie? (¿Descubrimiento de América? ¿Edad de Oro?).
+
+
+2. El equipo de Aitor llega al campamento. Cooper va con ellos.
+
+    - Explican lo de la ciudad burbuja que cada cierto tiempo proyecta un holograma en el cielo con el siguiente gran peligro: aire venenoso, criaturas peligrosas, etc.
+    - ¿Contar lo de Inglaterra?
+
+3. ¿Cooper intenta asesinar a Lucas? / El lugar de la resistencia es atacado por RIO.
+---
