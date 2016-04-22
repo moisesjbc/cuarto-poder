@@ -17,10 +17,36 @@ La congregación reunida en la plaza había empezado a resquebrajarse formando d
 - ¿No vienes? - le susurró Lucas.
 - No, no te preocupes - le respondió ella, sonriente - siempre fuiste su favorito.
 
-Lucas le devolvió la sonrisa y miró a Elizabeth;
+Lucas le devolvió la sonrisa y miró a Elizabeth. La chica tenía la cabeza gacha, con su pelo rubio cayendo y cubriéndole el rosto. No emitía ningún sonido y Lucas se preocupó.
 
+- Pronto saldremos de aquí - intentó animarla, pero no hubo respuesta.
+- Señor, usted y la joven irán en el segundo grupo - Lucas se sobresaltó. Por un momento había olvidado a los miembros de la resistencia que iban rasgando a la multitud en dos. Lucas se limitó a aceptar.
+- Muy bien.
 
+El miembro de la resistencia se llevó la mano a su oreja derecha y presionó un pequeño botón en el auricular que llevaba puesto. Del auricular salía un pequeño micrófono que usó para comunicarse con alguien desconocido.
 
+- Los grupos están listos. ¿Ustedes han terminado de vestirse ya? - aguardó un segundo - muy bien.
+
+El combatiente dirigió una rápida mirada hacia Lucas y entonces miró hacia la torre de la plaza. Lucas lo imitó. De la puerta situada en la base comenzaron a salir hombres y mujeres vestidos de manera informal. Sin haber reconocido ninguno de los rostros, Lucas se aventuró a suponer que estaba viendo a miembros de la resistencia camuflados como simples civiles. 
+
+Entonces vió una figura femenina delgada y esbelta abandonando la torre en último lugar. Llevaba una camiseta negra con el logotipo de un grupo de Rock que Lucas desconocía sobre el abundante pecho, y unos pantalones vaqueros de un color azul fuerte. Cuando Lucas le vió el pelo largo y moreno le dirigió una sonrisa burlona, que fue recibida por la chica con una mueca de reproche y una posterior sonrisa cómplice.
+
+La joven caminó con paso decidido sobre el escenario de madera que rodeaba la torre y se dejó caer del mismo frente a Lucas.
+
+- Estás mucho mejor de pelirroja.
+- Lo sé - resopló Ana - pero por desgracia las pelirrojas no somos muy frecuentes por aquí. Y me he ganado una cierta fama entre las filas de RIO. Esperemos que no hayan muchos en el tren que puedan reconocerme.
+- Hombre, puede que llames un poco la atención con esa mancha pelirroja - Lucas se señaló la pestaña derecha con la mano izquierda; su mano derecha no había soltado la mano de Elizabeth, a su lado.
+- Mierda - Ana se llevó la mano hacia la pestaña, pero se detuvo al recordar la pintura - lo hice a las prisas y...
+
+Ana se había pintado las pestañas de negro, a juego con la peluca morena. Sin embargo, unos pocos pelos pelirrojos se habían resistido a la conversión y resaltaba, orgullosos, sobre su pestaña izquierda. La joven se limitó a sonreír y restarle importancia.
+
+- En fin, luego me lo retocaré. Recuérdamelo.
+- Está bien - sonrió Lucas.
+
+La sonrisa de Lucas se difuminó al recordar a Elizabeth. El joven miró a la adolescente disimuladamente. Ella seguía en silencio, pero al menos había levantado el rostro y miraba hacia Ana. Tenía los ojos rojos de llorar, pero Lucas creyó adivinar un asomo de sonrisa. Lucas recordó fugazmente la última vez que vió a la que había sido su hija sonreir. Fue ese mismo día por la mañana, durante el desayuno, tras haber jugado a “Revuélvele el pelo a tu hermana la coqueta” y...
+
+- ¡Lara! ¡y Jonás!
+- ¿Eh? - Ana se sobresaltó ante el grito de su amigo. Elizabeth también lo miró rápidamente, sorprendida.
 
 
 
