@@ -98,4 +98,4 @@ María y Elizabeth miraron hacía él y se giraron hacia donde Lara estaba hasta
 ## Navegación
 
 - [Capítulo anterior: 21 - Mirando al cielo](c21_mirando-al-cielo.md)
-- [Capítulo siguiente: 23 - Viaje en tren](c23_viaje-en-tren.md)
+- [Capítulo siguiente: 23 - 15 minutos](c23_15-minutos.md)

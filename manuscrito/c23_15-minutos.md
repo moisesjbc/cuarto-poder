@@ -1,4 +1,4 @@
-# 23. Viaje en tren
+# 23. 15 minutos
 
 Los vecinos congregados en la plaza de la ciudad se sobresaltaron al escuchar la breve interferencia que indicaba el encendido de los altavoces de la ciudad. Todos temían escuchar las notas de xilófono que antiguamente marcaban el inicio de una masacre. Sin embargo, escucharon una voz femenina que Lucas reconoció enseguida. Ana hablaba sin prisa pero sin pausa, dando indicaciones a todos los presentes.
 
