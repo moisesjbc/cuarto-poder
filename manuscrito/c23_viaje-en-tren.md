@@ -88,6 +88,42 @@ Ana lo miró durante unos segundos en los que Lucas intentó por todos los medio
 
 Aquella petición lo cogió por sorpresa. Se preguntó si aquel deseo provenía de Elizabeth la desconocida o de Elizabeth su hija. A decir verdad, sintió el impulso de abrazarla y tampoco sabía si era Lucas o era Mario quién le hablaba. "Lo importante es que es lo que siento ahora", se sorprendió diciéndose. Soltó la mano de la adolescente y se agachó levemente a su encuentro, estrechando a la chica entre sus brazos.
 
+El cálido abrazo se prolongó durante unos instantes hasta que ambos se sobresaltaron al escuchar el escenario de madera crujir tras de si. Ana también se giró hacia el origen del ruido, llevándose la mano a su cadera. Fue entonces cuando Lucas se percató de la pistola que su amiga llevaba en el pantalón, oculta bajo la camiseta del grupo de Rock.
+
+- ¡Ah! - exclamó Lara, parándose en seco en medio del escenario.
+- Calma, calma - Jonás, el exvagabundo, alzó las manos en señal de rendición detrás de Lara.
+
+Ana resopló al tiempo que liberaba la empuñadura de su arma.
+
+- Uff... ¿todo bien?
+
+Jonás bajó las manos y guió a su hermana pequeña hasta una escalera lateral del escenario y caminaron hasta los presentes. Esperó a alcanzar a Ana, Lucas y Elizabeth antes de responder. 
+
+- Creo que sí.
+- ¿"Crees"? - Ana arqueó las cejas.
+- Bueno, los superiores del difunto alcalde Batido de Maíz - sin dejar de hablar, Jonás giró la cabeza brevemente en dirección al cadáver tendido sobre el escenario - contactaron por radio preguntando por su hombre. Temiendo que el silencio resultara sospecho, respondí y me inventé una excusa para su ausencia hasta la próxima llamada de control (en hora y media). Pareció que la mujer al otro lado se tragó el embuste, pero no me fiaría al 100% de mi calidad interpretativa.
+
+Ana sopesó aquello durante unos segundos que a Lucas le parecieron una eternidad. Al final se limitó a asentir.
+
+- Ok, esperemos que no haya problemas.
+- Yo también - coincidió Jonás.
+
+Los presentes permanecieron de pie en aquella plaza medio llena intercambiando miradas y trivialidades hasta que Ana pidió silencio, al tiempo que activaba su comunicador.
+
+- Muy bien - dijo, su mirada perdida en el horizonte - avisad a vuestra llegada. Suerte y buen viaje.
+
+Al cortar la comunicación, Ana se encontró con miradas expectantes. Se limitó a informales:
+
+- El otro grupo ha llegado a la estación y el tren está llegando.
+- ¿Cuánto... - comenzó a decir Lucas, pero Jonás lo interrumpió.
+- 15 minutos. El tren tarda 15 minutos en llegar a su próximo destino.
+- No habrá comunicación hasta entonces, para no levantar sospechas en el tren - añadió Ana.
+
+Lucas compartió miradas serias con los presentes y luego alzó la mirada hacia el cielo vespertino.
+
+"15 minutos" - se repitió para sus adentros - "En 15 minutos sabremos si es posible salir de aquí con vida".
+
+
 ## Navegación
 
 - [Capítulo anterior: 22 - El despertar](c22_el-despertar.md)
