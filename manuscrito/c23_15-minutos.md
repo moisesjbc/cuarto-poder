@@ -91,7 +91,7 @@ Aquella petición lo cogió por sorpresa. Se preguntó si aquel deseo provenía 
 El cálido abrazo se prolongó durante unos instantes hasta que ambos se sobresaltaron al escuchar el escenario de madera crujir tras de si. Ana también se giró hacia el origen del ruido, llevándose la mano a su cadera. Fue entonces cuando Lucas se percató de la pistola que su amiga llevaba en el pantalón, oculta bajo la camiseta del grupo de Rock.
 
 - ¡Ah! - exclamó Lara, parándose en seco en medio del escenario.
-- Calma, calma - Jonás, el exvagabundo, alzó las manos en señal de rendición detrás de Lara.
+- Calma, calma - Jonás, el ex-vagabundo, alzó las manos en señal de rendición detrás de Lara.
 
 Ana resopló al tiempo que liberaba la empuñadura de su arma.
 
