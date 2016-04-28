@@ -84,13 +84,43 @@ Jonás no parecía muy convencido de aquello, pero se limitó a pedirle a Lara h
 
 Conscientes de que no iban a lograr sonsacarle la información, Lucas y Elizabeth le siguieron el juego. Contaron su llegada a la ciudad burbuja, así como los sucesos de aquella mañana, cuando las notas del xilófono dieron comienzo a la masacre. Mientras tanto, Lara y Jonás seguían hablando sobre quién sabe qué a una distancia segura de ellos.
 
-- Es la hora.
+- Es la hora - dijo al fin Ana. Acto seguido se levantó y se dirigió al escenario, atrayendo las miradas curiosas de las personas allí congregadas. Se subió de un salto al escenario y gritó - ¡Es la hora, gente! ¡Vamos a la estación!
 
+La joven retrocedió entonces hasta la puerta abierta situada en la base en la torre y golpeó la misma tres veces. Sin esperar respuesta, bajó del escenario y se dirigió hacia Lucas y los demás. Viendo que los demás presentes hacían el amago de seguirla, Ana les informó de que ella iría en la retaguardia y que siguieran a sus compañeros.
 
+Rápidamente, los otros miembros de la resistencia, ya disfrazados como civiles ("¿Cuándo se disfrazaron?", se preguntó Lucas) organizaron a los presentes formando una fila índia. Tras esperar a que los últimos compañeros emergíeran del centro de control bajo la torre, pusieron en marcha a la comitiva.
 
-- **¿RIO proyecta una película en el tren hablando de su origen y el de la resistencia y luego los "militares" interceptan el tren?**
-- **MENCIONAR QUE LOS MIEMBROS DE LA RESISTENCIA QUE QUEDABAN POR CAMBIARSE LO HAN HECHO POCO A POCO**
-- *Mencionar lo de la ceja multicolor de Ana*.
+La excursión bordeó la gran torre de la plaza por su derecha y cruzó la carretera que rodeaba la plaza. Entraron entonces en una larga avenida recta que iba desde la plaza hasta el portón norte de la ciudad. Por el camino, y para sorpresa de los presentes, otros civiles que resultaron ser miembros de la resistencia salían de las casas y se unían a ellos. Lucas había supuesto que todos los miembros de la resistencia estaban en la plaza. Rápidamente se percató del error táctico que hubiera supuesto concentrar todos los efectivos en un único punto.
+
+La fila alcanzó en silencio el gran portón de madera y lo cruzó, encontrándose con un paisaje desértico que se extendía kilómetros y kilómetros en todas las direcciones. El terreno era completamente llano, permitiendo a los presentes observar la cadena montañosa que parecían estar a días de distancia. Los únicos testigos del paso del hombre en aquél páramo era una pequeña construcción de una planta situada a unos 300 metros frente a ellos, así como la carretera en mal estado que conectaba dicha construcción y la prisión de la que acababan de salir.
+
+- Bueno, técnicamente ya hemos escapado de la ciudad - quiso bromear Ana, pero sólo recibió silencio como respuesta. Al menos hasta que Lucas miró hacia ella y sonrió.
+- ¿Qué pa...? Mierda, ¿la ceja?
+- Sí.
+- Te dije que me avisaras antes - dijo, fingiéndose ofendida.
+
+Sin dejar de caminar, Ana se sacó un pequeño bote del bolsillo. Lo destapó, descubriendo un pequeño pincel enganchado a la tapa. De un brochaso acabó con los pocos pelos pelirrojos de su ceja.
+
+- Bueno, a otra cosa - sentenció, satisfecha.
+
+La fila de excursionistas continuó en silencio. A medida que se acercaban a la estación comenzaron a vislumbrar las vías del tren que cruzaban en línea recta todo el paisaje frente a ellos, de un lado a otro. Lucas miró a ambos extremos; tanto en un lado como en el otro, las vías se adentraban mediante túneles en las montañas del horizonte. Todo en aquel lugar parecía explícitamente diseñado para influir la sensación de soledad a fuego en sus visitantes.
+
+Al fin llegaron a la estación, la cuál era poco más que una gran habitación cuyas paredes amarillas exteriores estaban marcadas por el abandono y la dejadez. Dos miembros de la resistencia les invitaron a entrar desde el interior.
+
+- No sabía que habría compañeros tuyos aquí - Comentó Jonás. Miraba hacia Ana con suspicacia.
+- Yo sí - lo tranquilizó ella.
+
+El grupo entró en la construcción a través de unas grandes puertas de cristal ultrajadas por múltiples rayones, agujeros y otras heridas. La línea de personas fue entrando para encontrarse con una gran sala abandonada a su suerte, con muebles de madera carcomida, mostradores de vidrio destrozados, ratas campando a sus anchas... Lucas comenzó a sentirse mal. Las náuseas lo pillaron por sopresa; aunque se consideraba una persona ordenada, no era ajeno al desorden y la suciedad. Los más cercanos a él lo miraron con curiosidad, hasta que Jonás se percató.
+
+- ¡FUERA DE AQUÍ! - gritó, agarrando de la mano a Lara y corriendo hacia la salida.
+- ¡Mierda! - exclamó Ana, empujando a Lucas y Elizabeth hacia la salida, pero dirigiéndose a todo el mundo - ¡SALID!
+
+De repente el suelo desapareció bajo sus pies, haciendo que todos los presentes se precipitaran hacia al vacío. Lucas estaba a escasa distancia de la puerta cuando su pie se hundió en la oscuridad. Tropezó y cayó, golpeándose la cabeza contra el suelo de la entrada, el cuál permanecía intacto.
+
+El impacto le nubló la vista y le entumeció los sentidos. Veía, como si fuera un sueño, la mano de Jonás abalanzándose en busca de la suya mientras el vacío lo engullía y sumía su conciencia en la negrura.
+
+De repente, una luz verdosa lo embargó. Sintió la hierba acariciar sus pies desnudos mientras permanecía de pie frente a un océano cuyo color azul verdoso contagiaba al cielo. Lucas alzó la vista y alcanzó a ver un cielo dominado por dos lunas gigantes, una dorada y la otra plateada. Escuchó su propia voz preguntar "¿Dónde estoy?" antes de perder la conciencia por completo.
+
 
 ## Navegación
 
