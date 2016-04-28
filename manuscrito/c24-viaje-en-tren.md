@@ -88,9 +88,9 @@ Conscientes de que no iban a lograr sonsacarle la información, Lucas y Elizabet
 
 
 
-
-
 - **¿RIO proyecta una película en el tren hablando de su origen y el de la resistencia y luego los "militares" interceptan el tren?**
+- **MENCIONAR QUE LOS MIEMBROS DE LA RESISTENCIA QUE QUEDABAN POR CAMBIARSE LO HAN HECHO POCO A POCO**
+- *Mencionar lo de la ceja multicolor de Ana*.
 
 ## Navegación
 
