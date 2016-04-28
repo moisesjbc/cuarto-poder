@@ -10,7 +10,7 @@ Permaneció callada unos segundos, antes de dejar aflorar una sonrisa.
 
 - ¡Perfecto! ¡Nos vemos en 1 hora!
 
-Acto seguido desactivó el comunicador. Se recreó en las miradas expectantes de Lucas, Jonás, Lara y Elizabeth, pero lejos de aclararles el retraso de 3 minutos sin noticias, se dió la vuelta, se subió al escenario de madera y gritó a viva voz.
+Acto seguido desactivó el comunicador. Se recreó en las miradas expectantes de Lucas, Jonás, Lara y Elizabeth, pero lejos de aclararles el retraso de 3 minutos sin noticias, se dio la vuelta, se subió al escenario de madera y gritó a viva voz.
 
 - ¡Atención, por favor! - la potencia del grito alcanzó a todos los presentes en la plaza. Ana esperó unos segundos antes de continuar -, ¡El primer grupo me acaba de comunicar que ha llegado correctamente al destino! ¡En media hora saldremos hacia la estación! ¡Gracias por su paciencia!
 
@@ -42,11 +42,11 @@ Lucas hizo el amago de levantarse, pero Ana lo detuvo.
 
 - Quédate con las chicas, yo hablaré con él.
 
-El joven obedeció mientras su amiga alcanzaba al ex-vagabundo. Lara, Elizabeth y Lucas observaban a la pareja hablar sin ser capaces de oír ni una palabra de lo que estaban diciendo. El tono de la conversación parecía debatirse entre los gestos cada vez más acelerados y nerviosos de Jonás y el aspecto tranquilizador de Ana. Decidido a acatar la orden de su amiga de no entrometerce, Lucas optó por intentar distraer a las adolescentes que habían sido sus hijas por poco más de un día.
+El joven obedeció mientras su amiga alcanzaba al ex-vagabundo. Lara, Elizabeth y Lucas observaban a la pareja hablar sin ser capaces de oír ni una palabra de lo que estaban diciendo. El tono de la conversación parecía debatirse entre los gestos cada vez más acelerados y nerviosos de Jonás y el aspecto tranquilizador de Ana. Decidido a acatar la orden de su amiga de no entrometerse, Lucas optó por intentar distraer a las adolescentes que habían sido sus hijas por poco más de un día.
 
 - ¿Deseando salir de aquí tanto como yo? - soltó con una sonrisa forzada. Apenas había materializado la pregunta, Lucas se lamentó de no haber pensado una mejor cuya respuesta no fuera obvia y potencialmente un monosílabo.
 - Sí - Lara asintió como una autómata, sin dejar de mirar a su hermano mayor discutir con la mujer.
-- No - antes de que Elizabeth continúara, Lucas pensó en los estúpido que había sido -, aquí dentro estaba tanto en peligro como fuera. Pero al menos tenía una familia.
+- No - antes de que Elizabeth continuara, Lucas pensó en los estúpido que había sido -, aquí dentro estaba tanto en peligro como fuera. Pero al menos tenía una familia.
 
 Entonces Lara apartó la mirada de la pareja discutiendo y la posó sobre la que había creído su hermana menor. Lucas también la miraba, mientras cavilaba intentando remendar el error que había cometido.
 
@@ -57,7 +57,7 @@ Entonces Lara apartó la mirada de la pareja discutiendo y la posó sobre la que
 - ¿Y qué fue lo que descubrieron tus padres? - se interesó Lucas.
 - Que la invasión que Inglaterra supuestamente planeaba contra Estados Unidos hace unos años fue una farsa.
 
-A Lucas se le hizo un nudo en la garganta. ¿Recordaría Elizabeth haber visto el montaje en el que él, Lucas, resportero de RIO, sentenciaba a Inglaterra a múltiples sanciones internacionales?. Como una adivina que dominaba la telepatía, Elizabeth lo miró fijamente.
+A Lucas se le hizo un nudo en la garganta. ¿Recordaría Elizabeth haber visto el montaje en el que él, Lucas, reportero de RIO, sentenciaba a Inglaterra a múltiples sanciones internacionales?. Como una adivina que dominaba la telepatía, Elizabeth lo miró fijamente.
 
 - Recuerdo ver el vídeo.
 - Elizabeth...
@@ -70,14 +70,14 @@ Lucas se quedó mirándola fijamente, su cara echa un poema. Elizabeth rió, div
 
 Lucas y Elizabeth también miraron frente a ellos y vieron a Jonás y Ana venir hacia ellos.
 
-- ¿Qué ocurre? - se avalanzó a preguntar Lara, mirando fijamente a su hermano mayor Jonás.
+- ¿Qué ocurre? - se abalanzó a preguntar Lara, mirando fijamente a su hermano mayor Jonás.
 - No te preocupes - se limitó a decir este -, encontraremos la solución. No tienes nada que temer.
 
 Pero su voz seria no invitaba a la calma. Ana, siempre de carácter más optimista, tomó la palabra.
 
 - Lo importante es que esto no nos afecta a la hora de escapar de este lugar. En pocos minutos nos dirigiremos a la estación y tomaremos el tren como está planeado. Todo lo demás es un problema para luego - y cuando observó la mueca de Jonás, añadió - Una eventualidad, si lo prefieres. Podemos resolverlo.
 
-Jonás no parecía muy convencido de aquello, pero se limitó a pedirle a Lara hablar en privado. La adolescente asintió con nerviosismo visible y se levantó para seguir a su hermano mayor lejos de los presentes. Ana se sentó por fin, ocupando el hueco que había dejado libbre Lara.
+Jonás no parecía muy convencido de aquello, pero se limitó a pedirle a Lara hablar en privado. La adolescente asintió con nerviosismo visible y se levantó para seguir a su hermano mayor lejos de los presentes. Ana se sentó por fin, ocupando el hueco que había dejado libre Lara.
 
 - ¿Qué sucede? - preguntó Lucas.
 - Secreto de sumario - sonrió Ana - Ya lo he dicho, no es algo que nos preocupe ahora mismo. ¿Podrían contarme qué ha pasado aquí? Antes de nuestra llegada, me refiero - preguntó, claramente intentando desviar la atención.
@@ -88,7 +88,7 @@ Conscientes de que no iban a lograr sonsacarle la información, Lucas y Elizabet
 
 La joven retrocedió entonces hasta la puerta abierta situada en la base en la torre y golpeó la misma tres veces. Sin esperar respuesta, bajó del escenario y se dirigió hacia Lucas y los demás. Viendo que los demás presentes hacían el amago de seguirla, Ana les informó de que ella iría en la retaguardia y que siguieran a sus compañeros.
 
-Rápidamente, los otros miembros de la resistencia, ya disfrazados como civiles ("¿Cuándo se disfrazaron?", se preguntó Lucas) organizaron a los presentes formando una fila índia. Tras esperar a que los últimos compañeros emergíeran del centro de control bajo la torre, pusieron en marcha a la comitiva.
+Rápidamente, los otros miembros de la resistencia, ya disfrazados como civiles ("¿Cuándo se disfrazaron?", se preguntó Lucas) organizaron a los presentes formando una fila india. Tras esperar a que los últimos compañeros emergieran del centro de control bajo la torre, pusieron en marcha a la comitiva.
 
 La excursión bordeó la gran torre de la plaza por su derecha y cruzó la carretera que rodeaba la plaza. Entraron entonces en una larga avenida recta que iba desde la plaza hasta el portón norte de la ciudad. Por el camino, y para sorpresa de los presentes, otros civiles que resultaron ser miembros de la resistencia salían de las casas y se unían a ellos. Lucas había supuesto que todos los miembros de la resistencia estaban en la plaza. Rápidamente se percató del error táctico que hubiera supuesto concentrar todos los efectivos en un único punto.
 
@@ -99,7 +99,7 @@ La fila alcanzó en silencio el gran portón de madera y lo cruzó, encontrándo
 - Sí.
 - Te dije que me avisaras antes - dijo, fingiéndose ofendida.
 
-Sin dejar de caminar, Ana se sacó un pequeño bote del bolsillo. Lo destapó, descubriendo un pequeño pincel enganchado a la tapa. De un brochaso acabó con los pocos pelos pelirrojos de su ceja.
+Sin dejar de caminar, Ana se sacó un pequeño bote del bolsillo. Lo destapó, descubriendo un pequeño pincel enganchado a la tapa. De un brochazo acabó con los pocos pelos pelirrojos de su ceja.
 
 - Bueno, a otra cosa - sentenció, satisfecha.
 
@@ -110,7 +110,7 @@ Al fin llegaron a la estación, la cuál era poco más que una gran habitación 
 - No sabía que habría compañeros tuyos aquí - Comentó Jonás. Miraba hacia Ana con suspicacia.
 - Yo sí - lo tranquilizó ella.
 
-El grupo entró en la construcción a través de unas grandes puertas de cristal ultrajadas por múltiples rayones, agujeros y otras heridas. La línea de personas fue entrando para encontrarse con una gran sala abandonada a su suerte, con muebles de madera carcomida, mostradores de vidrio destrozados, ratas campando a sus anchas... Lucas comenzó a sentirse mal. Las náuseas lo pillaron por sopresa; aunque se consideraba una persona ordenada, no era ajeno al desorden y la suciedad. Los más cercanos a él lo miraron con curiosidad, hasta que Jonás se percató.
+El grupo entró en la construcción a través de unas grandes puertas de cristal ultrajadas por múltiples rayones, agujeros y otras heridas. La línea de personas fue entrando para encontrarse con una gran sala abandonada a su suerte, con muebles de madera carcomida, mostradores de vidrio destrozados, ratas campando a sus anchas... Lucas comenzó a sentirse mal. Las náuseas lo pillaron por sopesa; aunque se consideraba una persona ordenada, no era ajeno al desorden y la suciedad. Los más cercanos a él lo miraron con curiosidad, hasta que Jonás se percató.
 
 - ¡FUERA DE AQUÍ! - gritó, agarrando de la mano a Lara y corriendo hacia la salida.
 - ¡Mierda! - exclamó Ana, empujando a Lucas y Elizabeth hacia la salida, pero dirigiéndose a todo el mundo - ¡SALID!
