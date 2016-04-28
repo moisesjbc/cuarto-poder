@@ -127,4 +127,4 @@ Lucas compartió miradas serias con los presentes y luego alzó la mirada hacia 
 ## Navegación
 
 - [Capítulo anterior: 22 - El despertar](c22_el-despertar.md)
-- [Capítulo siguiente: 24 - Viaje en tren](c24-viaje-en-tren.md)
+- [Capítulo siguiente: 24 - La excursión](c24_la-excursión.md)
