@@ -264,3 +264,16 @@ Tres equipos de la resistencia entran a liberar una ciudad burbuja con ayuda de 
 Lucas despierta y abraza a Ana fuertemente. Lara, la que había sido su hija mayor, resulta ser la hermana pequeña de Jonás, también presente en el lugar. Elizabeth, quien también conserva su nombre original (igual que Lara), rompe al llorer, aparentemente por haber perdido a su familia antes de ser capturada. Lucas es grabado por un cámara de la resistencia y Ana le explica que se trata de poner contra las cuerdas a RIO por mentir sobre su muerte. Lucas acepta unirse a la resistencia y Ana lo deja para atar cabos antes de que llegue el transporte. Mientras espera, Lucas se acerca a su familia y se da cuenta de que Lara y Jonás parecen haber desaparecido.
 
 ## Notas
+
+
+
+# 23. 15 minutos
+
+Ana habla por los altavoces de la ciudad burbuja para informar del plan de escape. La resistencia dividirá a los presentes en dos grupos para coger el tren que pasa por una estación al norte de la ciudad cada hora. Los miembros de la resistencia que viajan con el primer grupo, así como Ana, se visten de civiles para camuflarse en el tren. Jonás y Lara salen del centro de control y Jonás les informa que había recibido comunicación de RIO preguntando por el alcalde Batido de Maíz, paraa lo que Jonás inventó una mentira que lo excusara durante un tiempo. Finalmente, el primer grupo se pone en marcha hacia la estación de tren, desde donde avisan que no contactarán más hasta dentro de 15 minutos, cuando termine el trayecto.
+
+
+# 24.
+
+## Notas
+
+- En este capítulo hablan de los sucesos de "la mañana", cuando la ciudad se volvió loca. ¿No fue al mediodía?. Comprobar.
