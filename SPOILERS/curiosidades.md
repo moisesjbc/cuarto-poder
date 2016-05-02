@@ -185,3 +185,9 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
 
 3. ¿Cooper intenta asesinar a Lucas? / El lugar de la resistencia es atacado por RIO.
 ---
+
+
+# Otras curiosidades
+
+- Inicialmente planteé que el libro comenzara el 20 de Agosto de 2025, un Miércoles. Pero al final opté por no mencionar dicha fecha.
+- Personaje descartado: Allan, un soldado Inglés que se hace amigo de Lucas tras el incidente de Inglaterra.

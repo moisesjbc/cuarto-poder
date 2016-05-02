@@ -1,16 +1,15 @@
 # 1. El encuentro
 
-20 de Agosto de 2025 (Miércoles) - 18:00 **Fecha no nombrada en el capítulo**
-
-Lucas trabaja en su cubículo de La Cadena. Cuando se dispone a abandonar su piso con Ana, unos "terroristas" salen del ascensor y los intercepta. Los terroristas resultan ser soldados ingleses: un casual, Cooper **¿y Allan?**
+Lucas trabaja en su cubículo de La Cadena. Cuando se dispone a abandonar su piso con Ana, unos "terroristas" salen del ascensor y los intercepta. Los terroristas resultan ser soldados ingleses bajo las órdenes del coronel Cooper.
 
 ## Notas
+
 - Durante el capítulo menciono varias veces el incidente de Inglaterra, sin llegar a describirlo.
 - Lucas sufre mareos en la ida, pero no en la vuelta.
     - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea? 
-- Los ingleses suben en el ascensor ¿razón de hacerlo así en un entorno hostil en lugar de hacerlo por las escaleras? → Si lo cambio, cambiar más adelante, cuando Lucas recuerda los mareos que sufre cuando sube en ascensor.
 - ¿Por qué atacan los soldados ingleses? Quizás... Inglaterra está en las últimas ante un embargo total / sanción / guerra inminente y por eso la unidad del general se lanza a la desesperada a asaltar la unidad, desobedeciendo a los superiores (NO PUEDEN VOLVER A INGLATERRA ENTONCES).**
 - ¿Realmente los militares usan el ascensor, o suben por las escaleras? **Si cambio por las escaleras, tenerlo en cuenta** también más adelante.
+- Los ingleses suben en el ascensor ¿razón de hacerlo así en un entorno hostil en lugar de hacerlo por las escaleras? → Si lo cambio, cambiar más adelante, cuando Lucas recuerda los mareos que sufre cuando sube en ascensor.
 
 # 2. La señal
 
