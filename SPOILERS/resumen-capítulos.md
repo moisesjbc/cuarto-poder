@@ -19,22 +19,11 @@ Jonás duerme en un zulo en el sótano de una fábrica de juguetes abandonada cu
 
 # 3. El ascenso
 
-- Jonás y los militares suben hasta el piso 26, dejando a Ana atrás con Allan. Cooper le enseña un email a Lucas donde el mismo Ajani habla del "sexto sentido" de Lucas y de su valor para la Cadena. Mientras tanto, Ana noquea a Allan y corre al piso 26, donde le confiesa que sabe lo de Inglaterra. Acto seguido, irrumpe en el piso 26 a tiros mientras Lucas se desmaya.
-
-## Notas
-
-- **Cooper emplea una radio que lleva colgada de su uniforme. ¿Quizás ponerle algo más moderno?**
-- **¿Qué está haciendo Ajani para no poder participar en el asalto a La Cadena?**
-
+Jonás y los militares suben hasta el piso 26, dejando a Ana atrás con Allan. Cooper le enseña un email a Lucas donde el mismo Ajani habla del "sexto sentido" de Lucas y de su valor para la Cadena. Mientras tanto, Ana noquea a Allan y corre al piso 26, donde le confiesa que sabe lo de Inglaterra. Acto seguido, irrumpe en el piso 26 a tiros mientras Lucas se desmaya.
 
 # 4. La guardia
 
 Paco y Miguel vigilan una de las entradas traseras a La Cadena, mientras Paco maldice a sus superiores por no reconocer su "gran valía". Jonás distrae a Miguel, noquea a Paco y entra en el edificio.
-
-## Notas
-
-- **Paco se queja para sus interiores sobre la ineptitud de sus superiores y demás. Si es cierto que es un personaje importante de RIO recordar esto (¿amnesia inducida?)**
-
 
 # 5. Planta 26
 
