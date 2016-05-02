@@ -25,6 +25,7 @@
 
 3. Hay un tiroteo y en una explosión (¿O Ajani le pega un puñetazo?), Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
 
+- **¿Qué tal si Ajani envía a Jonás y a la sombra para que lo proteja, pero él está  ocupado – Ralentizando al ejército, o la filtración internacional... ayudando desde fuera vamos, para no meterlo tan pronto. XD**
 
 # A tener en cuenta
 

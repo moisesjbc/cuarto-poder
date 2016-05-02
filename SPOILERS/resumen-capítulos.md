@@ -11,15 +11,11 @@ Lucas trabaja en su cubículo de La Cadena. Cuando se dispone a abandonar su pis
 
 # 2. La señal
 
-- 21:00
-
 Jonás duerme en un zulo en el sótano de una fábrica de juguetes abandonada cuando lo despiera el pitido de su portátil. Tras ser avisado por su "benefactor" sobre del ataque a La Cadena, se dirige a un parque cercano y memoriza los planos de La Cadena. Durante el proceso sufre un terrible dolor de cabeza y la sangre le brota de la nariz. 
 
 ## Notas
-- Jonás lleva una mochila con alimentos y un portátil.
-- **Durante el resto del capítulo no nombro tiempos, tener esto en cuenta (por si no cuadra con el resto de la cronología).**
-- **¿Qué tal si Ajani envía a Jonás y a la sombra para que lo proteja, pero él está  ocupado – Ralentizando al ejército, o la filtración internacional... ayudando desde fuera vamos, para no meterlo tan pronto. XD**
 
+- Jonás lleva una mochila con alimentos y un portátil que no nombro en episodios posteriores.
 
 # 3. El ascenso
 
