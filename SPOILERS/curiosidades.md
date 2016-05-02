@@ -191,3 +191,4 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
 
 - Inicialmente planteé que el libro comenzara el 20 de Agosto de 2025, un Miércoles. Pero al final opté por no mencionar dicha fecha.
 - Personaje descartado: Allan, un soldado Inglés que se hace amigo de Lucas tras el incidente de Inglaterra.
+- Al final del capítulo 1, Cooper y sus dos escoltas subían en el ascensor. Lo cambié y los hice subir a las escaleras porque no me parecía muy profesional usar el ascensor en un asalto.

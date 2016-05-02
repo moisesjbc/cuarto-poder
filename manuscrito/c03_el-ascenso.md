@@ -2,7 +2,7 @@
 
 Cuando Lucas quiso darse cuenta, estaba subiendo a toda prisa hacia el último piso. Seguía de cerca a un soldado mientras otros tantos lo seguían a él.
 
-Tras el encuentro en el ascensor, el coronel Cooper y sus dos subalternos se habían quedado allí de pie, frente a Lucas y Ana. Cooper los miraba fijamente, mientras los dos soldados exploraban la estancia, preparados para responder a posibles amenazas ocultas. El coronel se sorprendió cuando sus hombres volvieron y se reunieron con ellos.
+Tras el encuentro frente al ascensor, el coronel Cooper y sus dos subalternos se habían quedado allí de pie, frente a Lucas y Ana. Cooper los miraba fijamente, mientras los dos soldados exploraban la estancia, preparados para responder a posibles amenazas ocultas. El coronel se sorprendió cuando sus hombres volvieron y se reunieron con ellos.
 
 - De esta planta sólo Ana y yo nos quedamos un poco más de lo... estrictamente necesario. - Sonrió Lucas, adivinando el motivo de la sorpresa reflejada en el rostro del coronel.
 - Ya veo.
@@ -34,9 +34,6 @@ El coronel volvió a empujarlo, esta vez hacia la cabeza de la fila. De esta for
 El militar se descolgó la radio que decoraba el pecho de su uniforme y se lo acercó a los labios.
 
 - ¡Que los refuerzos comiencen a subir y se unan inmediatamente a nosotros! ¡Y no sean vagos! ¡Inutilicen el ascensor y suban por las escaleras!
-
-“¿Qué no sean vagos y suban por las escaleras? ¿Y entonces, usted...? - Quiso decir Lucas, pero no parecía el momento más idóneo para bromas.
-
 - ¡Sí señor!
 
 Lucas esperó a que el oficial se colgara la radio del uniforme para intentar hablar, pero el militar lo interrumpió nuevamente.
@@ -91,7 +88,7 @@ El coronel hurgó en uno de los bolsillos de su uniforme, sacó un papel doblado
 - ¡Esto es una locura! - exclamó Lucas, perplejo – no sé a que “sexto sentido” se refiere, ni sé por qué coño soy tan valioso. Además, jamás he visto a ese hombre, ¿cómo puede hablar con tanto conocimiento de mí?
 - Muy bien, te creo - lo tranquilizó su amigo, mientras cogía el mensaje y se lo volvía a guardar en el bolsillo – yo tampoco me hubiera creído nada del mensaje si no me lo hubiera enviado quien lo ha hecho. Supongo que tendremos que averiguarlo nosotros mismos. Veamos... ¿hay algún lugar o momento en el que te sientas mal mientras trabajas aquí?
 - Pues ahora que lo dices... - se intrigó Lucas – nunca cojo el ascensor, sufro unos mareos terribles cuando lo hago, así que siempre subo las escaleras.
-- ¡Mierda! - Exclamó, divertido, el coronel - ¡He estado a punto de morir! Al menos tiene el punto positivo de que seguiste bastante bien el ritmo mientras subíamos. - Lo felicitó Cooper y ambos sonrieron. - ¿Algo más?
+- Y mis hombres querían usarlo... - sonrió, divertido, el coronel -. Al menos tiene el punto positivo de que seguiste bastante bien el ritmo mientras subíamos. - Lo felicitó Cooper y ambos sonrieron. - ¿Algo más?
 - Pues sí... la verdad – Respondió Lucas - En la planta donde trabajo, en el pasillo que va a los baños... ahí también sufro unos mareos enormes, por lo que ir al baño es un sufrimiento. Aunque luego se me pasan, y en el baño y durante la vuelta a mi puesto de trabajo no vuelvo a sentirlos. - Puntualizó.
 - ¡Mierda! - Se lamentó el militar - ¡Tengo que avisar a Allan!
 

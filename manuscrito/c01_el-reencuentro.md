@@ -71,9 +71,11 @@ La llegada de los soldados, además de estimular el consumo, elevó la sensació
 - Ya está. - Le avisó Ana a sus espaldas. Lucas esperaba todos los días cinco minutos después del fin de la jornada a que su amiga terminara lo que quiera que tuviera que hacer siempre antes de salir. - Vámonos.
 - Muy bien. - Ambos jóvenes se dirigieron hacia el pasillo central que cruzaba toda la planta y llegaba hasta el ascensor situado en la pared norte.
 - ¿Y bien? - Ana se abrazó, cariñosa, al brazo de su amigo. Acostumbraba a intentarlo siempre  que iban llegando al ascensor: - ¿Me contarás hoy lo de Inglaterra?
-- Que pesada... - Dijo Lucas con afecto. Mientras hablaba se fijaba en las puertas del ascensor, que habían comenzado a abrirse - Algún día lo conseguirás pero hoy n... - Se interrumpió al observar las tres siluetas que los esperaban en el ascensor.
+- Que pesada... - Dijo Lucas con afecto. - Algún día lo conseguirás pero hoy n... 
 
-Dos soldados con fusiles escoltaban al tercero, un oficial ya entrado en años pero que parecía gozar de una excelente condición física. Tenía los ojos azules, y un pelo blanco e incipiente que luchaba contra la calvicie que amenazaba a toda su cabeza. Ana se había quedado atónita, incapaz de mediar palabra. No ocurría así con Lucas, quien había comenzado a reírse cuando reconoció a dos de las personas del ascensor. El tercero, el soldado a la derecha del superior, hizo el amago de levantar su fusil hacia aquel civil que osaba a reírse de su superior, pero este último alzó la mano, prohibiéndoselo.
+Se detuvo al escuchar la puerta que daba a las escaleras, a la derecha del ascensor, abrirse violentamente. Tres siluetas atravesaron el umbral y se situaron frente a ellos. 
+
+Dos soldados con fusiles escoltaban al tercero, un oficial ya entrado en años pero que parecía gozar de una excelente condición física. Tenía los ojos azules, y un pelo blanco e incipiente que luchaba contra la calvicie que amenazaba a toda su cabeza. Ana se había quedado atónita, incapaz de mediar palabra. No ocurría así con Lucas, quien había comenzado a reírse cuando reconoció al hombre mayor. El soldado a la derecha del superior, hizo el amago de levantar su fusil hacia aquel civil que osaba a reírse de su superior, pero este último alzó la mano, prohibiéndoselo.
 
 - Has tardado demasiado – Dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda. 
 Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés, respondió al joven en un perfecto Español.
