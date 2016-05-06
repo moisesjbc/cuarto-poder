@@ -24,7 +24,7 @@ El joven se quedó en jaque y no supo qué responder. Simplemente negó con la c
 - Yo la lasaña vegetal – se apresuró a añadir Aitor.
 - Muy bien – asintió el camarero tras tomar nota – si me disculpan. - Y sin esperar respuesta, cogió las cartas y se marchó.
 - Y bien – Eli miró a su compañero, mientras sorbía de su copa de vino - ¿después de Periodismo qué has hecho?
-- Estuve aprovechando los conocimientos adquiridos para destacar entre mis compañeros reponiendo en un supermercado durante algunos meses, luego en una tienda, después como camarero… - Ambos rieron, cómplices –. En mis ratos libres practicaba un poco de sano peloteo con los diferentes medios, hasta que por fin el YYYYYY me dio una oportunidad... y hasta ahora.
+- Estuve aprovechando los conocimientos adquiridos para destacar entre mis compañeros reponiendo en un supermercado durante algunos meses, luego en una tienda, después como camarero… - Ambos rieron, cómplices –. En mis ratos libres practicaba un poco de sano peloteo con los diferentes medios, hasta que por fin el *Gran Canaria Ahora* me dio una oportunidad... y hasta ahora.
 - ¡Vaya! - su amiga fingió mirarlo con desconfianza – Así que formas parte de la competencia, ¿eh?.
 - Así que estás metida en la corporación RIO - Adivinó Aitor.
 - ¡No me digas que no me has visto! - Esta vez fingió sentirse ofendida.

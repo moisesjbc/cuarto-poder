@@ -33,7 +33,6 @@ Lucas despierta en medio del tiroteo de la planta 26. Allan le cuenta que Ana ú
 
 - En este capítulo aparece Arturo, "El Venezolano", **pero no lo describo físicamente**.
 - Mientras bajan en el ascensor, Ricardo le sonríe, confiado, a un enfermo Lucas. **¿Por qué?**.
-- ¿Razón de los militares para subir al piso 26?.
 
 
 # 6. La cita
@@ -42,8 +41,6 @@ Elizabeth y Aitor cenan en un restaurante lujoso cuando Andrés los interrumpe i
 
 ## Notas
 
-- **¿Nombre del periódico donde trabaja Aitor?** (actualmente YYYYYY).
-- ¿Uso al personaje de Andrés más adelante (Aparte de en el capítulo de los contenedores)?
 - **Qué oportuno que las termitas sorprendan justo a Aitor. ¿Y cómo lo saben? → ¿Informados por Elizabeth / Ana?**
 
 
