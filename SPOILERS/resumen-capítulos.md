@@ -52,20 +52,11 @@ Lucas y los demás bajan al sótano, donde son interceptados por un "pelotón de
 
 - (*) No se menciona explícitamente que sean nanomáquinas, sino "una cortina de humo negro".
 - Iván es el jefe del "pelotón de fusilamiento" y conoce a Jonás. ¿Lo uso más adelante?
-- Cuando Ana habla de la organización contraria a RIO...
-    - **¿Decir el nombre?**
-    - **¿Decir que antes actuaban públicamente mediante un conjunto de medios de comunicación competencia de RIO?**
 
 
 # 8. La purga
 
 Enrique y su unidad de antiterroristas entran en La Cadena, donde son atacados por los terroristas con armas eléctricas. Persiguen a los terroristas escaleras arribas, pero estos vuelan el tramo de escaleras entre las plantas 24 y 25. Mientras los policías buscan nuevas rutas en la planta 23, dos traidores, un grupo de hombres de negro y Elizabeth matan a los polícias.
-
-
-## Notas
-
-- **Describir mejor la recepción del edificio.**
-- **¿Por qué la policía no detiene al equipo antiterrorista antes de que entre en La Cadena? ¿A los de RIO les interesa no dar la orden?**
 
 
 # 9. Capítulo 9

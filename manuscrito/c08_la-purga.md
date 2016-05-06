@@ -10,9 +10,9 @@ Los antiterroristas, divididos en un grupo de cinco soldados a cada lado, tratab
 
 Era cierto, los uniformes destinados a protegerlos los estaba asando en aquella cálida noche de verano. Para ellos, la corriente que se había formado entre el interior y el exterior de La Cadena era todo un regalo.
 
-Frente a ellos, la recepción del edificio se erguía como una sala enorme que acaparaba las dos primeras plantas del edificio. Las paredes laterales de la planta calle parecían un museo dedicado a los logros de la corporación y del AT de Gran Canaria en concreto: cada cuadro, del tamaño de una persona adulta, exhibía una imagen icónica de un reportaje de éxito, con una descripción acorde a pie de foto.
+Frente a ellos, la recepción del edificio se erguía como una sala enorme que acaparaba las dos primeras plantas del edificio. Las paredes laterales de la planta calle parecían un museo dedicado a los logros de la corporación y del AT de Gran Canaria en concreto. Cada cuadro, del tamaño de una persona adulta, exhibía una imagen icónica de un reportaje de éxito, con una descripción acorde a pie de foto. A pocos metros frente a los cuadros se alzaba una serie de columnas que servían de apoyo a un  pasillo que recorría los laterales y el fondo del primer piso. La primera planta se conectaba a la planta calle por medio de unas escaleras muy anchas y suntuosas, situadas contra la pared más alejada de la entrada.
 
-A pocos metros frente a los cuadros se alzaba una serie de columnas que servían de apoyo a un  pasillo que recorría los laterales y el fondo del primer piso. Dicho pasillo alternaba, cada pocos metros, entre unas finas barandillas de cristal y unos robustos muros de ladrillo, ambos de un metro de altura. Los enemigos se encontraban desperdigados por este corredor, aprovechando las partes de ladrillo para cubrirse de los disparos efectuados por la policía. La primera planta se conectaba a la planta calle por medio de unas escaleras muy anchas y suntuosas, situadas contra la pared más alejada de la entrada.
+Los enemigos se encontraban desperdigados por el pasillo de la primera planta, cubriéndose de los disparos de la policía. Aprovechaban como cobertura los pequeños muros de ladrillo que se alternaban cada pocos metros con finas barandillas de cristal a lo largo de todo el corredor.
 
 - ¡Ahora!
 
