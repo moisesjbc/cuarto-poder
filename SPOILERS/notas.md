@@ -141,5 +141,3 @@
 - **¿RIO proyecta una película en el tren hablando de su origen y el de la resistencia y luego los "militares" interceptan el tren?**
 - *¿Y el cámara?*
 - En este capítulo hablan de los sucesos de "la mañana", cuando la ciudad se volvió loca. ¿No fue al mediodía?. Comprobar.
-- **¿RIO proyecta una película en el tren hablando de su origen y el de la resistencia y luego los "militares" interceptan el tren?**
-- *¿Y el cámara?*
