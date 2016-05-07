@@ -1,37 +1,42 @@
 # Notas
 
-## Capítulo 1
+## Generales
 
-- Durante el capítulo menciono varias veces el incidente de Inglaterra, sin llegar a describirlo.
+- ¿Describir el incidente de Inglaterra en algún capítulo? Lo empiezo a mencionar varias veces desde el primer capítulo y nunca llego a especificarlo.
+
+## Por capítulos
+
+### Capítulo 1
+
 - Lucas sufre mareos en la ida, pero no en la vuelta.
     - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea? 
 - ¿Por qué atacan los soldados ingleses? Quizás... Inglaterra está en las últimas ante un embargo total / sanción / guerra inminente y por eso la unidad del general se lanza a la desesperada a asaltar la unidad, desobedeciendo a los superiores (NO PUEDEN VOLVER A INGLATERRA ENTONCES).**
 
-## Capítulo 2
+### Capítulo 2
 
 - Jonás lleva una mochila con alimentos y un portátil que no nombro en episodios posteriores.
 
-## Capítulo 5
+### Capítulo 5
 
 - En este capítulo aparece Arturo, "El Venezolano", **pero no lo describo físicamente**.
 - Mientras bajan en el ascensor, Ricardo le sonríe, confiado, a un enfermo Lucas. **¿Por qué?**.
 
-## Capítulo 6
+### Capítulo 6
 
 - **Qué oportuno que las termitas sorprendan justo a Aitor. ¿Y cómo lo saben? → ¿Informados por Elizabeth / Ana?**
 
-## Capítulo 7
+### Capítulo 7
 
 - (*) No se menciona explícitamente que sean nanomáquinas, sino "una cortina de humo negro".
 - Iván es el jefe del "pelotón de fusilamiento" y conoce a Jonás. ¿Lo uso más adelante?
 
-## Capítulo 9
+### Capítulo 9
 
 - **¿Qué pasa con Michael? ¿Nadie pregunta por el pobre?**
 - **¿Qué pasa con Allan? ¿Lucas no se preocupa por él?**
 - **Cambiar el título.**
 
-## Capítulo 11
+### Capítulo 11
 
 - **¿Cambiar el título o dejarlo?**
 - **Jonás está muy callado durante todo el comienzo del capítulo. ¿Alguna razón en especial?**
@@ -42,14 +47,14 @@
 - **¿Soy muy benevolente al no haber matado a ningún militar aún?**
 - **¡Me olvidé de Roberto! ¿Qué lo traigan y se lo encasqueten a Ana?**
 
-## Capítulo 12
+### Capítulo 12
 
 - **¿Cambiar título?.**
 - **¿Con qué chantajea el hombre de negro a Manuel?**
 - **Pensar la motivación del hombre de negro para "salvar" a Paco.**
 - **¿Meto algo más en el capítulo o así está bien?**
 
-## Capítulo 13
+### Capítulo 13
 
 - ¿Decir quienes son los soldados y miembros de la resistencia sin ser cansino?. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
 - Después del tiroteo: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
@@ -65,12 +70,12 @@
     - **c) La gente de Ana simplemente hace que el ejército busque en otro sitio.**
 - **Jonás es el que les guía hasta el sótano secreto, al gran pasillo que se divide en dos, y le dice de tomar el camino correcto hacia el metro. ¿El otro camino les llevaría  directamente a la base principal de RIO y sería una matanza en el momento actual? (¿alguna defensa especial o algo que tengan que desactivar desde la base aérea?).**
 
-## Capítulo 14
+### Capítulo 14
 
 - **Cambiar el título.**
 - **“por la rama principal del puerto” → ¿Tiene algún nombre específico?**
 
-## Capítulo 15
+### Capítulo 15
 
 - **¿Poner aquí que es 21 de Agosto del 2025?**
 - **Contar que un miembro de la resistencia la está interrogando sobre los sucesos. Se dice quiénes murió, y que Lucas murió más tarde, en el puerto.**
@@ -79,14 +84,14 @@
         - **¿Puede que el superviviente empiece a sospechar de Ana?**
     - **¡Espera! → Si Ana es de RIO, ¿porque está fuera de la farsa de que Lucas está en una ciudad burbuja? → ¿O lo sabe y sólo finge?**
 
-## Capítulo 16
+### Capítulo 16
 
 - Familia: Mario (31 años, técnico informático), Lucía (35 años, rubia, profesora de matemáticas), Lara (estudiante, 16 años, melena castaña y lacia hasta media espalda) y Elizabeth (estudiante, 14 años, pelo rubio y rizado hasta los hombros).
 - El alcalde menciona que la muralla tiene más puertas pequeñas a parte de la principal y que se mantienen abiertas (¿mentira?).
 - Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
 - **¿Describir mejor a la familia?**
 
-## Capítulo 17
+### Capítulo 17
 
 - Tiempo pasado: 3 meses.
 - **Hablar del logotipo de la resistencia.**
@@ -102,12 +107,12 @@
 - **Se menciona que a Arturo se le inyectaba algo cada día media hora antes de las sesiones de hacerlo caminar sobre las nanomáquinas. Especificar qué más adelante en el libro. → ¿Intento de “sensibilizarlo” a las nanomáquinas?**
 - **¿Alargar esto un poco más y que hablen algo sobre el día del asalto a la Cadena, ¿revelar algo de lo que pasó?**
 
-## Capítulo 18
+### Capítulo 18
 
 - ¿Nombrar las cámaras por todos lados (otra vez)?
 - ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies".
 
-## Capítulo 19
+### Capítulo 19
 
 - En este capítulo se menciona que Jonás tiene nanomáquinas en su cabeza.
 - Escribí que Jonás calculaba el factorial de 100. Cambiar esto, ya que el factorial de 100 no es “algo neuronal”.
@@ -121,17 +126,17 @@
 - Nombrarlo más a Ajani en capítulos anteriores. Pensar en qué pudo estar haciendo durante todo este tiempo.
 - No menciono que la foto es de la familia Pérez, ni la reacción de Jonás. Mencionar en capítulos posteriores.
 
-## Capítulo 20
+### Capítulo 20
 
 - Tengo la sensación de que a veces me refiero a la ciudad burbuja como un pueblo y otras veces como una ciudad. Comprobar en este y en los otros capítulos relacionados.
 
-## Capítulo 21
+### Capítulo 21
 
 - Cambiar título.
 - Indicar qué pasa con el resto de equipos (en este o en siguientes capítulos).
 - Describir armas y demás.
 
-## Capítulo 24
+### Capítulo 24
 
 - **¿RIO proyecta una película en el tren hablando de su origen y el de la resistencia y luego los "militares" interceptan el tren?**
 - *¿Y el cámara?*
