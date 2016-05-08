@@ -53,5 +53,5 @@ Y así era; mientras que Aitor continuaba vestido de gala, tal como había asist
 
 ## Navegación
 
-- [Capítulo anterior: 09 - Capítulo 9](c09_capítulo-9.md)
+- [Capítulo anterior: 09 - Discrepancia](c09_discrepancia.md)
 - [Capítulo siguiente: 11 - La madriguera](c11_la-madriguera.md)

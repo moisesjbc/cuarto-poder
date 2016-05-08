@@ -1,4 +1,4 @@
-# 9. Capítulo 9
+# 9. Discrepancia
 
 El coronel Cooper no pudo evitar mostrar su alivio cuando las puertas del ascensor se abrieron ante ellos. Un grupo de cinco militares, de los que Lucas sólo conocía a Arturo “El Venezolano”, se presentó ante su oficial. Cuando los soldados abandonaron el ascensor, éste cerró sus puertas y volvió a subir. Cuatro de los recién llegados permanecieron unos pasos por detrás del quinto, quién vaciló al ver la compañía de su superior.
 

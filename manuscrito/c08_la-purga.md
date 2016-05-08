@@ -119,4 +119,4 @@ Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos 
 ## Navegación
 
 - [Capítulo anterior: 07 - El sótano](c07_el-sótano.md)
-- [Capítulo siguiente: 09 - Capítulo 9](c09_capítulo-9.md)
+- [Capítulo siguiente: 09 - Discrepancia](c09_discrepancia.md)
