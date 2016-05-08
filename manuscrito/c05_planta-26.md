@@ -44,11 +44,11 @@ Tras aquello Lucas asintió y dejó de molestar a los militares. No quería hace
 - ¡Yo siempre apuesto por ese cabronazo suertudo! - Gritó otro de los soldados en la esquina izquierda.
 - ¿Pero quién es el... ? - volvió a intentarlo Lucas, pero se interrumpió al ver como los soldados de las escaleras se apartaban para dejar paso a uno de ellos.
 
-El Venezolano salió de las escaleras dando una voltereta y se colocó tras sus compañeros en el recibidor de mármol. Entonces asomó la cabeza por encima y miró seriamente a ambos lados del pasillo que tenía delante, tomándose su tiempo para estudiar la situación e ignorando los disparos que amenazaban su vida. Uno de sus compañeros lo empujó para obligarlo a agacharse de nuevo.
+Una figura alta y delgada salió de las escaleras dando una voltereta y se colocó tras sus compañeros en el recibidor de mármol. Entonces asomó la cabeza por encima y miró seriamente a ambos lados del pasillo que tenía delante, tomándose su tiempo para estudiar la situación e ignorando los disparos que amenazaban su vida. Uno de sus compañeros lo empujó para obligarlo a agacharse de nuevo.
 
 - ¡No tientes tanto a la suerte! - gritó el soldado que lo había empujado.
 
-El soldado que acababa de hacer su aparición bordeó entonces el recibidor y corrió agachado hasta colocarse entre Allan y Lucas. El Venezolano miró a este último, con unos ojos que destilaban locura y cordura a partes iguales, y dijo seriamente.
+El soldado que acababa de hacer su aparición bordeó entonces el recibidor y corrió agachado hasta colocarse entre Allan y Lucas. El Venezolano miró a este último con unos ojos que destilaban locura y cordura a partes iguales a través del pasamontañas negro que cubría su rostro.
 
 - Arturo, encantado.
 

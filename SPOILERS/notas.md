@@ -3,32 +3,19 @@
 ## Generales
 
 - ¿Describir el incidente de Inglaterra en algún capítulo? Lo empiezo a mencionar varias veces desde el primer capítulo y nunca llego a especificarlo.
+    - Especificar la motivación de los soldados ingleses para atacar a RIO.
+- Controlar qué digo de las nanomáquinas y qué no. Se introducen en el capítulo 7 como "una cortina de humo negro".
+- Especificar que ciertos personajes son el mismo y no diferentes con el mismo nombre: Iván, Aitor, etc.
+
+## Aprovechables para el siguiente libro
+
+- (Capítulo 1) Lucas sufre mareos en la ida, pero no en la vuelta.
+    - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea?
+- (Capítulo 2) Jonás lleva una mochila con alimentos y un portátil que no nombro en episodios posteriores.
+- (Capítulo 5) Mientras bajan en el ascensor, Ricardo le sonríe, confiado, a un enfermo Lucas. **¿Por qué?**
+- (Capítulo 6) Las terminas que sorprenden a Aitor pero no a Elizabeth, ¿trabajaban para ella?
 
 ## Por capítulos
-
-### Capítulo 1
-
-- Lucas sufre mareos en la ida, pero no en la vuelta.
-    - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea? 
-- ¿Por qué atacan los soldados ingleses? Quizás... Inglaterra está en las últimas ante un embargo total / sanción / guerra inminente y por eso la unidad del general se lanza a la desesperada a asaltar la unidad, desobedeciendo a los superiores (NO PUEDEN VOLVER A INGLATERRA ENTONCES).**
-
-### Capítulo 2
-
-- Jonás lleva una mochila con alimentos y un portátil que no nombro en episodios posteriores.
-
-### Capítulo 5
-
-- En este capítulo aparece Arturo, "El Venezolano", **pero no lo describo físicamente**.
-- Mientras bajan en el ascensor, Ricardo le sonríe, confiado, a un enfermo Lucas. **¿Por qué?**.
-
-### Capítulo 6
-
-- **Qué oportuno que las termitas sorprendan justo a Aitor. ¿Y cómo lo saben? → ¿Informados por Elizabeth / Ana?**
-
-### Capítulo 7
-
-- (*) No se menciona explícitamente que sean nanomáquinas, sino "una cortina de humo negro".
-- Iván es el jefe del "pelotón de fusilamiento" y conoce a Jonás. ¿Lo uso más adelante?
 
 ### Capítulo 9
 
