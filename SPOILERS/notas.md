@@ -7,6 +7,7 @@
 - Controlar qué digo de las nanomáquinas y qué no. Se introducen en el capítulo 7 como "una cortina de humo negro".
 - Especificar que ciertos personajes son el mismo y no diferentes con el mismo nombre: Iván, Aitor, etc.
 - Ana no estaba informada del ataque a La Cadena. ¿Por qué?
+- ¿Los militares y la resistencia se van de La Cadena con las manos vacías tan felices?
 
 ## Aprovechables para el siguiente libro
 
@@ -24,7 +25,6 @@
 - ¿Decir quienes son los soldados y miembros de la resistencia sin ser cansino?. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
 - Después del tiroteo: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
 - **Aclarar quiénes son y cómo se colocan al principio, en el ascensor, en el puente, etc.**
-- **¿Se van de la cadena con las manos vacías tan felices?**
 
 ### Capítulo 14
 
