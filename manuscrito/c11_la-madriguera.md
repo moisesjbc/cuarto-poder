@@ -78,12 +78,7 @@ Aún se escuchaban disparos, pero Ana entró en el pasillo, seguida por Marcos, 
 
 A medida que se iban acercando a los militares, Lucas se dio cuenta de que no estaban todos; faltaban dos de ellos. Sin darle tiempo a temer por sus vidas, los dos ausentes salieron de una puerta situada a la izquierda, tras las verjas. Tras ellos salieron otros dos miembros de la resistencia, seguidos por un hombre cubierto con harapos. El coronel Cooper esperaba al vagabundo, con gesto serio.
 
-Jonás se permitió, sin embargo, detenerse y mirar durante un momento a Lucas.
-
-- Al fin nos volvemos a ver. Veamos qué ocurre a partir de ahora.
-- ¿Qué? - se extrañó Lucas. No recordaba haber visto a aquel hombre jamás.
-
-El vagabundo se limitó a sonreír amargamente. Un hilillo de sangre le salía de la nariz y dividía su sonrisa en dos. Ninguna de ellas parecía albergar grandes esperanzas sobre lo que estaba por venir.
+Jonás se permitió, sin embargo, detenerse y mirar durante un momento a Lucas. Sin decir nada, el vagabundo se limitó a sonreír amargamente. Un hilillo de sangre le salía de la nariz y dividía su sonrisa en dos. Ninguna de ellas parecía albergar grandes esperanzas sobre lo que estaba por venir.
 
 
 ## Navegación
