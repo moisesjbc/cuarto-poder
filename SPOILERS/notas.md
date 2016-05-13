@@ -18,11 +18,6 @@
 
 ## Por capítulos
 
-### Capítulo 9
-
-- **¿Qué pasa con Michael? ¿Nadie pregunta por el pobre?**
-- **¿Qué pasa con Allan? ¿Lucas no se preocupa por él?**
-
 ### Capítulo 11
 
 - **¿Cambiar el título o dejarlo?**
