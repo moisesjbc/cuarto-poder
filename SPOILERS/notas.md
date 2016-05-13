@@ -20,12 +20,6 @@
 
 ## Por capítulos
 
-### Capítulo 13
-
-- ¿Decir quienes son los soldados y miembros de la resistencia sin ser cansino?. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
-- Después del tiroteo: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
-- **Aclarar quiénes son y cómo se colocan al principio, en el ascensor, en el puente, etc.**
-
 ### Capítulo 14
 
 - **Cambiar el título.**
