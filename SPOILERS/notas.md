@@ -15,15 +15,9 @@
 - (Capítulo 2) Jonás lleva una mochila con alimentos y un portátil que no nombro en episodios posteriores.
 - (Capítulo 5) Mientras bajan en el ascensor, Ricardo le sonríe, confiado, a un enfermo Lucas. **¿Por qué?**
 - (Capítulo 6) Las terminas que sorprenden a Aitor pero no a Elizabeth, ¿trabajaban para ella?
+- (Capítulo 12) El hombre de negro evita que despidan a Paco. ¿Por qué? ¿Qué importancia tiene Paco para RIO?.
 
 ## Por capítulos
-
-### Capítulo 12
-
-- **¿Cambiar título?.**
-- **¿Con qué chantajea el hombre de negro a Manuel?**
-- **Pensar la motivación del hombre de negro para "salvar" a Paco.**
-- **¿Meto algo más en el capítulo o así está bien?**
 
 ### Capítulo 13
 
