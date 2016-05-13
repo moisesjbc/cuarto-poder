@@ -24,7 +24,6 @@
 - ¿Decir quienes son los soldados y miembros de la resistencia sin ser cansino?. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
 - Después del tiroteo: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
 - **¿Hacer el ascensor triangular?**
-- **¿Cambiar el título para no hacer “spoiler”?**
 - **Aclarar quiénes son y cómo se colocan al principio, en el ascensor, en el puente, etc.**
 - **¿Contar algo más?. ¿Sala del metro? ¿Discusión entre Cooper y Jonás?**
 - **¿Se van de la cadena con las manos vacías tan felices?**

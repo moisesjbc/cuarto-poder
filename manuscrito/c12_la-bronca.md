@@ -39,4 +39,4 @@ El rostro del jefe de policía Manuel se ensombreció aún más con una sonrisa 
 ## Navegación
 
 - [Capítulo anterior: 11 - Refuerzos](c11_refuerzos.md)
-- [Capítulo siguiente: 13 - La huida](c13_la-huida.md)
+- [Capítulo siguiente: 13 - Blancura](c13_blancura.md)

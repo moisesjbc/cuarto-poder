@@ -59,5 +59,5 @@ Los cuatro miembros de la resistencia continuaron en silencio, mientras el coche
 
 ## Navegación
 
-- [Capítulo anterior: 13 - La huida](c13_la-huida.md)
+- [Capítulo anterior: 13 - Blancura](c13_blancura.md)
 - [Capítulo siguiente: 15 - La emisión](c15_la-emisión.md)
