@@ -2,9 +2,9 @@
 
 El ascensor al final del pasillo era diferente a aquellos en los que se habían montado hasta entonces; este era cilíndrico, blanco y mucho mas grande. Sus paredes eran de cristal, aunque esto no era de gran utilidad en el nivel actual; el espacio alrededor del elevador se extendía medio metro y se topaba con una pared cubierta con placas blancas y rectangulares.
 
-Los miembros de la resistencia y los militares entraron en el ascensor y ocuparon posiciones alternas a lo largo de su curvatura. Únicamente tres personas se posicionaron en el centro: el coronel Cooper, Jonás el vagabundo, y Roberto, el director motero del AT de Gran Canaria. Este último permanecía de rodillas y esposado. 
+Los miembros de la resistencia y los militares entraron en el ascensor y ocuparon posiciones alternas a lo largo de su curvatura. Únicamente tres personas se posicionaron en el centro: el coronel Cooper, Jonás el vagabundo, y Ricardo, el director motero del AT de Gran Canaria. Este último permanecía de rodillas y esposado. 
 
-Jonás estaba ocupado tecleando en un complejo panel, lleno de botones, que se alzaba en el centro mismo del ascensor. El coronel permanecía justo detrás suyo. Observaba de vez en cuando a Roberto, pero se mantenía concentrado en el vagabundo; Lucas pudo adivinar la expresión de desconfianza en su rostro.
+Jonás estaba ocupado tecleando en un complejo panel, lleno de botones, que se alzaba en el centro mismo del ascensor. El coronel permanecía justo detrás suyo. Observaba de vez en cuando a Ricardo, pero se mantenía concentrado en el vagabundo; Lucas pudo adivinar la expresión de desconfianza en su rostro.
 
 El ascensor comenzó un descenso lento y silencioso. La única prueba perceptible de su movimiento se dilucidaba más allá de los cristales, donde unas luces verticales y alargadas los saludaban y se despedían a medida que el ascensor bajaba.
 
@@ -44,11 +44,11 @@ El coronel volvió a centrarse en Jonás el vagabundo, quien había alzado el pu
 
 - ¡Salvarnos! ¿Le parece poco? ¡Acérquense a esa puerta! - Ordenó, señalando con la mano desnuda a la puerta que tenía a su izquierda.
 
-Nadie parecía dispuesto a obedecer y acercarse al gas negro. Sin embargo, el humo se detuvo de repente, y comenzó a parpadear brillante durante unos instantes, al igual que el guante de Jonás. El resto de personas en el ascensor se quedó atónita mirando la escena, sin excepciones; incluso Roberto, el director de la AT de Gran Canaria, lo miraba sorprendido.
+Nadie parecía dispuesto a obedecer y acercarse al gas negro. Sin embargo, el humo se detuvo de repente, y comenzó a parpadear brillante durante unos instantes, al igual que el guante de Jonás. El resto de personas en el ascensor se quedó atónita mirando la escena, sin excepciones; incluso Ricardo, el director de la AT de Gran Canaria, lo miraba sorprendido.
 
 - ¡Qué vayáis hacia la puerta de una puta vez! - Volvió a gritar el vagabundo al ver que nadie se movía. Un hilo de sangre había comenzado a brotar de su nariz, y el dolor expresado en su cara era notable.
 
-Ana alzó a Roberto y ambos avanzaron hacia la puerta, igual que el resto. A medida que se acercaban, la nube comenzó a formar un techo y tres paredes al otro lado de la puerta, esperando para escoltarlos.
+Ana alzó a Ricardo y ambos avanzaron hacia la puerta, igual que el resto. A medida que se acercaban, la nube comenzó a formar un techo y tres paredes al otro lado de la puerta, esperando para escoltarlos.
 
 - Y ahora, ¡vamos! - Gritó Jonás, al tiempo que le pegaba un manotazo al panel de control del ascensor, allí donde se encontraba el botón para abrir las puertas.
 - ¡No, espera! - Quiso detenerlo el coronel, pero ya era tarde. Jonás avanzó corriendo hacia la puerta, a medida que los presentes le dejaban paso. El coronel no tuvo otra opción que guardarse su orgullo (una vez más) y avanzar con el grupo.

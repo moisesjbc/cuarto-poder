@@ -1,6 +1,6 @@
 # 15. La emisión
 
-*Buenos días, soy Elizabeth Ramirez y esto es una emisión de urgencia de RIO. Ayer, esta misma emisora, el AT de Gran Canaria, sufrió un terrible ataque terrorista que se inició sobre las 21 horas y se prolongó durante toda la noche. Desgraciadamente, hay que lamentar vidas humanas, empezando con la mitad del equipo antiterrorista liderado por Enrique Suárez, en su intento por recuperar el control del edificio. El ataque también se saldó con la vida de innumerables trabajadores, incluyendo la de nuestro director, Roberto Gómez.*
+*Buenos días, soy Elizabeth Ramirez y esto es una emisión de urgencia de RIO. Ayer, esta misma emisora, el AT de Gran Canaria, sufrió un terrible ataque terrorista que se inició sobre las 21 horas y se prolongó durante toda la noche. Desgraciadamente, hay que lamentar vidas humanas, empezando con la mitad del equipo antiterrorista liderado por Enrique Suárez, en su intento por recuperar el control del edificio. El ataque también se saldó con la vida de innumerables trabajadores, incluyendo la de nuestro director, Ricardo Gómez.*
 
 *Tras la matanza, los terroristas consiguieron huir, burlando a la policía y llegando hasta el puerto, donde trataron de escapar de incógnito en un barco mercantil. Sin embargo, la rápida reacción de nuestro ejército hizo que los terroristas quedaran rodeados. No obstante los atacantes, antes de que pudieran ser detenidos, prefirieron suicidarse. Para ello detonaron un artefacto explosivo colocado estratégicamente, hundiendo la embarcación con ellos dentro.*
 

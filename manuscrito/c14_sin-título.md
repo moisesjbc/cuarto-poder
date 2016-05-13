@@ -26,7 +26,7 @@ La valla no pudo hacer nada ante la embestida del automóvil, precipitándose ha
 
 El coche giró hacia la izquierda y avanzó cien metros con la intención de girar luego hacia la derecha, por la rama principal del puerto. Sin embargo, esto último no fue necesario, pues Ana se asomó de entre los contenedores de la derecha antes de que ellos llegaran a la curva. El policía aceleró los últimos metros, y empleó sus habilidades de conducción y el freno de mano para girar 180 grados y detenerse frente a Ana. Esta cojeó rápidamente hasta el coche y se subió en la parte trasera, al lado de Fernando.
 
-- ¿Y Roberto? - Le preguntó fríamente el policía, sin pararse a saludar.
+- ¿Y Ricardo? - Le preguntó fríamente el policía, sin pararse a saludar.
 - Ha muerto, ¡salgamos de aquí! - Ana había abierto su ventana y apuntaba con su pistola  hacia los contenedores, cerciorándose de que no vinieran enemigos.
 - ¿Qué?
 

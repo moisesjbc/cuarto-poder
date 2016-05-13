@@ -39,7 +39,7 @@ Cooper resopló, pero finalmente cedió.
 
 - Está bien... - y tras un momento añadió – lo siento.
 
-La disculpa hizo mella en Lucas, poco acostumbrado a los conflictos. El joven empezó a dudar si no habría sido muy duro con el oficial, pero enseguida se limitó a mirar hacia otro lado, evitando la mirada del militar. Ana, por su parte, hizo caso omiso de la disculpa. Miraba hacia Roberto, el directivo motero. Aún permanecía inconsciente en el suelo, y parecía que la joven dudaba sobre qué hacer con él.
+La disculpa hizo mella en Lucas, poco acostumbrado a los conflictos. El joven empezó a dudar si no habría sido muy duro con el oficial, pero enseguida se limitó a mirar hacia otro lado, evitando la mirada del militar. Ana, por su parte, hizo caso omiso de la disculpa. Miraba hacia Ricardo, el directivo motero. Aún permanecía inconsciente en el suelo, y parecía que la joven dudaba sobre qué hacer con él.
 
 - Nosotros nos ocuparemos de él – Cooper también miraba hacia la gran mole inconsciente.
 - Gracias. - Respondió fríamente la pelirroja. - Lucas, ¿estás listo?
