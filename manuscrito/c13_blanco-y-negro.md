@@ -1,4 +1,4 @@
-# 13. La huida
+# 13. Blanco y negro
 
 El ascensor al final del pasillo era diferente a aquellos en los que se habían montado hasta entonces; este era cilíndrico, blanco y mucho mas grande. Sus paredes eran de cristal, aunque esto no era de gran utilidad en el nivel actual; el espacio alrededor del elevador se extendía medio metro y se topaba con una pared cubierta con placas blancas y rectangulares.
 
