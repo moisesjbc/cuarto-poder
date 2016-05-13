@@ -23,16 +23,8 @@
 
 - ¿Decir quienes son los soldados y miembros de la resistencia sin ser cansino?. Cooper, Ana, Roberto, Lucas, Jonás, 5 militares (incluyendo al Venezonalo, ¿y a alguien más – Allan-?) y 6 de la resistencia.
 - Después del tiroteo: 5 militares, Cooper, Ana, Lucas, Roberto, Jonás, 6 de la resistencia --- Cooper, Ana, Lucas, Jonás, 3 militares y 2 miembros de la resistencia.
-- **¿Hacer el ascensor triangular?**
 - **Aclarar quiénes son y cómo se colocan al principio, en el ascensor, en el puente, etc.**
-- **¿Contar algo más?. ¿Sala del metro? ¿Discusión entre Cooper y Jonás?**
 - **¿Se van de la cadena con las manos vacías tan felices?**
-- ¿Si huyen en un barco, qué pasa con el ejército, la policía, los guardacostas...? 
-    - ¿Ana les hace un último regalo antes de marcharse (su compañía lanza un señuelo, bloquea a los perseguidores, etc)? 
-    - a) Usan armas que inutilizan a los perseguidores. A las patrulleras disparan al motor.
-    - b) Usan algún tipo de camuflaje. 
-    - **c) La gente de Ana simplemente hace que el ejército busque en otro sitio.**
-- **Jonás es el que les guía hasta el sótano secreto, al gran pasillo que se divide en dos, y le dice de tomar el camino correcto hacia el metro. ¿El otro camino les llevaría  directamente a la base principal de RIO y sería una matanza en el momento actual? (¿alguna defensa especial o algo que tengan que desactivar desde la base aérea?).**
 
 ### Capítulo 14
 

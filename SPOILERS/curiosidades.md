@@ -192,3 +192,4 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
 - Inicialmente planteé que el libro comenzara el 20 de Agosto de 2025, un Miércoles. Pero al final opté por no mencionar dicha fecha.
 - Personaje descartado: Allan, un soldado Inglés que se hace amigo de Lucas tras el incidente de Inglaterra.
 - Al final del capítulo 1, Cooper y sus dos escoltas subían en el ascensor. Lo cambié y los hice subir a las escaleras porque no me parecía muy profesional usar el ascensor en un asalto.
+- Antigua nota sobre el capítulo 13: Jonás es el que les guía hasta el sótano secreto, al gran pasillo que se divide en dos, y le dice de tomar el camino correcto hacia el metro. ¿El otro camino les llevaría  directamente a la base principal de RIO y sería una matanza en el momento actual? (¿alguna defensa especial o algo que tengan que desactivar desde la base aérea?).
