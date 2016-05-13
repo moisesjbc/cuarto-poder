@@ -1,4 +1,4 @@
-# 11. La madriguera
+# 11. Refuerzos
 
 Cuando la gran puerta acorazada se abrió lo suficiente como para ver lo que había al otro lado, un inmenso contraste les golpeó. Lo que era un pasillo de hormigón frío, estrecho y sin vida, se transformaba, tras el umbral de la imponente puerta, en una amplia pero cálida sala que invitaba a quedarse. Lo único que podía hacerte desistir de esa idea era el tiroteo que se podía escuchar al fondo.
 
