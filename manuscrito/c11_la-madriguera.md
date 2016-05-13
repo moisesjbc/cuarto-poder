@@ -62,7 +62,9 @@ Marcos rió. Lucas, que se sentía totalmente desplazado, ajeno a la situación,
 - Son... son personas. - Y cuando Ana lo miró, resaltó: - Hijos de puta, sí, pero personas al fin y acabo.
 - Con hijos de puta te quedas jodidamente corto – Replicó Ana fríamente.
 
-El tiroteo se extendió durante algunos minutos más. La monotonía únicamente se rompió cuando la pesada puerta acorazada comenzó a abrirse nuevamente. Ana y Lucía continuaron con el tiroteo.  Únicamente Marcos y Lucas, relegados del mismo, se permitieron observar la entrada de los nuevos.  El coronel Cooper y sus cinco hombres entraron en la gran recepción, tomándose menos tiempo para ello de lo que les hubiera gustado, ya que la pesada puerta comenzó a cerrarse nuevamente mientras ellos aún estaban entrando.
+El tiroteo se extendió durante algunos minutos más. La monotonía únicamente se rompió cuando la pesada puerta acorazada comenzó a abrirse nuevamente. Ana y Lucía ignoraron el suceso y se limitaron a continuar con el tiroteo.  Únicamente Marcos y Lucas, relegados del mismo, se permitieron observar la entrada de los nuevos.
+
+El coronel Cooper y sus cinco hombres entraron en la gran recepción, tomándose menos tiempo para ello de lo que les hubiera gustado, ya que la pesada puerta comenzó a cerrarse nuevamente mientras ellos aún estaban entrando. El último hombre cargaba con Ricardo, el director, aún inconsciente. Con gran velocidad, dejó al prisionero en el suelo y siguió a su unidad.
 
 Los militares atravesaron la recepción con rapidez, bordeando el gran mostrador de madera y llegando a donde estaba el resto. Sin detenerse un segundo, la unidad se preparó para realizar una incursión, mientras Arturo, el Venezolano, se descolgaba una granada del uniforme. La granada voló hacia el fondo del pasillo mientras los militares esperaban el tiempo de rigor.
 

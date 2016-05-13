@@ -22,12 +22,10 @@
 
 - **¿Cambiar el título o dejarlo?**
 - **Jonás está muy callado durante todo el comienzo del capítulo. ¿Alguna razón en especial?**
-- **¿En qué circunstancias se vieron anteriormente Jonás y Lucas? O Jonás a Lucas?**
 - **Los militares entran y limpian el pasillo con la misma. Jonás les prometió que los llevaría hasta las pruebas, pero después les vende la moto. Especificarlo en algún momento (decir que Lucas piensa que han debido hacer un trato, o algo por el estilo).**
 - **Quizás la parte de que entran los soldados a saco la cuento muy rápido?**
 - **Hablo de Cooper y 5 militares más, ¿está bien? → Parece que sí.**
 - **¿Soy muy benevolente al no haber matado a ningún militar aún?**
-- **¡Me olvidé de Roberto! ¿Qué lo traigan y se lo encasqueten a Ana?**
 
 ### Capítulo 12
 
