@@ -33,3 +33,8 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 - A **Vero**. Por ayudar a escapar a uno de los personajes.
 - A **Garoe**. Porque al tiempo de escribir esto no ha visto nada del libro, pero cuando lo haga, su exquisitez mejorará el realismo del libro... o romperá nuestra amistad.
 - A **Abián**. Porque te sorprendiste cuando supiste que yo escribía, y eso a su vez me motivó a escribir este libro.
+
+
+## Licencia
+
+Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
