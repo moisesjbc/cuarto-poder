@@ -80,12 +80,13 @@ El coche derrapó hacia la izquierda justo cuando los disparos comenzaron. Ahora
 - ¿Qué está ocurriendo? - preguntó el alcalde. A diferencia de antes, ahora su voz sonaba distante, como si estuviera alejado del micrófono. - ¿Qué? ¡Me importa una mierda que el micrófono esté abierto! ¡Solucionad esto! ¡Los activos no se mueven!
 - ¿Activos? - se preguntó Lucía, la madre - ¿Cómo que act...? ¡ah!
 
-Una mujer de unos cuarente años se había avalanzado contra un lateral del coche con los ojos inyectados en sangre. La fuerza del impacto la lanzó hacia atrás y ahora yacía insconsciente en la carretera. Otros vecinos comenzaron a correr contra el coche, imitándola.
+Una mujer de unos cuarenta años se había avalanzado contra un lateral del coche con los ojos inyectados en sangre. La fuerza del impacto la lanzó hacia atrás y ahora yacía insconsciente en la carretera. Otros vecinos comenzaron a correr contra el coche, imitándola.
 
 - ¿Ves? ¡Esto me gusta más! - Se alegró el alcalde Batido de Maíz -, pero me gustaría que no fueran tan suicidas. No quiero perder votantes - rió.
 
 Lara dejó escapar un grito. Un chico de unos 20 años se tiró de bruces contra su ventana y casi la rompe del golpe.
 
+- ¡Las puertas! ¿Dónde están las puertas? - Se desesperó Elizabeth, recordando las palabras del alcalde el día anterior: "la muralla dispone de puertas más pequeñas que se mantienen siempre abiertas".
 - ¡Mirad! - gritó Mario, señalando hacia delante.
 
 Cien metros delante de ellos, algunos vecinos habían aparcado coches en medio de la calle, bloqueándola. La familia miró hacia atrás; otros tantos vecinos habían hecho lo mismo tras ellos. Estaban atrapados. 

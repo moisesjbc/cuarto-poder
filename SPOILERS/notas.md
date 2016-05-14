@@ -10,6 +10,7 @@
 - ¿Los militares y la resistencia se van de La Cadena con las manos vacías tan felices?
 - Ana debería sentir más pena por la "muerte" de Lucas.
 - ¿Decir la fecha a partir de la que empieza el libro?
+- Describir mejor y/o refrescar las descripciones de los personajes.
 
 ## Aprovechables para el siguiente libro
 
@@ -21,15 +22,9 @@
 - (Capítulo 12) El hombre de negro evita que despidan a Paco. ¿Por qué? ¿Qué importancia tiene Paco para RIO?.
 - ¿Ana es de RIO o aliada de Elizabeth?
     - (Capítulo 15)Si Ana es de RIO, ¿por qué está fuera de la farsa de que Lucas está en una ciudad burbuja? → ¿O lo sabe y sólo finge?
+- Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
 
 ## Por capítulos
-
-### Capítulo 16
-
-- Familia: Mario (31 años, técnico informático), Lucía (35 años, rubia, profesora de matemáticas), Lara (estudiante, 16 años, melena castaña y lacia hasta media espalda) y Elizabeth (estudiante, 14 años, pelo rubio y rizado hasta los hombros).
-- El alcalde menciona que la muralla tiene más puertas pequeñas a parte de la principal y que se mantienen abiertas (¿mentira?).
-- Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
-- **¿Describir mejor a la familia?**
 
 ### Capítulo 17
 
