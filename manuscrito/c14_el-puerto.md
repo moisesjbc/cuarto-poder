@@ -22,9 +22,11 @@ Al otro lado del túnel los esperaba un garaje mucho más limpio y en mejor esta
 
 El camino hasta el puerto fue corto y sin mayores incidentes que un par de sustos en las intersecciones que atravesaban a toda velocidad. Cuando llegaron al puerto, el policía no dejó de acelerar el coche patrulla, abalanzándose contra la verja de la entrada. Poco importaban los disparos que descargaban sobre ellos el grupo de militares apostado allí, pues el coche estaba convenientemente blindado.
 
-La valla no pudo hacer nada ante la embestida del automóvil, precipitándose hacia el suelo y dejando paso a los intrusos. El coche se encontró con un gran barco de mercancías que zarpaba en ese mismo instante. Los ocupantes del coche patrulla podían escuchar disparos provenientes del barco, así como de algún lugar del puerto. 
+La valla no pudo hacer nada ante la embestida del automóvil, precipitándose hacia el suelo y dejando paso a los intrusos. 
 
-El coche giró hacia la izquierda y avanzó cien metros con la intención de girar luego hacia la derecha, por la rama principal del puerto. Sin embargo, esto último no fue necesario, pues Ana se asomó de entre los contenedores de la derecha antes de que ellos llegaran a la curva. El policía aceleró los últimos metros, y empleó sus habilidades de conducción y el freno de mano para girar 180 grados y detenerse frente a Ana. Esta cojeó rápidamente hasta el coche y se subió en la parte trasera, al lado de Fernando.
+Entonces vieron el gran barco de mercancías que zarpaba en ese mismo instante. También escucharon disparos provenientes del barco, así como del dique situado al fondo.
+
+El puerto tenía forma de "C" cuadrada y ellos habían entrado por su extremo inferior, por lo que el  coche giró hacia la izquierda y avanzó cien metros con la intención de girar luego hacia la derecha, por la rama principal del puerto. Sin embargo, esto último no fue necesario, pues Ana se asomó de entre los contenedores de la derecha antes de que ellos llegaran a la curva. El policía aceleró los últimos metros, y empleó sus habilidades de conducción y el freno de mano para girar 180 grados y detenerse frente a Ana. Ésta cojeó rápidamente hasta el coche y se subió en la parte trasera, al lado de Fernando.
 
 - ¿Y Ricardo? - Le preguntó fríamente el policía, sin pararse a saludar.
 - Ha muerto, ¡salgamos de aquí! - Ana había abierto su ventana y apuntaba con su pistola  hacia los contenedores, cerciorándose de que no vinieran enemigos.

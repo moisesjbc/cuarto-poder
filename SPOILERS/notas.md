@@ -21,10 +21,6 @@
 
 ## Por capítulos
 
-### Capítulo 14
-
-- **“por la rama principal del puerto” → ¿Tiene algún nombre específico?**
-
 ### Capítulo 15
 
 - **¿Poner aquí que es 21 de Agosto del 2025?**
