@@ -23,7 +23,6 @@
 
 ### Capítulo 14
 
-- **Cambiar el título.**
 - **“por la rama principal del puerto” → ¿Tiene algún nombre específico?**
 
 ### Capítulo 15
