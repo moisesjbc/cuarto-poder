@@ -19,17 +19,10 @@
 - (Capítulo 5) Mientras bajan en el ascensor, Ricardo le sonríe, confiado, a un enfermo Lucas. **¿Por qué?**
 - (Capítulo 6) Las terminas que sorprenden a Aitor pero no a Elizabeth, ¿trabajaban para ella?
 - (Capítulo 12) El hombre de negro evita que despidan a Paco. ¿Por qué? ¿Qué importancia tiene Paco para RIO?.
+- ¿Ana es de RIO o aliada de Elizabeth?
+    - (Capítulo 15)Si Ana es de RIO, ¿por qué está fuera de la farsa de que Lucas está en una ciudad burbuja? → ¿O lo sabe y sólo finge?
 
 ## Por capítulos
-
-### Capítulo 15
-
-- **¿Poner aquí que es 21 de Agosto del 2025?**
-- **Contar que un miembro de la resistencia la está interrogando sobre los sucesos. Se dice quiénes murió, y que Lucas murió más tarde, en el puerto.**
-    - **¿Estos? → Lucas, Ana, Cooper, Jonás, 3 soldados (incluyendo al Venezolano ¿y a Allan?) y 2 rebeldes.**
-    - **¿Mato a Marcos o a Lucía? ¿O a ambos?**
-        - **¿Puede que el superviviente empiece a sospechar de Ana?**
-    - **¡Espera! → Si Ana es de RIO, ¿porque está fuera de la farsa de que Lucas está en una ciudad burbuja? → ¿O lo sabe y sólo finge?**
 
 ### Capítulo 16
 
