@@ -26,13 +26,9 @@
     - (Capítulo 15)Si Ana es de RIO, ¿por qué está fuera de la farsa de que Lucas está en una ciudad burbuja? → ¿O lo sabe y sólo finge?
 - Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
 - (Capítulo 17) Vestimenta y logo de la resistencia: "Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. La vestimenta contaba con un pequeño logotipo de contornos simples que descansaba sobre el pecho izquierdo. Representaba una venda cayéndose de una cabeza humana, todo visto desde perfil."
+- Hablar del objetivo de las ciudades burbujas y de ciertas características de las mismas, como por ejemplo: ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies" (página 18).
 
 ## Por capítulos
-
-### Capítulo 18
-
-- ¿Nombrar las cámaras por todos lados (otra vez)?
-- ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies".
 
 ### Capítulo 19
 
