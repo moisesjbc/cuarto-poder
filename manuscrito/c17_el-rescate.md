@@ -2,7 +2,7 @@
 
 La bala silbó por encima de la cabeza de Ana. La joven pelirroja se agachó en el momento justo y se volvió a cubrir tras su esquina.
 
-- ¡Esa estuvo cerca! - sonrió María, desde la otra esquina.
+- ¡Esa estuvo cerca! - sonrió María, a su lado.
 - ¡Sí! - Ana se esforzaba por hacerse oír por encima del ruido del tiroteo - ¡No gano para disgustos! - Rió.
 
 Ambas se concentraban en asomarse a intervalos regulares desde sus respectivas esquinas para responder al fuego enemigo. Los disparos provenían de un pasillo largo y estrecho que se extendía frente a ellas.
@@ -16,7 +16,7 @@ El fogonazo, un pitido y varios quejidos al fondo del pasillo fueron las señale
 
 - ¿Y el otro? - Preguntó María, sin dejar de avanzar - ¡Agh!
 
-Un disparo le alcanzó la pierna izquierda y la hizo caer. Ana, sin inmutarse, disparó con gran precisión hacia el enemigo restante, pero éste consiguió esconderse a tiempo tras la esquina derecha. 
+Un disparo le alcanzó la pierna izquierda y la hizo caer. Ana, sin inmutarse, disparó con gran precisión hacia el enemigo restante, pero éste consiguió esconderse a tiempo tras la esquina derecha, al fondo del corredor. 
 
 Ana continuó avanzando a toda prisa, dejando que sus compañeros le ofrecieran fuego de cobertura. Corrió los últimos metros y se colocó tras la esquina por la que había desaparecido el enemigo. Entonces se agachó y esperó a que un agente se colocara tras la esquina izquierda. Tras hacer una seña a su aliado, respiró profundamente, y con una gran determinación y agilidad, se asomó, decidida a enfrentarse a cualquier peligro. 
 
@@ -29,7 +29,11 @@ Ana retrocedió entonces para dirigirse hacia donde yacía su amiga en el suelo.
 
 - ¿Estás bien?
 - Sí. En peores me he visto – sonrió Maria.
-- Me alegro – le devolvió la sonrisa, afectuosa. Ana se dirigió entonces al resto de sus subalternos, que descansaban a lo largo del pasillo. Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. – comprueben las habitaciones en busca del paquete. No liberen a nadie más, el equipo de limpieza se encargará de ello. ¿Entendido?
+- Me alegro – le devolvió la sonrisa, afectuosa. 
+
+Ana se dirigió entonces al resto de sus subalternos, que descansaban a lo largo del pasillo. Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. La vestimenta contaba con un pequeño logotipo de contornos simples que descansaba sobre el pecho izquierdo. Representaba una venda cayéndose de una cabeza humana, todo visto desde perfil. Ana alzó la voz.
+
+– Comprueben las habitaciones en busca del paquete. No liberen a nadie más, el equipo de limpieza se encargará de ello. ¿Entendido?
 - ¡Sí! - Asintieron todos al unísono.
 
 Los agentes comenzaron entonces a echar un rápido vistazo rápido a través del recuadro de cristal de cada puerta. Una rápida comprobación, y cada agente pasaba con presteza a la siguiente puerta.
@@ -49,12 +53,12 @@ El grupo avanzó hasta el fondo del pasillo, donde éste bifurcaba en dos. Enton
 - De acuerdo – se lamentó Ana – Bien, ¿Tienes ahí el registro de prisioneros?
 - Espere... sí, aquí está. - Y adivinando lo que su superiora deseaba saber, añadió - Esto... lo siento, pero he olvidado el nombre del objetivo.
 
-Ana suspiró. La poca memoria de Miguel era leyendaria. - Ramírez. Arturo Ramírez.
+Ana suspiró. La poca memoria de Miguel era legendaria. - Ramírez. Arturo Ramírez.
 
 - Bien. Veamos... - la búsqueda se demoró uno o dos minutos, que Ana aprovechó para comprobar las habitaciones cercanas - ¡Lo encontré! La habitación es la 615.
-- ¡Uff! Y nosotros aún íbamos por la planta 3 – Rió Ana, quien descolgó la radio sin ni siquiera despedirse. ¡Muy bien! ¡Nuestro objetivo está en la sexta planta, habitación 615! ¡Ustedes suban por las escaleras de su lado! - Gritó al grupo que había tomado el camino de la izquierda. Luego se centró en el grupo que la acompañaba - ¡Ustedes conmigo!.
+- ¡Uff! Y nosotros aún íbamos por la planta 3 – Rió Ana, quien cortó la comunicación sin ni siquiera despedirse. ¡Muy bien! ¡Nuestro objetivo está en la sexta planta, habitación 615! ¡Ustedes suban por las escaleras de su lado! - Gritó al grupo que había tomado el camino de la izquierda. Luego se centró en el grupo que la acompañaba - ¡Ustedes conmigo!.
 
-Ambos equipos se pusieron rápidamente en marcha. El grupo de Ana avanzó por su pasillo hasta el final, donde éste giraba hacia la izquierda. Un agente que iba por delante de ella se asomó rápidamente y confirmó que tenían vía libre. Tras la esquina, el pasillo avanzaba 2 metros y acababa en unas escaleras de dos tramos.
+Ambos equipos, de seís personas cada uno, se pusieron rápidamente en marcha. El grupo de Ana avanzó por su pasillo hasta el final, donde éste giraba hacia la izquierda. Un agente que iba por delante de ella se asomó rápidamente y confirmó que tenían vía libre. Tras la esquina, el pasillo avanzaba 2 metros y acababa en unas escaleras de dos tramos.
 
 - El equipo comenzó a subir las escaleras rápidamente, preocupándose en cada piso por no toparse con una emboscada. Sin embargo, no encontraron ningún peligro hasta que llegaron al sexto piso. Fue entonces cuando un disparo golpeó el pecho de Ana, quien cayó de espaldas sobre un aliado que iba tras ella. Ambos cayeron aparatosamente.
 
@@ -81,7 +85,7 @@ Ana no pudo evitar lanzar una maldición - ¡Mierda! - En su cabeza imaginó mil
 
 El equipo obedeció y volvió a dividirse en dos mitades. Ana corrió con su subequipo a las escaleras donde instantes antes había recibido un disparo, y comenzaron a subir. El manicomio tenía siete pisos de alto más la azotea, por lo que sólo tuvieron que preocuparse de ser emboscados en un piso durante el ascenso. Sin embargo, esta vez no hubo sorpresas desagradables y llegaron a la azotea sin problemas. 
 
-La luz de la luna llena los bañó cuando salieron al exterior. La azotea consistía en una gran extensión rectangular de suelo de gravilla con una señal de helipuerto dibujada en su centro. Sobre ella descansaba un helicóptero cuyo motor había sido encendido en vano. Un agujero de bala había resquebrajado el cristal delantero, y por la sangre que lo salpicaba, era evidente que el disparo había sido certero. 
+La luz de la luna llena los bañó cuando salieron al exterior. La azotea consistía en una gran extensión rectangular de suelo de gravilla con una señal de helipuerto dibujada en su centro. Sobre ella descansaba un helicóptero cuyo motor había sido encendido en vano. Un agujero de bala había resquebrajado el cristal delantero y, por la sangre que lo salpicaba, era evidente que el disparo había sido certero. Siendo como era aquel el único edificio en medio de un valle con grandes arbodelas cubriendo las montañas cercanas, había sido un trabajo sencillo para el equipo de francotiradores.
 
 Ana contó hasta 5 cuerpos tendidos alrededor del vehículo. A primera vista parecía que sólo había bastado una bala para abatir a cada uno de aquellos pobres desgraciados. El único superviviente era un hombre enfundado en una camisa de fuerza, el cual los miraba con una nota de nerviosismo, casi imperceptible.
 

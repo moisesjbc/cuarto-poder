@@ -8,9 +8,11 @@
 - Especificar que ciertos personajes son el mismo y no diferentes con el mismo nombre: Iván, Aitor, etc.
 - Ana no estaba informada del ataque a La Cadena. ¿Por qué?
 - ¿Los militares y la resistencia se van de La Cadena con las manos vacías tan felices?
+    - ¿Dar más detalles sobre el asalto supuestamente fallido a lo largo del libro?
 - Ana debería sentir más pena por la "muerte" de Lucas.
 - ¿Decir la fecha a partir de la que empieza el libro?
 - Describir mejor y/o refrescar las descripciones de los personajes.
+- En el capítulo 17 se menciona que a Arturo se le inyectaba algo cada día media hora antes de las sesiones de hacerlo caminar sobre las nanomáquinas. Especificar qué más adelante en el libro. → ¿Intento de “sensibilizarlo” a las nanomáquinas?
 
 ## Aprovechables para el siguiente libro
 
@@ -23,24 +25,9 @@
 - ¿Ana es de RIO o aliada de Elizabeth?
     - (Capítulo 15)Si Ana es de RIO, ¿por qué está fuera de la farsa de que Lucas está en una ciudad burbuja? → ¿O lo sabe y sólo finge?
 - Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
+- (Capítulo 17) Vestimenta y logo de la resistencia: "Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. La vestimenta contaba con un pequeño logotipo de contornos simples que descansaba sobre el pecho izquierdo. Representaba una venda cayéndose de una cabeza humana, todo visto desde perfil."
 
 ## Por capítulos
-
-### Capítulo 17
-
-- Tiempo pasado: 3 meses.
-- **Hablar del logotipo de la resistencia.**
-- **Describir bien el chándal.**
-- **Que Ana le ordene a Miguel recopilar información y que se vayan o algo.**
-- ¿Qué le inyectaban a Arturo?
-- Quizás cuando empiezo a hablar de los pasillos y la distribución de los pisos me lío un poco. Aclarar.
-- **¿Expreso dónde está la sala de control y por qué se asaltó por separado?**
-- **Decir cuántos son en el grupo que va con Ana y el otro.**
-- **Cuando suben a la azotea → nombrar que hay árboles alrededor y tal.**
-- **¿Y la coña de que Arturo robara alguna cartera o algo?**
-- **¿Qué ocurre con María, su amiga? Ana debería como mínimo preocuparse por como sigue o algo, ¿no?**
-- **Se menciona que a Arturo se le inyectaba algo cada día media hora antes de las sesiones de hacerlo caminar sobre las nanomáquinas. Especificar qué más adelante en el libro. → ¿Intento de “sensibilizarlo” a las nanomáquinas?**
-- **¿Alargar esto un poco más y que hablen algo sobre el día del asalto a la Cadena, ¿revelar algo de lo que pasó?**
 
 ### Capítulo 18
 
