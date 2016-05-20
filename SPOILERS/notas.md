@@ -2,8 +2,6 @@
 
 ## Generales
 
-- ¿Describir el incidente de Inglaterra en algún capítulo? Lo empiezo a mencionar varias veces desde el primer capítulo y nunca llego a especificarlo.
-    - Especificar la motivación de los soldados ingleses para atacar a RIO.
 - Controlar qué digo de las nanomáquinas y qué no. Se introducen en el capítulo 7 como "una cortina de humo negro".
 - Especificar que ciertos personajes son el mismo y no diferentes con el mismo nombre: Iván, Aitor, etc.
 - Ana no estaba informada del ataque a La Cadena. ¿Por qué?

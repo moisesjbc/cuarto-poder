@@ -87,8 +87,13 @@ El coronel hurgó en uno de los bolsillos de su uniforme, sacó un papel doblado
 - ¿Y bien? - se interesó Cooper - ¿Tienes idea de a qué se refiere?
 - ¡Esto es una locura! - exclamó Lucas, perplejo – no sé a que “sexto sentido” se refiere, ni sé por qué coño soy tan valioso. Además, jamás he visto a ese hombre, ¿cómo puede hablar con tanto conocimiento de mí?
 - Muy bien, te creo - lo tranquilizó su amigo, mientras cogía el mensaje y se lo volvía a guardar en el bolsillo – yo tampoco me hubiera creído nada del mensaje si no me lo hubiera enviado quien lo ha hecho. Supongo que tendremos que averiguarlo nosotros mismos. Veamos... ¿hay algún lugar o momento en el que te sientas mal mientras trabajas aquí?
-- Pues ahora que lo dices... - se intrigó Lucas – nunca cojo el ascensor, sufro unos mareos terribles cuando lo hago, así que siempre subo las escaleras.
-- Y mis hombres querían usarlo... - sonrió, divertido, el coronel -. Al menos tiene el punto positivo de que seguiste bastante bien el ritmo mientras subíamos. - Lo felicitó Cooper y ambos sonrieron. - ¿Algo más?
+- Siempre desde el reportaje en Inglaterra. - La voz de Lucas se ensombreció - Escucha... no he sido capaz de encontrar pruebas en todos estos años, y amenazaron con matarme si intentaba desmentirles... lo siento.
+
+El militar le puso una mano en el hombro.
+
+- RIO sabe cómo cubrir sus huellas. Nosotros tampoco hemos podido sacar, y como puedes ver nos quedamos sin opciones. - Trató de sonreir, pero era obvio que estaba preocupado por sus hombres - ¿Entonces?
+- Pues ahora que lo pienso... - se intrigó Lucas – nunca cojo el ascensor, sufro unos mareos terribles cuando lo hago, así que siempre subo las escaleras.
+- Y mis hombres querían usarlo... Al menos tiene el punto positivo de que seguiste bastante bien el ritmo mientras subíamos. - Lo felicitó Cooper. - ¿Algo más?
 - Pues sí... la verdad – Respondió Lucas - En la planta donde trabajo, en el pasillo que va a los baños... ahí también sufro unos mareos enormes, por lo que ir al baño es un sufrimiento. Aunque luego se me pasan, y en el baño y durante la vuelta a mi puesto de trabajo no vuelvo a sentirlos. - Puntualizó.
 - ¡Mierda! - Se lamentó el militar - ¡Tengo que avisar a Allan!
 

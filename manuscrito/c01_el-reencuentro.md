@@ -77,9 +77,11 @@ Se detuvo al escuchar la puerta que daba a las escaleras, a la derecha del ascen
 
 Dos soldados con fusiles escoltaban al tercero, un oficial ya entrado en años pero que parecía gozar de una excelente condición física. Tenía los ojos azules, y un pelo blanco e incipiente que luchaba contra la calvicie que amenazaba a toda su cabeza. Ana se había quedado atónita, incapaz de mediar palabra. No ocurría así con Lucas, quien había comenzado a reírse cuando reconoció a dos de los tres militares. El tercero, soldado a la derecha del superior, hizo el amago de levantar su fusil hacia aquel civil que osaba a reírse de su superior, pero este último alzó la mano, prohibiéndoselo.
 
-- Has tardado demasiado – Dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda. 
+- Ya tardabas demasiado en hacerlo – Dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda.
+
 Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés, respondió al joven en un perfecto Español.
-- Lo siento. - Se rió. - Estas cosas llevan su tiempo. ¿Cómo estás, amigo?
+
+- Desafiar a tu gobierno y poner en peligro a tu país requiere tiempo - sonrió -, ¿cómo estás, amigo?
 
 
 ## Navegación
