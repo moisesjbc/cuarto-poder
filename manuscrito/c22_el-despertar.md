@@ -8,7 +8,7 @@ Lucas se levantó tan rápido para abrazar a su amiga que sintió mareos, pero l
 
 Lucas no recordaba cuánto tiempo había pasado, pero que se sintió morir lo tenía claro como el agua. Había sucedido tras el asalto fallido de los ingleses y la resistencia al complejo subterráneo de RIO, bajo el AT de Gran Canaria. Corría por un túnel subterráneo junto con Ana y los demás cuando escuchó una pequeña explosión tras de si y un proyectil le impactó en la nuca. Pensó en su amiga durante el segundo que tardó en desplomarse en el suelo.
 
-Tras aquello despertó siendo otra persona: Mario, un padre de familia que se mudaba con su mujer y sus hijas a una nueva ciudad, huyendo de la crisis económica. Lucas se preguntó el por qué de toda aquella farsa, pero rápidamente expulsó el pensamiento de su cabeza y apretó a Ana entre sus brazos, sintiendo su pelo pelirrojo acariciando su cara.
+Tras aquello despertó siendo otra persona: Mario, un padre de familia que se mudaba con su mujer y sus hijas a un pueblo de las afueras, huyendo de la crisis económica. Lucas se preguntó el por qué de toda aquella farsa, pero rápidamente expulsó el pensamiento de su cabeza y apretó a Ana entre sus brazos, sintiendo su pelo pelirrojo acariciando su cara.
 
 - ¡Jonás! - quien gritaba era Lara, la que había sido la hija ficticia de Lucas.
 
@@ -59,7 +59,8 @@ Lara y Lucas se separaron y se incorporaron mientras María ayudaba a Elizabeth 
 "¿Los menores de edad conservan su nombre?" - pensó Lucas, al recordar que la hermana de Jonás también había conservado su nombre original: "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
 
 - Documentamos la liberación de cada ciudad burbuja y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Elizabeth, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz - eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
-- Entiendo.
+- Entiendo, salvo por lo de "ciudad".
+- Eh... sí. Simplemente "pueblo burbuja" no sonaba tan bien - Sonrió ella.
 
 La mirada de Lucas volvió a posarse sobre aquel cámara que parecía tener un fetiche con él. Resulta la curiosidad sobre su observador, Lucas lanzó otra pregunta.
 

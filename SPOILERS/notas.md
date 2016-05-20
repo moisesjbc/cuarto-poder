@@ -14,6 +14,7 @@
 - Describir mejor y/o refrescar las descripciones de los personajes.
 - En el capítulo 17 se menciona que a Arturo se le inyectaba algo cada día media hora antes de las sesiones de hacerlo caminar sobre las nanomáquinas. Especificar qué más adelante en el libro. → ¿Intento de “sensibilizarlo” a las nanomáquinas?
 - Nombrar más a Ajani. Pensar en qué ha podido estar haciendo durante todo este tiempo.
+- ¿Cambiar el nombre de "ciudad burbuja" a algo más general? En caso de cambiarlo, buscar todas las apariciones de "burbuja" en el texto y actualizar.
 
 ## Aprovechables para el siguiente libro
 
@@ -31,10 +32,6 @@
 - (Capítulo 19): Jonás menciona que fue obligado a programarle la clave del xilófono a los "sujetos". Cuando le preguntan por "programar" se señala la cabeza. ¿Los sujetos también tienen nanomáquinas?.
 
 ## Por capítulos
-
-### Capítulo 20
-
-- Tengo la sensación de que a veces me refiero a la ciudad burbuja como un pueblo y otras veces como una ciudad. Comprobar en este y en los otros capítulos relacionados.
 
 ### Capítulo 21
 

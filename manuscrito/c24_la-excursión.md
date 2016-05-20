@@ -82,7 +82,7 @@ Jonás no parecía muy convencido de aquello, pero se limitó a pedirle a Lara h
 - ¿Qué sucede? - preguntó Lucas.
 - Secreto de sumario - sonrió Ana - Ya lo he dicho, no es algo que nos preocupe ahora mismo. ¿Podrían contarme qué ha pasado aquí? Antes de nuestra llegada, me refiero - preguntó, claramente intentando desviar la atención.
 
-Conscientes de que no iban a lograr sonsacarle la información, Lucas y Elizabeth le siguieron el juego. Contaron su llegada a la ciudad burbuja, así como los sucesos de aquella mañana, cuando las notas del xilófono dieron comienzo a la masacre. Mientras tanto, Lara y Jonás seguían hablando sobre quién sabe qué a una distancia segura de ellos.
+Conscientes de que no iban a lograr sonsacarle la información, Lucas y Elizabeth le siguieron el juego. Contaron su llegada a la ciudad burbuja (a Lucas le seguía chirriando lo de "ciudad"), así como los sucesos de aquella mañana, cuando las notas del xilófono dieron comienzo a la masacre. Mientras tanto, Lara y Jonás seguían hablando sobre quién sabe qué a una distancia segura de ellos.
 
 - Es la hora - dijo al fin Ana. Acto seguido se levantó y se dirigió al escenario, atrayendo las miradas curiosas de las personas allí congregadas. Se subió de un salto al escenario y gritó - ¡Es la hora, gente! ¡Vamos a la estación!
 
@@ -90,11 +90,11 @@ La joven retrocedió entonces hasta la puerta abierta situada en la base en la t
 
 Rápidamente, los otros miembros de la resistencia, ya disfrazados como civiles ("¿Cuándo se disfrazaron?", se preguntó Lucas) organizaron a los presentes formando una fila india. Tras esperar a que los últimos compañeros emergieran del centro de control bajo la torre, pusieron en marcha a la comitiva.
 
-La excursión bordeó la gran torre de la plaza por su derecha y cruzó la carretera que rodeaba la plaza. Entraron entonces en una larga avenida recta que iba desde la plaza hasta el portón norte de la ciudad. Por el camino, y para sorpresa de los presentes, otros civiles que resultaron ser miembros de la resistencia salían de las casas y se unían a ellos. Lucas había supuesto que todos los miembros de la resistencia estaban en la plaza. Rápidamente se percató del error táctico que hubiera supuesto concentrar todos los efectivos en un único punto.
+La excursión bordeó la gran torre de la plaza por su derecha y cruzó la carretera que rodeaba la plaza. Entraron entonces en una larga avenida recta que iba desde la plaza hasta el portón norte del pueblo. Por el camino, y para sorpresa de los presentes, otros civiles que resultaron ser miembros de la resistencia salían de las casas y se unían a ellos. Lucas había supuesto que todos los miembros de la resistencia estaban en la plaza. Rápidamente se percató del error táctico que hubiera supuesto concentrar todos los efectivos en un único punto.
 
 La fila alcanzó en silencio el gran portón de madera y lo cruzó, encontrándose con un paisaje desértico que se extendía kilómetros y kilómetros en todas las direcciones. El terreno era completamente llano, permitiendo a los presentes observar la cadena montañosa que parecían estar a días de distancia. Los únicos testigos del paso del hombre en aquél páramo era una pequeña construcción de una planta situada a unos 300 metros frente a ellos, así como la carretera en mal estado que conectaba dicha construcción y la prisión de la que acababan de salir.
 
-- Bueno, técnicamente ya hemos escapado de la ciudad - quiso bromear Ana, pero sólo recibió silencio como respuesta. Al menos hasta que Lucas miró hacia ella y sonrió.
+- Bueno, técnicamente ya hemos escapado del pueblo - quiso bromear Ana, pero sólo recibió silencio como respuesta. Al menos hasta que Lucas miró hacia ella y sonrió.
 - ¿Qué pa...? Mierda, ¿la ceja?
 - Sí.
 - Te dije que me avisaras antes - dijo, fingiéndose ofendida.
