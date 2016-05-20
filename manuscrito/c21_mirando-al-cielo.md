@@ -23,13 +23,13 @@ Joseph la ignoró a ella también.
 - ¡Llegando a la entrada, señor! - exclamó el conductor.
 - Muy bien, ¡todos preparados!.
 
-La furgoneta se detuvo en medio de un páramo desierto al merced de la noche. Conductor y pasajeros se equiparon con sus gafas de visión nocturna y abandonaron el vehículo, situándose frente a este.
+La furgoneta se detuvo en medio de un páramo desierto al merced de la noche. Conductor y pasajeros se equiparon con sus gafas de visión nocturna y sus armas: subfusiles para todos menos para Joseph,  que siempre confiaba en su fiel pistola. Acto seguido abandonaron el vehículo rápidamente, situándose frente a este.
 
 En el horizonte vislumbraron las altas murallas de piedra que rodeaban a la ciudad. Una sucesión de focos emplazados a lo largo de los muros bañaba de luz unos 50 metros hacia fuera.
 
 - Vamos... - Joseph no dejaba de mirar hacia la parte superior del gran portón de madera. Creía ver una figura humana situada sobre la puerta, pero no podía asegurarlo -, vamos... .
 
-Entonces apareció una nueva luz, tímida, sobre el portón de madera. Parpadeó un par de veces antes.
+Entonces apareció una nueva luz, tímida, sobre el portón de madera. Parpadeó un par de veces antes de apagarse para siempre.
 
 - Esa es nuestra señal - se alegrón Joseph - ¡vamos!.
 
@@ -48,7 +48,7 @@ Los dos subgrupos continuaron en silencio hasta alcanzar la entrada de la ciudad
 La misteriosa figura les ofreció una cuerda por el muro a la derecha del portón. Los visitantes se miraron entre sí.
 
 - Pensé que nos abrirían el portón - se extrañó Aitor.
-- Yo también - respondió Joseph, agarrando la cuerda y subiendo por ella.
+- Yo también - respondió Joseph, mientras enfundaba su pistola antes de agarrar la cuerda y comenzar a subir por ella.
 
 El grupo siguió a su superior, intentando no usar la cuerda más de dos personas a la vez, por si acaso. A medida que llegaban arriba, la figura misteriosa se transformaba en una mujer de unos treinta años, con el pelo largo, castaño y rizado, aplastado bajo una gorra blanca con el escudo de la ciudad. Su figura esbelta quedaba resaltada por un uniforme completamente blanco salvo por unas líneas horizontales azules en las mangas de la camisa y el pantalón. La agente infiltrada le tendió la mano a cada uno y esperó a que todos subieran antes de hablar.
 
@@ -96,7 +96,7 @@ Mientras avanzaban, Joseph giró la cabeza hacia su equipo y asintió. Todos men
 Alicia había avanzado varios metros antes de detenerse. Cuando se giró, la unidad estaba encañonándola. Lejos de sorprenderse, Alicia sonrió.
 
 - La comunicación de antes era un aviso de la traición inminente, ¿verdad Joseph?.
-- Exactamente.
+- Exactamente - le respondió este sin dejar de apuntarla con su pistola.
 
 El equipo de Joseph formó un semicírculo frente a la traidora. Estaban pendientes de cualquier movimiento, no sólo de Alicia, sino de los alrededores. La traidora dirigía una mirada rápida a cada uno mientras hablaba.
 

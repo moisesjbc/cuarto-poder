@@ -33,12 +33,6 @@
 
 ## Por capítulos
 
-### Capítulo 21
-
-- Cambiar título.
-- Indicar qué pasa con el resto de equipos (en este o en siguientes capítulos).
-- Describir armas y demás.
-
 ### Capítulo 24
 
 - **¿RIO proyecta una película en el tren hablando de su origen y el de la resistencia y luego los "militares" interceptan el tren?**
