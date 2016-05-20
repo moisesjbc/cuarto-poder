@@ -1,8 +1,8 @@
 # 19. El trayecto
 
-El traqueteo incesante del camión de carga era tan fuerte que era un verdadero milagro que el vehículo siguiera de una pieza. Cuatro eran las personas que ocupaban la parte de atrás del transporte, como si fueran vulgar mercancía. Tres agentes con ropas blancas e impolutas custodiaban a un cuarto. Este último algo más incómodo, al estar aprisionado por una camisa de fuerza.
+El traqueteo incesante del furgón era tan fuerte que era un verdadero milagro que el vehículo siguiera de una pieza. Cuatro eran las personas que ocupaban la parte de atrás del transporte, como si fueran vulgar mercancía. Tres agentes con ropas blancas e impolutas custodiaban a un cuarto. Este último algo más incómodo, al estar aprisionado por una camisa de fuerza.
 
-- ¡Uf! ¡Menos mal que escapamos de allí! ¿Verdad? - Sonrió uno de los agentes, irónico. Era el superior, y como tal, tenía el honor de disfrutar de un banco para él solo. Permanecía sentado con la espalda recostada contra uno de los laterales del camión, sin importarle lo sucio y mugriento que éste estuviera.
+- ¡Uf! ¡Menos mal que escapamos de allí! ¿Verdad? - Sonrió uno de los agentes, irónico. Era el superior, y como tal, tenía el honor de disfrutar de un banco para él solo. Permanecía sentado con la espalda recostada contra uno de los laterales del furgón, sin importarle lo sucio y mugriento que éste estuviera.
 
 Frente a él, su interlocutor mantenía la cabeza gacha, escoltado a ambos lados por sendos agentes de rango inferior. Mechones de pelo lacio y negro caían sobre su cara. La cabellera, tan mustia y reseca que daba pena, ocultaba un semblante serio, frío.
 
@@ -17,7 +17,7 @@ Jonás mantenía la mirada baja, pero de vez en cuando se permitía alzarla, des
 - ¡Por fin! - Estalló de alegría su captor. Cada vez que algo le alegraba, se sacudía la calva tres veces. - ¿Y puedes decirme en qué estás pensando?
 - En como voy a salir de esta.
 
-- Ni se te ocurra – masculló uno de los agentes de rango inferior, a la izquierda del propio Jonás. Ambos agentes, que no habían dejado de apuntar con sus fusiles al prisionero, le acercaron sus fusiles para recordarle a qué se enfrentaba si intentaba algo.
+- Ni se te ocurra – masculló uno de los agentes de rango inferior, a la izquierda del propio Jonás. Ambos agentes, que no habían dejado de apuntar con sus fusiles al prisionero, le acercaron sus armas para recordarle a qué se enfrentaba si intentaba algo.
 - ¡Al fin! - Iván volvió a sacudirse la calva - ¡Estoy pletórico! ¡Has conseguido hacer hablar a Pedro!. Te diría que lo intentaras con Jacob, ¡pero eso costaría más! ¿verdad? - rió.
 
 Jonás rió con desprecio. Sabía que su otro captor, a su derecha, era mudo.
@@ -33,15 +33,15 @@ Jonás volvió a reírse de manera amarga.
 - No, lo empeora.
 - No sabes cuaaanto lo lamento – El superior volvió a reírse, frotándose la calva tres veces – pues cuando lleguemos a tu nuevo hogar va a ser peor. Aumentarán las dosis, aumentaran las pruebas, aumentaran... ¡Ah!
 
-Los tres soldados gritaron al unísono al perder el equilibrio. Las partes de la pared y del suelo sobre las que se apoyaban se deshicieron como por arte de magia, tirando a los sorprendidos captores a través de una nube de humo negruzco al exterior del camión. Jonás se giró en su asiento para mirar por un gran agujero dejado a su izquierda, donde antes se sentaba uno de sus captores. Las luces de las farolas en medio de la noche lo cegaron, al tiempo que una refrescante brisa de verano le acarició la cara. Se encontraban en un barrio comercial, por lo que el camión no iba muy deprisa y, no había dejado tanta distancia con los agentes eyectados por la fuerza como al vagabundo le hubiera gustado.
+Los tres soldados gritaron al unísono al perder el equilibrio. Las partes de la pared y del suelo sobre las que se apoyaban se deshicieron como por arte de magia, tirando a los sorprendidos captores a través de una nube de humo negruzco al exterior del furgón. Jonás se giró en su asiento para mirar por un gran agujero dejado a su izquierda, donde antes se sentaba uno de sus captores. Las luces de las farolas en medio de la noche lo cegaron, al tiempo que una refrescante brisa de verano le acarició la cara. Se encontraban en un barrio comercial, por lo que el furgón no iba muy deprisa y, no había dejado tanta distancia con los agentes eyectados por la fuerza como al vagabundo le hubiera gustado.
 
-Entonces Jonás se levantó apresuradamente para mirar por el agujero frente a él, donde antes se sentaba Iván. Nada más alzarse, una sacudida casi lo hizo perder el equilibrio; el camión se había detenido en seco, al percatarse el conductor de que algo iba mal. Jonás tenía poco tiempo para actuar, por lo que corrió al agujero dejado por Iván y saltó fuera del vehículo detenido. Nada más caer sobre la carretera, miró rápidamente hacia ambos lados. A su derecha, el conductor del vehículo estaba abriendo su puerta para bajarse e interceptarlo, y por el segundo ruido que escuchó Jonás, el copiloto estaba haciendo lo mismo por su lado. A su izquierda, los tres soldados a los que había tirado del vehículo en marcha se encontraban a unos diez metros, aún recuperándose de la aparatosa caída. Por sus caras, a Jonás muy bien le vendría escapar de aquella.
+Entonces Jonás se levantó apresuradamente para mirar por el agujero frente a él, donde antes se sentaba Iván. Nada más alzarse, una sacudida casi lo hizo perder el equilibrio; el furgón se había detenido en seco, al percatarse el conductor de que algo iba mal. Jonás tenía poco tiempo para actuar, por lo que corrió al agujero dejado por Iván y saltó fuera del vehículo detenido. Nada más caer sobre la carretera, miró rápidamente hacia ambos lados. A su derecha, el conductor del vehículo estaba abriendo su puerta para bajarse e interceptarlo, y por el segundo ruido que escuchó Jonás, el copiloto estaba haciendo lo mismo por su lado. A su izquierda, los tres soldados a los que había tirado del vehículo en marcha se encontraban a unos diez metros, aún recuperándose de la aparatosa caída. Por sus caras, a Jonás muy bien le vendría escapar de aquella.
 
-Entonces corrió hacia la acera que tenía enfrente, llena de edificios de dos y tres plantas con locales en la planta calle. En cuanto lo vio, se abalanzó hacia un callejón un metro a su izquierda, entre una tienda de juguetes y otra de pesca. El callejón estaba iluminado por las luces que escapaban de algunas de las ventanas que daban a él. De algunas de ellas se asomaban personas cuya curiosidad había sido despertado por el ruido de un camión frenando en seco y las maldiciones lanzadas por unos hombres. Jonás pudo observar como una anciana lo miraba asustada desde su ventana, mientras él avanzaba por el callejón oscuro. Sin preocuparse por los testigos, Jonás hizo que la nube de humo negra lo siguiera y le deshiciera las mangas y parte de los antebrazos de su camisa de fuerza, liberándolo. Un guante negro parpadeaba brillante en su mano derecha.
+Entonces corrió hacia la acera que tenía enfrente, llena de edificios de dos y tres plantas con locales en la planta calle. En cuanto lo vio, se abalanzó hacia un callejón un metro a su izquierda, entre una tienda de juguetes y otra de pesca. El callejón estaba iluminado por las luces que escapaban de algunas de las ventanas que daban a él. De algunas de ellas se asomaban personas cuya curiosidad había sido despertado por el ruido de un furgón frenando en seco y las maldiciones lanzadas por unos hombres. Jonás pudo observar como una anciana lo miraba asustada desde su ventana, mientras él avanzaba por el callejón oscuro. Sin preocuparse por los testigos, Jonás hizo que la nube de humo negra lo siguiera y le deshiciera las mangas y parte de los antebrazos de su camisa de fuerza, liberándolo. Un guante negro parpadeaba brillante en su mano derecha.
 
 - Derecha, derecha, izquierda - Se repetía en voz baja, jadeante, mientras alcanzaba el final del callejón - ¡Ah! - Jonás cayó al suelo tras tropezar con un vagabundo que dormía en medio del callejón - ¡Cabrón! - Maldijo al pobre hombre al que acababa de despertar de manera tan brusca. Se reincorporó rápidamente y comprobó como sus perseguidores le habían ganado terreno. “Sólo están Iván y el mudo”, se fijó el vagabundo, “los otros deben de haber continuado por la misma calle donde se detuvo el furgón, por si se me ocurre volver”.
 
-Nada más abandonar el callejón, Jonás comprobó que otro callejón se extendía frente a él, al otro lado de la calle. Sin embargo, giró hacia su derecha. Avanzaba por una calle casi idéntica a la anterior: llena de edificios de dos y tres pisos, con locales comerciales en la planta calle. Aquí, sin embargo, no se encontró con un lugar desierto como la calle donde se había detenido el camión. En la zona habían unas cuantas discotecas, y no pocos jóvenes se agolpaban en ambas aceras, al borde de las inconsciencia. “Debe de estar cerca de amanecer. Esta gente está en las últimas”, supuso Jonás. Los juerguistas apenas se inmutaron cuando Iván gritó al agente que lo acompañaba.
+Nada más abandonar el callejón, Jonás comprobó que otro callejón se extendía frente a él, al otro lado de la calle. Sin embargo, giró hacia su derecha. Avanzaba por una calle casi idéntica a la anterior: llena de edificios de dos y tres pisos, con locales comerciales en la planta calle. Aquí, sin embargo, no se encontró con un lugar desierto como la calle donde se había detenido el furgón. En la zona habían unas cuantas discotecas, y no pocos jóvenes se agolpaban en ambas aceras, al borde de las inconsciencia. “Debe de estar cerca de amanecer. Esta gente está en las últimas”, supuso Jonás. Los juerguistas apenas se inmutaron cuando Iván gritó al agente que lo acompañaba.
 
 - ¡Corre hacia ese callejón y avanza por la otra calle! - Hablaba con gran determinación y enfado. Atrás había quedado su humor y despreocupación.
 
@@ -131,13 +131,19 @@ Jonás permaneció en silencio. Parecía sopesar su respuesta cuando un grito de
 Iván no pudo ocultar su sorpresa cuando la vio.
 
 - ¿Es reciente?
-- Sí señor. Ana está llevando a cabo los preparativos para la liberación personalmente.
+- Sí señor. 
+- ¿La ha visto Ana?
+- Sí señor. Está llevando a cabo los preparativos para la liberación personalmente.
 - No me extraña.
 - ¿Qué ocurre? - Se permitió interrumpir Jonás.
 
 Iván se giró hacia él.
 
 - Parece que es tiempo de resurrecciones - Sonrió, mientras le entregaba la foto.
+
+Jonás miró la instantánea. Parecía haber sido tomada en unas fiestas de un pueblo cualquiera. Nada de aquello le interesaba.
+
+Hasta que la vió a ella.
 
 ## Navegación
 

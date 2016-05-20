@@ -13,6 +13,7 @@
 - ¿Decir la fecha a partir de la que empieza el libro?
 - Describir mejor y/o refrescar las descripciones de los personajes.
 - En el capítulo 17 se menciona que a Arturo se le inyectaba algo cada día media hora antes de las sesiones de hacerlo caminar sobre las nanomáquinas. Especificar qué más adelante en el libro. → ¿Intento de “sensibilizarlo” a las nanomáquinas?
+- Nombrar más a Ajani. Pensar en qué ha podido estar haciendo durante todo este tiempo.
 
 ## Aprovechables para el siguiente libro
 
@@ -27,22 +28,9 @@
 - Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
 - (Capítulo 17) Vestimenta y logo de la resistencia: "Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. La vestimenta contaba con un pequeño logotipo de contornos simples que descansaba sobre el pecho izquierdo. Representaba una venda cayéndose de una cabeza humana, todo visto desde perfil."
 - Hablar del objetivo de las ciudades burbujas y de ciertas características de las mismas, como por ejemplo: ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies" (página 18).
+- (Capítulo 19): Jonás menciona que fue obligado a programarle la clave del xilófono a los "sujetos". Cuando le preguntan por "programar" se señala la cabeza. ¿Los sujetos también tienen nanomáquinas?.
 
 ## Por capítulos
-
-### Capítulo 19
-
-- En este capítulo se menciona que Jonás tiene nanomáquinas en su cabeza.
-- Escribí que Jonás calculaba el factorial de 100. Cambiar esto, ya que el factorial de 100 no es “algo neuronal”.
-- IMPORTANTE: Cambiar camión por furgón. Y decir que los captores de Jonás van vestidos de seguritas (por ejemplo, o algo de incógnito que vaya con el furgón, que no pueden ir alegremente con uniformes de RIO por ahí).
-- Recordar:
-    - Jonás hace “derecha, derecha, izquierda”.
-    - Iván lo salva.
-    - Mencionar que derecha, derecha, izquierda es lo que le indicó Iván al frotarse la calva por un lado o por otro. → ¿Buena señal?
-- Aclarar: ¿Dónde están?
-- Jonás menciona que fue obligado a programarle la clave del xilófono a los "sujetos". Cuando le preguntan por "programar" se señala la cabeza.
-- Nombrarlo más a Ajani en capítulos anteriores. Pensar en qué pudo estar haciendo durante todo este tiempo.
-- No menciono que la foto es de la familia Pérez, ni la reacción de Jonás. Mencionar en capítulos posteriores.
 
 ### Capítulo 20
 
