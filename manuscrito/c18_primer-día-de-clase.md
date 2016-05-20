@@ -217,7 +217,7 @@ Seguidamente miró ligeramente hacia la izquierda y hacia arriba, hacia una cám
 La turba se había detenido a pocos metros de ellas, tras el alcalde. Sus caras se habían transformado por completo y ya no quedaba ni rastro de la furia anterior.
 - ¿Qué le ha pasado? - se preocupó una mujer de voz dulce, acercándose hacia Lucia. Con todo lo que acababa de suceder, la profesora se había olvidado de las múltiples heridas que recorrían su cuerpo, así como de la blusa desgarrada - ¡debe verla un médico!
 El resto de los presentes las miraba, asustados, y susurrándose cosas entre ellos. El alcalde, inmóvil, continuaba mirándolas con una sonrisa pícara. Entonces susurró algo. Lara, aterrada, creyó leer en sus labios:
-- Hasta mañana.
+- Hasta la próxima.
 
 
 ## Navegación

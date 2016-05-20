@@ -95,9 +95,13 @@ La excursión bordeó la gran torre de la plaza por su derecha y cruzó la carre
 La fila alcanzó en silencio el gran portón de madera y lo cruzó, encontrándose con un paisaje desértico que se extendía kilómetros y kilómetros en todas las direcciones. El terreno era completamente llano, permitiendo a los presentes observar la cadena montañosa que parecían estar a días de distancia. Los únicos testigos del paso del hombre en aquél páramo era una pequeña construcción de una planta situada a unos 300 metros frente a ellos, así como la carretera en mal estado que conectaba dicha construcción y la prisión de la que acababan de salir.
 
 - Bueno, técnicamente ya hemos escapado del pueblo - quiso bromear Ana, pero sólo recibió silencio como respuesta. Al menos hasta que Lucas miró hacia ella y sonrió.
-- ¿Qué pa...? Mierda, ¿la ceja?
+- ¿Qué pa...? ¡Mierda!, ¿la ceja?
 - Sí.
-- Te dije que me avisaras antes - dijo, fingiéndose ofendida.
+- Te dije que me avisaras antes - dijo, fingiéndose ofendida -, ¡y tú, deja de grabar! - amenazó mirando hacia adelante.
+
+Lucas miró hacia adelante y vio al cámara de la resistencia separado del grupo e inmortalizando el desliz de Ana.
+
+- No puedo, tengo que documentarlo todo - bromeó éste antes de girarse y continuar la marcha con el resto del grupo.
 
 Sin dejar de caminar, Ana se sacó un pequeño bote del bolsillo. Lo destapó, descubriendo un pequeño pincel enganchado a la tapa. De un brochazo acabó con los pocos pelos pelirrojos de su ceja.
 

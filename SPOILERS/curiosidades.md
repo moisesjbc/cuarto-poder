@@ -186,6 +186,10 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
 3. ¿Cooper intenta asesinar a Lucas? / El lugar de la resistencia es atacado por RIO.
 ---
 
+---
+- ¿RIO proyecta una película en el tren hablando de su origen y el de la resistencia y luego los "militares" interceptan el tren?**
+---
+
 
 # Otras curiosidades
 
