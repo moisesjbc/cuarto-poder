@@ -2,7 +2,6 @@
 
 ## Generales
 
-- Controlar qué digo de las nanomáquinas y qué no. Se introducen en el capítulo 7 como "una cortina de humo negro".
 - Especificar que ciertos personajes son el mismo y no diferentes con el mismo nombre: Iván, Aitor, etc.
 - Ana no estaba informada del ataque a La Cadena. ¿Por qué?
 - ¿Los militares y la resistencia se van de La Cadena con las manos vacías tan felices?
