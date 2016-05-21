@@ -14,12 +14,12 @@ La voz de Ana permanecía inmutable:
 
 - Una vez formados ambos grupos, el grupo de la zona Este de la plaza será dirigido hacia la estación mientras que el de la zona Oeste esperará en el pueblo. Gracias por su colaboración.
 
-"Así que estaré en el segundo grupo" - pensó Lucas, sin terminar de decidirse sobre si aquello le parecía bien o no. De pronto, sintió una mano agarrando la suya. Elizabeth, su "hija adoptiva" se había situado a su lado y se aferraba a su mano con fuerza. Lucas miró a los miembros de la resistencia que se dirigían hacia ellos separando a los vecinos en dos mitades irreconciliables. Al parecer no se habían percatado del cambio de grupo de la adolescente de 14 años. Lucas miró entonces hacia María, la que había sido su mujer y madre de Elizabeth. La mujer no se había movido del sitio, por lo que viajaría en el primer tren de seguir así.
+"Así que estaré en el segundo grupo" - pensó Lucas, sin terminar de decidirse sobre si aquello le parecía bien o no. De pronto, sintió una mano agarrando la suya. Noemí, su "hija adoptiva" se había situado a su lado y se aferraba a su mano con fuerza. Lucas miró a los miembros de la resistencia que se dirigían hacia ellos separando a los vecinos en dos mitades irreconciliables. Al parecer no se habían percatado del cambio de grupo de la adolescente de 14 años. Lucas miró entonces hacia María, la que había sido su mujer y madre de Noemí. La mujer no se había movido del sitio, por lo que viajaría en el primer tren de seguir así.
 
 - ¿No vienes? - le susurró Lucas.
 - No, no te preocupes - le respondió ella, sonriente - siempre fuiste su favorito.
 
-Lucas le devolvió la sonrisa y miró a Elizabeth. La chica tenía la cabeza gacha, con su pelo rubio cayendo y cubriéndole el rostro. No emitía ningún sonido y Lucas se preocupó.
+Lucas le devolvió la sonrisa y miró a Noemí. La chica tenía la cabeza gacha, con su pelo rubio cayendo y cubriéndole el rostro. No emitía ningún sonido y Lucas se preocupó.
 
 - Pronto saldremos de aquí - intentó animarla, pero no hubo respuesta.
 - Señor, usted y la joven irán en el segundo grupo - Lucas se sobresaltó. Por un momento había olvidado a los miembros de la resistencia que iban rasgando a la multitud en dos. Lucas se limitó a aceptar.
@@ -37,7 +37,7 @@ La joven caminó con paso decidido sobre el escenario de madera que rodeaba la t
 
 - Estás mucho mejor de pelirroja.
 - Lo sé - resopló Ana - pero por desgracia las pelirrojas no somos muy frecuentes por aquí. Y me he ganado una cierta fama entre las filas de RIO. Esperemos que no hayan muchos en el tren que puedan reconocerme.
-- Hombre, puede que llames un poco la atención con esa mancha pelirroja - Lucas se señaló la pestaña derecha con la mano izquierda; su mano derecha no había soltado la mano de Elizabeth, a su lado.
+- Hombre, puede que llames un poco la atención con esa mancha pelirroja - Lucas se señaló la pestaña derecha con la mano izquierda; su mano derecha no había soltado la mano de Noemí, a su lado.
 - Mierda - Ana se llevó la mano hacia la pestaña, pero se detuvo al recordar la pintura - lo hice a las prisas y...
 
 Ana se había pintado las pestañas de negro, a juego con la peluca morena. Sin embargo, unos pocos pelos pelirrojos se habían resistido a la conversión y resaltaba, orgullosos, sobre su pestaña izquierda. La joven se limitó a sonreír y restarle importancia.
@@ -45,10 +45,10 @@ Ana se había pintado las pestañas de negro, a juego con la peluca morena. Sin 
 - En fin, luego me lo retocaré. Recuérdamelo.
 - Está bien - sonrió Lucas.
 
-La sonrisa de Lucas se difuminó al recordar a Elizabeth. El joven miró a la adolescente disimuladamente. Ella seguía en silencio, pero al menos había levantado el rostro y miraba hacia Ana. Tenía los ojos rojos de llorar, pero el joven creyó adivinar un asomo de sonrisa. Lucas recordó fugazmente la última vez que vio a la que había sido su hija sonreír. Fue ese mismo día por la mañana, durante el desayuno, tras haber jugado a “Revuélvele el pelo a tu hermana la coqueta” y...
+La sonrisa de Lucas se difuminó al recordar a Noemí. El joven miró a la adolescente disimuladamente. Ella seguía en silencio, pero al menos había levantado el rostro y miraba hacia Ana. Tenía los ojos rojos de llorar, pero el joven creyó adivinar un asomo de sonrisa. Lucas recordó fugazmente la última vez que vio a la que había sido su hija sonreír. Fue ese mismo día por la mañana, durante el desayuno, tras haber jugado a “Revuélvele el pelo a tu hermana la coqueta” y...
 
 - ¡Lara! - escupió - ¡y Jonás!
-- ¿Eh? - Ana se sobresaltó ante el grito de su amigo. Elizabeth también lo miró rápidamente, sorprendida - Ah, ¿no venían detrás mío?.
+- ¿Eh? - Ana se sobresaltó ante el grito de su amigo. Noemí también lo miró rápidamente, sorprendida - Ah, ¿no venían detrás mío?.
 
 La falsa morena miró hacia su espalda, encontrándose el escenario vacío. También miró a ambos lados; nada. Cuando su mirada se volvió a posar en la de Lucas se encontró con unos ojos inquisidores, nerviosos.
 
@@ -64,7 +64,7 @@ Ana intentó quitarle hierro al asunto:
 - Pero vamos. Ahora mismo, Jonás nos necesita tanto como nosotros a él, y eso es lo que...
 - ¡En marcha!
 
-El grito los sobresaltó. Provenía del grupo situado frente a ellos, cerca de Elizabeth, quien también pegó un respingo. Casi al unísono, el grupo se puso en movimiento, bordeando la torre de la plaza y abandonándola poco a poco en dirección Norte. La marcha era una masa homogénea, con los miembros de la resistencia disfrazados como simples civiles ocultándose entre los verdaderos ciudadanos. Ana, Lucas, Elizabeth y los demás de su grupo se quedaron mirando a la fila de viajantes hasta que la perdieron de vista tras la torre. Lucas miró entonces a su amiga, quien permanecía inmóvil a su lado.
+El grito los sobresaltó. Provenía del grupo situado frente a ellos, cerca de Noemí, quien también pegó un respingo. Casi al unísono, el grupo se puso en movimiento, bordeando la torre de la plaza y abandonándola poco a poco en dirección Norte. La marcha era una masa homogénea, con los miembros de la resistencia disfrazados como simples civiles ocultándose entre los verdaderos ciudadanos. Ana, Lucas, Noemí y los demás de su grupo se quedaron mirando a la fila de viajantes hasta que la perdieron de vista tras la torre. Lucas miró entonces a su amiga, quien permanecía inmóvil a su lado.
 
 - ¿No...? ¿No vas con ellos?
 - No, iré en tu grupo - le respondió ella.
@@ -77,16 +77,16 @@ Años atrás, antes de ser capturado por RIO y convertirse a la fuerza en Mario,
 - ¿En qué piensas?
 - ¿Eh? En nada - Lucas rezó para que el rubor que sintió estuviera sólo en su imaginación -, en lo que falta para salir de aquí.
 
-Ana lo miró durante unos segundos en los que Lucas intentó por todos los medios mantener la serenidad. Entonces Ana, sin perder la sonrisa, miró hacia la derecha de Lucas y bajó la vista. ¡Elizabeth! ¡Durante su ensoñación privada, Lucas se había olvidado por completo de ella!. Cuando la miró vio que Elizabeth lo observaba sonriente antes de mirar a Ana y regalarle otra sonrisa a la pelirroja convertida en morena.
+Ana lo miró durante unos segundos en los que Lucas intentó por todos los medios mantener la serenidad. Entonces Ana, sin perder la sonrisa, miró hacia la derecha de Lucas y bajó la vista. ¡Noemí! ¡Durante su ensoñación privada, Lucas se había olvidado por completo de ella!. Cuando la miró vio que Noemí lo observaba sonriente antes de mirar a Ana y regalarle otra sonrisa a la pelirroja convertida en morena.
 
 - ¿Q-qué ocurre? - tartamudeó Lucas.
-- ... nada - sonrió Elizabeth. 
-- ¡Por fin! - se alegró Lucas. Sinceramente celebraba que Elizabeth volviera a hablar, aunque no podía negar que también se alegraba de poder desviar el tema - ¿Qué tal estás?
+- ... nada - sonrió Noemí. 
+- ¡Por fin! - se alegró Lucas. Sinceramente celebraba que Noemí volviera a hablar, aunque no podía negar que también se alegraba de poder desviar el tema - ¿Qué tal estás?
 - Mal - dijo, sin dejar de sonreír.
 - Oh, entiendo - y tras una breve pausa añadió - ¿puedo hacer algo para que te sientas mejor?
 - ¿Podrías abrazarme?
 
-Aquella petición lo cogió por sorpresa. Se preguntó si aquel deseo provenía de Elizabeth la desconocida o de Elizabeth su hija. A decir verdad, sintió el impulso de abrazarla y tampoco sabía si era Lucas o era Mario quién le hablaba. "Lo importante es que es lo que siento ahora", se sorprendió diciéndose. Soltó la mano de la adolescente y se agachó levemente a su encuentro, estrechando a la chica entre sus brazos.
+Aquella petición lo cogió por sorpresa. Se preguntó si aquel deseo provenía de Noemí la desconocida o de Noemí su hija. A decir verdad, sintió el impulso de abrazarla y tampoco sabía si era Lucas o era Mario quién le hablaba. "Lo importante es que es lo que siento ahora", se sorprendió diciéndose. Soltó la mano de la adolescente y se agachó levemente a su encuentro, estrechando a la chica entre sus brazos.
 
 El cálido abrazo se prolongó durante unos instantes hasta que ambos se sobresaltaron al escuchar el escenario de madera crujir tras de si. Ana también se giró hacia el origen del ruido, llevándose la mano a su cadera. Fue entonces cuando Lucas se percató de la pistola que su amiga llevaba en el pantalón, oculta bajo la camiseta del grupo de Rock.
 
@@ -97,7 +97,7 @@ Ana resopló al tiempo que liberaba la empuñadura de su arma.
 
 - Uff... ¿todo bien?
 
-Jonás bajó las manos y guió a su hermana pequeña hasta una escalera lateral del escenario y caminaron hasta los presentes. Esperó a alcanzar a Ana, Lucas y Elizabeth antes de responder. 
+Jonás bajó las manos y guió a su hermana pequeña hasta una escalera lateral del escenario y caminaron hasta los presentes. Esperó a alcanzar a Ana, Lucas y Noemí antes de responder. 
 
 - Creo que sí.
 - ¿"Crees"? - Ana arqueó las cejas.

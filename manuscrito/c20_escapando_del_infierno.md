@@ -9,7 +9,7 @@ Lucía fingió agradecimiento cuando rechazó los ofrecimientos de ayuda de la t
 ¿Fue el asomo de una sonrisa sádica lo que afloró en su cara por un segundo? Lara estaba aterrada, pero no podía dejar de mirarlo.
 
 - No, se lo agradezco - mintió Lucía. Ahora sólo quiero ir a mi casa y descansar.
-- ¡Lara! - Gritó Elizabeth, situada a la derecha de su madre.
+- ¡Lara! - Gritó Noemí, situada a la derecha de su madre.
 - ¡Voy! - La hermana mayor avanzó hacia su hermana pequeña y entre ambas le sirvieron de apoyo a su madre.
 - Lo comprendo, - respondió el alcalde con semblante serio - pero por favor, visitad la comisaría cuanto antes para aclarar todo este desafortunado incidente.
 
@@ -20,11 +20,11 @@ Lucía estuvo a punto de responderle, pero entonces la interrumpió una emisión
 Las tres se apresuraron a buscar rutas de escape entre la multitud, pero ésta se limitó a disolverse e irse en todas las direcciones.
 
 - ¡Hora de almorzar! - gritó Batido de Maíz. Tras dirigirle una sonrisa a las presentes, se marchó con los demás.
-- Tenemos que llegar a nuestro coche, ¡ya! - Ordenó Lucía, susurrando para no alertar a los pocos rezagados que aún se marchaban de la zona - Lara, llama a tu padre. Elizabeth, coge el móvil de mi bolsillo y llama a Luís, es un amigo policía de nuestra antigua ciudad.
+- Tenemos que llegar a nuestro coche, ¡ya! - Ordenó Lucía, susurrando para no alertar a los pocos rezagados que aún se marchaban de la zona - Lara, llama a tu padre. Noemí, coge el móvil de mi bolsillo y llama a Luís, es un amigo policía de nuestra antigua ciudad.
 
 Las tres se pusieron en movimiento. Las dos hijas ayudaban a su madre a caminar al tiempo que obedecían sus órdenes.
 
-- ¡Mamá, dice que el teléfono no existe! - gritó Elizabeth.
+- ¡Mamá, dice que el teléfono no existe! - gritó Noemí.
 - ¡Mierda!
 - ¿Papá? ¡¿Papá?! - gritó Lara. La voz al otro lado de la línea dijo algo que la tranquilizó - ¡sí, nosotras también vamos hacia casa para coger el coche! ¡Ten cuidado! ¡Yo también te quiero!
 
@@ -35,7 +35,7 @@ Lucía había alargado la mano para coger el teléfono, pero Lara colgó y se di
 
 La casa de la familia Pérez estaba a sólo unas manzanas del instituto, pero la desesperación por llegar y las heridas que ralentizaban a la madre hicieron que el trayecto durara una eternidad. Cuando entraron en su calle y comenzaron a ver su casa a lo lejos, vieron una figura cargando cosas en el coche.
 
-- ¡Papá! - gritó Elizabeth cuando estuvieron a pocos metros.
+- ¡Papá! - gritó Noemí cuando estuvieron a pocos metros.
 
 Mario acababa de cargar algo en el coche cuando escuchó la llamada. Levantó la mirada y corrió a abrazar a su familia.
 
@@ -49,7 +49,7 @@ El abrazo familiar duró poco. Mario fue el primero en separarse y dirigirse hac
 - ¿A dónde van? - preguntó el alcalde Batido de Maíz desde los altavoces de la ciudad - ¿es que acaso no se sienten bienvenidos aquí? - manchó sus palabras con una tristeza sobreactuada antes de reir.
 - ¡Vamos! - Ordenó Lara, aterrada. 
 
-La familia se había parado junto a su coche al oir al alcalde, pero la hija mayor la sacó del ensimismamiento y todos corrieron al coche. Mario había insistido en conducir, pero Elizabeth se impuso y ocupó el sitio del conductor. Aceleró en cuanto todos estuvieron dentro.
+La familia se había parado junto a su coche al oir al alcalde, pero la hija mayor la sacó del ensimismamiento y todos corrieron al coche. Mario había insistido en conducir, pero Noemí se impuso y ocupó el sitio del conductor. Aceleró en cuanto todos estuvieron dentro.
 
 - ¿Qué es lo que no os ha gustado? - Inquirió la voz del alcalde. El vehículo avanzaba por la calle residencial a toda velocidad - ¿Vuestro hogar? ¿Acaso el jardín no era lo suficientemente frondoso? - La familia alcanzó la plaza del pueblo y la rodeó hasta llegar a la avenida principal. - ¿O es la música local lo que no os ha gustado?
 
@@ -76,7 +76,7 @@ El coche derrapó hacia la izquierda justo cuando los disparos comenzaron. Ahora
 - ¡Maldito cabrón! - escupió Lucía mientras conducía el vehículo.
 - ¿Qué hacemos? - Preguntó Mario, sentado a su lado.
 - No lo sé... - dudó unos instantes -, no lo sé.
-- ¿Por qué no se mueven? - preguntó Elizabeth, la hermana pequeña. Miraba a los vecinos de la calle por la que avanzaban con el vehículo. Allí como en la avenida principal, las personas esperaban en las puertas y ventanas de sus casas, mirándolos fijamente y sin decir una palabra.
+- ¿Por qué no se mueven? - preguntó Noemí, la hermana pequeña. Miraba a los vecinos de la calle por la que avanzaban con el vehículo. Allí como en la avenida principal, las personas esperaban en las puertas y ventanas de sus casas, mirándolos fijamente y sin decir una palabra.
 - ¿Qué está ocurriendo? - preguntó el alcalde. A diferencia de antes, ahora su voz sonaba distante, como si estuviera alejado del micrófono. - ¿Qué? ¡Me importa una mierda que el micrófono esté abierto! ¡Solucionad esto! ¡Los activos no se mueven!
 - ¿Activos? - se preguntó Lucía, la madre - ¿Cómo que act...? ¡ah!
 
@@ -86,7 +86,7 @@ Una mujer de unos cuarenta años se había avalanzado contra un lateral del coch
 
 Lara dejó escapar un grito. Un chico de unos 20 años se tiró de bruces contra su ventana y casi la rompe del golpe.
 
-- ¡Las puertas! ¿Dónde están las puertas? - Se desesperó Elizabeth, recordando las palabras del alcalde el día anterior: "la muralla dispone de puertas más pequeñas que se mantienen siempre abiertas".
+- ¡Las puertas! ¿Dónde están las puertas? - Se desesperó Noemí, recordando las palabras del alcalde el día anterior: "la muralla dispone de puertas más pequeñas que se mantienen siempre abiertas".
 - ¡Mirad! - gritó Mario, señalando hacia delante.
 
 Cien metros delante de ellos, algunos vecinos habían aparcado coches en medio de la calle, bloqueándola. La familia miró hacia atrás; otros tantos vecinos habían hecho lo mismo tras ellos. Estaban atrapados. 
@@ -112,7 +112,7 @@ De repente los altavoces de la ciudad escupieron sonidos de golpes cada vez más
 Tras estas palabras, la emisión se cortó.
 
 - No me fío - se apresuró a decir Lara.
-- Yo tampoco - coincidió Elizabeth, su hermana pequeña.
+- Yo tampoco - coincidió Noemí, su hermana pequeña.
 
 La madre se giró hacia el padre y le preguntó su opinión, mientras ella barajaba su respuesta. Cuando Mario estuvo a punto de responder, un grito le interrumpió desde el exterior.
 
@@ -122,12 +122,12 @@ La familia miró al joven que les había gritado desde la puerta de una casa cer
 
 - ¡Eres el ciclista de ayer! ¡El que nos dijo que huyéramos de este lugar!
 - ¡Exacto! - Sonrió el chico. Parecía tener unos 17 años.
-- ¿Cómo sabemos que no es una trampa? - Desconfió Elizabeth, la madre.
+- ¿Cómo sabemos que no es una trampa? - Desconfió Noemí, la madre.
 - No lo saben - se sinceró él.
 
-La familia pareció dudar unos instantes, debatiendo sobre si debían seguirlo. Entonces el chico avanzó hacia el coche, seguido por otras personas. Todos vestían un chándal azul de una pieza y cremallera en la parte delantera e iban amardos. Elizabeth llevó la mano al contacto del coche para arrancarlo y huir, pero los hombres y mujeres que avanzaban hacia ellos alzaron las armas. Estaban tan cerca que sería difícil que fallaran los tiros en caso de huída.
+La familia pareció dudar unos instantes, debatiendo sobre si debían seguirlo. Entonces el chico avanzó hacia el coche, seguido por otras personas. Todos vestían un chándal azul de una pieza y cremallera en la parte delantera e iban amardos. Noemí llevó la mano al contacto del coche para arrancarlo y huir, pero los hombres y mujeres que avanzaban hacia ellos alzaron las armas. Estaban tan cerca que sería difícil que fallaran los tiros en caso de huída.
 
-- Está bien - Elizabeth desistió de su idea y alzó las manos a modo de rendición.
+- Está bien - Noemí desistió de su idea y alzó las manos a modo de rendición.
 - Lo siento mucho, pero es importante que vayan a la plaza - se excusó el joven de 17 años.
 
 La familia fue bajada del coche y conducida a pie hasta la plaza de la ciudad, a pocas manzanas de allí. Ante sus preguntas sobre quiénes eran sus captores, o sobre qué estaba pasando allí, sólo obtuvieron silencio.
@@ -147,7 +147,7 @@ Los captores conducían a la familia por entre la multitud hasta primera fila. N
 
 Cuando la familia llegó a primera fila, vieron al alcalde Batido de Maíz, junto con otros cautivos, de rodillas sobre el escenario. Tras cada uno de ellos había un hombre o mujer con la misma ropa azul que los captores de la familia Pérez. Cada uno de los que estaban de pie apuntaba con su pistola al arrodillado que tenían frente a sí.
 
-- ¿Papá? - Surruró Elizabeth.
+- ¿Papá? - Surruró Noemí.
 - Dime.
 - ¿Por qué te mira la mujer del centro?
 
@@ -161,9 +161,9 @@ El eco de los disparos fue pronto superado por la ovación del público, pero a 
 
 Tres notas agudas y largas de xilófono, seguida de una grave y corta.
 
-La familia empezó a sentir cómo les fallaban las piernas. Instintivamente, los padres abrazaron a sus hijas; Lucía abrazó a Lara, y Mario a Elizabeth. Mientras se tambaleaban comprobaron que no eran los únicos. A excepción de los extranjeros vestidos de azul, toda la ciudad había comenzado a sentirse mal. Mario vio incluso que algunos vecinos vomitaban antes de desplomarse.
+La familia empezó a sentir cómo les fallaban las piernas. Instintivamente, los padres abrazaron a sus hijas; Lucía abrazó a Lara, y Mario a Noemí. Mientras se tambaleaban comprobaron que no eran los únicos. A excepción de los extranjeros vestidos de azul, toda la ciudad había comenzado a sentirse mal. Mario vio incluso que algunos vecinos vomitaban antes de desplomarse.
 
-- ¡Papá! ¡La mujer...! - el grito de Elizabeth se desvaneció a medida que perdía la consciencia.
+- ¡Papá! ¡La mujer...! - el grito de Noemí se desvaneció a medida que perdía la consciencia.
 
 Mario intentó agarrarla, pero entonces él también cayó y lo único que pudo hacer antes de desplomarse fue intentar no aterrizar sobre su hija pequeña. Tendido en el suelo miró a su lado; Lucía y Lara también se habían caído. Entonces comenzaron los gritos. A todos los vecinos les embargó un terrible dolor de cabeza durante unos segundos. Mario estuvo a punto de perder la consciencia pero entonces el dolor se desvaneció, y con él algo más. No se sentía él mismo.
 

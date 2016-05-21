@@ -16,23 +16,23 @@ Lara tomó aire y, acto seguido, abandonó la estancia corriendo.
 
 Lara se agachó justo a tiempo para esquivar las manos de su hermana, escondida tras la esquina. Entonces avanzó unos pasos y se reincorporó, alzando las manos al frente para evitar chocarse con la barandilla de madera que daba a la recepción del piso inferior.
 
-- ¡Me has hecho esperar demasiado! - gritó Elizabeth tras ella, fingiéndose ofendida.
+- ¡Me has hecho esperar demasiado! - gritó Noemí tras ella, fingiéndose ofendida.
 - ¡Esperaba que te cansaras! - se rió Lara, al tiempo que se lanzaba hacia la izquierda, justo a tiempo para volver a esquivar las malignas manos de su hermana menor. 
 
 La mayor dio un par de zancadas dejando la barandilla de madera a su derecha. En cuanto llegó a las escaleras se aferró al pasamanos y comenzó a bajar los escalones de dos en dos, sin pararse a sopesar los riesgos.
 
 - ¡Yo nunca me canso! - la amenazó su hermana - ¡Ahora verás!
 
-Lara, la hermana mayor, sabía que ese era el momento decisivo. Tras un tramo largo de escaleras, estas doblaban hacia la derecha, donde unos pocos escalones la separaban de la ansiada victoria. Sin embargo, las escaleras de su antigua casa en la ciudad seguían la misma estructura, y su hermana Elizabeth se había especializado en alcanzarla en esa fatídica esquina.
+Lara, la hermana mayor, sabía que ese era el momento decisivo. Tras un tramo largo de escaleras, estas doblaban hacia la derecha, donde unos pocos escalones la separaban de la ansiada victoria. Sin embargo, las escaleras de su antigua casa en la ciudad seguían la misma estructura, y su hermana Noemí se había especializado en alcanzarla en esa fatídica esquina.
 
 Sacando fuerzas de donde no las había, la hermana mayor hizo un sprint, giró junto con las escaleras y saltó.
 
-- ¡Ah! - se quejó Elizabeth, al haber fallado nuevamente - ¡he estado a punto!
+- ¡Ah! - se quejó Noemí, al haber fallado nuevamente - ¡he estado a punto!
 
 Lara cayó delante de la puerta principal y la tocó, sentenciando su victoria.
 
 - ¡Felicidades! - sonrió Lucía. La madre había visto el juego desde la entrada al salón, situada frente a las escaleras.
-- ¡Eh! - exclamó Elizabeth - ¡A mí ya no me felicitas cuando gano!
+- ¡Eh! - exclamó Noemí - ¡A mí ya no me felicitas cuando gano!
 - ¡Porque ya aburre! - se rió su madre; una risa a la que se unieron sus hijas – Venga, a comer.
 
 Las tres se pusieron en marcha, cruzando el arco que daba paso al salón. Entonces giraron a la derecha y recorrieron la estancia, pasando tras un largo sillón azul.
@@ -44,21 +44,21 @@ Las tres se pusieron en marcha, cruzando el arco que daba paso al salón. Entonc
 
 Habían llegado a la amplia cocina-comedor, tras cruzar el arco que ésta compartía con el salón. Un amplio ventanal al jardín trasero los obsequiaba con una estancia perfectamente iluminada de manera natural y armoniosa.
 
-- ¿Y bien? - se interesó Mario, sentado frente a la gran mesa del comedor. Su silueta se recortaba contra la vista del verde jardín - ¿Elizabeth o Lara?
+- ¿Y bien? - se interesó Mario, sentado frente a la gran mesa del comedor. Su silueta se recortaba contra la vista del verde jardín - ¿Noemí o Lara?
 - ¡Yo! – se enorgulleció la mayor.
 - Oh, felicidades.
 - Nunca se te ha dado muy bien disimular tus preferencias – se rió Lucía, sentándose en su sitio, frente a Mario.
-- Es que Elizabeth es una auténtica cazadora – le guiñó un ojo a la hija menor, quien ocupó un lugar a su izquierda – mientras que Lara... - esto último lo dijo ralentizando las palabras, mientras miraba con picaresca a su hija mayor, sentada a su derecha.
+- Es que Noemí es una auténtica cazadora – le guiñó un ojo a la hija menor, quien ocupó un lugar a su izquierda – mientras que Lara... - esto último lo dijo ralentizando las palabras, mientras miraba con picaresca a su hija mayor, sentada a su derecha.
 Ja, ja, ja – su hija fingió sentirse ofendida – ya intenté ir a por ella, ¿recuerdas? Pero a ella le da igual llevar el pelo hecho un desastre, mientras que a mí...
 
-Entonces dirigió un rápido vistazo hacia su hermana de catorce años. Elizabeth no parecía sentir hacia su cabellera ni la mitad de la devoción que Lara sentía hacia la suya. El pelo de Eli, rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes. Lara se había sorprendido muchas veces envidiando en secreto a su hermana, por su gran naturalidad y despreocupación.
+Entonces dirigió un rápido vistazo hacia su hermana de catorce años. Noemí no parecía sentir hacia su cabellera ni la mitad de la devoción que Lara sentía hacia la suya. El pelo de Noemí, rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes. Lara se había sorprendido muchas veces envidiando en secreto a su hermana, por su gran naturalidad y despreocupación.
 
 - Sí – sonrió su padre - ¡nos hacemos una ligera idea de lo mucho que te gusta tu pelo! - exclamó. Lara se mantuvo en silencio, mientras sonreía la gracia.
 
 Tras las bromas de rigor, finalmente se dispusieron a comer: Un plato lleno de tortitas, un bote de miel y un jarrón de leche aguardaban, en el centro de la mesa, a ser devorados. Tras devorar una tortita y mientras se mentalizaba para atacar la siguiente, Mario se interesó por sus hijas 
 
 - ¿Nerviosas?
-- ¡Por supuesto que no! - exclamó Elizabeth, soberbia.
+- ¡Por supuesto que no! - exclamó Noemí, soberbia.
 - Un poco – reconoció Lara.
 - ¡Bah! No te preocupes – quiso tranquilizarla su madre – ya verás que les encantarás.
 
@@ -66,7 +66,7 @@ Tras las bromas de rigor, finalmente se dispusieron a comer: Un plato lleno de t
 
 La familia terminó de comer mientras hablaba de trivialidades. Tras el desayuno, los padres se lavaron los dientes en el aseo del piso de abajo y las hijas en el baño del piso superior. Ya estaban listos para un día de trabajo.
 
-- ¡Agh! - Exclamó Elizabeth, una vez salió por la puerta principal. Un sol grande e intenso la cegó, obligándola a cubrirse la cara con el dorso de la mano.
+- ¡Agh! - Exclamó Noemí, una vez salió por la puerta principal. Un sol grande e intenso la cegó, obligándola a cubrirse la cara con el dorso de la mano.
 - ¡Vamos! - La apresuró Lara, tras ella, al tiempo que se reía - ¡Llegamos tarde!
 - ¡Pues vas a tener que guiarme! - le contestó su hermana pequeña, aún cegada.
 
@@ -122,8 +122,8 @@ Entonces avanzó rápidamente hacia ella, la agarró del brazo y la llevó con �
 Sabiéndose incapaz de evitarlo, Lara retrocedió rápidamente. En su ímpetu empujó al chico de pelo rizado que la sujetaba del brazo, quien cayó aparatosamente y de milagro no la hizo caer con él.
 
 - ¡AAAAAAGGGGHHHH! - el grito desgarrador a sus espaldas, apagándose tan rápido como se había iniciado, fue lo último que escuchó al salir de la clase.
-- ¡Ah! - Gritó Lara cuando chocó con alguien al salir - ¡Elizabeth! - quiso abrazarla instintivamente, pero su hermana pequeña lo evitó.
-- ¡Tenemos que buscar a mamá y salir de aquí! - la apresuró Elizabeth, agarrándola del brazo.
+- ¡Ah! - Gritó Lara cuando chocó con alguien al salir - ¡Noemí! - quiso abrazarla instintivamente, pero su hermana pequeña lo evitó.
+- ¡Tenemos que buscar a mamá y salir de aquí! - la apresuró Noemí, agarrándola del brazo.
 
 Lara volvió a mirar rápidamente hacia el interior de la clase. Los alumnos se mantenían en círculo, inmóviles; contemplaban fijamente su obra macabra.
 
@@ -134,33 +134,33 @@ Ambas comenzaron a correr por los pasillos del instituto, intentando encontrar a
 - ¿Crees que...? - Lara no se atrevió a terminar la frase.
 - ¡Sigue buscando! - Su hermana pequeña no pudo evitar hablar con un tono de preocupación en su voz.
 - ¡Joder! ¡Aquí tampoco está! - Se desesperó la hermana mayor.
-- ¡Está aquí! - Exclamó Elizabeth, a su izquierda.
+- ¡Está aquí! - Exclamó Noemí, a su izquierda.
 
-Sin esperar respuesta por parte de su hermana, Eli abrió la puerta y se metió apresuradamente en la clase. Lara la siguió y comprobó con horror que un grupo de alumnos golpeaba a su madre en la esquina derecha del fondo. Lucía intentaba encajar las patadas como podía y trataba de zafarse de las manos que intentaban inmovilizarla. Su blusa blanca estaba desgarrada, dejando al descubierto la mitad izquierda de su torso.
+Sin esperar respuesta por parte de su hermana, Noemí abrió la puerta y se metió apresuradamente en la clase. Lara la siguió y comprobó con horror que un grupo de alumnos golpeaba a su madre en la esquina derecha del fondo. Lucía intentaba encajar las patadas como podía y trataba de zafarse de las manos que intentaban inmovilizarla. Su blusa blanca estaba desgarrada, dejando al descubierto la mitad izquierda de su torso.
 
-- ¡Dejadla en paz! - gritó Elizabeth.
-- ¡Eli! ¡Lara! ¡Salid de aquí! - suplicó su madre - ¡Buscad a papá!
+- ¡Dejadla en paz! - gritó Noemí.
+- ¡Noe! ¡Lara! ¡Salid de aquí! - suplicó su madre - ¡Buscad a papá!
 
 Pero sus hijas hicieron caso omiso e intentaron abrirse paso a empujones hacia ella. Los alumnos se limitaban a intentar apartar a las intrusas de su camino, manteniendo los ojos fijos en el objetivo. Una expresión de odio marcaba sus rostros.
 
 - ¡Es imposible! - Se quejó Lara, ante la imposibilidad de llegar hasta su madre.
-- ¡Mantente con ella! - le ordenó Elizabeth. La hermana pequeña corrió entonces hacia la salida del aula.
+- ¡Mantente con ella! - le ordenó Noemí. La hermana pequeña corrió entonces hacia la salida del aula.
 
-Lara, perpleja, se concentró en intentar apartar a los alumnos de su madre, mientras esta trataba de encajar los golpes como podía. Elizabeth volvió enseguida, con un extintor en sus brazos.
+Lara, perpleja, se concentró en intentar apartar a los alumnos de su madre, mientras esta trataba de encajar los golpes como podía. Noemí volvió enseguida, con un extintor en sus brazos.
 
 - ¡Cogeos de las manos! - Ordenó la menor a su hermana y a su madre, mientras preparaba el extintor. Estas buscaron sus manos entre los alumnos atacantes. - ¿Preparadas?
 - ¡Sí! - Gritó Lucía, al tiempo que Lara asentía.
 - ¡Vamos!
 
-Elizabeth activó entonces el extintor y lo dirigió hacia el grupo de alumnos. La nube blanquecina no tardó en intoxicarlos y desorientarlos. También Lara y su madre comenzaron a toser. Entonces la hija agarró con fuerza las manos de la madre y tiró hacía si. El cuerpo de Lucía la golpeó y casi cayeron al suelo, pero consiguieron mantenerse en pie.
+Noemí activó entonces el extintor y lo dirigió hacia el grupo de alumnos. La nube blanquecina no tardó en intoxicarlos y desorientarlos. También Lara y su madre comenzaron a toser. Entonces la hija agarró con fuerza las manos de la madre y tiró hacía si. El cuerpo de Lucía la golpeó y casi cayeron al suelo, pero consiguieron mantenerse en pie.
 
-- ¡Vámonos! - Gritó Elizabeth, tirando el extintor al suelo.
+- ¡Vámonos! - Gritó Noemí, tirando el extintor al suelo.
 
 Las tres chicas corrieron entonces hacia el pasillo, aprovechando la confusión de los atacantes.
 
 - No debieron arriesgarse... - se esforzaba en decir Lucía, al tiempo que sus hijas la ayudaban a avanzar por los pasillos del instituto hacia la salida.
 - ¡La traidora escapa! - era la voz del director, omnipresente a través de los altavoces repartidos por los pasillos - ¡Debe ser ajusticiada!
-- ¡Mierda! ¡Corred! - Las apresuró Elizabeth.
+- ¡Mierda! ¡Corred! - Las apresuró Noemí.
 
 Por suerte el aviso del director se produjo tarde y las fugitivas se encontraban ya cerca de la puerta principal. Lara sintió un escalofrío mortal al escuchar una multitud de puertas abriéndose a sus espaldas y un montón de pasos que corrían hacia ellas.
 
@@ -171,21 +171,21 @@ Por suerte el aviso del director se produjo tarde y las fugitivas se encontraban
 Rápidamente se sacó la llave del bolsillo y la agarró con fuerza en la mano. Todas juntas corrieron los pocos metros que las separaban de la libertad. Cuando llegaron a la puerta, Lucía se apresuró a intentar meter la llave en la cerradura.
 
 - ¡Date prisa! - la apresuró Lara.
-- ¡Ya están aquí! - gritó Elizabeth, mirando a los alumnos que corrían hacia ellas.
+- ¡Ya están aquí! - gritó Noemí, mirando a los alumnos que corrían hacia ellas.
 - ¡Mierda! - protestó Lucía. Lara comprobó con horror cómo la llave no encajaba - ¡Mierda! ¡Mierda! - resopló, al tiempo que miraba hacia la derecha - ¡Seguidme!
 
 Sus hijas la siguieron hacia una puerta doble que daba al salón de actos. Lucía la abrió de un empujón y las tres entraron apresuradamente. Sin esperar ni un segundo, y sin que nadie tuviera que decir nada, comenzaron a coger sillas y amontonarlas contra las puertas.
 
 - ¡Muerte a la traidora! - Los golpes aporreaban las puertas, moviendo las sillas amontonadas contra ellas.
-- ¡Esto no aguantará mucho! - exclamó Elizabeth. Las tres intentaban mantener las sillas contra las puertas, pero sus fuerzas empezaban a resentirse.
+- ¡Esto no aguantará mucho! - exclamó Noemí. Las tres intentaban mantener las sillas contra las puertas, pero sus fuerzas empezaban a resentirse.
 - ¡Las ventanas! - gritó Lara con alegría. 
 
 Entonces Lucía corrió hacia una de las sillas que no se habían amontonado y la cogió. Luego corrió hacia una de las ventanas que daban a la calle y comenzó a golpearla con la silla.
 
 - ¡Vamooos! - Suplicaba, mientras la ventana empezaba a ceder ante los ataques de la silla. El cristal no tardó en resquebrajarse y hacerse añicos - ¡Salgamos de aquí! - Gritó, al tiempo que salía al exterior.
-- ¡Tú primero! - Le ordenó Elizabeth a su hermana mayor. Lara corrió hacia la ventana y su madre la ayudó a salir.
-- ¡Elizabeth! - Gritó Lara.
-- ¡Ya voy! - Se quejó Eli. Con su agilidad característica corrió hacia la ventana y saltó a través sin apenas detenerse.
+- ¡Tú primero! - Le ordenó Noemí a su hermana mayor. Lara corrió hacia la ventana y su madre la ayudó a salir.
+- ¡Noemí! - Gritó Lara.
+- ¡Ya voy! - Se quejó Noemí. Con su agilidad característica corrió hacia la ventana y saltó a través sin apenas detenerse.
 
 Antes de seguir a su hermana y su madre, Lara echó un rápido vistazo hacia el interior del salón de actos. Los atacantes aún no habían conseguido entrar. 
 
@@ -208,12 +208,12 @@ El alcalde hizo caso omiso de la segunda pregunta: - Digamos que… - buscaba me
 - ¡Muerte a los traidores! - Gritó alguien a espaldas del alcalde.
 - ¡Muerte! - gritó otro.
 - ¡Oh, no! - exclamó Lara. Tras el alcalde, una multitud enfurecida corría hacia ellos desde todas partes.
-- ¡Joder! - se preocupó Elizabeth. Mirando hacia todos lados, sin encontrar una vía de escape. - ¡Mierda!
+- ¡Joder! - se preocupó Noemí. Mirando hacia todos lados, sin encontrar una vía de escape. - ¡Mierda!
 - ¡Pero hoy no! - sonrió el alcalde.
 
 Seguidamente miró ligeramente hacia la izquierda y hacia arriba, hacia una cámara de seguridad situada en el muro del instituto y asintió con la cabeza. Entonces las supervivientes escucharon un ruido familiar proveniente de todas partes: tres notas de xilofóno cortas y agudas, seguidas de una larga y grave.
 
-- ¡Mirad! - gritó Elizabeth, mirando hacia delante.
+- ¡Mirad! - gritó Noemí, mirando hacia delante.
 La turba se había detenido a pocos metros de ellas, tras el alcalde. Sus caras se habían transformado por completo y ya no quedaba ni rastro de la furia anterior.
 - ¿Qué le ha pasado? - se preocupó una mujer de voz dulce, acercándose hacia Lucia. Con todo lo que acababa de suceder, la profesora se había olvidado de las múltiples heridas que recorrían su cuerpo, así como de la blusa desgarrada - ¡debe verla un médico!
 El resto de los presentes las miraba, asustados, y susurrándose cosas entre ellos. El alcalde, inmóvil, continuaba mirándolas con una sonrisa pícara. Entonces susurró algo. Lara, aterrada, creyó leer en sus labios:

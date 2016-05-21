@@ -7,7 +7,7 @@ Lucía jugaba con su gran melena lacia y rubia, nerviosa. Resopló antes de resp
 
 - Yo también lo siento, es que... ¡es este maldito calor! - Hizo una mueca de asco; la boca empezaba a saberle a vómito. Decidió entonces reservar fuerzas y recostarse una vez más.
 
-Mario miró entonces por el espejo retrovisor hacia los asientos traseros. Elizabeth y Lara, sus dos tesoros de 14 y 16 años, seguían dormidas. Aunque descansaban tranquilas, ajenas al bochorno, su padre pudo comprobar como una fina capa de sudor había comenzado a perlas sus frentes. “Espero que no acaben despertándose”, temió. Mario permaneció un rato embelesado, mirándolas.
+Mario miró entonces por el espejo retrovisor hacia los asientos traseros. Noemí y Lara, sus dos tesoros de 14 y 16 años, seguían dormidas. Aunque descansaban tranquilas, ajenas al bochorno, su padre pudo comprobar como una fina capa de sudor había comenzado a perlas sus frentes. “Espero que no acaben despertándose”, temió. Mario permaneció un rato embelesado, mirándolas.
 
 - Deberías centrarte en la carretera – le sonrió su mujer, al sorprenderlo distraído.
 - Bah, por no haber no hay ni un triste animal.
@@ -29,7 +29,7 @@ Mario suspiró.
 
 -  Que lo decidan ellas.
 - Voto por papá – se apresuró a decir Lara, sin molestarse en abrir los ojos.
-- ¡Eh! - se quejó Elizabeth cuando su hermana la empujó para despertarla - ¿eh?
+- ¡Eh! - se quejó Noemí cuando su hermana la empujó para despertarla - ¿eh?
 - Votación en curso – le informó Lucía, su madre - ¿Seguimos media hora o paramos.
 - Seguimos... - y volvió a acomodarse en el asiento para continuar durmiendo.
 - ¡Ajá! - exclamó Mario, satisfecho con la victoria.
@@ -51,7 +51,7 @@ A medio kilómetro de las murallas del pueblo, el asfalto desaparecía para deja
 
 Alguien los vio acercarse desde la muralla y gritó algo hacia dentro. A los pocos segundos la gran puerta de madera de la muralla comenzó a abrirse, al tiempo que unos voladores surcaban los cielos y explotaban en las alturas.
 
-- No me gusta estar encerrada – se quejó Elizabeth, al ver la gran muralla recortando el horizonte.,
+- No me gusta estar encerrada – se quejó Noemí, al ver la gran muralla recortando el horizonte.,
 
 Los muros de piedra eran tan grandes, que la única construcción que podía verse tras ella era una gran torre con forma de faro, con grandes campanas en su parte superior.
 
@@ -62,19 +62,19 @@ Cuando cruzaron la gran puerta con el coche, se encontraron con una avenida asfa
 Las casas a ambos lados eran de los más variados colores, con cada una defendiendo su particular estilo, pero todas parecían someterse a una ley no escrita, o tal vez sí, que estipulaba que no podían superar los dos pisos de altura.
 
 - Nos hacen señas para que sigamos adelante – Observó la hija mayor, Lara. Personas a ambos lados de la calle les sonreía y señalaban hacia el frente, a medida que caminaban hacia allí.
-- Están cerrando la puerta – Se percató Elizabeth. Las pesadas puertas de madera comenzaron a cerrarse automáticamente tras ellos
+- Están cerrando la puerta – Se percató Noemí. Las pesadas puertas de madera comenzaron a cerrarse automáticamente tras ellos
 - Tranquila, le preguntaré a alguien ahora, cuando nos bajemos – quiso tranquilizarla su padre.
 - Nunca imaginé ser el centro de atención en una plaza – dijo Lucía, divertida, al tiempo que la avenida se acababa para dar paso a la plaza del pueblo.
 
 La plaza era una rotonda enorme, con aparcamientos a lo largo de toda su curvatura. Mario detuvo el coche en el primer sitio que vio libre y, acto seguido, la familia Pérez se bajó, ante los aplausos y el griterío de la multitud allí congregada. 
 
-Los habitantes del pueblo se iban haciendo a un lado para dejarles pasar. Con gestos amables y amplias sonrisas, los dirigían hacia el centro de la plaza, la cual estaba precedida por la gran torre de piedra rojiza que habían visto según iban llegando al pueblo. Lucía iba delante, seguida por Mario con “sus pequeñas”. El padre no pudo evitar fijarse en que Elizabeth continuaba preocupada, seguramente pensando en la muralla y la enorme puerta cerrada que los separaba del mundo exterior.
+Los habitantes del pueblo se iban haciendo a un lado para dejarles pasar. Con gestos amables y amplias sonrisas, los dirigían hacia el centro de la plaza, la cual estaba precedida por la gran torre de piedra rojiza que habían visto según iban llegando al pueblo. Lucía iba delante, seguida por Mario con “sus pequeñas”. El padre no pudo evitar fijarse en que Noemí continuaba preocupada, seguramente pensando en la muralla y la enorme puerta cerrada que los separaba del mundo exterior.
 
 Los gritos de bienvenida los escoltaron hasta un gran escenario que arropaba a la torre en su base. El alcalde, un hombre de unos cincuenta años, bastante obeso y con un ostentoso bigote negro, los esperaba allí, sonriente.
 
 - ¡Bienvenidos!
 
-Elizabeth enseguida le tapó la boca a Lara de la manera más disimulada que pudo. Su hermana mayor se reía con cualquier cosa, y era evidente que las pintas del alcalde entraban en esa amplia categoría.
+Noemí enseguida le tapó la boca a Lara de la manera más disimulada que pudo. Su hermana mayor se reía con cualquier cosa, y era evidente que las pintas del alcalde entraban en esa amplia categoría.
 
 El alcalde de la comunidad vestía un pijama blanco con coches de colores. Las mangas de las manos y de los pies estaban hechas jirones, dando un gran contraste con el impecable sombrero de copa negro, exageradamente alto, que cubría su cabeza. Cuando la asombrada familia estuvo más cerca, comprobaron que el alcalde también iba maquillado: toda su cara estaba empolvada en blanco, con unos círculos de colores pintados con rotulador alrededor de los ojos. Además, sus labios estaban pintados de un negro petróleo. Una gran nariz de payaso verde completaba la apariencia estrambótica de tan singular personaje.
 
@@ -100,10 +100,10 @@ El clamor y los aplausos se elevaron al cielo del mediodía, mientras la familia
 - No sé porqué, pero nos lo esperábamos, ¿verdad vecinos? - sonrió Batido de Maíz, y la masa sonrió a su vez, con algunas risas exageradas estallando aquí y allá – bueno, ¿y qué nos puede decir el padre?
 - Yo... - Mario tosió y se aclaró la garganta - ¡Hola! Yo soy Mario, tengo 31 años y trabajaba como técnico informático en la ciudad. Aquí desarrollaré el mismo trabajo en el ayuntamiento.
 - ¡Perfecto! ¡Necesitamos a alguien que dome a esas criaturas informáticas! - el público volvió a reír la gracia del alcalde - ¿Y qué nos pueden contar estas pequeñas damas?
-- Yo soy Elizabeth, tengo 14 años y aún voy al instituto. Y... - dudó - me gustaría saber por qué estamos encerrados aquí.
-- ¡Jo jo jo! La pequeña no pierde el tiempo, ¿verdad, amigos? - la multitud rió – Tranquila pequeña, es por seguridad ante los peligros de fuera. Además, queda más solemne si la mantenemos cerrada todo el año y la abrimos únicamente en situaciones especiales como esta. ¿No crees? - y sin esperar a que Eli respondiera, continuó – No te preocupes, la muralla dispone de puertas más pequeñas que se mantienen siempre abiertas. No queremos que nadie se sienta encerrado aquí. ¡Bueno! - se encaminó hacia Lara - y esta preciosidad, ¿cómo se llama?
+- Yo soy Noemí, tengo 14 años y aún voy al instituto. Y... - dudó - me gustaría saber por qué estamos encerrados aquí.
+- ¡Jo jo jo! La pequeña no pierde el tiempo, ¿verdad, amigos? - la multitud rió – Tranquila pequeña, es por seguridad ante los peligros de fuera. Además, queda más solemne si la mantenemos cerrada todo el año y la abrimos únicamente en situaciones especiales como esta. ¿No crees? - y sin esperar a que Noemí respondiera, continuó – No te preocupes, la muralla dispone de puertas más pequeñas que se mantienen siempre abiertas. No queremos que nadie se sienta encerrado aquí. ¡Bueno! - se encaminó hacia Lara - y esta preciosidad, ¿cómo se llama?
 - Me... llamo... Lara – La adolescente hacía increíbles esfuerzos por aguantarse la risa y por no mirar durante mucho tiempo al alcalde Batido de Maíz – y tengo 16 años. Este año es mi último año en la ESO.
-- ¡Y nosotros te deseamos muchísima suerte! - la gente allí reunida le lanzó gritos de ánimo. El anfitrión se dirigió hacia el gentío - ¡Lucía, Mario, Elizabeth y Lara, amigos! - la ovación se elevó al cielo - ¡Amigos! - esta vez se dirigió a la familia - ¡Bienvenidos a nuestra comunidad!
+- ¡Y nosotros te deseamos muchísima suerte! - la gente allí reunida le lanzó gritos de ánimo. El anfitrión se dirigió hacia el gentío - ¡Lucía, Mario, Noemí y Lara, amigos! - la ovación se elevó al cielo - ¡Amigos! - esta vez se dirigió a la familia - ¡Bienvenidos a nuestra comunidad!
 
 Una nueva ovación comenzaba a formarse, pero en seguida fue interrumpida por un sonido proveniente de todos sitios. Sobre sus cabezas, situados sobre grandes postes, habían unos grandes altavoces que empezaron a emitir el sonido de un xilófono. Tres notas graves, cortas, seguidas de una larga y aguda.
 
@@ -111,7 +111,7 @@ De repente, la cara todos los presentes, sin excepciones, se tornó seria. La mu
 
 - ¿Qué ocurre? - preguntó Mario.
 - ¡Hora de la siesta! - Sonrió Batido de Maíz - ¡Nos la tomamos muy en serio! - y sin dejar tiempo a replicar, bajó del escenario y se fue por su lado.
-- ¿Qué acaba de pasar? - se mosqueó Elizabeth. No tardaron en encontrarse sólos en la plaza.
+- ¿Qué acaba de pasar? - se mosqueó Noemí. No tardaron en encontrarse sólos en la plaza.
 - No tengo ni idea... - respondió Mario, al tiempo que comenzaba a bajar del escenario, seguido por su familia. Se sacó el móvil del bolsillo y comparó la hora con la del reloj de la torre. Eran las dos del mediodía – Una siesta no sé, pero ya va siendo hora de comer - Vayamos a nuestra nueva casa y ya luego pondremos las ideas en orden.
 
 La familia se mostró satisfecha con la idea y se encaminó hacia el coche. Entonces Mario  arrancó el automóvil y lo dirigió siguiendo la curvatura de la plaza por su derecha y tomando la primera salida. Entraron en un barrio cuya carretera de doble sentido se encontraba también asfaltada en piedra grisácea, con una línea de abetos a ambos lados y aceras amarillentas. Sin embargo, a diferencia de aquellas de la avenida principal, las casas en esta zona disponían de un amplio jardín delantero y trasero. Lara abrió los ojos como platos.
