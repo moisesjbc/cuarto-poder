@@ -2,7 +2,6 @@
 
 ## Generales
 
-- Especificar que ciertos personajes son el mismo y no diferentes con el mismo nombre: Iván, Aitor, etc.
 - Ana no estaba informada del ataque a La Cadena. ¿Por qué?
 - ¿Los militares y la resistencia se van de La Cadena con las manos vacías tan felices?
     - ¿Dar más detalles sobre el asalto supuestamente fallido a lo largo del libro?
