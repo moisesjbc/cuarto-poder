@@ -40,7 +40,7 @@ El líder de los enemigos se rió estrepitosamente, y los del ascensor continuar
 
 - Siento la tardanza – Se disculpó Jonás, cuya voz volvía a ser una única, sin ecos, en el interfono del ascensor.
 - ¿Qué sientes la tardanza? ¡Casi nos matan! - Cooper dirigió su cara de enfado hacía el interfono, en lugar de a la cámara del techo.
-- ¡Lo tenía controlado! Al menos... al menos hasta que Iván dijo que Ricardo y Lucas no eran tan importantes.
+- ¡Lo tenía controlado! Al menos... al menos hasta que dijo que Ricardo y Lucas no eran tan importantes.
 - Espera, ¿lo estabas escuchando todo?
 - Sí – se limitó a afirmar Jonás.
 - ¿Y por qué no nos sacaste de ahí antes? ¡No tenemos tiempo que perder!
