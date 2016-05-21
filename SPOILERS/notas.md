@@ -1,17 +1,5 @@
 # Notas
 
-## Generales
-
-- Ana no estaba informada del ataque a La Cadena. ¿Por qué?
-- ¿Los militares y la resistencia se van de La Cadena con las manos vacías tan felices?
-    - ¿Dar más detalles sobre el asalto supuestamente fallido a lo largo del libro?
-- Ana debería sentir más pena por la "muerte" de Lucas.
-- ¿Decir la fecha a partir de la que empieza el libro?
-- Describir mejor y/o refrescar las descripciones de los personajes.
-- En el capítulo 17 se menciona que a Arturo se le inyectaba algo cada día media hora antes de las sesiones de hacerlo caminar sobre las nanomáquinas. Especificar qué más adelante en el libro. → ¿Intento de “sensibilizarlo” a las nanomáquinas?
-- Nombrar más a Ajani. Pensar en qué ha podido estar haciendo durante todo este tiempo.
-- ¿Cambiar el nombre de "ciudad burbuja" a algo más general? En caso de cambiarlo, buscar todas las apariciones de "burbuja" en el texto y actualizar.
-
 ## Aprovechables para el siguiente libro
 
 - (Capítulo 1) Lucas sufre mareos en la ida, pero no en la vuelta.
