@@ -34,7 +34,21 @@ Luís resopló, sin dejar de mirar, meditativo, el paisaje desolador de un barri
 - ¿Ya había sido prisionero de RIO?
 - Eso parece. Y por como gritaba, pareciera que realmente prefería la muerte.
 - Ya veo – respondió Luís, sombrío.
-- ¿Qué se nos ordena? - preguntó Ana, ya cansada del interrogatorio - ¿Cuál es el siguiente paso?
+
+Pasaron unos segundos hasta que Ana alzó la mirada hacia su interlocutor. Éste último pudo notar un gesto hostil en el rostro de ella.
+
+- ¿Por qué no se me informó del ataque?
+- Pregúntale a los Ingleses - escupió Luís, sintiéndose ofendido por el gesto de Ana - Atacaron sin avisar. Nuestros infiltrados tuvieron que decidir en el momento si los ayudaban o mantenían un perfil bajo... ha sido un maldito caos.
+- Pero aún así podrían haberme avisado en el momento en el que se enteraron del ataque. ¿No crees?
+- Era un ataque suicida - respondió Luis de manera tajante - Nuestros superiores acordaron que era mejor no reventar tu tapadera por nada. No contaron con que no podrías mantenerte al margen.
+
+La joven pelirroja lo miró fijamente a los ojos, tratando de desentrañar si lo que decía era cierto. Tras unos instantes bajó la vista de nuevo.
+
+- Ya veo. 
+
+Ambos miraron por la ventana, hacia el horizonte.
+
+- ¿Qué se nos ordena? ¿Cuál es el siguiente paso? - Preguntó ella.
 - Desaparecer – contestó su compañero –, al menos de momento. Hemos abierto la Caja de Pandora.
 
 Ana hizo una mueca. Luís sabía que esconderse no era su estilo, pero lo aceptaría para no comprometer a los suyos.
