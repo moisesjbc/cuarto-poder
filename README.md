@@ -22,7 +22,6 @@ En una situación tan inestable y caótica, los sucesos que están a punto de oc
 
 Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el que trabajo por temporadas a Github**. Nunca está de más recordarlo: **estás ante un trabajo en progreso y plagado de spoilers** de lo que, espero, será una obra finalizada algún día. Además, muchos de los documentos anexos datan de una época en la cual parecía que no me llevaba bien con el corrector ortográfico. Es por esto que **a mi aviso de spoilers debo añadir otro de erratas** que espero subsanar pronto.
 
-
 ## Agradecimientos
 
 - A **Ana “sólo letras”**. Porque nunca te demostré lo importante que fuiste para mí. Porque me animaste e inspiraste cuando comenzaba a escribir.
@@ -33,6 +32,12 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 - A **Vero**. Por ayudar a escapar a uno de los personajes.
 - A **Garoe**. Porque al tiempo de escribir esto no ha visto nada del libro, pero cuando lo haga, su exquisitez mejorará el realismo del libro... o romperá nuestra amistad.
 - A **Abián**. Porque te sorprendiste cuando supiste que yo escribía, y eso a su vez me motivó a escribir este libro.
+
+
+## Contacto
+
+- [Web personal](http://moisesjbc.github.io/)
+- [Correo electrónico](mailto:moisesjbc@gmail.com)
 
 
 ## Licencia
