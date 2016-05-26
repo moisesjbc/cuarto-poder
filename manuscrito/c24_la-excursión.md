@@ -129,3 +129,4 @@ De repente, una luz verdosa lo embargó. Sintió la hierba acariciar sus pies de
 ## Navegación
 
 - [Capítulo anterior: 23 - 15 minutos](c23_15-minutos.md)
+- [Nota final](nota-final.md)
