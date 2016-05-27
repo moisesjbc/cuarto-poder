@@ -93,7 +93,7 @@ Iván rió levemente. Durante los meses que estuvieron en el hospital psiquiátr
 
 - RIO realizó una purga en la AT de Gran Canaria. Muchos de nuestros agentes cayeron, pero por suerte aún quedan unos cuantos. Sin embargo, dudo que se arriesguen a actuar de nuevo sin pensárselo bien, visto como salió el último plan. - Iván resopló - Debimos haber metido al coronel Cooper en nuestro círculo. Quizás así hubiera tenido algo más de paciencia antes de lanzarse a un ataque suicida, y...
 - Espera – lo interrumpió Jonás - ¿la resistencia no ha hecho nada más después de que yo entrara en La Cadena?
-- Oh, sí, sí que ha hecho, pero nada tan “vistoso”. - sonrió – Hemos decidido esperar a que se calmen las aguas para hacer otro ataque frontal. De momento nos estamos centrando en liberar a los ingleses capturados. Y seguimos liberando ciudades burbuja para debilitar a RIO. Bueno, yo no, yo estoy haciendo mi papel, pero tú me entiendes – sonrió de nuevo.
+- Oh, sí, sí que ha hecho, pero nada tan “vistoso”. - sonrió – Hemos decidido esperar a que se calmen las aguas para hacer otro ataque frontal. De momento nos estamos centrando en liberar a los ingleses capturados. Y seguimos estallando Burbujas para debilitar a RIO. Bueno, yo no, yo estoy haciendo mi papel, pero tú me entiendes – sonrió de nuevo.
 - Entiendo.
 - Por cierto... - Iván pareció recordar algo - ¿Por qué un xilófono?
 - No tengo ni idea - Jonás sabía a qué se refería Iván – Me obligaron a que les programara esa clave a los sujetos y así lo hice.
@@ -115,7 +115,7 @@ Tras hacer el movimiento con la mano, el vagabundo recordó algo.
 - Entonces... ¿qué estabas pensando en aquel momento para que te sangrara así la nariz?
 - Estaba preparando las nanomáquinas para escapar.
 - Oh, ¡claro!.
-- Bueno, nos estamos yendo por las ramas - sentenció Jonás -. Me contabas que la resistencia ha evitado los ataques frontales y se ha centrado en liberar a los ingleses y en liberar ciudades burbuja.
+- Bueno, nos estamos yendo por las ramas - sentenció Jonás -. Me contabas que la resistencia ha evitado los ataques frontales y se ha centrado en liberar a los ingleses y en liberar Burbujas.
 - Exacto – verificó su interlocutor.
 - ¿Y cuál es el plan maestro? ¿Qué planea hacer la resistencia una vez “se calmen las aguas”?
 - ¡Je! Esa información ya es muy sensible como para que la comparta con un mero simpatizante – observó de reojo a Jonás, intentando adivinar si su puya había tenido efecto. El vagabundo, sin embargo, permaneció serio.
@@ -124,8 +124,8 @@ Tras hacer el movimiento con la mano, el vagabundo recordó algo.
 
 Jonás permaneció en silencio. Parecía sopesar su respuesta cuando un grito desde la puerta los sorprendió a ambos.
 
-- ¡Señor! - La rebelde que había ayudado anteriormente a Jonás se encontraba en el umbral de la puerta, sosteniendo una foto en la mano. Avanzó hacia Iván - Hemos encontrado otra ciudad burbuja.
-- ¿Y? - Las ciudades burbuja no eran responsabilidad suya.
+- ¡Señor! - La rebelde que había ayudado anteriormente a Jonás se encontraba en el umbral de la puerta, sosteniendo una foto en la mano. Avanzó hacia Iván - Hemos encontrado otra Burbuja.
+- ¿Y? - Las Burbujas no eran responsabilidad suya.
 - Creo que debería ver esto - dijo, al tiempo que le ofrecía la foto.
 
 Iván no pudo ocultar su sorpresa cuando la vio.

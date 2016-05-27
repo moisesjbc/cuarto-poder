@@ -1,6 +1,6 @@
 # 24. Viaje en tren
 
-El reloj de la gran torre de la plaza marcó las 18:30 horas bajo la atenta mirada de los presentes. Hacía 18 minutos, la mitad de los vecinos de la ciudad burbuja y de sus libertadores se habían marchado en el tren de las 18:12. El trayecto debía durar 15 minutos y entonces el primer grupo avisaría al segundo de que todo había ido bien. Pero ya hacía 18 minutos que no recibían noticias.
+El reloj de la gran torre de la plaza marcó las 18:30 horas bajo la atenta mirada de los presentes. Hacía 18 minutos, la mitad de los vecinos de la Burbuja y de sus libertadores se habían marchado en el tren de las 18:12. El trayecto debía durar 15 minutos y entonces el primer grupo avisaría al segundo de que todo había ido bien. Pero ya hacía 18 minutos que no recibían noticias.
 
 Un retraso de 3 minutos no tenía que significar nada malo necesariamente, pero...
 
@@ -82,7 +82,7 @@ Jonás no parecía muy convencido de aquello, pero se limitó a pedirle a Lara h
 - ¿Qué sucede? - preguntó Lucas.
 - Secreto de sumario - sonrió Ana - Ya lo he dicho, no es algo que nos preocupe ahora mismo. ¿Podrían contarme qué ha pasado aquí? Antes de nuestra llegada, me refiero - preguntó, claramente intentando desviar la atención.
 
-Conscientes de que no iban a lograr sonsacarle la información, Lucas y Noemí le siguieron el juego. Contaron su llegada a la ciudad burbuja (a Lucas le seguía chirriando lo de "ciudad"), así como los sucesos de aquella mañana, cuando las notas del xilófono dieron comienzo a la masacre. Mientras tanto, Lara y Jonás seguían hablando sobre quién sabe qué a una distancia segura de ellos.
+Conscientes de que no iban a lograr sonsacarle la información, Lucas y Noemí le siguieron el juego. Contaron su llegada a la Burbuja, así como los sucesos de aquella mañana, cuando las notas del xilófono dieron comienzo a la masacre. Mientras tanto, Lara y Jonás seguían hablando sobre quién sabe qué a una distancia segura de ellos.
 
 - Es la hora - dijo al fin Ana. Acto seguido se levantó y se dirigió al escenario, atrayendo las miradas curiosas de las personas allí congregadas. Se subió de un salto al escenario y gritó - ¡Es la hora, gente! ¡Vamos a la estación!
 

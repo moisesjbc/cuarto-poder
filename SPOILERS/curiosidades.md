@@ -197,3 +197,4 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
 - Personaje descartado: Allan, un soldado Inglés que se hace amigo de Lucas tras el incidente de Inglaterra.
 - Al final del capítulo 1, Cooper y sus dos escoltas subían en el ascensor. Lo cambié y los hice subir a las escaleras porque no me parecía muy profesional usar el ascensor en un asalto.
 - Antigua nota sobre el capítulo 13: Jonás es el que les guía hasta el sótano secreto, al gran pasillo que se divide en dos, y le dice de tomar el camino correcto hacia el metro. ¿El otro camino les llevaría  directamente a la base principal de RIO y sería una matanza en el momento actual? (¿alguna defensa especial o algo que tengan que desactivar desde la base aérea?).
+- Las Burbujas se llamaban antes ciudades burbuja. De hecho, cuando el pueblo de Lucas es liberado insinua que debería llamarse "pueblo burbuja", a lo que Ana responde "Eh... sí. Simplemente "pueblo burbuja" no sonaba tan bien".
