@@ -45,8 +45,8 @@ Y así era; mientras que Aitor continuaba vestido de gala, tal como había asist
 - Casi todos.
 - Bien... - La mujer vaciló, y tras un momento añadió - ¿Creen que lo conseguirán?
 - Sí – Se limitó a asentir Fernando.
-- Yo también – se unió Aitor – Están los ingleses, los infiltrados... y también está Ana.
-- Yo no contaría con los ingleses – la superiora se mantuvo seria, solemne – lo último que recibí antes de perder la comunicación fue que los de RIO estaban tomando el control rápidamente y que habían cogido a la mayoría de los militares.
+- Yo también – se unió Aitor – Están los ingleses, los infiltrados... y también está Ana. Además, no olvidemos que tenemos a Ajani moviendo los hilos.
+- Pues Ajani ha debido pensar que los ingleses son prescindibles – la superiora se mantuvo seria, solemne – lo último que recibí antes de perder la comunicación fue que los de RIO estaban tomando el control rápidamente y que habían cogido a la mayoría de los militares.
 - Vaya... - Aitor intentó buscar rápidamente algo para animar a sus interlocutores, pero cada vez era más complicado – debemos confiar en ellos. Nunca está de más mantener la esperanza.
 - Eso está bien – respondió la mujer – al menos alguien la conserva aquí.
 

@@ -12,6 +12,7 @@
     - ¿Puede que Jonás se llevara o le diera algo a Cooper?
 - ¿Ana es de RIO o aliada de Elizabeth?
     - (Capítulo 15) Si Ana es de RIO, ¿por qué está fuera de la farsa de que Lucas está en una ciudad burbuja? → ¿O lo sabe y sólo finge?
+    - (Capítulo 15) Ajani ha orquestado un ataque a La Cadena supuestamente fallido y ha desaparecido.
 - Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
 - (Capítulo 15) Los ingleses atacan La Cadena sin avisar a los rebeldes.
 - (Capítulo 17) Vestimenta y logo de la resistencia: "Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. La vestimenta contaba con un pequeño logotipo de contornos simples que descansaba sobre el pecho izquierdo. Representaba una venda cayéndose de una cabeza humana, todo visto desde perfil."

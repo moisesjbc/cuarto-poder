@@ -33,7 +33,13 @@ Luís resopló, sin dejar de mirar, meditativo, el paisaje desolador de un barri
 - Se tiró al agua, desesperado, aprovechando la confusión del tiroteo. Chillaba una y otra vez “¡no volverán a cogerme!”.
 - ¿Ya había sido prisionero de RIO?
 - Eso parece. Y por como gritaba, pareciera que realmente prefería la muerte.
-- Ya veo – respondió Luís, sombrío.
+- Ya veo – respondió Luís, sombrío - ¿Dijo algo más?
+- Maldecía a Ajani. Viendo cómo ha salido su plan, no me extrañaría que Jonás le partiera la cara si lo ve.
+- No es el único que quiere encontrarlo.
+- ¿A qué te refieres? 
+- Ha desaparecido. Nadie ha sabido nada de él desde el ataque.
+- ¿Crees que pueda ser un traidor?
+- No, pero no me lo está poniendo fácil para que conserve mi confianza en él.
 
 Pasaron unos segundos hasta que Ana alzó la mirada hacia su interlocutor. Éste último pudo notar un gesto hostil en el rostro de ella.
 

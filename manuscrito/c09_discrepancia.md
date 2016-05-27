@@ -14,9 +14,10 @@ El coronel Cooper no pudo evitar mostrar su alivio cuando las puertas del ascens
 - ¿Cómo? - La curiosidad del militar pudo más que su orgullo herido.
 - ¡Si yo he llegado tan lejos ha sido gracias a agentes infiltrados de la resistencia! 
 - ¿Qué? - Ana giró la cabeza hacia Lucas y los militares, como si la voz proviniera de ellos. Jonás hizo caso omiso de la pregunta de la chica; al decir verdad, Lucas dudaba que Jonás hubiera escuchado a su amiga.
-- ¿Desea hablar con ellos? - Continuó la voz omnipresente. Su voz reflejaba una gran tensión salpicada de ira. - Espere que se los paso. - Por los ruidos que escucharon, parecía que Jonás había cogido su comunicador y lo estaba moviendo. Los disparos se oyeron ahora con más fuerza. Entre el ruido comenzaron a distinguirse multitud de gritos desgarradores. - ¡Vaya! Parece que no están disponibles. - Escupió la voz, sarcástica - Quizás sea porque SE ESTÁN MURIENDO.
+- ¿Desea hablar con ellos? - Continuó la voz omnipresente. Su voz reflejaba una gran tensión salpicada de ira. - Espere que se los paso. - Por los ruidos que escucharon, parecía que Jonás había cogido su comunicador y lo estaba moviendo. Los disparos se oyeron ahora con más fuerza. Entre el ruido comenzaron a distinguirse multitud de gritos desgarradores. - ¡Vaya! Parece que no están disponibles. - Escupió la voz, sarcástica - Quizás sea porque SE ESTÁN MURIENDO. Joder, no entiendo cómo Ajani pudo confiar en usted.
+- ¿Cómo sabes...?
 
-Cooper enmudeció, pero se mantuvo firme. Al cabo de unos segundos habló.
+Cooper enmudeció, quizás conviniendo en que no era el momento para preguntas. No obstante, al cabo de unos segundos dejó clara su postura.
 
 - Esperaré por mis hombres.
 
