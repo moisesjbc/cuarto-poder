@@ -15,5 +15,6 @@
 - Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
 - (Capítulo 15) Los ingleses atacan La Cadena sin avisar a los rebeldes.
 - (Capítulo 17) Vestimenta y logo de la resistencia: "Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. La vestimenta contaba con un pequeño logotipo de contornos simples que descansaba sobre el pecho izquierdo. Representaba una venda cayéndose de una cabeza humana, todo visto desde perfil."
+- (Capítulo 17) En el capítulo 17 se menciona que a Arturo se le inyectaba algo cada día media hora antes de las sesiones de hacerlo caminar sobre las nanomáquinas. Especificar qué más adelante en el libro. → ¿Intento de “sensibilizarlo” a las nanomáquinas?
 - Hablar del objetivo de las ciudades burbujas y de ciertas características de las mismas, como por ejemplo: ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies" (página 18).
 - (Capítulo 19): Jonás menciona que fue obligado a programarle la clave del xilófono a los "sujetos". Cuando le preguntan por "programar" se señala la cabeza. ¿Los sujetos también tienen nanomáquinas?.
