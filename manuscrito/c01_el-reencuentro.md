@@ -96,7 +96,7 @@ Ana se había quedado atónita, incapaz de mediar palabra. No ocurría así con 
 
 - Ya tardabas demasiado en hacerlo – Dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda.
 
-Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de Inglés, respondió al joven en un perfecto Español.
+Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés, respondió al joven en un perfecto español.
 
 - Desafiar a tu gobierno y poner en peligro a tu país requiere tiempo - sonrió -, ¿cómo estás, amigo?
 
