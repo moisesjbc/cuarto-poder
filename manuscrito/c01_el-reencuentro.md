@@ -6,7 +6,7 @@ Lucas alzó la vista hacia el viejo reloj azul de la pared, y no ocultó su desa
 
 “¡Agh!, ¡céntrate en lo tuyo y así pasará más rápido, como siempre!”, se ordenó. Cuando bajó la vista hacia el monitor, se dio cuenta de que aún tenía abierto el navegador con un vídeo de caídas que le había pasado un compañero hacía cinco minutos. De manera instintiva minimizó la ventana  (no quería cerrarla, aún no había terminado de ver el vídeo) y se giró para cerciorarse de que estaba solo.
 
-Trabajaba en un cubículo cuyas cuatro paredes de madera eran lo suficientemente altas como para que sólo tuviera que preocuparse de la entrada a sus espaldas. Además, su habitáculo se encontraba en la esquina suroeste, la cual era poco transitada. De todas formas, Luchas echó un vistazo rápido. 
+Trabajaba en un cubículo cuyas cuatro paredes de madera eran lo suficientemente altas como para que sólo tuviera que preocuparse de la entrada a sus espaldas. Además, su habitáculo se encontraba en la esquina suroeste, la cual era poco transitada. De todas formas, Lucas echó un vistazo rápido. 
 
 No pasaba nadie por el pasillo; nadie que pudiera y quisiera recriminar su acción, al menos. Su caso era de lo más curioso; debía percatarse de que no fueran sus compañeros quienes lo descubrieran, no sus superiores. Gozaba de cierta “inmunidad” frente a estos últimos desde el incidente de Inglaterra, algo que lo turbaba.
 
