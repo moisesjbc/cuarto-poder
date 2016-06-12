@@ -42,7 +42,7 @@ Lucas hizo el amago de levantarse, pero Ana lo detuvo.
 
 - Quédate con las chicas, yo hablaré con él.
 
-El joven obedeció mientras su amiga alcanzaba al ex-vagabundo. Lara, Noemí y Lucas observaban a la pareja hablar sin ser capaces de oír ni una palabra de lo que estaban diciendo. El tono de la conversación parecía debatirse entre los gestos cada vez más acelerados y nerviosos de Jonás y el aspecto tranquilizador de Ana. Decidido a acatar la orden de su amiga de no entrometerse, Lucas optó por intentar distraer a las adolescentes que habían sido sus hijas por poco más de un día.
+El joven obedeció mientras su amiga alcanzaba al ex-vagabundo. Lara, Noemí y Lucas observaban a la pareja hablar sin ser capaces de oír ni una palabra de lo que estaban diciendo. El tono de la conversación parecía debatirse entre los gestos cada vez más acelerados y nerviosos de Jonás y el aspecto tranquilizador de Ana. Decidido a acatar la orden de su amiga de no entrometerse, Lucas optó por intentar distraer a las adolescentes que habían sido sus hijas por tan poco tiempo.
 
 - ¿Deseando salir de aquí tanto como yo? - soltó con una sonrisa forzada. Apenas había materializado la pregunta, Lucas se lamentó de no haber pensado una mejor cuya respuesta no fuera obvia y potencialmente un monosílabo.
 - Sí - Lara asintió como una autómata, sin dejar de mirar a su hermano mayor discutir con la mujer.
@@ -71,7 +71,7 @@ Lucas se quedó mirándola fijamente, su cara echa un poema. Noemí rió, divert
 Lucas y Noemí también miraron frente a ellos y vieron a Jonás y Ana venir hacia ellos.
 
 - ¿Qué ocurre? - se abalanzó a preguntar Lara, mirando fijamente a su hermano mayor Jonás.
-- No te preocupes - se limitó a decir este -, encontraremos la solución. No tienes nada que temer.
+- No te preocupes - se limitó a decir éste -. Encontraremos la solución. No tienes nada que temer.
 
 Pero su voz seria no invitaba a la calma. Ana, siempre de carácter más optimista, tomó la palabra.
 
@@ -88,11 +88,11 @@ Conscientes de que no iban a lograr sonsacarle la información, Lucas y Noemí l
 
 La joven retrocedió entonces hasta la puerta abierta situada en la base en la torre y golpeó la misma tres veces. Sin esperar respuesta, bajó del escenario y se dirigió hacia Lucas y los demás. Viendo que los demás presentes hacían el amago de seguirla, Ana les informó de que ella iría en la retaguardia y que siguieran a sus compañeros.
 
-Rápidamente, los otros miembros de la resistencia, ya disfrazados como civiles ("¿Cuándo se disfrazaron?", se preguntó Lucas) organizaron a los presentes formando una fila india. Tras esperar a que los últimos compañeros emergieran del centro de control bajo la torre, pusieron en marcha a la comitiva.
+Rápidamente, los otros miembros de la resistencia, ya disfrazados como civiles organizaron a los presentes formando una fila india. Tras esperar a que los últimos compañeros emergieran del centro de control bajo la torre, pusieron en marcha a la comitiva.
 
 La excursión bordeó la gran torre de la plaza por su derecha y cruzó la carretera que rodeaba la plaza. Entraron entonces en una larga avenida recta que iba desde la plaza hasta el portón norte del pueblo. Por el camino, y para sorpresa de los presentes, otros civiles que resultaron ser miembros de la resistencia salían de las casas y se unían a ellos. Lucas había supuesto que todos los miembros de la resistencia estaban en la plaza. Rápidamente se percató del error táctico que hubiera supuesto concentrar todos los efectivos en un único punto.
 
-La fila alcanzó en silencio el gran portón de madera y lo cruzó, encontrándose con un paisaje desértico que se extendía kilómetros y kilómetros en todas las direcciones. El terreno era completamente llano, permitiendo a los presentes observar la cadena montañosa que parecían estar a días de distancia. Los únicos testigos del paso del hombre en aquél páramo era una pequeña construcción de una planta situada a unos 300 metros frente a ellos, así como la carretera en mal estado que conectaba dicha construcción y la prisión de la que acababan de salir.
+La fila alcanzó en silencio el gran portón de madera y lo cruzó, encontrándose con un paisaje desértico que se extendía kilómetros y kilómetros en todas las direcciones. El terreno era completamente llano, permitiendo a los presentes observar la cadena montañosa que parecía estar a días de distancia y que rodeaba al pueblo. Los únicos testigos del paso del hombre en aquél páramo era una pequeña construcción de una planta situada a unos 300 metros frente a ellos, así como la carretera en mal estado que conectaba dicha construcción con la prisión de la que acababan de salir.
 
 - Bueno, técnicamente ya hemos escapado del pueblo - quiso bromear Ana, pero sólo recibió silencio como respuesta. Al menos hasta que Lucas miró hacia ella y sonrió.
 - ¿Qué pa...? ¡Mierda!, ¿la ceja?
@@ -103,7 +103,7 @@ Lucas miró hacia adelante y vio al cámara de la resistencia separado del grupo
 
 - No puedo, tengo que documentarlo todo - bromeó éste antes de girarse y continuar la marcha con el resto del grupo.
 
-Sin dejar de caminar, Ana se sacó un pequeño bote del bolsillo. Lo destapó, descubriendo un pequeño pincel enganchado a la tapa. De un brochazo acabó con los pocos pelos pelirrojos de su ceja.
+Sin dejar de caminar, Ana se sacó un pequeño bote del bolsillo. Lo destapó, descubriendo un pequeño pincel enganchado a la tapa y de un brochazo acabó con los pocos pelos pelirrojos de su ceja.
 
 - Bueno, a otra cosa - sentenció, satisfecha.
 
@@ -114,16 +114,16 @@ Al fin llegaron a la estación, la cuál era poco más que una gran habitación 
 - No sabía que habría compañeros tuyos aquí - Comentó Jonás. Miraba hacia Ana con suspicacia.
 - Yo sí - lo tranquilizó ella.
 
-El grupo entró en la construcción a través de unas grandes puertas de cristal ultrajadas por múltiples rayones, agujeros y otras heridas. La línea de personas fue entrando para encontrarse con una gran sala abandonada a su suerte, con muebles de madera carcomida, mostradores de vidrio destrozados, ratas campando a sus anchas... Lucas comenzó a sentirse mal. Las náuseas lo pillaron por sopesa; aunque se consideraba una persona ordenada, no era ajeno al desorden y la suciedad. Los más cercanos a él lo miraron con curiosidad, hasta que Jonás se percató.
+El grupo entró en la construcción a través de unas grandes puertas de cristal ultrajadas por múltiples rayones, agujeros y otras heridas. La línea de personas fue entrando para encontrarse con una gran sala abandonada a su suerte, con muebles de madera carcomida, mostradores de vidrio destrozados, ratas campando a sus anchas... De repente Lucas comenzó a sentirse mal. Las náuseas lo pillaron por sopesa; aunque se consideraba una persona ordenada, no era ajeno al desorden y la suciedad. ¿A qué venía aquella indisposición? Los más cercanos a él lo miraron con curiosidad, hasta que Jonás se percató.
 
 - ¡FUERA DE AQUÍ! - gritó, agarrando de la mano a Lara y corriendo hacia la salida.
-- ¡Mierda! - exclamó Ana, empujando a Lucas y Noemí hacia la salida, pero dirigiéndose a todo el mundo - ¡SALID!
+- ¡Mierda! - exclamó Ana, empujando a Lucas y Noemí hacia la salida, pero refiriéndose a todo el mundo - ¡SALID!
 
 De repente el suelo desapareció bajo sus pies, haciendo que todos los presentes se precipitaran hacia al vacío. Lucas estaba a escasa distancia de la puerta cuando su pie se hundió en la oscuridad. Tropezó y cayó, golpeándose la cabeza contra el suelo de la entrada, el cuál permanecía intacto.
 
 El impacto le nubló la vista y le entumeció los sentidos. Veía, como si fuera un sueño, la mano de Jonás abalanzándose en busca de la suya mientras el vacío lo engullía y sumía su conciencia en la negrura.
 
-De repente, una luz verdosa lo embargó. Sintió la hierba acariciar sus pies desnudos mientras permanecía de pie frente a un océano cuyo color azul verdoso contagiaba al cielo. Lucas alzó la vista y alcanzó a ver un cielo dominado por dos lunas gigantes, una dorada y la otra plateada. Escuchó su propia voz preguntar "¿Dónde estoy?" antes de perder la conciencia por completo.
+De repente, una luz verdosa lo embargó, sacándolo de la oscuridad. Sintió la hierba acariciar sus pies desnudos mientras permanecía de pie frente a un océano cuyo color azul verdoso teñía el cielo. Lucas alzó la vista y alcanzó a ver un cielo dominado por dos lunas gigantes, una dorada y la otra plateada. Escuchó su propia voz preguntar "¿Dónde estoy?" antes de perder la conciencia por completo.
 
 
 ## Navegación
