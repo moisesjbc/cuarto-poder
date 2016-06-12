@@ -11,7 +11,7 @@ Ambos empujaron con presteza sus contenedores los últimos metros, compitiendo p
 - ¿Y cómo era... - Quiso saber el compañero de Aitor - ya sabes, vista de cerca?
 - Realmente sabe como hacerte pasar un mal rato con sus encantos. Apenas tuve que fingir los nervios y...
 - ¿De qué me hablas? ¡Me refería a la lasaña vegetal!
-- Pfff – bufó Aitor, divertido –, por qué no me extraña - Entonces se llevó la mano a la barriga –. Mira, no hablemos de eso. Estábamos a punto de empezar a comer cuando vino Iván y se la llevó.
+- Pfff – bufó Aitor, divertido –, por qué no me extraña - Entonces se llevó la mano a la barriga –. Mira, no hablemos de eso. Estábamos a punto de empezar a comer cuando vino Andrés y se la llevó.
 - Te podrías haber quedado y comer. Ya que no la ibas a interceptar de todas maneras...
 - Serás cabrón – Aitor le propinó un puñetazo amistoso, pero firme, en el hombro –. Ya te dije que fueron las putas termitas. - entonces se giró hacia otro hombre que justamente pasaba a su lado, empujando un contenedor en sentido contrario – lo siento.
 - No pasa nada, – lo tranquilizó el vagabundo, sin detenerse – algunos del gremio no tienen cabeza para elegir a sus víctimas.
@@ -29,7 +29,7 @@ El señuelo estaba lanzado y ahora era cuestión de tiempo, perseverancia y suer
 
 - Para mi se acabó el fingir – confesó Aitor tras la reflexión y la nostalgía que, estaba seguro, compartía con su amigo.
 - ¿Qué?
-- Elizabeth e Iván me descubrieron persiguiéndolos. ¡Por poco no me llevo un balazo!. Menos mal que soy una “prioridad” mucho menor para ellos que alcanzar el edificio de La Cadena; me dejaron en paz en cuanto pudieron perderme de vista.
+- Elizabeth e Andrés me descubrieron persiguiéndolos. ¡Por poco no me llevo un balazo!. Menos mal que soy una “prioridad” mucho menor para ellos que alcanzar el edificio de La Cadena; me dejaron en paz en cuanto pudieron perderme de vista.
 - ¡Cabronazo con suerte! ¡Con razón no vas disfrazado!
 
 Y así era; mientras que Aitor continuaba vestido de gala, tal como había asistido a la cena con Elizabeth, Fernando iba vestido como un vagabundo más. Llevaba una capucha sobre la cabeza y un pañuelo en la cara para resultar tan irreconocible como le fuera posible. Aún así, el mero hecho de que estuviera allí era un peligro para la operación. No obstante, Fernando era demasiado terco como para que nadie pudiera convencerlo de mantenerse al margen. Y más cuando se trataba de lo que podía ser un gran golpe contra RIO.
