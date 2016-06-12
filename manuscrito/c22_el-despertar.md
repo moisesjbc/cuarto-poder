@@ -58,7 +58,7 @@ Lara y Lucas se separaron y se incorporaron mientras María ayudaba a Noemí a h
 
 "¿Los menores de edad conservan su nombre?" - pensó Lucas, al recordar que la hermana de Jonás también había conservado su nombre original: "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
 
-- Documentamos el estallido de cada Burbuja y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Noemí, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz - eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
+- Documentamos el estallido de cada *Burbuja* y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Noemí, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz - eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
 - Entiendo.
 
 La mirada de Lucas volvió a posarse sobre aquel cámara que parecía tener un fetiche con él. Resulta la curiosidad sobre su observador, Lucas lanzó otra pregunta.

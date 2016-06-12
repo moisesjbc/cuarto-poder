@@ -153,9 +153,9 @@ Cuando la familia llegó a primera fila, vieron al alcalde Batido de Maíz, junt
 
 Era verdad. La mujer de chandal azul y pelo pelirrojo situada tras el alcalde Batido de Maíz había dejado de mirar al alcalde para mirar fijamente a Mario. ¿Acababa de sonreirle? De repente, su gesto se tornó serio y volvió a mirar a la congregación allí reunida, sin dejar de encañonar a Batido de Maíz.
 
-- Es hora de que esta Burbuja...
+- Es hora de que esta *Burbuja*...
 - ¡No, por favor! - suplicó el alcalde Batido de Maíz.
-- ¡Es hora de que esta Burbuja estalle!
+- ¡Es hora de que esta *Burbuja* estalle!
 
 El eco de los disparos fue pronto superado por la ovación del público, pero a los pocos segundos, también ésta fue silenciada por otro ruido.
 
