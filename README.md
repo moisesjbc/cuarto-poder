@@ -4,9 +4,6 @@
 
 **IMPORTANTE**: Este es un trabajo en progreso, y como tal, cualquier parte del libro y sus anexos son susceptibles de cambiar y/o contener spoilers. *Leer bajo responsabilidad del lector* :-)
 
-## Acceso al libro
-
-- Para leer el libro en su estado actual puedes acceder al [manuscrito](manuscrito/c01_el-reencuentro.md).
 
 ## Sinopsis
 
@@ -16,11 +13,18 @@ La corporación RIO, la cual monopoliza los medios de comunicación de más de m
 
 En una situación tan inestable y caótica, los sucesos que están a punto de ocurrir en el seno de la corporación pueden precipitar el cambio por el que muchos claman. El coste, y las consecuencias, sin embargo, pueden llevar a la destrucción de una sociedad cuya estabilidad pende ya de un hilo.
 
-## Noticias
 
-### Creación del repositorio (17/11/2015)
+## Licencia
 
-Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el que trabajo por temporadas a Github**. Nunca está de más recordarlo: **estás ante un trabajo en progreso y plagado de spoilers** de lo que, espero, será una obra finalizada algún día. Además, muchos de los documentos anexos datan de una época en la cual parecía que no me llevaba bien con el corrector ortográfico. Es por esto que **a mi aviso de spoilers debo añadir otro de erratas** que espero subsanar pronto.
+![Logo licencia Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional](img/by-nc-sa.eu.png)
+
+Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
+
+
+## Acceso al libro
+
+- Para leer el libro en su estado actual puedes acceder al [manuscrito](manuscrito/c01_el-reencuentro.md).
+
 
 ## Agradecimientos
 
@@ -40,10 +44,3 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 
 - [Web personal](http://moisesjbc.github.io/)
 - [Correo electrónico](mailto:moisesjbc@gmail.com)
-
-
-## Licencia
-
-![Logo licencia Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional](img/by-nc-sa.eu.png)
-
-Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
