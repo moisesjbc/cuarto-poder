@@ -32,6 +32,8 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 - A **Vero**. Por ayudar a escapar a uno de los personajes.
 - A **Garoe**. Porque al tiempo de escribir esto no ha visto nada del libro, pero cuando lo haga, su exquisitez mejorará el realismo del libro... o romperá nuestra amistad.
 - A **Abián**. Porque te sorprendiste cuando supiste que yo escribía, y eso a su vez me motivó a escribir este libro.
+- A **Bruno**. Por tus críticas y correcciones sobre el primer capítulo.
+- A **mi familia**. Por estar siempre ahí.
 
 
 ## Contacto
