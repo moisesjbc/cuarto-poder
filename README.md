@@ -1,9 +1,6 @@
 # Cuarto Poder
 
-*Cuarto Poder* (**nombre temporal**) es el nombre de mi primer libro, escrito a temporadas y en mi tiempo libre. En Noviembre de 2015 decidí subirlo a *Github* para llevar un mejor control de los cambios y mutaciones sobre mi pequeño *Frankestein*.
-
-**IMPORTANTE**: Este es un trabajo en progreso, y como tal, cualquier parte del libro y sus anexos son susceptibles de cambiar y/o contener spoilers. *Leer bajo responsabilidad del lector* :-)
-
+*Cuarto Poder* es el nombre de mi primer libro, escrito a temporadas y en mi tiempo libre. En Noviembre de 2015 decidí subirlo a *Github* para llevar un mejor control de los cambios y mutaciones sobre mi pequeño *Frankestein*.
 
 ## Sinopsis
 
@@ -23,7 +20,7 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 
 ## Acceso al libro
 
-- Para leer el libro en su estado actual puedes acceder al [manuscrito](manuscrito/c01_el-reencuentro.md).
+- [Pulsa aquí para leer el libro](manuscrito/c01_el-reencuentro.md).
 
 
 ## Agradecimientos
