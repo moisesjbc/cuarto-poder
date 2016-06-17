@@ -9,12 +9,13 @@ import os
 import tempfile
 from subprocess import call
 
-def generate_chapters_pdf(chapters_pdf_path):
+def generate_chapters_pdf(chapters_pdf_path, page_offset):
     chapters_directory = 'manuscrito'
 
     (_, monolitic_filepath) = tempfile.mkstemp()
 
     with open(monolitic_filepath, 'w') as monolitic_file:
+        monolitic_file.write('\n\n\\setcounter{page}{%s}\n\n' % page_offset)
         for filepath in sorted(os.listdir(chapters_directory)):
             with open(os.path.join(chapters_directory, filepath), 'rU') as chapter_file:
                 copy_chapter_content(chapter_file, monolitic_file)
@@ -47,6 +48,8 @@ def generate_readme_sections_pdf(dst_file):
             for line in readme_file:
                 if line.startswith('#'):
                     temp_file.write('\\newpage')
+                    if line[:-1] in section_headers:
+                        temp_file.write('\\mbox{}\n\n\\thispagestyle{empty}\n\n\\newpage\n\n')
                     copy_line = line[:-1] in section_headers
 
                 if copy_line:
@@ -55,11 +58,13 @@ def generate_readme_sections_pdf(dst_file):
                     else:
                         temp_file.write(line)
 
+        temp_file.write('\\mbox{}\n\n\\thispagestyle{empty}\n\n\\newpage\n\n')
+
     call(["pandoc"] + ["--output", dst_file, temp_filepath])
 
 if __name__ == "__main__":
     generate_readme_sections_pdf('primeras-secciones.pdf')
-    generate_chapters_pdf('capítulos.pdf')
+    generate_chapters_pdf('capítulos.pdf', page_offset=7)
 
     from PyPDF2 import PdfFileMerger, PdfFileReader
     pdf_merger = PdfFileMerger()
