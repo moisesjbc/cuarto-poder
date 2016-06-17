@@ -8,7 +8,7 @@ Lucas alzó la vista hacia el viejo reloj azul de la pared, y no ocultó su desa
 
 Trabajaba en un cubículo cuyas cuatro paredes de madera eran lo suficientemente altas como para que sólo tuviera que preocuparse de la entrada a sus espaldas. Además, su habitáculo se encontraba en la esquina suroeste, la cual era poco transitada. De todas formas, Lucas echó un vistazo rápido. 
 
-No pasaba nadie por el pasillo; nadie que pudiera y quisiera recriminar su acción, al menos. Su caso era de lo más curioso; debía percatarse de que no fueran sus compañeros quienes lo descubrieran, no sus superiores. Gozaba de cierta “inmunidad” frente a estos últimos desde el incidente de Inglaterra, algo que lo turbaba.
+No pasaba nadie por el pasillo. Nadie que pudiera y quisiera recriminar su acción, al menos. Su caso era de lo más curioso; debía percatarse de que no fueran sus compañeros quienes lo descubrieran, no sus superiores. Gozaba de cierta “inmunidad” frente a estos últimos desde el incidente de Inglaterra, algo que lo turbaba.
 
 Ciertamente estaban jugando a volver a todos sus compañeros contra él, concediéndole favores aquí y allá sin que él los mereciera en lo más mínimo. Pero, si querían quitárselo de encima, ¿por qué no lo despedían directamente?. Eliminarlo era otra manera de acabar con el problema; un simple trámite para el inmenso poder de La Cadena.
 
