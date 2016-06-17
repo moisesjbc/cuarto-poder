@@ -31,8 +31,7 @@ def copy_chapter_content(chapter_file, dst_file):
         dst_file.write(line)
         i += 1
 
-
 if __name__ == "__main__":
     monolitic_markdown_filepath = build_monolitic_file()
 
-    call(["pandoc"] + ["-V", "lang=es", "--chapters", "--output", 'cuarto-poder.pdf', monolitic_markdown_filepath])
+    call(["pandoc"] + ["-V", "lang=es", "--toc", "--chapters", "--output", 'cuarto-poder.pdf', monolitic_markdown_filepath])
