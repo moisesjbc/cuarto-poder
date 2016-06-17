@@ -41,6 +41,7 @@ def generate_readme_sections_pdf(dst_file):
     (_, temp_filepath) = tempfile.mkstemp()
 
     with open(temp_filepath, 'w') as temp_file:
+        temp_file.write('\\pagenumbering{gobble}\n\n') # No page numbers.
         with open('README.md', 'rU') as readme_file:
             copy_line = False
             for line in readme_file:
