@@ -64,7 +64,7 @@ def generate_readme_sections_pdf(dst_file):
 
 if __name__ == "__main__":
     generate_readme_sections_pdf('primeras-secciones.pdf')
-    generate_chapters_pdf('capítulos.pdf', page_offset=7)
+    generate_chapters_pdf('capítulos.pdf', page_offset=8)
 
     from PyPDF2 import PdfFileMerger, PdfFileReader
     pdf_merger = PdfFileMerger()
