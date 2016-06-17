@@ -45,8 +45,7 @@ def generate_readme_sections_pdf(dst_file):
             copy_line = False
             for line in readme_file:
                 if line.startswith('#'):
-                    if copy_line:
-                        temp_file.write('\\newpage')
+                    temp_file.write('\\newpage')
                     copy_line = line[:-1] in section_headers
 
                 if copy_line:
@@ -63,6 +62,7 @@ if __name__ == "__main__":
 
     from PyPDF2 import PdfFileMerger, PdfFileReader
     pdf_merger = PdfFileMerger()
+    pdf_merger.append(PdfFileReader(open('portada.pdf', 'rb')))
     pdf_merger.append(PdfFileReader(open('primeras-secciones.pdf', 'rb')))
     pdf_merger.append(PdfFileReader(open('capítulos.pdf', 'rb')))
     pdf_merger.write("cuarto-poder.pdf")
