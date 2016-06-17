@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Install dependencies (Ubuntu): sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended
+# Install dependencies (Ubuntu): sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-lang-spanish
 
 import os
 import tempfile
@@ -29,4 +29,4 @@ def copy_chapter_content(chapter_file, dst_file):
 if __name__ == "__main__":
     monolitic_markdown_filepath = build_monolitic_file()
 
-    call(["pandoc"] + ["--chapters", "--output", 'cuarto-poder.pdf', monolitic_markdown_filepath])
+    call(["pandoc"] + ["-V", "lang=es", "--chapters", "--output", 'cuarto-poder.pdf', monolitic_markdown_filepath])
