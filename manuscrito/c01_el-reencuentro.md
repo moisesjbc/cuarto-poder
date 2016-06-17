@@ -1,14 +1,14 @@
 # 1. El reencuentro
 
-Lucas alzó la vista hacia el viejo reloj azul de la pared, y no ocultó su desagrado al comprobar que aún eran las seis de la tarde. 
+Lucas alzó la vista hacia el viejo reloj azul de la pared y no ocultó su desagrado al comprobar que aún eran las seis de la tarde. Descubrir que aún le quedaban tres horas más le provocó una nueva punzada de abatimiento. Y ya iban unas cuantas. 
 
-“Aún me quedan tres horas más”, pensó, mientras sentía una nueva punzada de abatimiento. Aquella sensación no era nueva para él; salvo en raras ocasiones en las cuales se permitía ser feliz, el hastío y la impotencia lo acompañaban y atenazaban desde hacía años. Tampoco le era desconocida la causa de su malestar; todo había cambiado tras lo sucedido en Inglaterra, cuando descubrió...
+Aquel malestar general no era nuevo para él. Salvo en raras ocasiones en las cuales se permitía ser feliz, el hastío y la impotencia lo acompañaban y atenazaban desde hacía años. Todo había cambiado tras lo sucedido en Inglaterra, cuando...
 
-“¡Agh!, ¡céntrate en lo tuyo y así pasará más rápido, como siempre!”, se ordenó. Cuando bajó la vista hacia el monitor, se dio cuenta de que aún tenía abierto el navegador con un vídeo de caídas que le había pasado un compañero hacía cinco minutos. De manera instintiva minimizó la ventana  (no quería cerrarla, aún no había terminado de ver el vídeo) y se giró para cerciorarse de que estaba solo.
+“¡Agh!, ¡céntrate en lo tuyo y así pasará más rápido, como siempre!”, se ordenó. Cuando bajó la vista hacia el monitor, se dio cuenta de que aún tenía abierto el navegador con un vídeo de caídas que le había pasado un compañero hacía cinco minutos. De manera instintiva minimizó la ventana (no quería cerrarla, aún no había terminado de ver el vídeo) y se giró para cerciorarse de que estaba solo.
 
 Trabajaba en un cubículo cuyas cuatro paredes de madera eran lo suficientemente altas como para que sólo tuviera que preocuparse de la entrada a sus espaldas. Además, su habitáculo se encontraba en la esquina suroeste, la cual era poco transitada. De todas formas, Lucas echó un vistazo rápido. 
 
-No pasaba nadie por el pasillo; nadie que pudiera y quisiera recriminar su acción, al menos. Su caso era de lo más curioso; debía percatarse de que no fueran sus compañeros quienes lo descubrieran, no sus superiores. Gozaba de cierta “inmunidad” frente a estos últimos desde el incidente de Inglaterra, algo que lo turbaba.
+No pasaba nadie por el pasillo. Nadie que pudiera y quisiera recriminar su acción, al menos. Su caso era de lo más curioso; debía percatarse de que no fueran sus compañeros quienes lo descubrieran, no sus superiores. Gozaba de cierta “inmunidad” frente a estos últimos desde el incidente de Inglaterra, algo que lo turbaba.
 
 Ciertamente estaban jugando a volver a todos sus compañeros contra él, concediéndole favores aquí y allá sin que él los mereciera en lo más mínimo. Pero, si querían quitárselo de encima, ¿por qué no lo despedían directamente?. Eliminarlo era otra manera de acabar con el problema; un simple trámite para el inmenso poder de La Cadena.
 
@@ -48,7 +48,7 @@ La joven se sentó a su lado y se colocó uno de los auriculares que Lucas siemp
 
 La joven pelirroja dejó su auricular sobre la mesa y se levantó. Seguidamente se acercó a una de las paredes de madera de dos metros de la oficina, se puso de puntillas y oteó el resto de la planta. Cuando se cercioró de que no habían superiores a la vista, susurró “¡Ahora!” como si gritara. Acto seguido cogió rápidamente su silla y desapareció por el pasillo, mientras Lucas contemplaba la escena, divertido.
 
-“Hora de volver a la amarga realidad” - pensó el joven tras unos segundos, mientras cerraba la ventana del navegador y era abofeteado por un fondo de escritorio con el logotipo de un "río de información" fluyendo hacia una cabeza humana. Lucas trabajaba para la corporación RIO, en una cadena de noticias situada en Gran Canaria. La compañía monopolizaba el sector de los medios de información, englobando emisoras de televisión y de radio, periódicos y sitios web repartidos a lo largo de más de medio mundo.
+“Hora de volver a la amarga realidad”, pensó el joven tras unos segundos. No sin cierta reticencia, cerró la ventana del navegador y fue abofeteado por un fondo de escritorio con el logotipo de un "río de información" fluyendo hacia una cabeza humana. Lucas trabajaba para la corporación RIO, en una cadena de noticias situada en Gran Canaria. La compañía monopolizaba el sector de los medios de información, englobando emisoras de televisión y de radio, periódicos y sitios web repartidos a lo largo de más de medio mundo.
 
 Sin que nadie supiera cómo lo había conseguido, RIO permanecía inmune a los efectos de la guerra fría que azotaba a todo el globo. La crisis económica mundial resultante de esta guerra simplemente parecía hacer un gran favor a la corporación, eliminando los pequeños reductos de competencia que surgían cada vez con  menor frecuencia, hasta convertir a RIO en la única opción disponible en muchos lugares.
 

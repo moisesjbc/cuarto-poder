@@ -39,7 +39,7 @@ Aprovechó que le tocaba a su compañera disparar para señalar con la mano haci
 “Él nos debe estar viendo claramente”, pensó Lucas, imaginándose la inutilidad de una sala de seguridad con un ventanal que fuera opaco por ambos lados. Marcos continuó hablando.
 
 - Se accede entrando por el piso de abajo, más adelante. Tras esta puerta... - entonces se interrumpió para asomarse a la puerta. Asomó únicamente la cabeza y estudió un momento la situación. - ¡Hijo de puta! - Maldijo, al tiempo que escondía rápidamente la cabeza. Una ráfaga de balas obligó a su compañera a cubrirse también.
-- Por cierto, ésta es Lucía. - dijo, mientras sonreía a su compañera. Ella le devolvió la sonrisa fugazmente, antes de asomarse de nuevo para disparar.
+- Por cierto, ésta es Lucía - dijo, mientras sonreía a su compañera. Ella le devolvió la sonrisa fugazmente, antes de asomarse de nuevo para disparar.
 - Tras esta puerta... - Le recordó Ana, poco interesada en presentaciones.
 - ¿Qué? ¡Ah, sí! Tras esta puerta hay un pasillo que avanza, con cuatro oficinas a cada lado. Esa parte la controlamos nosotros. El problema está más adelante.
 - Continúa – Se limitó a decir Ana.
