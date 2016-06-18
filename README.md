@@ -2,6 +2,7 @@
 
 *Cuarto Poder* es el nombre de mi primer libro, escrito a temporadas y en mi tiempo libre. En Noviembre de 2015 decidí subirlo a *Github* para llevar un mejor control de los cambios y mutaciones sobre mi pequeño *monstruo de Frankestein*.
 
+
 ## Sinopsis
 
 Año 2025. En un mundo sumido en la decadencia, la corporación RIO se erige como un titan de los medios de comunicación con presencia a escala global. Su influencia, y sus garras, se extienden hasta límites que la gran mayoría ignora.
@@ -21,6 +22,17 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 - Si has descargado el repositorio y estás leyendo este documento localmente, puedes leer el libro en la carpeta *manuscrito* anexa.
 - [Pulsa aquí para leer el libro online](manuscrito/c01_el-reencuentro.md).
 - [Pulsa aquí para descargar el libro (PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.0/cuarto-poder.pdf)
+
+
+## Noticias
+
+### ¡Libro terminado! (18/06/2016)
+
+Me ha llevado mucho más de lo que me gustaría reconocer, ¡pero por fin el libro está terminado!. [Pulsa aquí](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.0/cuarto-poder.pdf) para leer la primera versión (PDF). Espero que lo disfrutes ;-)
+
+### Creación del repositorio (17/11/2015)
+
+Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el que trabajo por temporadas a Github**. Nunca está de más recordarlo: **estás ante un trabajo en progreso y plagado de spoilers** de lo que, espero, será una obra finalizada algún día. Además, muchos de los documentos anexos datan de una época en la cual parecía que no me llevaba bien con el corrector ortográfico. Es por esto que **a mi aviso de spoilers debo añadir otro de erratas** que espero subsanar pronto.
 
 
 ## Agradecimientos
