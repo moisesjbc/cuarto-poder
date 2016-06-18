@@ -101,7 +101,7 @@ if __name__ == "__main__":
     cover_pdf_filepath = generate_cover_pdf()
     readme_sections_pdf_filepath = generate_readme_sections_pdf()
     chapters_pdf_filepath = generate_chapters_pdf(page_offset=8)
-    end_note_pdf_filepath = generate_end_note_pdf(page_offset=143)
+    end_note_pdf_filepath = generate_end_note_pdf(page_offset=141)
 
     from PyPDF2 import PdfFileMerger, PdfFileReader
     pdf_merger = PdfFileMerger()
