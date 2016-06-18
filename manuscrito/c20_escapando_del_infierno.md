@@ -3,8 +3,8 @@
 Lucía fingió agradecimiento cuando rechazó los ofrecimientos de ayuda de la tulba que se agolpaba frente a ellas. Si no hubiera sido por el intento de asesinarlas de hace unos minutos, se podría haber dicho que el interés de los presentes por su salud parecía completamente sincero.
 
 - No, no es necesario - entonces se giró hacia sus hijas -. Llevadme a casa.
-- ¡Sí! - se sobresaltó Lara, que aún miraba hacua el alcalde Batido de Maíz - ¡En seguida! - pero permaneció inmóvil.
-- ¿Seguro que no quieres ir a la comisaría? - inquirió Batido de Maíz - Es obvio que necesitas ayuda.
+- ¡Sí! - se sobresaltó Lara, que aún miraba hacua el alcalde Batido de Maíz -. ¡En seguida! - pero permaneció inmóvil.
+- ¿Seguro que no quieres ir a la comisaría? - inquirió Batido de Maíz -. Es obvio que necesitas ayuda.
 
 ¿Fue el asomo de una sonrisa sádica lo que afloró en su cara por un segundo? Lara estaba aterrada, pero no podía dejar de mirarlo.
 
@@ -15,18 +15,18 @@ Lucía fingió agradecimiento cuando rechazó los ofrecimientos de ayuda de la t
 
 Lucía estuvo a punto de responderle, pero entonces la interrumpió una emisión proveniente desde los altavoces de la ciudad. Tres notas graves y cortas de xilófono, seguida de una larga y aguda.
 
-- ¡No! - dejó escapar un grito Lara - ¡no, no, no, ...!
+- ¡No! - dejó escapar un grito Lara -. ¡no, no, no, ...!
 
 Las tres se apresuraron a buscar rutas de escape entre la multitud, pero ésta se limitó a disolverse e irse en todas las direcciones.
 
 - ¡Hora de almorzar! - gritó Batido de Maíz. Tras dirigirle una sonrisa a las presentes, se marchó con los demás.
-- Tenemos que llegar a nuestro coche, ¡ya! - Ordenó Lucía, susurrando para no alertar a los pocos rezagados que aún se marchaban de la zona - Lara, llama a tu padre. Noemí, coge el móvil de mi bolsillo y llama a Luís, es un amigo policía de nuestra antigua ciudad.
+- Tenemos que llegar a nuestro coche, ¡ya! - ordenó Lucía, susurrando para no alertar a los pocos rezagados que aún se marchaban de la zona -. Lara, llama a tu padre. Noemí, coge el móvil de mi bolsillo y llama a Luís, es un amigo policía de nuestra antigua ciudad.
 
 Las tres se pusieron en movimiento. Las dos hijas ayudaban a su madre a caminar al tiempo que obedecían sus órdenes.
 
 - ¡Mamá, dice que el teléfono no existe! - gritó Noemí.
 - ¡Mierda!
-- ¿Papá? ¡¿Papá?! - gritó Lara. La voz al otro lado de la línea dijo algo que la tranquilizó - ¡sí, nosotras también vamos hacia casa para coger el coche! ¡Ten cuidado! ¡Yo también te quiero!
+- ¿Papá? ¡¿Papá?! - gritó Lara. La voz al otro lado de la línea dijo algo que la tranquilizó -. ¡Sí, nosotras también vamos hacia casa para coger el coche! ¡Ten cuidado! ¡Yo también te quiero!
 
 Lucía había alargado la mano para coger el teléfono, pero Lara colgó y se disculpó.
 
@@ -45,13 +45,13 @@ Mario acababa de cargar algo en el coche cuando escuchó la llamada. Levantó la
 El abrazo familiar duró poco. Mario fue el primero en separarse y dirigirse hacia el coche seguido por su familia.
 
 - He cargado cuatro mochilas con comida y agua en el coche. Tenemos que estar listos para abandonarlo si las cosas se tuercen.
-- ¿Si las cosas se... ? - Comenzó a preguntar Lara, pero una voz omnipresente la interrumpió.
-- ¿A dónde van? - preguntó el alcalde Batido de Maíz desde los altavoces de la ciudad - ¿es que acaso no se sienten bienvenidos aquí? - manchó sus palabras con una tristeza sobreactuada antes de reir.
-- ¡Vamos! - Ordenó Lara, aterrada. 
+- ¿Si las cosas se... ? - comenzó a preguntar Lara, pero una voz omnipresente la interrumpió.
+- ¿A dónde van? - preguntó el alcalde Batido de Maíz desde los altavoces de la ciudad -. ¿Es que acaso no se sienten bienvenidos aquí? - manchó sus palabras con una tristeza sobreactuada antes de reir.
+- ¡Vamos! - ordenó Lara, aterrada. 
 
 La familia se había parado junto a su coche al oir al alcalde, pero la hija mayor los sacó del ensimismamiento y todos corrieron al coche. Mario había insistido en conducir, pero Lucía se impuso y ocupó el sitio del conductor. Aceleró en cuanto todos estuvieron dentro.
 
-- ¿Qué es lo que no os ha gustado? - inquirió la voz del alcalde. El vehículo avanzaba por la calle residencial a toda velocidad - ¿Vuestro hogar? ¿Acaso el jardín no era lo suficientemente frondoso? - La familia alcanzó la plaza del pueblo y la rodeó hasta llegar a la avenida principal. - ¿O es la música local lo que no os ha gustado?
+- ¿Qué es lo que no os ha gustado? - inquirió la voz del alcalde. El vehículo avanzaba por la calle residencial a toda velocidad -. ¿Vuestro hogar? ¿Acaso el jardín no era lo suficientemente frondoso? - ña familia alcanzó la plaza del pueblo y la rodeó hasta llegar a la avenida principal -. ¿O es la música local lo que no os ha gustado?
 
 Tres notas graves y cortas de xilófono, seguida de una larga y aguda.
 
@@ -72,17 +72,17 @@ Dos soldados los apuntaban con sus armas desde la muralla que rodeaba la ciudad,
 
 El coche derrapó hacia la izquierda justo cuando los disparos comenzaron. Ahora avanzaba por la calle que discurría junto a la muralla de la ciudad. Sus ocupantes buscaban puertas secundarias en el pesado muro de piedra que los separaba de la libertad.
 
-- ¿Qué hacen? - les inquirió la voz del alcalde, procedente de los altavoces situados en la muralla - ¡Oh, ya veo! ¿Buscan las puertas de acceso secundario que mencioné ayer? Lamento decir que puede que me lo inventara - dejó escapar otra risotada.
+- ¿Qué hacen? - les inquirió la voz del alcalde, procedente de los altavoces situados en la muralla -. ¡Oh, ya veo! ¿Buscan las puertas de acceso secundario que mencioné ayer? Lamento decir que puede que me lo inventara - dejó escapar otra risotada.
 - ¡Maldito cabrón! - escupió Lucía mientras conducía el vehículo.
-- ¿Qué hacemos? - Preguntó Mario, sentado a su lado.
-- No lo sé... - dudó unos instantes -, no lo sé.
+- ¿Qué hacemos? - preguntó Mario, sentado a su lado.
+- No lo sé... - dudó unos instantes -, ¡no lo sé!.
 - ¿Por qué no se mueven? - preguntó Noemí, la hermana pequeña. Miraba a los vecinos de la calle por la que avanzaban con el vehículo. Allí como en la avenida principal, las personas esperaban en las puertas y ventanas de sus casas, mirándolos fijamente y sin decir una palabra.
 - ¿Qué está ocurriendo? - preguntó el alcalde. A diferencia de antes, ahora su voz sonaba distante, como si estuviera alejado del micrófono. - ¿Qué? ¡Me importa una mierda que el micrófono esté abierto! ¡Solucionad esto! ¡Los activos no se mueven!
 - ¿Activos? - se preguntó Lucía, la madre - ¿Cómo que act...? ¡ah!
 
 Una mujer de unos cuarenta años se había avalanzado contra un lateral del coche con los ojos inyectados en sangre. La fuerza del impacto la lanzó hacia atrás y ahora yacía insconsciente en la carretera. Otros vecinos comenzaron a correr contra el coche, imitándola.
 
-- ¿Ves? ¡Esto me gusta más! - se alegró el alcalde Batido de Maíz -, pero me gustaría que no fueran tan suicidas. No quiero perder votantes - rió.
+- ¿Ves? ¡Esto me gusta más! - se alegró el alcalde Batido de Maíz -. Pero me gustaría que no fueran tan suicidas; no quiero perder votantes - rió.
 
 Lara dejó escapar un grito. Un chico de unos 20 años se tiró de bruces contra su ventana y casi la rompe del golpe.
 
@@ -97,8 +97,8 @@ Tres notas graves y cortas de xilófono, seguida de una larga y aguda.
 - ¿Y ahora qué? - resopló Lucía, sin dejar de estudiar la situación.
 - ¡Muerte a los traidores! - gritó uno de los vecinos que había aparcado su coche en medio de la calle frente a ellos.
 - ¡Muerte! - exclamó otro a su lado.
-- Está bien - dijo Lucía, tratando de aparentar calma - a la de tres salimos corriendo del coche y vamos hacia esa casa amarilla - señaló hacia el objetivo - ¿Listos? Uno, dos...
-- ¡Espera! - gritó Lara desde los asiento trasero. Alzó la mano y señaló hacia delante - ¡Mirad!
+- Está bien - dijo Lucía, tratando de aparentar calma -. A la de tres salimos corriendo del coche y vamos hacia esa casa amarilla - señaló hacia el objetivo -. ¿Listos? Uno, dos...
+- ¡Espera! - gritó Lara desde los asiento trasero. Alzó la mano y señaló hacia delante -. ¡Mirad!
 
 Los vecinos frente a ellos subieron a sus coches y se marcharon por la siguiente esquina. Los vecinos que habían bloqueado la calle a sus espaldas hicieron lo mismo por la esquina anterior.
 
@@ -134,7 +134,7 @@ La familia fue bajada del coche y conducida a pie hasta la plaza de la ciudad, a
 - ¡Muerte! - la ovación se repetía a medida que se acercaban a la plaza.
 - ¡Cabrones, dejadnos escapar! - gritó Mario, forcejeando con sus captores sin éxito.
 - ¡Muerte! - los gritos se alzaban cada vez más. Sólo quedaba una manzana para llegar a la plaza.
-- ¡Por favor! ¡Dejen que nos vayamos! - suplicaba Lara - ¡No diremos nada!
+- ¡Por favor! ¡Dejen que nos vayamos! - suplicaba Lara -. ¡No diremos nada!
 - ¡Muerte! - el ruido era atronador cuando llegaron a la plaza.
 
 Fue entonces cuando escucharon gritar al alcalde.
@@ -146,7 +146,7 @@ Los captores conducían a la familia por entre la multitud hasta primera fila. N
 
 Cuando la familia llegó a primera fila, vieron al alcalde Batido de Maíz, junto con otros cautivos, de rodillas sobre el escenario. Tras cada uno de ellos había un hombre o mujer con la misma ropa azul que los captores de la familia Pérez. Cada uno de los que estaban de pie apuntaba con su pistola al arrodillado que tenían frente a sí.
 
-- ¿Papá? - Surruró Noemí.
+- ¿Papá? - surruró Noemí.
 - Dime.
 - ¿Por qué te mira la mujer del centro?
 

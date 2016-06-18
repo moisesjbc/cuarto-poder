@@ -30,16 +30,16 @@ A su alrededor comenzaron a aparecer cada vez más efectivos de RIO armados orga
 
 De repente, el elevador se detuvo en seco, sobresaltando a sus ocupantes. Se miraban los unos a los otros, esperando alguna respuesta. Finalmente, el primero en hablar fue el coronel Cooper.
 
-- ¡Has sido tú! - Acusó a Jonás, al tiempo que lo encañonaba con su pistola.
+- ¡Has sido tú! - acusó a Jonás, al tiempo que lo encañonaba con su pistola.
 - No, no he sido yo – Le respondió el vagabundo, serio, sin inmutarse.
 - ¡Mientes! Si no eres tú, ¿cómo estás tan tranquilo?
 - Porque, de momento, todo está siguiendo el plan.
 - ¿De qué hablas? Si esto es...
-- ¡Señor! - Lo interrumpió uno de los militares. 
+- ¡Señor! - lo interrumpió uno de los militares. 
 
 El receptáculo había comenzado a oscurecerse. Una nube de gas negro había salido de ninguna parte y avanzaba hacia ellos desde todas las direcciones.
 
-- ¡Otra vez no! - Exclamó el coronel - ¡¿Pero qué...?!
+- ¡Otra vez no! - exclamó el coronel -. ¡¿Pero qué...?!
 
 La nube empezó a atravesar el ascensor y a, literalmente, deshacerlo. Las paredes se difuminaban, se evaporaban, al entrar en contacto con la espesa negrura. Todos los presentes empezaron a retroceder hacia el centro del elevador.
 
@@ -47,16 +47,16 @@ La nube empezó a atravesar el ascensor y a, literalmente, deshacerlo. Las pared
 
 El coronel volvió a centrarse en Jonás el vagabundo, quien había alzado el puño derecho. Nadie se había percatado hasta entonces de que tenía un guante negro hecho de un material plástico aparentemente muy resistente. Jonás miró fugazmente al general.
 
-- ¡Salvarnos! ¿Le parece poco? ¡Acérquense a esa puerta! - Ordenó, señalando con la mano desnuda a la puerta que tenía a su izquierda.
+- ¡Salvarnos! ¿Le parece poco? ¡Acérquense a esa puerta! - ordenó, señalando con la mano desnuda a la puerta que tenía a su izquierda.
 
 Nadie parecía dispuesto a obedecer y acercarse al gas negro. Sin embargo, el gas se detuvo de repente y comenzó a parpadear brillante durante unos instantes, al igual que el guante de Jonás. El resto de personas en el ascensor se quedó atónita mirando la escena, sin excepciones; incluso Ricardo, el director de la AT de Gran Canaria, lo miraba sorprendido.
 
-- ¡Qué vayáis hacia la puerta de una puta vez! - Volvió a gritar el vagabundo, al ver que nadie se movía. Un hilo de sangre había comenzado a brotar de su nariz, y el dolor expresado en su cara era notable.
+- ¡Qué vayáis hacia la puerta de una puta vez! - volvió a gritar el vagabundo, al ver que nadie se movía. Un hilo de sangre había comenzado a brotar de su nariz, y el dolor expresado en su cara era notable.
 
 Ana alzó a Ricardo y ambos avanzaron hacia la puerta, igual que el resto. A medida que se acercaban, la nube comenzó a formar un techo y tres paredes al otro lado de la puerta, esperando para escoltarlos.
 
 - Y ahora, ¡vamos! - gritó Jonás, al tiempo que le pegaba un manotazo al panel de control del ascensor, allí donde se encontraba el botón para abrir las puertas.
-- ¡No, espera! - Quiso detenerlo el coronel, pero ya era tarde. 
+- ¡No, espera! - quiso detenerlo el coronel, pero ya era tarde. 
 
 Jonás avanzó corriendo hacia la puerta, a medida que los presentes le dejaban paso. El coronel no tuvo otra opción que guardarse su orgullo, una vez más, y avanzar con el grupo.
 
@@ -64,7 +64,7 @@ Comenzaron a avanzar al unísono y con paso ligero por uno de los puentes que un
 
 Los enemigos, que en un primer momento habían dudado, ahora descargaban una auténtica tormenta de disparos sobre ellos. La nube de gas brillaba allí donde las balas iban deshaciéndose, antes siquiera de llegar a tocarlos.
 
-- Je – se confío el general - ¿acaso éstos no saben que...?
+- Je – se confío el general -, ¿acaso éstos no saben que...?
 
 Iban por la mitad del puente cuando la sangre salpicó de lleno a Cooper y al resto de personas que rodeaban a uno de los soldados de la izquierda. El cuerpo se desplomó dándose un golpe en la cabeza contra la barandilla y luego cayó aparatosamente sobre el suelo. Un agujero de bala perforaba la parte superior de su cabeza, tiñendo su pelo de rojo.
 
@@ -78,7 +78,7 @@ Cuando llegó al final del puente, el grupo de dieciséis personas se había red
 
 Cuando Cooper avanzó decididamente hacia el vagabundo para detenerlo, una figura se asomó tras una de las esquinas al final del pasillo, a unos metros frente a ellos. Vestía como un enemigo, pero no actuaba como tal. Ni siquiera se inmutó al ver a los militares y a la resistencia. De hecho, daba la sensación de que los había estado esperando durante mucho tiempo.
 
-- ¡Llegan tarde! - se quejó - ¡Vamos o perderemos el barco!
+- ¡Llegan tarde! - se quejó -. ¡Vamos o perderemos el barco!
 
 
 ## Navegación

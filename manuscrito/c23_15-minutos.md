@@ -27,7 +27,7 @@ Lucas le devolvió la sonrisa y miró a Noemí. La chica tenía la cabeza gacha,
 
 El miembro de la resistencia se llevó la mano a su oreja derecha y presionó un pequeño botón en el auricular que llevaba puesto. Del auricular salía un pequeño micrófono que usó para comunicarse con un interlocutor desconocido.
 
-- Los grupos están listos. ¿Ustedes han terminado de vestirse ya? - aguardó un segundo - muy bien.
+- Los grupos están listos. ¿Ustedes han terminado de vestirse ya? - aguardó un segundo -. Muy bien.
 
 El combatiente dirigió una rápida mirada hacia Lucas y entonces miró hacia la torre de la plaza. Lucas lo imitó. De la puerta situada en la base de la torre comenzaron a salir hombres y mujeres vestidos de manera informal. Sin haber reconocido ninguno de los rostros, Lucas se aventuró a suponer que estaba viendo a miembros de la resistencia camuflados como simples civiles.
 
@@ -47,8 +47,8 @@ Ana se había pintado las pestañas de negro, a juego con la peluca morena. Sin 
 
 La sonrisa de Lucas se difuminó al recordar a Noemí. El joven miró a la adolescente disimuladamente. Ella seguía en silencio, pero al menos había levantado el rostro y miraba hacia Ana. Tenía los ojos rojos de llorar, pero el joven creyó adivinar un asomo de sonrisa. Lucas recordó fugazmente la última vez que vio a la que había sido su hija sonreír. Fue ese mismo día por la mañana, durante el desayuno, tras haber jugado a “Revuélvele el pelo a tu hermana la coqueta” y...
 
-- ¡Lara! - escupió - ¡y Jonás!
-- ¿Eh? - Ana se sobresaltó ante el grito de su amigo. Noemí también lo miró rápidamente, sorprendida - Ah, ¿no venían detrás mío?.
+- ¡Lara! - escupió -, ¡y Jonás!
+- ¿Eh? - Ana se sobresaltó ante el grito de su amigo. Noemí también lo miró rápidamente, sorprendida -. Ah, ¿no venían detrás mío?.
 
 La falsa morena miró hacia su espalda, encontrándose el escenario vacío. También miró a ambos lados; nada. Cuando su mirada se volvió a posar en la de Lucas se encontró con unos ojos inquisidores, nerviosos.
 
@@ -75,7 +75,7 @@ Ana lo miró y respondió a la sonrisa de su amigo con otra. En ese momento de s
 Años atrás, mucho antes de ser capturado por RIO y convertirse a la fuerza en Mario, Lucas se había ganado la enemistad de RIO con los sucesos de Inglaterra. Desde entonces se sentía en peligro, un peligro que hasta hace poco resultó ser un fantasma pero que de ninguna manera quería para Ana. El joven no se sintió capaz de alejarla de su vida, pero no permitiría que la amistad se convirtiera en algo más. De alguna manera (estúpida) pensó que una simple amiga en lugar de una novia no sería del interés de RIO en caso de unas represalias que nunca llegaban. Sin embargo, Ana resultó ser parte de la resistencia y por tanto estaba en peligro, probablemente desde antes que él mismo. Si ahora Lucas también iba a formar parte de los enemigos de RIO, si Ana y él iban a compartir el mismo mundo lleno de peligros, quizás no había razón para mantener las distancias. Quizás ellos...
 
 - ¿En qué piensas?
-- ¿Eh? En nada - Lucas rezó para que el rubor que sintió estuviera sólo en su imaginación -, en lo que falta para salir de aquí.
+- ¿Eh? En nada - Lucas rezó para que el rubor que sintió estuviera sólo en su imaginación -. En lo que falta para salir de aquí.
 
 Ana lo miró durante unos segundos en los que Lucas intentó por todos los medios mantener la serenidad. Entonces ella, sin perder la sonrisa, miró hacia la derecha de Lucas y bajó la vista. ¡Noemí! ¡Durante su ensoñación privada, Lucas se había olvidado por completo de ella!. Cuando la miró vio que Noemí lo observaba sonriente antes de mirar a Ana y regalarle otra sonrisa a la pelirroja convertida en morena.
 
@@ -83,7 +83,7 @@ Ana lo miró durante unos segundos en los que Lucas intentó por todos los medio
 - ... nada - sonrió Noemí. 
 - ¡Por fin! - se alegró Lucas. Sinceramente celebraba que Noemí volviera a hablar, aunque no podía negar que también se alegraba de poder desviar el tema - ¿Qué tal estás?
 - Mal - dijo, sin dejar de sonreír.
-- Oh, entiendo - y tras una breve pausa añadió - ¿puedo hacer algo para que te sientas mejor?
+- Oh, entiendo - y tras una breve pausa añadió -. ¿Puedo hacer algo para que te sientas mejor?
 - ¿Podrías abrazarme?
 
 Aquella petición lo cogió por sorpresa. Se preguntó si aquel deseo provenía de Noemí la desconocida o de Noemí su hija. A decir verdad, sintió el impulso de abrazarla y tampoco sabía si era Lucas o era Mario quién le hablaba. "Lo importante es que es lo que siento ahora", se sorprendió diciéndose. Soltó la mano de la adolescente y se agachó levemente a su encuentro, estrechando a la chica entre sus brazos.
@@ -110,7 +110,7 @@ Ana sopesó aquello durante unos segundos que a Lucas le parecieron una eternida
 
 Los presentes permanecieron de pie en aquella plaza medio llena intercambiando miradas y trivialidades hasta que Ana pidió silencio, al tiempo que activaba su comunicador.
 
-- Muy bien - dijo, su mirada perdida en el horizonte - avisad a vuestra llegada. Suerte y buen viaje.
+- Muy bien - dijo, su mirada perdida en el horizonte -. Avisad a vuestra llegada. Suerte y buen viaje.
 
 Al cortar la comunicación, Ana se encontró con miradas expectantes. Se limitó a informales.
 

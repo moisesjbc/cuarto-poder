@@ -24,7 +24,7 @@ La joven pelirroja estaba sentada en el borde de un catre mugriento. Continuaba 
 
 Luís resopló, sin dejar de mirar, meditativo, el paisaje desolador de un barrio estatal.
 
-- Conseguimos llegar hasta la red de túneles de La Cadena y tomar uno hasta el puerto - continuó Ana -,pero entonces nos sorprendió Elizabeth. Lo único que pude hacer fue usar al prisionero de escudo, pero se ve que ya no les era necesario.
+- Conseguimos llegar hasta la red de túneles de La Cadena y tomar uno hasta el puerto - continuó Ana -, pero entonces nos sorprendió Elizabeth. Lo único que pude hacer fue usar al prisionero de escudo, pero se ve que ya no les era necesario.
 - ¿Elizabeth lo ejecutó?
 - Así es – confirmó su compañera –, al igual que a Lucas. Esa zorra...
 - ¿Y los militares? ¿Y Cooper? - quiso desviar el tema Luís.
@@ -33,7 +33,7 @@ Luís resopló, sin dejar de mirar, meditativo, el paisaje desolador de un barri
 - Se tiró al agua, desesperado, aprovechando la confusión del tiroteo. Chillaba una y otra vez “¡no volverán a cogerme!”.
 - ¿Ya había sido prisionero de RIO?
 - Eso parece. Y por como gritaba, pareciera que realmente prefería la muerte.
-- Ya veo – respondió Luís, sombrío - ¿Dijo algo más?
+- Ya veo – respondió Luís, sombrío -. ¿Dijo algo más?
 - Maldecía a Ajani. Viendo cómo ha salido su plan, no me extrañaría que Jonás le partiera la cara si lo ve.
 - No es el único que quiere encontrarlo.
 - ¿A qué te refieres? 
@@ -44,7 +44,7 @@ Luís resopló, sin dejar de mirar, meditativo, el paisaje desolador de un barri
 Pasaron unos segundos hasta que Ana alzó la mirada hacia su interlocutor. Éste último pudo notar un gesto hostil en el rostro de ella.
 
 - ¿Por qué no se me informó del ataque?
-- Pregúntale a los Ingleses - escupió Luís, sintiéndose ofendido por la insinuación Ana - Atacaron sin avisar. Nuestros infiltrados tuvieron que decidir en el momento si los ayudaban o mantenían un perfil bajo... ha sido un maldito caos.
+- Pregúntale a los Ingleses - escupió Luís, sintiéndose ofendido por la insinuación Ana -. Atacaron sin avisar. Nuestros infiltrados tuvieron que decidir en el momento si los ayudaban o mantenían un perfil bajo... ha sido un maldito caos.
 - Pero aún así podrían haberme avisado en el momento en el que se enteraron del ataque. ¿No crees?
 - Era un ataque suicida - respondió Luis de manera tajante -. Nuestros superiores acordaron que era mejor no reventar tu tapadera por nada. No contaron con que no podrías mantenerte al margen.
 
@@ -60,7 +60,7 @@ Ambos miraron por la ventana, hacia el horizonte.
 Ana hizo una mueca. Luís sabía que esconderse no era su estilo, pero lo aceptaría para no comprometer a los suyos.
 
 - No te preocupes – quiso animarla, sin una gran convicción –, puede que hayan ganado esta batalla, pero la guerra aún está por comenzar.
-- Eso es precisamente lo que me preocupa – comenzó a decir Ana, cabizbaja – que hayamos ayudado a comenzar una guerra.
+- Eso es precisamente lo que me preocupa – comenzó a decir Ana, cabizbaja –, que hayamos ayudado a comenzar una guerra.
 
 
 ## Navegación

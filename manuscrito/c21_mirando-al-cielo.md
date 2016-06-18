@@ -7,7 +7,7 @@ La furgoneta se tambaleaba violentamente mientras avanzaba sobre la carretera de
 - Lamento decir que tendremos que estar pendientes del cielo en todo momento.
 - ¡Joder! - exclamó Lidia, a la izquierda de Aitor.
 - Vaya putada - convino Marta, a la derecha del superior.
-- Según nuestros informantes tendremos una hora libre de peligros - intentó tranquilizarles Joseph -, suficiente para desactivar el sistema si nos damos prisa.
+- Según nuestros informantes tendremos una hora libre de peligros - intentó tranquilizarles Joseph -. Suficiente para desactivar el sistema si nos damos prisa.
 - ¿Cuando nos ha salido un plan a la primera? - Preguntó Aitor, irónico.
 
 Joseph se limitó a ignorarlo sin evitar una ligera sonrisa.
@@ -31,7 +31,7 @@ En el horizonte vislumbraron las altas murallas de piedra que rodeaban a la ciud
 
 Entonces apareció una nueva luz, tímida, sobre el portón de madera. Parpadeó un par de veces antes de apagarse para siempre.
 
-- Esa es nuestra señal - se alegrón Joseph - ¡vamos!.
+- Esa es nuestra señal - se alegrón Joseph -, ¡vamos!.
 
 El conductor, Lidia y Aitor avanzaban por el lado izquierdo de la carretera de piedras que conducía directamente hacia la entrada sur de la ciudad. Marta y Joseph corrían por el lado derecho.
 
@@ -40,7 +40,7 @@ El conductor, Lidia y Aitor avanzaban por el lado izquierdo de la carretera de p
 
 Los dos subgrupos continuaron en silencio hasta alcanzar la entrada de la ciudad. Esperaron a que el gran portón de madera se abriera, pero en lugar de eso, alguien los avisó desde arriba.
 
-- ¡Eh! - era un grito ahogado, para evitar despertar a nadie. Los miembros de la resistencia miraron hacia arriba. - ¡Subid!
+- ¡Eh! - era un grito ahogado, para evitar despertar a nadie. Los miembros de la resistencia miraron hacia arriba -. ¡Subid!
 
 La misteriosa figura les ofreció una cuerda por el muro a la derecha del portón. Los visitantes se miraron entre sí.
 
@@ -49,7 +49,7 @@ La misteriosa figura les ofreció una cuerda por el muro a la derecha del portó
 
 El grupo siguió a su superior, intentando no usar la cuerda más de dos personas a la vez, por si acaso. A medida que llegaban arriba, la figura misteriosa se fue transformando en una mujer de unos treinta años, con el pelo largo, castaño y rizado, aplastado bajo una gorra blanca con el escudo de la ciudad. Su figura esbelta quedaba resaltada por un uniforme completamente blanco salvo por unas líneas horizontales azules en las mangas de la camisa y el pantalón. La mujer le tendió la mano a cada uno y esperó a que todos subieran antes de hablar.
 
-- Hola, mi nombre es Alicia. En primer lugar, siento no haber abierto el portón. Con la liberación de las últimas *Burbujas* RIO se ha vuelto más desconfiada y ha añadido sistemas de alarma más sofisticados. Oh, no se preocupe - se interrumpió al observar a Joseph activando su radio - mis compañeros de las puertas este y oeste avisarán a sus hombres. Bien, tal como informé a nuestros superiores, el sistema de entrenamiento no se activará de nuevo hasta las 5, por lo que tenemos una hora para capturar el centro de control. Yo les guiaré hasta allí ¿Entendido? - y sin esperar respuesta, añadió - Bien.
+- Hola, mi nombre es Alicia. En primer lugar, siento no haber abierto el portón. Con la liberación de las últimas *Burbujas* RIO se ha vuelto más desconfiada y ha añadido sistemas de alarma más sofisticados. Oh, no se preocupe - se interrumpió al observar a Joseph activando su radio -, mis compañeros de las puertas este y oeste avisarán a sus hombres. Bien, tal como informé a nuestros superiores, el sistema de entrenamiento no se activará de nuevo hasta las 5, por lo que tenemos una hora para capturar el centro de control. Yo les guiaré hasta allí ¿Entendido? - y sin esperar respuesta, añadió -. Bien.
 
 Alicia avanzó unos metros por la parte superior de la muralla, alejándose del portón. Los visitantes la siguieron de cerca hasta que la infiltrada se detuvo y se asomó por el lado interior de la muralla. Entonces se encaramó y comenzó a bajar por una cuerda.
 
@@ -73,13 +73,13 @@ El olor a muerte abofeteó a cada uno de los miembros de la resistencia según a
 
 Joseph, Marta, Lidia, Aitor y el conductor avanzaron hasta la siguiente estancia, donde también había señales de lucha. Los sillones estaban destartalados y salpicados de sangre, y la mesa frente a ellos había corrido la misma suerte que su hermana del recibidor. Alicia avanzó hasta la puerta corredera que daba al jardín trasero, seguida por Joseph y los suyos.
 
-- ¿Qué ha pasado aquí? - Se interesó Joseph, sin dejar de seguir a Alicia.
+- ¿Qué ha pasado aquí? - se interesó Joseph, sin dejar de seguir a Alicia.
 - Proyectaron sobre el cielo la señal de exceso de población - respondió la mujer mientras salía al jardín trasero. La brisa nocturna acarició su pelo largo y castaño.
 - Malditos cabrones - escupió él con desprecio.
 
 El grupo avanzó por el jardín trasero y accedió mediante una pequeña puerta en la valla de madera a la calle. Continuaron avanzando, pendientes de sus alrededor, hacia la avenida. Joseph se llevo la mano a un pequeño auricular en su oído derecho y sonrió, antes de responder ante el pequeño micrófono que acariciaba su mejilla.
 
-- Perfecto, esperad ahí - y al presionar de nuevo el botón del auricular para interrumpir la comunicación, informó a su grupo - ya se encuentran rodeando la plaza principal. Nos están esperando.
+- Perfecto, esperad ahí - y al presionar de nuevo el botón del auricular para interrumpir la comunicación, informó a su grupo -. Ya se encuentran rodeando la plaza principal. Nos están esperando.
 - Pensé que llegarían todos al unísono - se extrañó Alicia.
 - Nos gusta tomárnoslo como una competición - sonrió Joseph -, y parece que hemos perdido.
 
@@ -98,11 +98,11 @@ Alicia había avanzado varios metros antes de detenerse. Cuando se giró, la uni
 El equipo de Joseph formó un semicírculo frente a la traidora. Estaban pendientes de cualquier movimiento, no sólo de Alicia, sino de los alrededores. La traidora dirigía una mirada rápida a cada uno mientras hablaba.
 
 - El único problema, para ustedes, es que en las *Burbujas* no sólo interrumpimos toda comunicación con el exterior - entonces sonrió a Joseph -, salvo filtraciones, por supuesto. También escuchamos todas las comunicaciones que se producen dentro; ya sabía que me habían descubierto - dijo, señalándose el comunicador de su oído.
-- Entiendo. Aitor, Marta - dijo, sin dejar de mirar a Alicia - abrid una de las casas cercanas. Conductor, Lidia, cubrid los laterales.
+- Entiendo. Aitor, Marta - dijo, sin dejar de mirar a Alicia -, abrid una de las casas cercanas. Conductor, Lidia, cubrid los laterales.
 
 El silencio de la noche se rompió cuando tres notas agudas y largas de xilófono, seguida de una grave y corta, fueron escupidas por todos los altavoces de la ciudad. Antes de que Alicia pudiera reaccionar, Joseph le disparó en la cabeza. El cuerpo se desplomó, al tiempo que todas las puertas de la ciudad de abrían casi al unísono. Aitor y Marta, que se encontraban forzando una, se apartaron a un lado al ver que se abría desde el interior. Dejaron salir a los vecinos que, con semblante serio, ignoraban a los extranjeros y se limitaban a avanzar hasta el borde de la acera. Mujeres, hombres y niños formaron una fila en el borde de la acera, a cada lado de la avenida. Todos miraban fijamente al cielo.
 
-- A mi señal, entrad en la casa. - Se limitó a ordenar Joseph, sin dejar de mirar al cielo nocturno. Su unidad no dejó de formar guardia alrededor de la puerta, listos para entrar en cualquier momento.
+- A mi señal, entrad en la casa. - se limitó a ordenar Joseph, sin dejar de mirar al cielo nocturno. Su unidad no dejó de formar guardia alrededor de la puerta, listos para entrar en cualquier momento.
 
 Los altavoces de la ciudad escupieron un bostezo.
 
@@ -112,7 +112,7 @@ Un gran holograma se proyectó en el cielo. Una sucesión de siluetas blancas se
 
 Por fin, la secuencia de imágenes se detuvo para mostrar la silueta de una cabeza escupiendo fuego. El holograma añadió una explosión de partículas blancas que parecía llover sobre la ciudad, acompañado por el ruido de una explosión auténtica.
 
-- ¡Lluvia de fuego! - gritó Joseph a los suyos - ¡Adentro!.
+- ¡Lluvia de fuego! - gritó Joseph a los suyos -. ¡Adentro!.
 
 Los vecinos comenzaron a correr hacia sus respectivas casas para guarecerse. El conductor y Lidia abatieron a tiros a aquellos que pretendían entrar en la casa en la que Joseph les había ordenado entrar. Entonces el equipo corrió dentro de la casa y se alejó de las ventanas, por las que empezaba a colarse una luz intensa. Fuera, en la calle, había empezado a caer proyectiles incendiarios que dejaban una estela ígnea tras de sí. Las primeras explosiones rompieron las ventanas y la unidad se cubrió tras unos sillones de la lluvia de cristales.
 

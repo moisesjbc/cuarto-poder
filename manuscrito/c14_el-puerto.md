@@ -48,7 +48,7 @@ Todos guardaron silencio.
 
 Pero se interrumpió cuando una explosión distante a la izquierda, en el océano, ocupó toda la atención de los presentes. Se produjo en alguna parte del barco de mercancías que estaba zarpando cuando llegaron al puerto. La embarcación empezó a resquebrajarse por la mitad, al tiempo que el océano la engullía, lenta pero irremediablemente.
 
-- ¿Los ingleses? - Preguntó Fernando.
+- ¿Los ingleses? - preguntó Fernando.
 
 Ana se limitó a asentir con la cabeza, mientras las lágrimas comenzaban a surcar su rostro. En el océano, una columna de humo se recortaba contra un cielo que se iluminaba con las primeras luces del amanecer.
 

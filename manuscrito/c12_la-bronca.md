@@ -17,10 +17,10 @@ El jefe de policía resopló y alzó la cabeza hacia la brisa de la madrugada, c
 
 - Ese vagabundo ha desaparecido, de los terroristas sólo hemos conseguido detener a dos y del resto no se sabe nada, el equipo de antiterroristas ha desaparecido también... ¡Estamos en el puto Triángulo de las Bermudas, joder!
 - Si el jefe del equipo antiterrorista... - comenzó a decir Paco, con desprecio - ese tal Enrique, no apagara la radio en todas sus operaciones, sabríamos...
-- ¿Acaso te crees en posición de juzgar a tus compañeros? ¡No me jodas! - Y antes de que Paco se atreviera a decir que sí, continuó: - No apruebo que Enrique vaya por libre, ¡pero consigue resultados, joder! Tú, sin embargo...
+- ¿Acaso te crees en posición de juzgar a tus compañeros? ¡No me jodas! - y antes de que Paco se atreviera a decir que sí, continuó -. No apruebo que Enrique vaya por libre, ¡pero consigue resultados, joder! Tú, sin embargo...
 - ¡Yo...!
-- ¡Qué te calles! ¡Ya me he cansado de tus estupideces! - Y como si llevara una eternidad esperando para desahogarse por completo, exclamó, más alto si cabía - ¡Estás despedido!
-- ¡Bien! - Paco escupió al suelo, desafiante - ¡Yo también estaba cansado de ustedes! ¡Siempre ignorando lo que hago por la comisaría!
+- ¡Qué te calles! ¡Ya me he cansado de tus estupideces! - y como si llevara una eternidad esperando para desahogarse por completo, exclamó, más alto si cabía -. ¡Estás despedido!
+- ¡Bien! - Paco escupió al suelo, desafiante -. ¡Yo también estaba cansado de ustedes! ¡Siempre ignorando lo que hago por la comisaría!
 
 Y dicho esto, el obeso expolicía se giró y se dispuso a marcharse de aquel lugar lleno de incompetentes. Sin embargo, alguien lo detuvo.
 
@@ -34,7 +34,7 @@ Paco, perplejo, observaba cómo los gestos de negación tajante de su antiguo je
 
 Luego se giró hacia el resto de policías de la zona. Estos últimos miraban con recelo al hombre de negro que se marchaba, y dudaban sobre si seguirlo o no
 
-- ¡Y ustedes no hagan nada! - se apresuró a gritar Manuel - ¡Es una orden!.
+- ¡Y ustedes no hagan nada! - se apresuró a gritar Manuel -. ¡Es una orden!.
 - No sé lo que te habrá dicho ese inútil de negro, pero parece que tiene mejor cabeza que tú – replicó Paco, ufano.
 
 El rostro del jefe de policía Manuel se ensombreció aún más con una sonrisa irónica, amarga. Se mordió el labio antes de contestar.

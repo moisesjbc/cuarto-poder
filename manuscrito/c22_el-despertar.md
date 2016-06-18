@@ -26,7 +26,7 @@ Lucas se llevó la mano a la cabeza y resopló con los ojos cerrados. Cuando est
 - Sí - Lucas bajó la mano y tranquilizó a su amiga -, es sólo que...
 - ...es como si la otra persona que hemos sido intentara retomar el control - terminó Lucía. Seguía medio incorporada en el suelo, con la mano aún esperando la ayuda de Lucas. Este último se disculpó y la ayudó a levantarse.
 - Ya veo... - se preoupó Ana.
-- Por cierto, me llamo María - se presentó la antigua Lucía - ¿Ana y Lucas?.
+- Por cierto, me llamo María - se presentó la antigua Lucía -. ¿Ana y Lucas?.
 
 La pareja asintió.
 
@@ -39,7 +39,7 @@ La pareja asintió.
 Lucas y María miraron hacia Ana.
 
 - En algunas personas tarda más en hacer efecto la regresión - les explicó ella.
-- ¿Qué ocurre? - Noemí se llevó la mano a la cabeza y cerró los ojos con gesto de dolor. Entonces volvió a abrirlos - Ustedes... ¿no son mis padres? Ellos... ellos... .
+- ¿Qué ocurre? - Noemí se llevó la mano a la cabeza y cerró los ojos con gesto de dolor. Entonces volvió a abrirlos -. Ustedes... ¿no son mis padres? Ellos... ellos... .
 
 Entonces rompió a llorar. Lucas y María se acercaron más hacia ella e intentaron consolarla. Quisieron preguntar qué le pasaba, aunque temieran y sospecharan la respuesta. Finalmente optaron por abrazarla. Lara, que había escuchado llorar a quien había sido su hermana pequeña, se separó de Jonás y se unió al abrazo familiar. 
 
@@ -54,11 +54,11 @@ Un miembro de la resistencia lo grababa todo. Las familias rotas, el descubrimie
 Lara y Lucas se separaron y se incorporaron mientras María ayudaba a Noemí a hacer lo propio.
 
 - ¿Cómo te llamas? Realmente, me refiero - Lucas enseguida se preguntó si habría echo mal al hacer la pregunta. Simplemente quería intentar distraer a la adolescente de su pérdida, pero hacerla hablar de su vida pasada tan pronto también podía ser doloroso.
-- ¿Mi nombre? - Noemí se secó una lágrima - Noemí. También me llamaba Noemí.
+- ¿Mi nombre? - Noemí se secó una lágrima -. Noemí. También me llamaba Noemí.
 
-"¿Los menores de edad conservan su nombre?" - pensó Lucas, al recordar que la hermana de Jonás también había conservado su nombre original, "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
+"¿Los menores de edad conservan su nombre?", pensó Lucas, al recordar que la hermana de Jonás también había conservado su nombre original, "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
 
-- Documentamos el estallido de cada *Burbuja* y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Noemí, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz - eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
+- Documentamos el estallido de cada *Burbuja* y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Noemí, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz -, eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
 - Entiendo.
 
 La mirada de Lucas volvió a posarse sobre aquel cámara que parecía tener un fetiche con él. Resuelta la curiosidad sobre su observador, Lucas lanzó otra pregunta.
@@ -75,7 +75,7 @@ Ana no pudo disimular la sorpresa, pero rápidamente volvió a sonreir.
 
 Su amiga le posó una mano sobre el hombro. Lucas sonrió y miró a su alrededor.
 
-- ¿Y ahora qué? - inquirió - ¿Qué pasará con toda esta gente?
+- ¿Y ahora qué? - inquirió -. ¿Qué pasará con toda esta gente?
 - Se les ofrecerá la oportunidad de unirse a nosotros. De hecho, ya se está haciendo - Lucas miró a su alrededor y vio a los miembros de la resistencia yendo de vecino en vecino y hablando con ellos -. Aquellos que acepten, como tú, serán llevados a campamentos de la resistencia para formarlos y entrenarlos.
 - ¿Y los que se nieguen?
 - Serán realojados en barrios estatales - al ver el gesto de repulsa de su amigo, añadió -. Sí, lo sé, lo sé. Es una putada, pero la resistencia no tiene suficientes medios para procurarles algo mejor.
