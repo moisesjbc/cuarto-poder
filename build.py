@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Install dependencies (Ubuntu): 
-# sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-lang-spanish
-# sudo pip3 install pypdf2 texlive-latex-extra
+# sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-lang-spanish unoconv texlive-latex-extra
+# sudo pip3 install pypdf2 
 
 import re
 import os
@@ -93,7 +93,7 @@ def generate_cover_pdf():
     (_, cover_pdf_filepath) = tempfile.mkstemp()
     cover_pdf_filepath += '.pdf'
 
-    call(["pandoc"] + ["--output", cover_pdf_filepath, 'portada.tex'])
+    call(["unoconv"] + ["--output", cover_pdf_filepath, 'portada.odt'])
 
     return cover_pdf_filepath
 
