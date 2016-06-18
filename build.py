@@ -89,14 +89,23 @@ def generate_end_note_pdf(page_offset):
 
     return end_note_pdf_filepath
 
+def generate_cover_pdf():
+    (_, cover_pdf_filepath) = tempfile.mkstemp()
+    cover_pdf_filepath += '.pdf'
+
+    call(["pandoc"] + ["--output", cover_pdf_filepath, 'portada.tex'])
+
+    return cover_pdf_filepath
+
 if __name__ == "__main__":
+    cover_pdf_filepath = generate_cover_pdf()
     readme_sections_pdf_filepath = generate_readme_sections_pdf()
     chapters_pdf_filepath = generate_chapters_pdf(page_offset=8)
     end_note_pdf_filepath = generate_end_note_pdf(page_offset=143)
 
     from PyPDF2 import PdfFileMerger, PdfFileReader
     pdf_merger = PdfFileMerger()
-    pdf_merger.append(PdfFileReader(open('portada.pdf', 'rb')))
+    pdf_merger.append(PdfFileReader(open(cover_pdf_filepath, 'rb')))
     pdf_merger.append(PdfFileReader(open(readme_sections_pdf_filepath, 'rb')))
     pdf_merger.append(PdfFileReader(open(chapters_pdf_filepath, 'rb')))
     pdf_merger.append(PdfFileReader(open(end_note_pdf_filepath, 'rb')))
