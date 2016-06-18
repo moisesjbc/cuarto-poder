@@ -14,19 +14,19 @@ Ciertamente estaban jugando a volver a todos sus compañeros contra él, concedi
 
 Quizás fuera por eso mismo. Debido a que él era una hormiga frente al más grande de los gigantes, sus superiores ni se molestaban en levantar el pie y aplastarlo para acabar con su sufrimiento. Sin embargo, Lucas seguía siendo incapaz de dilucidar por qué preferían jugar con él y tenerlo pululando por allí, aún sabiendo que no era una amenaza, en lugar de, simplemente quitarle su sustento y dejarlo morir de hambre en las calles.
 
-- ¿Otra vez cabizbajo? - Le dijo una voz femenina a sus espaldas – Al menos me alegra saber que siempre tienes ánimos para ver otro vídeo sin un contenido, digamos... estrictamente profesional. - Rió.
+- ¿Otra vez cabizbajo? - dijo una voz femenina a sus espaldas –. Al menos me alegra saber que siempre tienes ánimos para ver otro vídeo sin un contenido, digamos... estrictamente profesional - rió.
 
 Lucas miró a su ordenador. No había vuelto a abrir la ventana del navegador con el vídeo, pero el título de la misma era todo lo que necesitaba una chica con una vista tan buena como Ana. Lucas se giró y la miró: su amiga era una belleza de 29 años, de piel blanca, alta y delgada. Su pelo ondulado y de un pelirrojo anaranjado acariciaba su cara pecosa y casi rozaba sus hombros desnudos. De su fino cuello colgaba un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo. Semejante joya no hacía más que enfatizar su mantra, “¡Odio a los conejitos!”, repetido hasta la saciedad. Lucas le había preguntado mil veces dónde había conseguido un collar tan singular, pero Ana, divertida, nunca le respondía o se limitaba a darle largas.
 
 La joven iba vestida con un top negro y ceñido de mangas largas, acompañado con unos vaqueros azules que en otro tiempo hacían que a Lucas le costara horrores mantenerse concentrado. Sin embargo, el joven había aprendido a controlarse. Ahora miraba fijamente a los grandes ojos azules de su amiga, pícaros tras unas grandes gafas. La única respuesta de Lucas al comentario de Ana fue un suspiro, junto al fugaz asomo de una sonrisa.
 
-- ¿Y bien? - Inquirió Ana, al asegurarse de que no iba a obtener un saludo algo más consistente (como de costumbre). - ¿Paul o David?
+- ¿Y bien? - inquirió Ana, al asegurarse de que no iba a obtener un saludo algo más consistente (como de costumbre) -. ¿Paul o David?
 - Me lo envió Paul. David también ha empezado a hacerme el vacío.
 - Vaya.
 
 Ana formaba parte del reducido grupo de compañeros que conocía lo suficientemente bien a Lucas como para darse cuenta de que La Cadena procuraba convertirlo injustamente en el enemigo público número uno. La razón de esto, imaginaba, sólo la conocía el propio Lucas, pero éste no se abría a nadie. Ni siquiera a su mejor amiga. 
 
-- Bueno, ya verás qué pronto se arregla todo. - Se limitó a decir la joven pelirroja.
+- Bueno, ya verás qué pronto se arregla todo - se limitó a decir la joven pelirroja.
 
 Lucas no pudo evitar sonreír, aún cuando supiera que no era cierto. No obstante, el mero hecho de que Ana siempre estuviera ahí, tratando de animarlo… lo alegraba, aunque esa felicidad fuera algo temporal.
 
@@ -43,8 +43,8 @@ La suerte de su amiga ya no impresionaba lo más mínimo a Lucas. Ana gozaba de 
 
 La joven se sentó a su lado y se colocó uno de los auriculares que Lucas siempre tenía conectados a su ordenador. Juntos vieron el vídeo de caídas, mientras trataban de no reírse.
 
-- En fin, tengo que volver a mi puesto - Dijo Ana al terminar de ver el vídeo y de comprobar la hora en el reloj azul de la pared -. Presiento que tengo que estar en mi puesto durante los próximos... diez minutos. ¡Hasta luego!
-- ¡Hasta luego, Ana! - Se despidió Lucas, sonriendo.
+- En fin, tengo que volver a mi puesto - dijo Ana al terminar de ver el vídeo y de comprobar la hora en el reloj azul de la pared -. Presiento que tengo que estar en mi puesto durante los próximos... diez minutos. ¡Hasta luego!
+- ¡Hasta luego, Ana! - se despidió Lucas, sonriendo.
 
 La joven pelirroja dejó su auricular sobre la mesa y se levantó. Seguidamente se acercó a una de las paredes de madera de dos metros de la oficina, se puso de puntillas y oteó el resto de la planta. Cuando se cercioró de que no habían superiores a la vista, susurró “¡Ahora!” como si gritara. Acto seguido cogió rápidamente su silla y desapareció por el pasillo, mientras Lucas contemplaba la escena, divertido.
 
@@ -78,15 +78,15 @@ Como venía siendo costumbre en el país, la reforma laboral fue devastadora par
 
 La llegada de los soldados, además de estimular el consumo, elevó la sensación de seguridad en las islas, algo muy codiciado por los escasos turistas que se aventuraban a viajar en el territorio nacional. Estos turistas no se amedrentaban fácilmente como el resto ante las fuertes políticas del miedo llevadas a cabo por el gobierno y la prensa, un regalo importado desde los Estados Unidos. “Y ya vemos lo bien que le ha ido”, Lucas se reía amargamente en su interior cada vez que lo pensaba.
 
-- Ya está - Le avisó Ana a sus espaldas. 
+- Ya está - le avisó Ana a sus espaldas. 
 - ¿Algún día me dirás por qué te quedas cinco minutos de más todos los días?
 - ¿Tú que crees? - sonrió ella.
 - Que no - sonrió él.
 
 Ambos jóvenes se dirigieron hacia el pasillo central que cruzaba toda la planta y llegaba hasta el ascensor situado en la pared norte.
 
-- ¿Y bien? - Ana se abrazó, cariñosa, al brazo de su amigo. Acostumbraba a intentarlo siempre  que iban llegando al ascensor: - ¿Me contarás hoy lo de Inglaterra?
-- Que pesada... - Dijo Lucas con afecto. - Algún día lo conseguirás pero hoy n... 
+- ¿Y bien? - Ana se abrazó, cariñosa, al brazo de su amigo. Acostumbraba a intentarlo siempre  que iban llegando al ascensor -. ¿Me contarás hoy lo de Inglaterra?
+- Que pesada... - dijo Lucas con afecto -. Algún día lo conseguirás pero hoy n... 
 
 Se detuvo al escuchar la puerta que daba a las escaleras, a la derecha del ascensor, abrirse violentamente. Tres siluetas atravesaron el umbral y se situaron frente a ellos. 
 
@@ -94,11 +94,11 @@ Dos soldados con fusiles escoltaban al tercero, un oficial ya entrado en años p
 
 Ana se había quedado atónita, incapaz de mediar palabra. No ocurría así con Lucas, quien había comenzado a reírse cuando reconoció a dos de los tres militares. El tercero, el soldado a la derecha del oficial, hizo el amago de levantar su fusil hacia aquel civil que osaba a reírse de su superior, pero este último alzó la mano, prohibiéndoselo.
 
-- Ya tardabas demasiado en hacerlo – Dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda.
+- Ya tardabas demasiado en hacerlo – dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda.
 
 Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés, respondió al joven en un perfecto español.
 
-- Desafiar a tu gobierno y poner en peligro a tu país requiere tiempo - sonrió -, ¿cómo estás, amigo?
+- Desafiar a tu gobierno y poner en peligro a tu país requiere tiempo - sonrió -. ¿Cómo estás, amigo?
 
 
 ## Navegación

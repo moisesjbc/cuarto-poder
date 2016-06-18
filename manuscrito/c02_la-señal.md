@@ -1,6 +1,6 @@
 # 2. La señal
 
-Jonás abrió los ojos con mala gana, molesto por la luz que, aunque incipiente, bañaba la habitación. “He vuelto a olvidarme de  apagar la maldita lámpara otra vez” - se reprochó, mientras trataba de incorporarse a duras penas. Una infinidad de pequeños charcos de sangre decoraba su cama, un colchón medio podrido, a la altura de la cabeza. El más reciente lo tenía justo delante y, al tocarse la nariz, su dedo índice se tiñó de rojo.
+Jonás abrió los ojos con mala gana, molesto por la luz que, aunque incipiente, bañaba la habitación. “He vuelto a olvidarme de  apagar la maldita lámpara otra vez”, se reprochó, mientras trataba de incorporarse a duras penas. Una infinidad de pequeños charcos de sangre decoraba su cama, un colchón medio podrido, a la altura de la cabeza. El más reciente lo tenía justo delante y, al tocarse la nariz, su dedo índice se tiñó de rojo.
 
 “Otro sueño movidito”.
 
@@ -45,7 +45,7 @@ Hacía una noche estupenda para estar en pleno Agosto. Una ligera brisa trataba 
 
 Una vez se cercioró de que no hubiera nadie a su alrededor, Jonás sacó el rollo de planos de la mochila y lo ojeó. El logotipo de la corporación RIO, un “río de información” partiendo del mundo hacia la cabeza de una persona, marcaba cada una de las hojas.
 
-- Vamos a ejercitar la memoria - resopló, mentalizándose para lo que estaba a punto de pasar - Después de esta estaremos en paz, Ajani.
+- Vamos a ejercitar la memoria - resopló, mentalizándose para lo que estaba a punto de pasar -. Después de esta estaremos en paz, Ajani.
 
 Intentó reír nerviosamente, como si así pudiera paliar el dolor. Comenzó a ojear los planos. 
 
