@@ -45,7 +45,7 @@ Hacía una noche estupenda para estar en pleno Agosto. Una ligera brisa trataba 
 
 Una vez se cercioró de que no hubiera nadie a su alrededor, Jonás sacó el rollo de planos de la mochila y lo ojeó. El logotipo de la corporación RIO, un “río de información” partiendo del mundo hacia la cabeza de una persona, marcaba cada una de las hojas.
 
-- “Vamos a ejercitar la memoria” - resopló, mentalizándose para lo que estaba a punto de pasar - "Después de esta estaremos en paz, Ajani".
+- Vamos a ejercitar la memoria - resopló, mentalizándose para lo que estaba a punto de pasar - Después de esta estaremos en paz, Ajani.
 
 Intentó reír nerviosamente, como si así pudiera paliar el dolor. Comenzó a ojear los planos. 
 
