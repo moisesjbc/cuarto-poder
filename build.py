@@ -23,7 +23,7 @@ def generate_chapters_pdf(page_offset):
                 if filepath.startswith('c'):
                     copy_chapter_content(chapter_file, monolitic_file)
 
-    call(["pandoc"] + ["-V", "lang=es", "--from", "markdown+hard_line_breaks", "--toc", "--chapters", "-H", "format.sty", "--output", chapters_pdf_filepath, monolitic_filepath])
+    call(["pandoc"] + ["-V", "lang=es", "--from", "markdown+hard_line_breaks", "--toc", "--chapters", "--output", chapters_pdf_filepath, monolitic_filepath])
 
     return chapters_pdf_filepath
 
