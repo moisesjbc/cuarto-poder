@@ -5,7 +5,7 @@
 
 ## Sinopsis
 
-Año 2025. En un mundo sumido en la decadencia, la corporación RIO se erige como un titan de los medios de comunicación con presencia a escala global. Su influencia, y sus garras, se extienden hasta límites que la gran mayoría ignora.
+Año 2025. En un mundo sumido en la decadencia, la corporación RIO se erige como un titán de los medios de comunicación con presencia a escala global. Su influencia, y sus garras, se extienden hasta límites que la gran mayoría ignora.
 
 Sin embargo, algo está a punto de ocurrir en el seno de la corporación. Algo que puede precipitar el cambio por el que muchos claman. El coste, y las consecuencias, sin embargo, pueden llevar a la destrucción de una sociedad cuya estabilidad pende ya de un hilo.
 
