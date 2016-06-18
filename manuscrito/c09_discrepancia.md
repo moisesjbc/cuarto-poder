@@ -87,8 +87,8 @@ Pero se interrumpió cuando vio que Ana empujaba a Lucas hacia sí. Antes de que
 
 Ana asintió, agarró a Lucas del brazo y empezó a correr, empujándolo consigo durante los primeros metros. Su amigo reaccionó rápidamente, y poco después, ambos corrían codo con codo.
 
-- ¡Puto vagabundo! - profirió el coronel - ¡Desactiva esta pared! ¡Nos vas a matar a todos!
-- ¡Usted es el que nos va a matar a todos! - le espetó el vagabundo - Las posibilidades eran mínimas si conseguían venir todos sus refuerzos. ¡Ahora es imposible!
+- ¡Puto vagabundo! - profirió el coronel -. ¡Desactiva esta pared! ¡Nos vas a matar a todos!
+- ¡Usted es el que nos va a matar a todos! - le espetó el vagabundo -. Las posibilidades eran mínimas si conseguían venir todos sus refuerzos. ¡Ahora es imposible!
 
 Ana y Lucas continuaban corriendo, mientras se alejaban del ascensor, de los militares y de la pared negra. Podían escuchar perfectamente cómo el militar aporreaba el muro impenetrable que los separaba.
 
@@ -101,7 +101,7 @@ Ya a cierta distancia, Lucas no llegó a entender lo que escupía Cooper entre g
 - ¿Sabías lo que iba a hacer?
 - No – confesó Ana -, pero me fijé en que este pasillo también tenía esos “poros” en la pared como en la planta del pelotón de fusilamiento. A medida que la tensión entre Jonás y el coronel iba en aumento, supuse que “el vagabundo” podría valerse de ese as en la manga.
 - Entiendo – se limitó a asentir su amigo – Bien, veamos que nos espera tras la esquina.
-- Un pequeño pasillo hasta una gran puerta acorazada. Ese tramo está libre - Reveló la voz omnipresente del vagabundo.
+- Un pequeño pasillo hasta una gran puerta acorazada. Ese tramo está libre - reveló la voz omnipresente del vagabundo.
 
 “Gracias, Jonás, me has quitado todo el misterio”, sonrió Lucas para sus adentros, intentando relajar la enorme tensión que sentía.
 
@@ -115,7 +115,7 @@ La puerta aún se estaba abriendo cuando una voz masculina les gritó desde el o
 
 Los jóvenes obedecieron y se mantuvieron en cuclillas mientras la puerta terminaba de abrirse. Lucas se dio cuenta de que al oír la voz, Ana se extrañó súbitamente, como si le resultara familiar. Tras un instante, la joven comenzó a sonreír.
 
-- ¿Qué ocurre? - Inquirió su amigo.
+- ¿Qué ocurre? - inquirió su amigo.
 - Si es quien creo que es – su sonrisa animó ligeramente a Lucas -, realmente es cierto eso de que “el mundo es un pañuelo”.
 
 

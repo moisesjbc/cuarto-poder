@@ -1,21 +1,21 @@
 # 10. Los preparativos
 
-- Realmente lamento lo de tu cita – la voz intentaba hacerse oír por encima del chirrido de las ruedas.
+- Realmente lamento lo de tu cita - la voz intentaba hacerse oír por encima del chirrido de las ruedas.
 - Gracias amigo. ¿Puedo confesarte algo?
 - Por supuesto, dime.
 - Realmente esperaba que esta fuera LA psicópata asesina que me hiciera sentar la cabeza. Ya sabes, la definitiva - Aitor fingió sentirse abatido.
-- ¡Jajaja! - Fernando rió estruendosamente - ¡Eh cabrón! ¡No vale hacerme reír! - Se quejó, mientras empujaba el contenedor hasta recortar la poca distancia que le había ganado su compañero. 
+- ¡Jajaja! - Fernando rió estruendosamente -. ¡Eh cabrón! ¡No vale hacerme reír! - se quejó, mientras empujaba el contenedor hasta recortar la poca distancia que le había ganado su compañero. 
 
 Ambos empujaron con presteza sus contenedores los últimos metros, compitiendo por ver quién dejaba el suyo antes con los demás. Cuando Fernando se declaró victorioso, y tras jactarse bastante de ello, se encaminaron a buscar los siguientes.
 
-- ¿Y cómo era... - Quiso saber el compañero de Aitor - ya sabes, vista de cerca?
+- ¿Y cómo era... - quiso saber el compañero de Aitor -, ya sabes, vista de cerca?
 - Realmente sabe como hacerte pasar un mal rato con sus encantos. Apenas tuve que fingir los nervios y...
 - ¿De qué me hablas? ¡Me refería a la lasaña vegetal!
-- Pfff – bufó Aitor, divertido –, por qué no me extraña - Entonces se llevó la mano a la barriga –. Mira, no hablemos de eso. Estábamos a punto de empezar a comer cuando vino Andrés y se la llevó.
+- Pfff – bufó Aitor, divertido –, ¡por qué no me extraña! - entonces se llevó la mano a la barriga –. Mira, no hablemos de eso. Estábamos a punto de empezar a comer cuando vino Andrés y se la llevó.
 - Te podrías haber quedado y comer. Ya que no la ibas a interceptar de todas maneras...
-- Serás cabrón – Aitor le propinó un puñetazo amistoso, pero firme, en el hombro –. Ya te dije que fueron las putas termitas. - entonces se giró hacia otro hombre que justamente pasaba a su lado, empujando un contenedor en sentido contrario – lo siento.
+- Serás cabrón – Aitor le propinó un puñetazo amistoso, pero firme, en el hombro –. Ya te dije que fueron las putas termitas - entonces se giró hacia otro hombre que justamente pasaba a su lado, empujando un contenedor en sentido contrario –, lo siento.
 - No pasa nada, – lo tranquilizó el vagabundo, sin detenerse – algunos del gremio no tienen cabeza para elegir a sus víctimas.
-- ¿Y luego qué pasó? - Volvió a inquirir Fernando, una vez que el vagabundo se alejó de ellos.
+- ¿Y luego qué pasó? - volvió a inquirir Fernando, una vez que el vagabundo se alejó de ellos.
 - Los intenté perseguir cómo pude por el barrio de La Cadena. Sé de sobra que es imposible detener a Elizabeth, pero esperaba que...
 - ¡Hijo de puta! - maldijo Fernando, mientras agitaba la mano como si así pudiera ahuyentar el dolor. Un hilillo de sangre caía por uno de los cortes del contenedor que le había tocado empujar.
 - Pfff – se burló su amigo – Ya te dije que tuvieras cuidado. Estamos en un barrio estatal, ¿recuerdas? Aquí todo es peligroso.
@@ -34,7 +34,7 @@ El señuelo estaba lanzado y ahora era cuestión de tiempo, perseverancia y suer
 
 Y así era; mientras que Aitor continuaba vestido de gala, tal como había asistido a la cena con Elizabeth, Fernando iba vestido como un vagabundo más. Llevaba una capucha sobre la cabeza y un pañuelo en la cara para resultar tan irreconocible como le fuera posible. Aún así, el mero hecho de que estuviera allí era un peligro para la operación. No obstante, Fernando era demasiado terco como para que nadie pudiera convencerlo de mantenerse al margen. Y más cuando se trataba de lo que podía ser un gran golpe contra RIO.
 
-- ¿Eh? ¿Pero qué dices? - se sorprendió Aitor – Ahora La Cadena no parará hasta encontrarme y asesinarme, o algo peor.
+- ¿Eh? ¿Pero qué dices? - se sorprendió Aitor –. Ahora La Cadena no parará hasta encontrarme y asesinarme, o algo peor.
 - Ya, bueno... - Fernando intentó quitarle importancia al peligro al que se enfrentaba su amigo – pero ahora los podrás combatir como un soldado, y no intentando ganarte su favor como un perrito faldero.
 - Bueno, visto así... Sí, estás jodido, chaval – sentenció, y ambos rieron.
 - Tengo que dejar de ponerles juntos – bromeó su superiora tras ellos.
@@ -43,11 +43,11 @@ Y así era; mientras que Aitor continuaba vestido de gala, tal como había asist
 - Esta calle es la última. En cuanto incendiemos los contenedores cortaremos las calles laterales a la avenida, donde podremos concentrar los efectivos.
 - ¿Ya están todos allí?
 - Casi todos.
-- Bien... - la mujer vaciló, y tras un momento añadió - ¿Creen que lo conseguirán?
+- Bien... - la mujer vaciló, y tras un momento añadió -. ¿Creen que lo conseguirán?
 - Sí – Se limitó a asentir Fernando.
 - Yo también – se unió Aitor – Están los ingleses, los infiltrados... y también está Ana. Además, no olvidemos que tenemos a Ajani moviendo los hilos.
 - Pues Ajani ha debido pensar que los ingleses son prescindibles – la superiora se mantuvo seria – lo último que recibí antes de perder la comunicación fue que los de RIO estaban retomando el control rápidamente y que habían cogido a la mayoría de los militares.
-- Vaya... - Aitor intentó buscar rápidamente algo para animar a sus interlocutores, pero cada vez era más complicado – Debemos confiar en ellos. Nunca está de más mantener la esperanza.
+- Vaya... - Aitor intentó buscar rápidamente algo para animar a sus interlocutores, pero cada vez era más complicado –. Debemos confiar en ellos. Nunca está de más mantener la esperanza.
 - Eso está bien – respondió la mujer – al menos alguien la conserva aquí.
 
 

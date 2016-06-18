@@ -6,7 +6,7 @@ La entrada principal de La Cadena consistía en unas puertas de cristal automát
 
 Los antiterroristas, divididos en un grupo de cinco soldados a cada lado, trataban de mantener la posición en el pasillo entre las puertas fantasma. A Felipe, el hombre que encabezaba la columna de la izquierda, la idea de volver atrás, aunque fuera lo más seguro, no le atraía lo más mínimo.
 
-- ¡Parece que los cabrones asaltaron La Cadena antes de que se apagara el aire acondicionado, y ellos tampoco estaban por la labor! - Intentaba hacerse oír por encima del ruido de los disparos - ¡Esto es la gloria! - Rió, sin dejar de disparar.
+- ¡Parece que los cabrones asaltaron La Cadena antes de que se apagara el aire acondicionado, y ellos tampoco estaban por la labor! - intentaba hacerse oír por encima del ruido de los disparos -. ¡Esto es la gloria! - rió, sin dejar de disparar.
 
 Era cierto, los uniformes destinados a protegerlos los estaba asando en aquella cálida noche de verano. Para ellos, la corriente que se había formado entre el interior y el exterior de La Cadena era todo un regalo.
 
@@ -18,11 +18,11 @@ Los enemigos se encontraban desperdigados por el pasillo de la primera planta, c
 
 El que gritó fue Enrique, jefe de la unidad y el segundo en la fila de la izquierda. En ese momento la mayoría de los enemigos dejaron de disparar sobre ellos; en lugar de eso se ocultaron tras sus respectivas coberturas, en la planta superior. Aquello lo extrañó sobremanera, y pensó que seguramente se trataría de una trampa. No obstante, cuando habían rehenes en juego, no había tiempo que perder. Siguiendo su orden, el equipo se puso en marcha.
 
-- ¡Agh! - Gritaron al unísono el primer hombre de cada columna.
+- ¡Agh! - gritaron al unísono el primer hombre de cada columna.
 
 Ambos policías se retorcieron y cayeron al suelo.
 
-- ¡Armas eléctricas, no los toquen! - Gritó Enrique antes de que Manuel, el segundo de la columna de la derecha, pudiera reaccionar siquiera.
+- ¡Armas eléctricas, no los toquen! - gritó Enrique antes de que Manuel, el segundo de la columna de la derecha, pudiera reaccionar siquiera.
 
 Enrique se asomó rápidamente por su esquina y trató de hacer diana sobre el terrorista que efectuó los disparos, situado en la misma planta que ellos. El enemigo corrió, aprovechando las coberturas de la sala. Intentaba reunirse con sus aliados, que lo esperaban en el piso superior y lo apoyaban con fuego de cobertura. Éstos últimos, que antes se habían escondido, lo habían hecho para cambiar sus armas de fuego por otras eléctricas. “No quieren provocar bajas”, reflexionó Enrique.
 
@@ -37,13 +37,13 @@ Enrique llegó con gran rapidez a la primera columna de la izquierda, allí dond
 El que parecía el líder de los terroristas allí presentes profirió una orden. Varios de sus subordinados avanzaron hacia las oficinas más cercanas a las escaleras y abrieron las puertas. De cada sala comenzó a salir una fila de rehenes asustados. Las filas se fueron uniendo hasta formar una corriente de personas que bajaban a empujones las grandes escaleras hacia la planta calle y no tardaron en ocultar al enemigo abatido. Enrique dejó escapar una maldición.
 
 - ¡Mierda! - masculló, incapaz de visualizar a ninguno de los enemigos tras la marea de gente.
-- ¿Qué le sucede señor? ¿No es justo lo que queríamos, salvar a los rehenes? - Dudó uno de los policías del grupo de la derecha.
-- ¡Por supuesto que es lo que queremos! - Le espetó su superior - ¡Pero también debemos apresar a los secuestradores!
+- ¿Qué le sucede señor? ¿No es justo lo que queríamos, salvar a los rehenes? - dudó uno de los policías del grupo de la derecha.
+- ¡Por supuesto que es lo que queremos! - le espetó su superior -. ¡Pero también debemos apresar a los secuestradores!
 - ¡Están perdiendo su capacidad de negociación, señor! ¡Yo no me preocuparía!
 
-“¡Pero yo no soy un maldito ignorante, yo sí me preocupo!” - Quiso gritarle. Enrique llevaba mucho tiempo en el cuerpo, y había aprendido a desconfiar de los criminales. Sobre todo de aquellos que cometen lo que podría calificarse a primera vista como estupideces.
+“¡Pero yo no soy un maldito ignorante, yo sí me preocupo!” - quiso gritarle. Enrique llevaba mucho tiempo en el cuerpo, y había aprendido a desconfiar de los criminales. Sobre todo de aquellos que cometen lo que podría calificarse a primera vista como estupideces.
 
-- ¡Algunos de ellos están bajando, señor! - Gritó Juan, el tercero de la columna de la derecha. Era el mejor observador del equipo.
+- ¡Algunos de ellos están bajando, señor! - gritó Juan, el tercero de la columna de la derecha. Era el mejor observador del equipo.
 - ¡Intentan llevarse al herido! ¡Tenemos que evitarlo!
 
 Pero era inútil; la marea de gente no atendía a las órdenes de la policía y trataba de salir de allí por todos los medios, acaparando toda la sala e incapacitándolos para actuar. Los antiterroristas intentaron avanzar como pudieron entre el mobiliario y las personas, pero resultaba casi imposible. Para cuando la masa de gente ya no era tan densa, el herido había desaparecido. Ahora estaba junto a sus aliados, que lo ayudaban a subir por las escaleras de al lado del ascensor de la planta uno, a los pisos superiores.
@@ -63,13 +63,13 @@ La duda de su subordinado sobre si seguir o no era, por tanto, razonable; estaba
 
 Entre sus hombres se mezclaron las muestras de apoyo y de duda. Aquellos que se hubieran opuesto tajantemente ya lo habían hecho cuando Enrique les propuso entrar en el edificio; parte de su unidad ya se había negado a acompañarlo al interior del edificio.
 
-- ¡Persigamos a los terroristas! - Los apremió.
+- ¡Persigamos a los terroristas! - los apremió.
 
 Los ocho hombres que quedaban de la unidad antiterrorista de la policía formaron una fila, con Enrique a la cabeza, y subieron corriendo las grandes escaleras que llevaban al primer piso. Tras alcanzar la primera planta se metieron, no sin antes comprobar que era seguro, en las escaleras que llevaban a las plantas superiores. Las nuevas escaleras, mucho menos glamurosas que las presentadas en la recepción, eran de cuatro tramos. Los perseguidores podían mirar hacia arriba por el hueco de las escaleras para observar los movimientos de sus perseguidos, y éstos a su vez podían mirar hacia abajo y observarlos a ellos.
 
-- ¿Tendremos que subir todas estas plantas persiguiendo a esos cabrones? - Se quejaba uno de los hombres a su espalda.
-- Te he visto haciendo esfuerzos muchos mayores y por gusto, Javier – Sonrió Enrique, pero dudaba que su hombre lo hubiera visto.
--  Ya bueno... ¡pero era una situación menos peligrosa! - Rió.
+- ¿Tendremos que subir todas estas plantas persiguiendo a esos cabrones? - se quejaba uno de los hombres a su espalda.
+- Te he visto haciendo esfuerzos muchos mayores y por gusto, Javier – sonrió Enrique, pero dudaba que su hombre lo hubiera visto.
+-  Ya bueno... ¡pero era una situación menos peligrosa! - rió.
 
 Sin que nadie dijera nada acordaron callarse y reservar el aire para el esfuerzo que los esperaba. Los terroristas les llevaban unos cinco pisos de ventaja y no bajaban el ritmo. Ellos tampoco, pero tampoco podían subirlo para intentar alcanzarlos si querían aguantar hasta el final. Juan, el observador del grupo, iba informando en cada piso sobre los movimientos de los perseguidos. Al principio se permitía emplear más palabras de la estrictamente necesarias para informar a su equipo:
 
@@ -94,7 +94,7 @@ De repente Juan gritó.
 Todos se pararon en seco y se pusieron a cubierto, pero la explosión era lo suficientemente lejana para no suponer más peligro que el de los escombros que caían por el hueco de las escaleras. A cinco pisos sobre ellos, los tramos de la escalera entre los pisos 24 y 25 cedieron y se desplomaron sobre las escaleras inferiores. El equipo de antiterroristas no tardó en volver a ponerse en movimiento y llegar hasta el piso 23, donde se hacía impracticable continuar subiendo.
 
 - Diría – rompió el silencio uno de los últimos – que no quieren que los sigamos.
-- ¿Por qué romper este tramo y no justamente los que llevan del piso 25 al 26? - Se preguntó otro.
+- ¿Por qué romper este tramo y no justamente los que llevan del piso 25 al 26? - se preguntó otro.
 - Porque así evitan que podamos sorprenderlos volando el suelo bajo sus pies – Respondió Enrique, al tiempo que estudiaba la situación – Entremos en el piso 23 y busquemos rutas alternativas.
 
 El equipo obedeció y entró el piso 23. Entonces se toparon con tres pasillos; uno que avanzaba por cada lado y uno central que parecía unirse a los otros dos al final. Enrique dejó a tres hombres al principio: uno que vigilara las escaleras, y otros dos para los dos pasillos laterales. Los cinco hombres restantes, que incluían a Juan el observador y al propio Enrique, recorrerían el pasillo central. 
@@ -109,13 +109,13 @@ El jefe de la unidad antiterrorista no se detuvo a palpar la herida y mirar la s
 
 Los otros dos disparos que Juan había sentido justo tras de sí habían sido para el joven Marcos y Juan El Observador. Este último miró su herida y luego a su jefe:
 
-- ¿Perderé mi puesto de observador por esto? - Trató de sonreír a pesar del dolor mientras caía de rodillas, al igual que Marcos.
+- ¿Perderé mi puesto de observador por esto? - trató de sonreír a pesar del dolor mientras caía de rodillas, al igual que Marcos.
 
 Enrique se limitó a mirarlo y a sonreír mientras suspiraba, sin molestarse en ocultar su sorpresa. Luego volvió a mirar a los traidores: si David y Mario se mostraban arrepentidos, no lo aparentaban tras los visores de sus cascos. Enrique miró tras ellos, hacía el comienzo del pasillo. Allí donde había dejado a sus otros hombres ahora solo habían tres cuerpos inmóviles, tendidos sobre el suelo. Habían recibido sus correspondientes disparos cuando reaccionaron a la amenaza, pero estos disparos provinieron de las escaleras. 
 
 Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos por una mujer imponente vestida de rojo. Avanzaron hacia el grupo de Enrique, sin inmutarse por los cuerpos tirados en el suelo. Juan y Marcos ya habían caído inconscientes, y Enrique no pudo mantener la compostura por más tiempo. Se encontraba de rodillas frente a la mujer de rojo, a punto de desmayarse.
 
-- ¿A quién debo cobrarle... - Comenzó a decir, fingiendo sentirse ofendida. Enrique escuchó las últimas palabras cada vez más lejanas, justo antes de desplomarse - ...la cena de lujo que no he podido ni tan siquiera catar?
+- ¿A quién debo cobrarle... - comenzó a decir, fingiendo sentirse ofendida. Enrique escuchó las últimas palabras cada vez más lejanas, justo antes de desplomarse - ...la cena de lujo que no he podido ni tan siquiera catar?
 
 
 ## Navegación
