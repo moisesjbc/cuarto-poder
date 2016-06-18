@@ -16,18 +16,18 @@ A cara rato, Elizabeth se apartaba de la cara los mechones más rebeldes de su l
 
 “Tiene un pelo irresistible”, pensó Aitor. No tardó en imaginarse a su acompañante desnuda frente a él, mirándolo con deseo. Su melena taparían a duras penas sus pechos perfectos. Entonces Aitor se acercaría y... “¡Para!”, se recriminó, enfadado consigo mismo. Ya había dejado volar su imaginación cuando se habían reunido hacía media hora, en la puerta del piso donde vivía ella. El joven se descubrió mirándole furtivamente los pechos, dejándose llevar por sus curvas, y Elizabeth lo había sorprendido.
 
-- Puedes mirarlos tranquilamente, siempre que no sea por un intervalo mayor a dos segundos - le dijo, divertida –, y con pausas de mínimo treinta segundos – rió.
-- Lo... siento – Aitor se limitó a sonreír tímidamente, mientras se reprendía para sus adentros. “Genial, no han pasado ni cinco segundos y ya soy un puto mirón”.
+- Puedes mirarlos tranquilamente, siempre que no sea por un intervalo mayor a dos segundos - le dijo, divertida -, y con pausas de mínimo treinta segundos - rió.
+- Lo... siento - Aitor se limitó a sonreír tímidamente, mientras se reprendía para sus adentros. “Genial, no han pasado ni cinco segundos y ya soy un puto mirón”.
 - ¡Tranquilo hombre! Si no te conociera me mosquearía, pero te conozco y sé que no me vas a hacer nada - a continuación lo miró, esbozando una expresión pícara con sus preciosos ojos y sus finos labios -. ¿O sí?
 
 El joven se quedó en jaque y no supo qué responder. Al final se limitó a negar con la cabeza, mostrando una sonrisa nerviosa.
 
-- Creo que ya me he decidido – Elizabeth lo sacó de sus recuerdos y esperó a que el camarero se le acercara para no tener que repetir su elección – Tomaré el pescado encebollado.
-- Yo la lasaña vegetal – se apresuró a añadir Aitor.
-- Muy bien – asintió el camarero tras tomar nota –, si me disculpan - y sin esperar respuesta, cogió las cartas y se marchó.
-- Y bien – Elizabeth miró a su compañero, mientras sorbía de su copa de vino -, ¿después de Periodismo qué has hecho?
-- Estuve aprovechando los conocimientos adquiridos para destacar entre mis compañeros reponiendo en un supermercado durante algunos meses, luego en una tienda, después como camareros - Ambos rieron, cómplices –. En mis ratos libres practicaba un poco de sano peloteo con los diferentes medios, hasta que por fin el *Gran Canaria Ahora* me dio una oportunidad... y hasta ahora.
-- ¡Vaya! - su amiga fingió mirarlo con desconfianza – Así que formas parte de la competencia, ¿eh?.
+- Creo que ya me he decidido - Elizabeth lo sacó de sus recuerdos y esperó a que el camarero se le acercara para no tener que repetir su elección - Tomaré el pescado encebollado.
+- Yo la lasaña vegetal - se apresuró a añadir Aitor.
+- Muy bien - asintió el camarero tras tomar nota -, si me disculpan - y sin esperar respuesta, cogió las cartas y se marchó.
+- Y bien - Elizabeth miró a su compañero, mientras sorbía de su copa de vino -, ¿después de Periodismo qué has hecho?
+- Estuve aprovechando los conocimientos adquiridos para destacar entre mis compañeros reponiendo en un supermercado durante algunos meses, luego en una tienda, después como camareros - Ambos rieron, cómplices -. En mis ratos libres practicaba un poco de sano peloteo con los diferentes medios, hasta que por fin el *Gran Canaria Ahora* me dio una oportunidad... y hasta ahora.
+- ¡Vaya! - su amiga fingió mirarlo con desconfianza - Así que formas parte de la competencia, ¿eh?.
 - Así que estás metida en la corporación RIO - adivinó Aitor.
 - ¡No me digas que no me has visto! - esta vez Elizabeth fingió sentirse ofendida.
 - No... - la miró extrañado -. ¿debería?
@@ -40,7 +40,7 @@ Aitor se rió también. En cada ciudad donde RIO emplazaba una cadena de noticia
 
 Era cierto. Como el logotipo de RIO representaba un “río” de información, sus creativos debieron pensar que era buena idea mantener la analogía. Así, las cadenas de televisión pasaron a conocerse como “Afluentes Televisivos” (o AT), los periódicos se denominaron “Afluentes Periodísticos (o AP), etc. El caso más simpático era el de los grandes portales web de noticias, conocidos como Afluentes Internautas o AI. Estos últimos propiciaban bromas infantiles entre los visitantes, quienes escribían comentarios como “¡Estas noticias AI que verlas!”, “¡AI! ¡Si no lo veo aquí no me entero!”, y un largo etcétera.
 
-- ¡Pero vaya! - Exclamó Aitor, sorprendido -. ¡Qué suerte! Mira que intento verlo siempre, para... estudiar a la competencia –, le guiñó un ojo; empezaba a recuperar la confianza en sí mismo tras el nerviosismo inicial – pero no te he visto.
+- ¡Pero vaya! - Exclamó Aitor, sorprendido -. ¡Qué suerte! Mira que intento verlo siempre, para... estudiar a la competencia -, le guiñó un ojo; empezaba a recuperar la confianza en sí mismo tras el nerviosismo inicial - pero no te he visto.
 - Bueno, a decir verdad... no me extraña que no me hayas visto . Por ahora sólo he hecho unos pocos reportajes, y son de los que ponen de relleno al final. El último fue tan apasionante... Informé sobre la apertura del nuevo colegio situado a unas manzanas de aquí.
 
 - Pero mira el lado positivo - Aitor sonrió -, ya estás con un pie dentro de la mayor corporación de noticias del mundo. Ya verás como en cualquier momento te llaman para el reportaje de tu vida.
@@ -57,17 +57,17 @@ La pareja continuó charlando un rato más, a la espera de la comida. Bebieron v
 El alborotador iba vestido con una camiseta cualquiera y un pantalón largo de chándal, desentonando completamente con el lujo del lugar. Sobre la cabeza llevaba una gorra que disimulaba a duras penas el pelo corto y rizado que escondía debajo.
 
 - ¿Cómo ha conseguido eludir nuestra seguridad señor? - el camarero trataba de aparentar calma, pero no podía evitar que los nervios salpicaran sus palabras; el visitante era imponente y no parecía dispuesto a dialogar.
-- Supongo que eres nuevo – dijo el recién llegado, sin apartar la mirada de Elizabeth y sin dejar de avanzar –. No necesito “eludir” vuestra seguridad. Pregúntale a tu jefe.
+- Supongo que eres nuevo - dijo el recién llegado, sin apartar la mirada de Elizabeth y sin dejar de avanzar -. No necesito “eludir” vuestra seguridad. Pregúntale a tu jefe.
 
 El camarero, sin saber qué hacer, obedeció al visitante y salió de la sala por una de las puertas interiores, en busca de su superior. Aitor fue a levantarse para encarar a  aquel hombre que ya se encontraba a unos pocos pasos de ellos. La tranquilidad de su compañera lo detuvo.
 
-- Vaya – Elizabeth bebió de su copa de vino, tranquila –. Andrés, diría que te falta practicar la entrada en los sitios públicos, además de que tu ropa...
+- Vaya - Elizabeth bebió de su copa de vino, tranquila -. Andrés, diría que te falta practicar la entrada en los sitios públicos, además de que tu ropa...
 - ¡Hace media hora que han iniciado un ataque contra La Cadena! - le espetó el visitante -. ¿Para que demonios tienes el móvil?
 - ¿Qué? 
 
 La cara de ella se desencajó durante un segundo, perpleja. Cuando asimiló la información, recuperó la confianza, mostrando esta vez una expresión fría y distante 
 
-– Parece que nuestra cita ha terminado – dijo, mientras miraba a Aitor. Rápidamente giró la cabeza hacía Andrés -. Vayamos.
+- Parece que nuestra cita ha terminado - dijo, mientras miraba a Aitor. Rápidamente giró la cabeza hacía Andrés -. Vayamos.
 
 La chica se quitó los tacones, sacó un calzado más deportivo de su bolso y se lo puso. Acto seguido se levantó rápidamente, y sin mediar palabra (ni pagar), emprendió la carrera con el recién llegado hacia la salida.
 
@@ -82,11 +82,11 @@ Una vez en la calle, los porteros lo miraron fugazmente, pero enseguida volviero
 
 Sin más compañía que sus pensamientos, Aitor se permitió cambiar su cara nerviosa por otra más fría. Sin dejar de correr, se sacó un pequeño teléfono móvil del bolsillo y marcó un número.
 
-- Tenías razón – dijo en voz baja, tras recibir respuesta del otro lado de la línea – substraerle el móvil nos ha hecho ganarle bastante tiempo a los ingleses, pero Andrés ha aparecido y la ha avisado. Los estoy siguiendo ahora mismo.
+- Tenías razón - dijo en voz baja, tras recibir respuesta del otro lado de la línea - substraerle el móvil nos ha hecho ganarle bastante tiempo a los ingleses, pero Andrés ha aparecido y la ha avisado. Los estoy siguiendo ahora mismo.
 - Muy bien - comenzó a decir una voz al otro lado de la línea -, no los...
 - ¡Mierda!
 - ¿Qué ocurre? - se preocupó su interlocutora.
-- Nada, casi me ven – Resopló Aitor, tras haberse agachado rápidamente tras unos contenedores. Cuando se sintió seguro, reemprendió rápidamente la persecución – Bueno, ¿qué ibas a decirme?
+- Nada, casi me ven - Resopló Aitor, tras haberse agachado rápidamente tras unos contenedores. Cuando se sintió seguro, reemprendió rápidamente la persecución - Bueno, ¿qué ibas a decirme?
 - Simplemente que no los perdieras, ten mucho cuidado con ella, es peligrosa.
 - Lo tendré. Te llamaré más tarde si consigo algo.
 - Muy bien, hasta entonces.
@@ -107,7 +107,7 @@ Del agujero de la pared aparecieron uno, dos y hasta tres ladrones harapientos, 
 
 "Termitas" era el nombre por el que se conocían a ciertos ladrones de los barrios estatales. Éstos se habían especializado en escarbar agujeros en los túneles que conectaban los barrios adinerados, y sorprendían así a los transeúntes más desafortunados para atracarles.
 
-- ¡Vaya, vaya, vaya! - sonrió el que parecía ser el líder -. Mirad chicos, ¡parece que tenemos un botín con patas! - luego giró la cabeza hacia Aitor –. Y ahora quiero que... ¡Uf!
+- ¡Vaya, vaya, vaya! - sonrió el que parecía ser el líder -. Mirad chicos, ¡parece que tenemos un botín con patas! - luego giró la cabeza hacia Aitor -. Y ahora quiero que... ¡Uf!
 
 El puñetazo que Aitor le propinó en la barriga lo dejó sin aire y lo derribó. Los otros dos vagabundos tardaron poco en reaccionar, pero menos tardó el susodicho botín en saltar sobre el recién derribado y continuar con su carrera.
 

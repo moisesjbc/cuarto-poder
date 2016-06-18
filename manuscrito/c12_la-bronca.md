@@ -35,7 +35,7 @@ Paco, perplejo, observaba cómo los gestos de negación tajante de su antiguo je
 Luego se giró hacia el resto de policías de la zona. Estos últimos miraban con recelo al hombre de negro que se marchaba, y dudaban sobre si seguirlo o no
 
 - ¡Y ustedes no hagan nada! - se apresuró a gritar Manuel -. ¡Es una orden!.
-- No sé lo que te habrá dicho ese inútil de negro, pero parece que tiene mejor cabeza que tú – replicó Paco, ufano.
+- No sé lo que te habrá dicho ese inútil de negro, pero parece que tiene mejor cabeza que tú - replicó Paco, ufano.
 
 El rostro del jefe de policía Manuel se ensombreció aún más con una sonrisa irónica, amarga. Se mordió el labio antes de contestar.
 

@@ -19,19 +19,19 @@ La mujer desconocida que estaba a la izquierda de la puerta tampoco tuvo tiempo 
 Lucas no supo entonces por qué sentirse peor: por no haber disparado a quien podría haber matado a su mejor amiga, o por haber estado a punto de hacerlo y matar a la que parecía ser una aliada. Sin dejar más tiempo para el abatimiento, volvió a fijarse en Ana. Su amiga y el hombre, un individuo de color bastante alto, se miraban fijamente, con extrema seriedad. Tras un instante, ambos sonrieron.
 
 - ¡Siempre me sorprendes! - rió él, sin dejar de mirar a Ana -. ¿Cuándo me tocará a mí?
-- Nunca, como sigas así – rió a su vez Ana, mientras le soltaba la mano. 
+- Nunca, como sigas así - rió a su vez Ana, mientras le soltaba la mano. 
 
 El hombre sonrió y volvió a su misión de alternarse con su compañera para responder al fuego enemigo 
 
 - ¿Qué tal, Marcos? - se interesó Ana, sin mostrar la mínima preocupación por el tiroteo.
-- Con el orgullo herido... pero bien, dentro de lo que cabe – Lucas no observaba en él ningún atisbo de miedo cada vez que se asomaba a la puerta y disparaba. Hablaba con Ana como si estuvieran charlando en un café cualquiera – El vagabundo nos ha dicho que sólo están ustedes.
+- Con el orgullo herido... pero bien, dentro de lo que cabe - Lucas no observaba en él ningún atisbo de miedo cada vez que se asomaba a la puerta y disparaba. Hablaba con Ana como si estuvieran charlando en un café cualquiera - El vagabundo nos ha dicho que sólo están ustedes.
 - Sí..., podría decirse que sí.
 
 Entonces, fruto de la coincidencias, empezaron a escuchar golpes en la gran puerta acorazada, al comienzo de la sala. Ana continuó hablando.
 
-– Como puedes ver hay más gente, pero de momento no son de gran ayuda.
+- Como puedes ver hay más gente, pero de momento no son de gran ayuda.
 - ¿Enemigos? - dijo Marcos, tensando su rostro.
-- No – lo tranquilizó ella -, pero pueden entorpecer la operación.
+- No - lo tranquilizó ella -, pero pueden entorpecer la operación.
 - Ya veo. Bueno, te comento: el vagabundo está aquí arriba, en la sala de seguridad.
 
 Aprovechó que le tocaba a su compañera disparar para señalar con la mano hacia arriba. La pared contra la que estaban se transformaba, en el segundo piso, en un gran ventanal de cristales ahumados.
@@ -42,12 +42,12 @@ Aprovechó que le tocaba a su compañera disparar para señalar con la mano haci
 - Por cierto, ésta es Lucía - dijo, mientras sonreía a su compañera. Ella le devolvió la sonrisa fugazmente, antes de asomarse de nuevo para disparar.
 - Tras esta puerta... - le recordó Ana, poco interesada en presentaciones.
 - ¿Qué? ¡Ah, sí! Tras esta puerta hay un pasillo que avanza, con cuatro oficinas a cada lado. Esa parte la controlamos nosotros. El problema está más adelante.
-- Continúa – Se limitó a decir Ana.
+- Continúa - Se limitó a decir Ana.
 - El pasillo avanza hasta toparse con unas rejas. Luego, continúa un par de metros más hasta un gran ascensor que únicamente baja. Antes de llegar al mismo, en la pared de la izquierda, están las escaleras que suben a la sala de seguridad. Por desgracia las rejas están cerradas y los enemigos controlan ese tramo.
-- Entonces Jonás está en peligro – se preocupó Ana.
-- ¡Qué va! - rió Marcos – creo que es el único que está seguro ahora mismo. Él y aquellos de nosotros a los que les tocó arriba.
+- Entonces Jonás está en peligro - se preocupó Ana.
+- ¡Qué va! - rió Marcos - creo que es el único que está seguro ahora mismo. Él y aquellos de nosotros a los que les tocó arriba.
 - Entiendo... - entonces sonrió - ¿y lo de que no des ni una disparando?
-- ¡Je! - Marcos se apartó a un lado, cediendo su cobertura a Ana – Por favor, enséñeme señorita.
+- ¡Je! - Marcos se apartó a un lado, cediendo su cobertura a Ana - Por favor, enséñeme señorita.
 
 Ana sonrió y se puso al borde de la puerta. Cuando Lucía, la chica de la derecha dejó de disparar, Ana asomó la cabeza y estudió ella misma la situación.
 
@@ -66,7 +66,7 @@ La chica volvió a asomarse y efectuó un disparo.
 Marcos rió. Lucas, que se sentía totalmente desplazado, ajeno a la situación, sintió un ligero estremecimiento.
 
 - Son... son personas - y cuando Ana lo miró, resaltó -. Hijos de puta, sí, pero personas al fin y acabo.
-- Con hijos de puta te quedas jodidamente corto – replicó Ana fríamente.
+- Con hijos de puta te quedas jodidamente corto - replicó Ana fríamente.
 
 El tiroteo se extendió durante algunos minutos más. La monotonía únicamente se rompió cuando la pesada puerta acorazada comenzó a abrirse nuevamente. Ana y Lucía ignoraron el suceso y se limitaron a continuar con el tiroteo.  Únicamente Marcos y Lucas, relegados del mismo, se permitieron observar la entrada de los nuevos.
 
@@ -74,7 +74,7 @@ El coronel Cooper y sus cinco hombres entraron en la gran recepción, tomándose
 
 Los militares atravesaron la recepción con rapidez, bordeando el gran mostrador de madera y llegando a donde estaba el resto. Sin detenerse un segundo, la unidad se preparó para realizar una incursión, mientras Arturo, el Venezolano, se descolgaba una granada del uniforme. La granada voló hacia el fondo del pasillo mientras los militares esperaban el tiempo de rigor.
 
-- Con una granada aturdidora nosotros también hubiéramos despejado esto en seguida – se quejó Marcos, divertido.
+- Con una granada aturdidora nosotros también hubiéramos despejado esto en seguida - se quejó Marcos, divertido.
 
 Los militares hicieron caso omiso del comentario. Cuando se produjo la explosión, entraron con gran rapidez en el pasillo y Lucas los perdió de vista. Este último tuvo que conformarse con escuchar los disparos y desear que la victoria recayera sobre Cooper y los suyos.
 

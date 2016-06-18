@@ -50,7 +50,7 @@ Pero era inútil; la marea de gente no atendía a las órdenes de la policía y 
 
 - ¡Vamos a por ellos! - ordenó Enrique cuando los siete hombres restantes a su cargo y él se reunieron al pie de las escaleras.
 - ¿Qué pasa con todas las salas que tenemos sobre nosotros? - Juan trató de abarcarlas todas con la mano
-- Dejaremos que los policías de a pie se ganen el pan – A enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
+- Dejaremos que los policías de a pie se ganen el pan - A enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
 - ¿Y qué ocurre con los hombres de negro? - preguntó otro.
 
 Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que habían problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver una orden judicial que les daba carta blanca.
@@ -59,7 +59,7 @@ Con Enrique siguieron el mismo procedimiento, pero él ya estaba harto: harto de
 
 La duda de su subordinado sobre si seguir o no era, por tanto, razonable; estaban metiendo las narices donde no los llamaban.
 
-- ¡Que les follen a los hombres de negro! – Espetó mientras miraba hacia la entrada principal de La Cadena, como si con eso ya pudiera hacerse oír.
+- ¡Que les follen a los hombres de negro! - Espetó mientras miraba hacia la entrada principal de La Cadena, como si con eso ya pudiera hacerse oír.
 
 Entre sus hombres se mezclaron las muestras de apoyo y de duda. Aquellos que se hubieran opuesto tajantemente ya lo habían hecho cuando Enrique les propuso entrar en el edificio; parte de su unidad ya se había negado a acompañarlo al interior del edificio.
 
@@ -68,7 +68,7 @@ Entre sus hombres se mezclaron las muestras de apoyo y de duda. Aquellos que se 
 Los ocho hombres que quedaban de la unidad antiterrorista de la policía formaron una fila, con Enrique a la cabeza, y subieron corriendo las grandes escaleras que llevaban al primer piso. Tras alcanzar la primera planta se metieron, no sin antes comprobar que era seguro, en las escaleras que llevaban a las plantas superiores. Las nuevas escaleras, mucho menos glamurosas que las presentadas en la recepción, eran de cuatro tramos. Los perseguidores podían mirar hacia arriba por el hueco de las escaleras para observar los movimientos de sus perseguidos, y éstos a su vez podían mirar hacia abajo y observarlos a ellos.
 
 - ¿Tendremos que subir todas estas plantas persiguiendo a esos cabrones? - se quejaba uno de los hombres a su espalda.
-- Te he visto haciendo esfuerzos muchos mayores y por gusto, Javier – sonrió Enrique, pero dudaba que su hombre lo hubiera visto.
+- Te he visto haciendo esfuerzos muchos mayores y por gusto, Javier - sonrió Enrique, pero dudaba que su hombre lo hubiera visto.
 -  Ya bueno... ¡pero era una situación menos peligrosa! - rió.
 
 Sin que nadie dijera nada acordaron callarse y reservar el aire para el esfuerzo que los esperaba. Los terroristas les llevaban unos cinco pisos de ventaja y no bajaban el ritmo. Ellos tampoco, pero tampoco podían subirlo para intentar alcanzarlos si querían aguantar hasta el final. Juan, el observador del grupo, iba informando en cada piso sobre los movimientos de los perseguidos. Al principio se permitía emplear más palabras de la estrictamente necesarias para informar a su equipo:
@@ -93,9 +93,9 @@ De repente Juan gritó.
 
 Todos se pararon en seco y se pusieron a cubierto, pero la explosión era lo suficientemente lejana para no suponer más peligro que el de los escombros que caían por el hueco de las escaleras. A cinco pisos sobre ellos, los tramos de la escalera entre los pisos 24 y 25 cedieron y se desplomaron sobre las escaleras inferiores. El equipo de antiterroristas no tardó en volver a ponerse en movimiento y llegar hasta el piso 23, donde se hacía impracticable continuar subiendo.
 
-- Diría – rompió el silencio uno de los últimos – que no quieren que los sigamos.
+- Diría - rompió el silencio uno de los últimos - que no quieren que los sigamos.
 - ¿Por qué romper este tramo y no justamente los que llevan del piso 25 al 26? - se preguntó otro.
-- Porque así evitan que podamos sorprenderlos volando el suelo bajo sus pies – Respondió Enrique, al tiempo que estudiaba la situación – Entremos en el piso 23 y busquemos rutas alternativas.
+- Porque así evitan que podamos sorprenderlos volando el suelo bajo sus pies - Respondió Enrique, al tiempo que estudiaba la situación - Entremos en el piso 23 y busquemos rutas alternativas.
 
 El equipo obedeció y entró el piso 23. Entonces se toparon con tres pasillos; uno que avanzaba por cada lado y uno central que parecía unirse a los otros dos al final. Enrique dejó a tres hombres al principio: uno que vigilara las escaleras, y otros dos para los dos pasillos laterales. Los cinco hombres restantes, que incluían a Juan el observador y al propio Enrique, recorrerían el pasillo central. 
 

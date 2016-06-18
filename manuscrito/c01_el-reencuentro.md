@@ -14,7 +14,7 @@ Ciertamente estaban jugando a volver a todos sus compañeros contra él, concedi
 
 Quizás fuera por eso mismo. Debido a que él era una hormiga frente al más grande de los gigantes, sus superiores ni se molestaban en levantar el pie y aplastarlo para acabar con su sufrimiento. Sin embargo, Lucas seguía siendo incapaz de dilucidar por qué preferían jugar con él y tenerlo pululando por allí, aún sabiendo que no era una amenaza, en lugar de, simplemente quitarle su sustento y dejarlo morir de hambre en las calles.
 
-- ¿Otra vez cabizbajo? - dijo una voz femenina a sus espaldas –. Al menos me alegra saber que siempre tienes ánimos para ver otro vídeo sin un contenido, digamos... estrictamente profesional - rió.
+- ¿Otra vez cabizbajo? - dijo una voz femenina a sus espaldas -. Al menos me alegra saber que siempre tienes ánimos para ver otro vídeo sin un contenido, digamos... estrictamente profesional - rió.
 
 Lucas miró a su ordenador. No había vuelto a abrir la ventana del navegador con el vídeo, pero el título de la misma era todo lo que necesitaba una chica con una vista tan buena como Ana. Lucas se giró y la miró: su amiga era una belleza de 29 años, de piel blanca, alta y delgada. Su pelo ondulado y de un pelirrojo anaranjado acariciaba su cara pecosa y casi rozaba sus hombros desnudos. De su fino cuello colgaba un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo. Semejante joya no hacía más que enfatizar su mantra, “¡Odio a los conejitos!”, repetido hasta la saciedad. Lucas le había preguntado mil veces dónde había conseguido un collar tan singular, pero Ana, divertida, nunca le respondía o se limitaba a darle largas.
 
@@ -94,7 +94,7 @@ Dos soldados con fusiles escoltaban al tercero, un oficial ya entrado en años p
 
 Ana se había quedado atónita, incapaz de mediar palabra. No ocurría así con Lucas, quien había comenzado a reírse cuando reconoció a dos de los tres militares. El tercero, el soldado a la derecha del oficial, hizo el amago de levantar su fusil hacia aquel civil que osaba a reírse de su superior, pero este último alzó la mano, prohibiéndoselo.
 
-- Ya tardabas demasiado en hacerlo – dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda.
+- Ya tardabas demasiado en hacerlo - dijo Lucas con total confianza, mientras su amiga aún le sujetaba del brazo y permanecía totalmente muda.
 
 Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés, respondió al joven en un perfecto español.
 

@@ -5,7 +5,7 @@
 - ¡Pues vaya putada!
 - ¿Acaso no te alegras? - sonrió Aitor, que ya suponía la respuesta.
 - Sí... ¡pero es que nos llevó tanto trabajo asegurar el camino... !
-- ¡Si sólo moviste un par de contenedores! – se burló su compañero.
+- ¡Si sólo moviste un par de contenedores! - se burló su compañero.
 
 Corrían a toda prisa por la calle, dejando atrás la emboscada que habían preparado para cubrir la huida de sus aliados. Avanzaron un par de manzanas amparados por la oscuridad y el abandono propios de un barrio estatal. Entonces giraron hacia la izquierda, en el último cruce antes de llegar a la calle que discurría paralela al muro que servía de frontera entre la prosperidad y la pobreza.
 

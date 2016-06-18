@@ -2,22 +2,22 @@
 
 Paco escupió al suelo con asco y lanzó varias maldiciones a la brisa cálida de la noche. Se encontraba frente a una de las puertas traseras al edificio de La Cadena, erguido y con los brazos cruzados. Su compañero, a su lado, lo miraba sonriente.
 
-- Tengo la ligera impresión de que no te gusta estar aquí – Se burló – Y eso que sólo llevamos veinte minutos.
+- Tengo la ligera impresión de que no te gusta estar aquí - Se burló - Y eso que sólo llevamos veinte minutos.
 - ¡Qué te follen, Miguel! - Le espetó el policía - ¡Te la estás jugando!
 
 “Ya, seguro”, pensó su compañero, divertido, “como no me ataques lanzándome tu grasa...”. La imagen hizo que Miguel tuviera que mirar a otro lado para que su compañero no lo viera reírse. Paco cumplía a rajatabla con el estereotipo de policía gordo y amante de la comida basura. Además, tenía una facilidad increíble para quejarse de todo y de todos e insultar a todo lo que se moviera. ¿Sus temas preferidos?: la ineptitud de sus superiores para ver su valía en el cuerpo, y los compañeros que se reían de él, lo cual atribuía sin duda a su calvicie.
 
 Lo que él no sabía era que en realidad al resto de la comisaría le daba igual su calvicie. De lo que se reían era de su mal humor y de sus pataletas continuas. A sus compañeros también les gustaba mantener un acalorado debate sobre el gran bigote negro que ostentaba: ¿realmente le gustaba llevarlo?, ¿o era otro vano intento de alejar la atención de su calvicie?
 
-- No dices nada, ¿eh, cabrón? - se confió Paco, al notar el silencio de su amigo –. Haces muy bien.
+- No dices nada, ¿eh, cabrón? - se confió Paco, al notar el silencio de su amigo -. Haces muy bien.
 - Eres un amor, Paco - volvió a bromear su compañero. 
 
 La gente a menudo no entendía por qué Miguel no intentaba cambiar de compañero. Éste, sin embargo, aseguraba que Paco era una gran persona cuando se le llegaba a conocer. Y era verdad.
 
 - ¡Hijo de … !
-- Shhh – lo interrumpió Miguel – He oído algo.
+- Shhh - lo interrumpió Miguel - He oído algo.
 - ¡Excusas! ¡Yo no he escuchado una puta mierda!
-- Porque te pasas todo el tiempo quejándote por todo y no atiendes a tu alrededor - y antes de que su amigo le lanzara una nueva tanda de insultos, añadió –. Voy a mirar.
+- Porque te pasas todo el tiempo quejándote por todo y no atiendes a tu alrededor - y antes de que su amigo le lanzara una nueva tanda de insultos, añadió -. Voy a mirar.
 
 Miguel dejó a su amigo con la palabra en la boca y avanzó hacia la esquina del edificio donde había oído el ruido. Paco se quedó solo y no tardó en lanzar nuevas maldiciones, esta vez para sus adentros: “Malditos cabrones”, se dijo. “Mi sitio es la entrada delantera, donde está la acción, y no esta mierda de puerta trasera”.
 
@@ -51,9 +51,9 @@ Al cruzar la esquina se topó de frente con un vagabundo vestido con una gabardi
 
 El policía fue a encañonar al intruso, pero éste último fue más rápido. El vagabundo corrió hacia el agente, lo desarmó y lo derribó de un puñetazo.
 
-- Uff – resopló Paco en el suelo. La pequeña carrera hasta la esquina y el reciente golpe lo habían dejado exhausto. - ¡Cabrón de mierda...!
-- ¿Me culpas a mí? ¡No pretendo herir a nadie! - se excusó el hombre harapiento – Con tu compañero sólo tuve que inutilizar su radio sin llamar su atención. Esperaba poder esconderme tras unos contenedores en lo que pedías refuerzos, y esquivarte cuando vinieras, pero parece que eres un pésimo policía.
-- ¡Qué te jodan, mugriento de mierda! - se enfadó Paco – Por cierto, te sangra la nariz – sonrió con desdén.
+- Uff - resopló Paco en el suelo. La pequeña carrera hasta la esquina y el reciente golpe lo habían dejado exhausto. - ¡Cabrón de mierda...!
+- ¿Me culpas a mí? ¡No pretendo herir a nadie! - se excusó el hombre harapiento - Con tu compañero sólo tuve que inutilizar su radio sin llamar su atención. Esperaba poder esconderme tras unos contenedores en lo que pedías refuerzos, y esquivarte cuando vinieras, pero parece que eres un pésimo policía.
+- ¡Qué te jodan, mugriento de mierda! - se enfadó Paco - Por cierto, te sangra la nariz - sonrió con desdén.
 
 El vagabundo trató de limpiarse la sangre con la manga.
 

@@ -8,7 +8,7 @@ Jonás estaba ocupado tecleando en un complejo panel lleno de botones que se alz
 
 El ascensor comenzó un descenso lento y silencioso. La única prueba perceptible de su movimiento se dilucidaba más allá de los cristales, donde unas luces verticales y alargadas los saludaban y se despedían a medida que el ascensor bajaba.
 
-- Je – murmuró Lucas, tratando de romper aquel silencio incómodo –, inocencia. Como si eso los caracterizara.
+- Je - murmuró Lucas, tratando de romper aquel silencio incómodo -, inocencia. Como si eso los caracterizara.
 
 Únicamente Ana, situada a su lado, se permitió mirarlo de reojo, pero en seguida volvió a concentrarse en la monotonía al otro lado de las paredes. Lucas continuó hablando, aunque sin saber muy bien porqué.
 
@@ -31,7 +31,7 @@ A su alrededor comenzaron a aparecer cada vez más efectivos de RIO armados orga
 De repente, el elevador se detuvo en seco, sobresaltando a sus ocupantes. Se miraban los unos a los otros, esperando alguna respuesta. Finalmente, el primero en hablar fue el coronel Cooper.
 
 - ¡Has sido tú! - acusó a Jonás, al tiempo que lo encañonaba con su pistola.
-- No, no he sido yo – Le respondió el vagabundo, serio, sin inmutarse.
+- No, no he sido yo - Le respondió el vagabundo, serio, sin inmutarse.
 - ¡Mientes! Si no eres tú, ¿cómo estás tan tranquilo?
 - Porque, de momento, todo está siguiendo el plan.
 - ¿De qué hablas? Si esto es...
@@ -64,7 +64,7 @@ Comenzaron a avanzar al unísono y con paso ligero por uno de los puentes que un
 
 Los enemigos, que en un primer momento habían dudado, ahora descargaban una auténtica tormenta de disparos sobre ellos. La nube de gas brillaba allí donde las balas iban deshaciéndose, antes siquiera de llegar a tocarlos.
 
-- Je – se confío el general -, ¿acaso éstos no saben que...?
+- Je - se confío el general -, ¿acaso éstos no saben que...?
 
 Iban por la mitad del puente cuando la sangre salpicó de lleno a Cooper y al resto de personas que rodeaban a uno de los soldados de la izquierda. El cuerpo se desplomó dándose un golpe en la cabeza contra la barandilla y luego cayó aparatosamente sobre el suelo. Un agujero de bala perforaba la parte superior de su cabeza, tiñendo su pelo de rojo.
 
