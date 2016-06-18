@@ -23,7 +23,7 @@ def generate_chapters_pdf(page_offset):
                 if filepath.startswith('c'):
                     copy_chapter_content(chapter_file, monolitic_file)
 
-    call(["pandoc"] + ["-V", "lang=es", "--toc", "--chapters", "-H", "format.sty", "--output", chapters_pdf_filepath, monolitic_filepath])
+    call(["pandoc"] + ["-V", "lang=es", "--from", "markdown+hard_line_breaks", "--toc", "--chapters", "-H", "format.sty", "--output", chapters_pdf_filepath, monolitic_filepath])
 
     return chapters_pdf_filepath
 
@@ -36,6 +36,9 @@ def copy_chapter_content(chapter_file, dst_file):
         if i == 0:
             # Remove number from chapter header.
             line = re.sub(r'^# ([0-9]+)\.(.*)', r'# \2', line)
+
+        line = re.sub(r'(?<!\w)-(?!-)', '--', line) # Replace dialog '-'s with '--'s
+        
         dst_file.write(line)
         i += 1
 
