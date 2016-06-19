@@ -8,13 +8,20 @@ import re
 import os
 import tempfile
 from subprocess import call
+from PyPDF2 import PdfFileMerger, PdfFileReader
 
-def generate_chapters_pdf(page_offset):
+def generate_chapters_pdf(page_offset, book_style):
     chapters_directory = 'manuscrito'
 
     (_, monolitic_filepath) = tempfile.mkstemp()
     (_, chapters_pdf_filepath) = tempfile.mkstemp()
     chapters_pdf_filepath += '.pdf'
+
+    pandoc_options = ["-V", "lang=es", "--from", "markdown+hard_line_breaks", "--toc", "--chapters"]
+    if book_style:
+        pandoc_options += ["-V", "documentclass=book"]
+    else:
+        pandoc_options += ["-V", "documentclass=report"]
     
     with open(monolitic_filepath, 'w') as monolitic_file:
         monolitic_file.write('\n\n\\setcounter{page}{%s}\n\n' % page_offset)
@@ -23,7 +30,7 @@ def generate_chapters_pdf(page_offset):
                 if filepath.startswith('c'):
                     copy_chapter_content(chapter_file, monolitic_file)
 
-    call(["pandoc"] + ["-V", "lang=es", "--from", "markdown+hard_line_breaks", "--toc", "--chapters", "--output", chapters_pdf_filepath, monolitic_filepath])
+    call(["pandoc"] + pandoc_options + ["--output", chapters_pdf_filepath, monolitic_filepath])
 
     return chapters_pdf_filepath
 
@@ -42,7 +49,7 @@ def copy_chapter_content(chapter_file, dst_file):
         dst_file.write(line)
         i += 1
 
-def generate_readme_sections_pdf():
+def generate_readme_sections_pdf(book_style):
     section_headers = ['## Sinopsis', '## Licencia', '## Agradecimientos']
 
     (_, temp_filepath) = tempfile.mkstemp()
@@ -57,7 +64,10 @@ def generate_readme_sections_pdf():
                 if line.startswith('#'):
                     temp_file.write('\\newpage')
                     if line[:-1] in section_headers:
-                        temp_file.write('\\mbox{}\n\n\\thispagestyle{empty}\n\n\\newpage\n\n')
+                        if book_style:
+                            temp_file.write('\\mbox{}\n\n\\thispagestyle{empty}\n\n\\newpage\n\n')
+                        else:
+                            temp_file.write('\\newpage\n\n')
                     copy_line = line[:-1] in section_headers
 
                 if copy_line:
@@ -98,15 +108,28 @@ def generate_cover_pdf():
     return cover_pdf_filepath
 
 if __name__ == "__main__":
-    cover_pdf_filepath = generate_cover_pdf()
-    readme_sections_pdf_filepath = generate_readme_sections_pdf()
-    chapters_pdf_filepath = generate_chapters_pdf(page_offset=8)
-    end_note_pdf_filepath = generate_end_note_pdf(page_offset=141)
+    configurations = [
+        {
+            'file_name': 'libro-cuarto-poder.pdf',
+            'book_style': True
+        },
+        {
+            'file_name': 'cuarto-poder.pdf',
+            'book_style': False
+        },
+    ]
 
-    from PyPDF2 import PdfFileMerger, PdfFileReader
-    pdf_merger = PdfFileMerger()
-    pdf_merger.append(PdfFileReader(open(cover_pdf_filepath, 'rb')))
-    pdf_merger.append(PdfFileReader(open(readme_sections_pdf_filepath, 'rb')))
-    pdf_merger.append(PdfFileReader(open(chapters_pdf_filepath, 'rb')))
-    pdf_merger.append(PdfFileReader(open(end_note_pdf_filepath, 'rb')))
-    pdf_merger.write("cuarto-poder.pdf")
+    for configuration in configurations:
+        cover_pdf_filepath = generate_cover_pdf()
+        readme_sections_pdf_filepath = \
+            generate_readme_sections_pdf(book_style=configuration['book_style'])
+        chapters_pdf_filepath = generate_chapters_pdf(page_offset=8, 
+            book_style=configuration['book_style'])
+        end_note_pdf_filepath = generate_end_note_pdf(page_offset=141)
+            
+        pdf_merger = PdfFileMerger()
+        pdf_merger.append(PdfFileReader(open(cover_pdf_filepath, 'rb')))
+        pdf_merger.append(PdfFileReader(open(readme_sections_pdf_filepath, 'rb')))
+        pdf_merger.append(PdfFileReader(open(chapters_pdf_filepath, 'rb')))
+        pdf_merger.append(PdfFileReader(open(end_note_pdf_filepath, 'rb')))
+        pdf_merger.write(configuration['file_name'])
