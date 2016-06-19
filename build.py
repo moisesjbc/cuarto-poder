@@ -66,8 +66,6 @@ def generate_readme_sections_pdf(book_style):
                     if line[:-1] in section_headers:
                         if book_style:
                             temp_file.write('\\mbox{}\n\n\\thispagestyle{empty}\n\n\\newpage\n\n')
-                        else:
-                            temp_file.write('\\newpage\n\n')
                     copy_line = line[:-1] in section_headers
 
                 if copy_line:
@@ -119,17 +117,29 @@ if __name__ == "__main__":
         },
     ]
 
+    if not os.path.isdir('build'):
+        os.mkdir('build')
+
     for configuration in configurations:
         cover_pdf_filepath = generate_cover_pdf()
         readme_sections_pdf_filepath = \
             generate_readme_sections_pdf(book_style=configuration['book_style'])
-        chapters_pdf_filepath = generate_chapters_pdf(page_offset=8, 
+        pdf = PdfFileReader(open(readme_sections_pdf_filepath,'rb'))
+        page_offset = pdf.getNumPages() + 1
+        if not configuration['book_style']:
+            # Previous PDF in not book style mode includes an empty page not 
+            # taken into account
+            page_offset += 1
+        chapters_pdf_filepath = generate_chapters_pdf(page_offset=page_offset, 
             book_style=configuration['book_style'])
-        end_note_pdf_filepath = generate_end_note_pdf(page_offset=141)
+        pdf = PdfFileReader(open(chapters_pdf_filepath,'rb'))
+        page_offset += pdf.getNumPages() - 1
+        
+        end_note_pdf_filepath = generate_end_note_pdf(page_offset=page_offset)
             
         pdf_merger = PdfFileMerger()
         pdf_merger.append(PdfFileReader(open(cover_pdf_filepath, 'rb')))
         pdf_merger.append(PdfFileReader(open(readme_sections_pdf_filepath, 'rb')))
         pdf_merger.append(PdfFileReader(open(chapters_pdf_filepath, 'rb')))
         pdf_merger.append(PdfFileReader(open(end_note_pdf_filepath, 'rb')))
-        pdf_merger.write(configuration['file_name'])
+        pdf_merger.write(os.path.join('build', configuration['file_name']))
