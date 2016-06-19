@@ -68,7 +68,7 @@ def generate_readme_sections_pdf():
 
         temp_file.write('\\mbox{}\n\n\\thispagestyle{empty}\n\n\\newpage\n\n')
 
-    call(["pandoc"] + ["--output", readme_sections_pdf_filepath, temp_filepath])
+    call(["pandoc"] + ["--from", "markdown-implicit_figures", "--output", readme_sections_pdf_filepath, temp_filepath])
 
     return readme_sections_pdf_filepath
 
