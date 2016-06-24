@@ -21,10 +21,15 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 
 - Si has descargado el repositorio y estás leyendo este documento localmente, puedes leer el libro en la carpeta *manuscrito* anexa.
 - [Pulsa aquí para leer el libro online](manuscrito/c01_el-reencuentro.md).
-- [Pulsa aquí para descargar el libro (PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.0/cuarto-poder.pdf).
+- [Pulsa aquí para descargar el libro (PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.1/cuarto-poder-v1.1.pdf).
+- [Pulsa aquí para descargar el libro (PDF, formato libro)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.1/libro-cuarto-poder-v1.1.pdf).
 
 
 ## Noticias
+
+### Versión 1.1 publicada (24/06/2016)
+
+He publicado una nueva versión del libro con algunas correcciones. Puedes descargarlo en los enlaces de la sección "Acceso al libro" anterior.
 
 ### ¡Libro terminado! (18/06/2016)
 
