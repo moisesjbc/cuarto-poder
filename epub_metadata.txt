@@ -1,0 +1,6 @@
+---
+title: Cuarto Poder
+author: Moisés J. Bonilla Caraballo
+rights: Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons
+language: es-ES
+...
