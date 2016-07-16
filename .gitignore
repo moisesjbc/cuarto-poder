@@ -1,5 +1,6 @@
 # Ficheros temporales de gedit
 *~
 
-# Documentos generados.
-build/
+# Documentos PDF y Epub generados.
+build/*.pdf
+build/*.epub

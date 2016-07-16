@@ -58,3 +58,10 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 
 - [Web personal](http://moisesjbc.github.io/)
 - [Correo electrónico](mailto:moisesjbc@gmail.com)
+
+
+## Generando el libro en formato PDF / Epub
+
+Para generar el libro en formato PDF / Epub hago uso de mi herramienta [Librigilo](https://github.com/moisesjbc/librigilo). Para ello ejecuto en el mismo directorio de este repositorio el siguiente comando:
+
+        <RUTA/A/LIBRIGILO>/main.py --config-file librigilo.conf
