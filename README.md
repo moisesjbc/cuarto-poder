@@ -24,6 +24,9 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 - [Pulsa aquí para descargar el libro (v1.1, PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.1/cuarto-poder-v1.1.pdf).
 - [Pulsa aquí para descargar el libro (v1.1, PDF, formato libro)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.1/libro-cuarto-poder-v1.1.pdf).
 
+## Última versión
+
+¿Estás leyendo la última versión de la novela? ¡Visita <https://github.com/moisesjbc/cuarto-poder> y compruébalo!
 
 ## Noticias
 
