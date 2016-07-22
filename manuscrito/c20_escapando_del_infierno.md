@@ -124,7 +124,7 @@ La familia miró al joven que les había gritado desde la puerta de una casa cer
 - ¿Cómo sabemos que no es una trampa? - desconfió Noemí, la madre.
 - No lo saben - se sinceró él.
 
-La familia pareció dudar unos instantes, debatiendo sobre si debían seguirlo. Entonces el chico avanzó hacia el coche, seguido por otras personas. Todos vestían un chándal azul de una pieza y cremallera en la parte delantera e iban amardos. Noemí llevó la mano al contacto del coche para arrancarlo y huir, pero los hombres y mujeres que avanzaban hacia ellos alzaron las armas. Estaban tan cerca que sería difícil que fallaran los tiros en caso de huída.
+La familia pareció dudar unos instantes, debatiendo sobre si debían seguirlo. Entonces el chico avanzó hacia el coche, seguido por otras personas. Todos vestían un chándal azul de una pieza y cremallera en la parte delantera e iban amardos. Lucía llevó la mano al contacto del coche para arrancarlo y huir, pero los hombres y mujeres que avanzaban hacia ellos alzaron las armas. Estaban tan cerca que sería difícil que fallaran los tiros en caso de huída.
 
 - Está bien - Lucía desistió de su idea y alzó las manos a modo de rendición.
 - Lo siento mucho, pero es importante que vayan a la plaza - se excusó el joven de 17 años.
