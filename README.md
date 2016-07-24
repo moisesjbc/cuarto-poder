@@ -30,6 +30,10 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 
 ## Noticias
 
+### Versión 1.2 publicada (24/07/2016)
+
+Nueva versión del libro publicada. ¡La novedad principal es que ahora se puede descargar el libro en formato Epub!
+
 ### Versión 1.1 publicada (24/06/2016)
 
 He publicado una nueva versión del libro con algunas correcciones. Puedes descargarlo en los enlaces de la sección "Acceso al libro" anterior.
