@@ -21,15 +21,19 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 
 - Si has descargado el repositorio y estás leyendo este documento localmente, puedes leer el libro en la carpeta *manuscrito* anexa.
 - [Pulsa aquí para leer el libro online](manuscrito/c01_el-reencuentro.md).
-- [Pulsa aquí para descargar el libro (v1.2, PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.2/cuarto-poder-v1.2.pdf).
-- [Pulsa aquí para descargar el libro (v1.2, PDF, formato libro)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.2/libro-cuarto-poder-v1.2.pdf).
-- [Pulsa aquí para descargar el libro (v1.2, Epub)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.2/libro-cuarto-poder-v1.2.epub).
+- [Pulsa aquí para descargar el libro (v1.2.1, PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.2/cuarto-poder-v1.2.1.pdf).
+- [Pulsa aquí para descargar el libro (v1.2.1, PDF, formato libro)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.2/libro-cuarto-poder-v1.2.1pdf).
+- [Pulsa aquí para descargar el libro (v1.2.1, Epub)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.2/libro-cuarto-poder-v1.2.1.epub).
 
 ## Última versión
 
 ¿Estás leyendo la última versión de la novela? ¡Visita <https://github.com/moisesjbc/cuarto-poder> y compruébalo!
 
 ## Noticias
+
+### Versión 1.2.1 publicada (24/07/2016)
+
+Nueva versión del libro publicada. Básicamente añado un agradecimiento especial a mi hermana por ser la primera (que yo sepa) en leerse la novela.
 
 ### Versión 1.2 publicada (24/07/2016)
 
@@ -60,6 +64,7 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 - A **Abián**. Porque te sorprendiste cuando supiste que yo escribía, y eso a su vez me motivó a escribir este libro.
 - A **Bruno**. Por tus críticas y correcciones sobre el primer capítulo.
 - A **mi familia**. Por estar siempre ahí.
+    - Mención especial a **mi hermana Laura** por ser la primera en leerse la novela (que yo sepa). ¡Muchas gracias!
 
 
 ## Contacto

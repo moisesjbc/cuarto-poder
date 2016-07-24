@@ -1,5 +1,5 @@
 ---
-title: Cuarto Poder (v1.2)
+title: Cuarto Poder (v1.2.1)
 author: Moisés J. Bonilla Caraballo
 rights: Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons
 language: es-ES
