@@ -190,6 +190,30 @@ Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la n
 - ¿RIO proyecta una película en el tren hablando de su origen y el de la resistencia y luego los "militares" interceptan el tren?**
 ---
 
+---
+1. Lucas y los demás tratan de huir usando un tren que pasa cerca de la ciudad y que es usado por Rio para llevar suministros y activos (¡Gracias Koutetsujou no Kabaneri!). Al terminar el capítulo, el tren es interceptado por el ejército por amenaza terrorista.
+
+    - Poner que los de RIO se cambian de ropa para no ir todos de azul diciendo "ey, somos de la resistencia".
+    - Pensar qué hago con Jonás y Lara, etc.
+    - Hablar de Inglaterra defendiéndose frente a las acusaciones de atacar RIO.
+
+2. Los militares ¿empiezan a desalojarlos? y se descubre que son de RIO. Aparece Ajani para salvar el día.
+
+3. Hay un tiroteo y en una explosión (¿O Ajani le pega un puñetazo?), Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
+---
+
+---
+1. Lucas y los demás tratan de huir usando un tren que pasa cerca de la ciudad y que es usado por Rio para llevar suministros y activos (¡Gracias Koutetsujou no Kabaneri!). Al terminar el capítulo, el tren es interceptado por el ejército por amenaza terrorista.
+
+    - Poner que los de RIO se cambian de ropa para no ir todos de azul diciendo "ey, somos de la resistencia".
+    - Pensar qué hago con Jonás y Lara, etc.
+    - Hablar de Inglaterra defendiéndose frente a las acusaciones de atacar RIO.
+
+2. Los militares ¿empiezan a desalojarlos? y se descubre que son de RIO. Aparece Ajani para salvar el día.
+
+3. Hay un tiroteo y en una explosión (¿O Ajani le pega un puñetazo?), Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
+---
+
 
 # Otras curiosidades
 
