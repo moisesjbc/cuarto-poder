@@ -12,16 +12,16 @@ Ana, aún en shock, era incapaz de alcanzar a comprender la naturalidad que dest
 - Tú te vienes con nosotros.
 - ¿Cómo? 
 
-La cara de incredulidad que puso el joven hubiera arrancado más de un risa en una comedia televisiva, pero ninguno de los allí presentes parecía tener motivos para reír. Lucas miró instintivamente a Ana, situada a su lado. La pobre estaba tan conmocionada, que la expectativa de quedarse sola con los militares parecía ser únicamente una gota más sobre un vaso que se había desbordado hacía rato. “Realmente está demasiado conmocionada”, pensó Lucas, más extrañado que preocupado. Que un grupo terrorista asalte tu lugar de trabajo no es algo precisamente tranquilizador, pero la reacción de su amiga le parecía... muy exagerada, y más en una persona tan atrevida y optimista como ella.
+La cara de incredulidad que puso el joven hubiera arrancado más de una risa en una comedia televisiva, pero ninguno de los allí presentes parecía tener motivos para reír. Lucas miró instintivamente a Ana, situada a su lado. La pobre estaba tan conmocionada, que la expectativa de quedarse sola con los militares parecía ser únicamente una gota más sobre un vaso que se había desbordado hacía rato. “No parece ella”, pensó Lucas, más extrañado que preocupado. Que un grupo terrorista asalte tu lugar de trabajo no es algo precisamente tranquilizador, pero la reacción de su amiga le parecía... muy exagerada, y más en una persona tan atrevida y optimista como ella.
 
 - ¡No hay tiempo! - lo apremió Cooper, interrumpiendo sus cavilaciones -. Allan cuidará de ella.
 - ¿Y quién cuida de mí? - Respondió Lucas, intentando aparentar diversión para restar seriedad al asunto -. No me malinterpretes Cooper, quiero ver el fin de RIO tanto como ustedes, pero no tengo intención de morir tan pronto.
 - ¡Estarás bien!
 
-Cooper lo empujó, con tacto pero con firmeza, hacia las escaleras. Allí una fila de soldados lo recibió con miradas de sorpresa, apremio, miedo..., pero sobre todo, de expectación. El coronel se giró hacia Allan.
+Cooper lo empujó, con tacto pero con firmeza, hacia las escaleras. Allí una fila de soldados lo recibió con miradas de sorpresa, apremio, miedo, pero sobre todo, de expectación. El coronel se giró hacia Allan.
 
 - Cuide de ella.
-- ¡Sí señor!
+- ¡Sí, señor!
 
 El soldado esperó con Ana frente a las escaleras. Cooper corrió hacia los militares y Lucas y gritó - ¡Bien, subamos! ¡John y Lucas al frente! 
 
@@ -35,7 +35,7 @@ El coronel volvió a empujarlo, esta vez hacia la cabeza de la fila. De esta for
 - Pero... - comenzó a decir el civil, tratando de adaptarse a todo lo que estaba pasando.
 - ¡Silencio!
 
-El militar se descolgó la radio que decoraba el pecho de su uniforme y se lo acercó a los labios.
+El militar se descolgó la radio que decoraba el pecho de su uniforme y se la acercó a los labios.
 
 - ¡Que los refuerzos comiencen a subir y se unan inmediatamente a nosotros! ¡Y no sean vagos! ¡Inutilicen el ascensor y suban por las escaleras!
 - ¡Sí señor!
@@ -46,7 +46,7 @@ Lucas esperó a que el oficial se colgara la radio del uniforme para intentar ha
 
 Arriba. Lucas nunca lo preguntó abiertamente, pero suponía que los militares se dirigían al despacho del director de La Cadena, y éste se encontraba en la planta 26, la última.
 
-El grupo se encontraba en el piso diecisiete y continuaba subiendo a toda prisa aquellas escaleras metálicas de cuatro tramos. Cada vez que iban a llegar a un piso, y si la puerta que daba al mismo estaba abierta (algo que hasta el momento sólo había ocurrido una o dos veces), John, el soldado que iba en cabeza, realizaba un pequeño sprint y comprobaba rápidamente que no había peligro. Tras cerciorarse de que el resto de la unidad podía proseguir con seguridad, esperaba por ésta y todos continuaban juntos. Aquel ciclo continuó repitiéndose mientras ascendían piso tras piso.
+El grupo se encontraba en el piso diecisiete y continuaba subiendo a toda prisa aquellas escaleras metálicas de cuatro tramos. En los pisos cuya puerta de acceso estaba abierta, John, el soldado que iba en cabeza, realizaba un pequeño sprint y comprobaba rápidamente que no había peligro. Tras cerciorarse de que el resto de la unidad podía proseguir con seguridad, esperaba por ésta y todos continuaban juntos. Aquel ciclo continuó repitiéndose mientras ascendían piso tras piso.
 
 Acababan de llegar al último tramo de escaleras antes de alcanzar la planta 26, cuando el soldado que encabezaba la fila gritó.
 
@@ -62,7 +62,7 @@ Cooper se quedó mirando hacia Lucas, esperando que este iniciara la conversaci�
 
 - ¿Por qué intentas matarme?
 - ¿Cómo? - a pesar de la tensión del momento, Cooper no pudo evitar sonreír.
-- No entiendo por qué debo acompañarte (esa es otra de las preguntas), pero aún así... ¿por qué voy delante, dónde es mucho más fácil que me gane un tiro y me vaya al otro barrio?
+- Ni siquiera entiendo por qué debo acompañarte, pero aún así... ¿por qué voy delante, dónde es mucho más fácil que me gane un tiro y me vaya al otro barrio?
 - ¡Ah! ¡Eso! - rió nuevamente el coronel - Me temo que yo tampoco conozco la respuesta.
 - ¿Qué? - Lucas no daba crédito.
 - Como lo oyes - el coronel trató de sonreír mientras disimulaba el cansancio producido por el rápido ascenso -. Durante el viaje hacia aquí recibí un email del mismísimo Ajani. Supongo que lo conoces.
@@ -118,9 +118,9 @@ Silencio.
 - Ocurrió un momento después de que usted se fuera. La chica dejó de sollozar de repente, me miró y seriamente me pidió disculpas. - Resopló - Cuando le fui a preguntar por qué, avanzó rápidamente hacia mí, me desarmó y me golpeó. No perdí el sentido de milagro.
 - ¡Estás loco! - gritó Lucas - ¡Ella nunca haría eso!
 - ¡Que te calles! - le espetó el coronel -. ¡Allan!, ¿sabe hacia dónde se dirigió?
-- Sí coronel, comenzó a subir las escaleras. Yo diría que va hacia su posición.
+- Sí, coronel, comenzó a subir las escaleras. Yo diría que va hacia su posición.
 - Muy bien, si eso es cierto la interceptaremos y le pediremos explicaciones. ¡Persígala y evite que se quede en algún piso intermedio!
-- ¡Sí señor!.
+- ¡Sí, señor!.
 
 Cuando el coronel colgó su radio del uniforme, su cara se había transformado completamente; ahora mostraba una seriedad y una frialdad que no invitaban al diálogo. No obstante, Lucas se veía obligado a defender a su amiga.
 
@@ -147,7 +147,7 @@ De repente, Ana se inclinó hacía Lucas y lo besó muy cerca de los labios, lue
 - ¿Cómo...? - quiso saber Lucas, sorprendido, pero fue en vano. Ana se limitó a dedicarle una sonrisa, justo antes de subir rápidamente las escaleras.
 - ¡Detenedla! - gritó el coronel escaleras abajo, aún recuperándose de la aparatosa caída.
 
-Los soldados escucharon la orden, y aquellos que no estaban respondiendo al fuego enemigo en aquel momento se giraron rápidamente para obedecer. Sin embargo Ana, con gran agilidad casi inhumana, apartó todos los fusiles uno tras otro y golpeó a cada soldado que se interponía en su camino. Acto seguido sacó una pistola, empujó a los soldados que defendían la puerta y entró en la planta 26 mientras respondía al fuego enemigo.
+Los soldados escucharon la orden, y aquellos que no estaban respondiendo al fuego enemigo en aquel momento se giraron rápidamente para obedecer. Sin embargo Ana, con una agilidad casi inhumana, apartó todos los fusiles uno tras otro y golpeó a cada soldado que se interponía en su camino. Acto seguido sacó una pistola, empujó a los soldados que defendían la puerta y entró en la planta 26 mientras respondía al fuego enemigo.
 
 Aquella visión de su amiga, junto con el miedo a perderla hicieron mella en Lucas, que empezó a sentir como las fuerzas lo abandonaban a su suerte y comenzó a caer inconsciente. Si no fuera por unos brazos que lo agarraron, Lucas se habría desplomado escaleras abajo.
 
