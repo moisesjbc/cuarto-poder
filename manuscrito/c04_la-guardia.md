@@ -5,14 +5,14 @@ Paco escupió al suelo con asco y lanzó varias maldiciones a la brisa cálida d
 - Tengo la ligera impresión de que no te gusta estar aquí - Se burló - Y eso que sólo llevamos veinte minutos.
 - ¡Qué te follen, Miguel! - Le espetó el policía - ¡Te la estás jugando!
 
-“Ya, seguro”, pensó su compañero, divertido, “como no me ataques lanzándome tu grasa...”. La imagen hizo que Miguel tuviera que mirar a otro lado para que su compañero no lo viera reírse. Paco cumplía a rajatabla con el estereotipo de policía gordo y amante de la comida basura. Además, tenía una facilidad increíble para quejarse de todo y de todos e insultar a todo lo que se moviera. ¿Sus temas preferidos?: la ineptitud de sus superiores para ver su valía en el cuerpo, y los compañeros que se reían de él, lo cual atribuía sin duda a su calvicie.
+“Ya, seguro”, pensó su compañero, divertido, “como no me ataques lanzándome tu grasa...”. La imagen hizo que Miguel tuviera que mirar a otro lado para que su compañero no lo viera reírse. Paco cumplía a rajatabla con el estereotipo de policía gordo y amante de la comida basura. Además, tenía una facilidad increíble para quejarse de todo y de todos e insultar a todo lo que se moviera. ¿Sus temas preferidos? la ineptitud de sus superiores para ver su valía en el cuerpo, y los compañeros que se reían de él, lo cual atribuía sin duda a su calvicie.
 
-Lo que él no sabía era que en realidad al resto de la comisaría le daba igual su calvicie. De lo que se reían era de su mal humor y de sus pataletas continuas. A sus compañeros también les gustaba mantener un acalorado debate sobre el gran bigote negro que ostentaba: ¿realmente le gustaba llevarlo?, ¿o era otro vano intento de alejar la atención de su calvicie?
+Lo que él no sabía era que en realidad al resto de la comisaría le daba igual su calvicie. De lo que se reían era de su mal humor y de sus pataletas continuas. A sus compañeros también les gustaba mantener un acalorado debate sobre el gran bigote negro que ostentaba: ¿realmente le gustaba llevarlo, o era otro vano intento de alejar la atención de su calvicie?
 
-- No dices nada, ¿eh, cabrón? - se confió Paco, al notar el silencio de su amigo -. Haces muy bien.
+- ¿No dices nada, eh, cabrón? - se confió Paco, al notar el silencio de su amigo -. Haces muy bien.
 - Eres un amor, Paco - volvió a bromear su compañero. 
 
-La gente a menudo no entendía por qué Miguel no intentaba cambiar de compañero. Éste, sin embargo, aseguraba que Paco era una gran persona cuando se le llegaba a conocer. Y era verdad.
+La gente a menudo no entendía por qué Miguel no intentaba cambiar de compañero. Este, sin embargo, aseguraba que Paco era una gran persona cuando se le llegaba a conocer. Y era verdad.
 
 - ¡Hijo de … !
 - Shhh - lo interrumpió Miguel - He oído algo.
@@ -23,7 +23,7 @@ Miguel dejó a su amigo con la palabra en la boca y avanzó hacia la esquina del
 
 La entrada principal al edificio de La Cadena, en el otro lado, consistía en unas escaleras anchas, custodiadas a ambos lados por sendas rampas que bajaban hasta los aparcamientos subterráneos. Tras subir los escalones, el visitante se encontraba un paseo peatonal de tres metros de ancho, decorado a ambos lados con palmeras endémicas de quince metros de altura, así como farolas y bancos.
 
-La policía había recibido el aviso de un atentado terrorista hacía veinte minutos, a las nueve, y llegaron al lugar en poco más de diez minutos. Al llegar al sitio les asombró la calma reinante; realmente parecía otro día más. Como el edificio estaba completamente rodeado por rejas de tres metros con finos, pero resistentes barrotes de hierro, tuvieron que dejar los coches en la calle. La mayoría de ellos se aparcaron en la parte delantera, unos pocos en la parte trasera, y aún menos y más dispersos por los laterales. 
+La policía había recibido el aviso de un atentado terrorista hacía veinte minutos, a las nueve, y llegaron al lugar en poco más de diez minutos. Al llegar al sitio les asombró la calma reinante; realmente parecía otro día más. Como el edificio estaba completamente rodeado por rejas de tres metros con finos pero resistentes barrotes de hierro, tuvieron que dejar los coches en la calle. La mayoría de ellos se aparcaron en la parte delantera, unos pocos en la parte trasera, y aún menos y más dispersos por los laterales. 
 
 Paco y Miguel habían llegado algo tarde, y cuando alcanzaron a sus compañeros en la parte delantera, éstos ya habían ocupado posiciones tras las palmeras, con algunos valientes (o más bien estúpidos) de pie en medio del paseo peatonal. Alguien les contó que ya habían tratado de entrar, pero unos hombres vestidos de militares les habían recibido a tiros.
 
@@ -62,7 +62,7 @@ El vagabundo trató de limpiarse la sangre con la manga.
 - Capullo...  - le espetó el vagabundo mientras tomaba la esquina y se dirigía hacia la puerta desprotegida.
 - Hijo de... - Paco trató de insultarle, pero le fallaba la respiración.
 
-El policía perdió la consciencia durante lo que creyó, fueron diez minutos, ¿o quizás fueron quince?. Finalmente lo despertaron los gritos provenientes de su radio, tirada a su lado:
+El policía perdió la consciencia durante lo que creyó, fueron diez minutos, ¿o quizás fueron quince? Finalmente lo despertaron los gritos provenientes de su radio, tirada a su lado:
 
 - ¡Hemos escuchado tiros en una de las plantas altas! - gritaba el policía -. ¡La 26! ¡Es la planta 26! ¡Están cayendo cristales!
 - ¡Ya nos hemos dado cuenta, estúpido! - Le espetó su superior -. ¡Parece que no va a hacer falta el negociador! ¡Los rehenes están en peligro! ¡Tenemos que entrar cuánto antes!
