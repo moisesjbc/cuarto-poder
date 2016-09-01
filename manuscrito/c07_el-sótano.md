@@ -4,11 +4,11 @@ Las puertas metálicas del ascensor comenzaron a abrirse. Jonás intentó salir 
 
 - ¡Quietos!
 
-Frente al ascensor se extendía un largo y ancho pasillo de hormigón, con forma de semicírculo. Focos y altavoces incrustados en el techo, y marcas informativas de colores en las paredes, conformaban la modesta decoración de corredor. Lo que hubiera al fondo quedaba oculto tras la comitiva de bienvenida que La Cadena les había preparado: dos filas de cinco soldados cada una, todos armados y encañonando a los intrusos con sus fusiles. Los efectivos de la primera fila estaban agachados con respecto a los de la segunda, y sujetaban unos grandes escudos transparentes que daban la impresión de gozar de una gran resistencia. 
+Frente al ascensor se extendía un largo y ancho pasillo de hormigón, con forma de semicírculo. Focos y altavoces incrustados en el techo, y marcas informativas de colores en las paredes, conformaban la modesta decoración del corredor. Lo que hubiera al fondo quedaba oculto tras la comitiva de bienvenida que La Cadena les había preparado: dos filas de cinco soldados cada una, todos armados y encañonando a los intrusos con sus fusiles. Los efectivos de la primera fila estaban agachados con respecto a los de la segunda y sujetaban unos grandes escudos transparentes que daban la impresión de gozar de una gran resistencia. 
 
 - ¡Mierda! - gritó por lo bajo Cooper, enfadado -. ¡Ese vagabundo nos ha llevado directos a un pelotón de fusilamiento!
 
-Michael y el coronel se encontraban a cubierto a ambos lados de las puertas del ascensor, asomando sus armas y tras éstas lo mínimo de si mismos para poder evaluar la situación de manera segura. Ana estaba en medio del ascensor, cubriéndose tras Ricardo, su antiguo director y actual prisionero. La chica lo tenía sujeto por el cuello y presionaba la punta de la pistola contra su cabeza. Lucas, relegado al suelo del fondo del ascensor, se conformaba con ver la escena a través de las piernas de su amiga y del que había sido su jefe. Ana, sin embargo, lo obsequió con una mejor visión de lo que estaba pasando, al apartarse ligeramente ella y su prisionero hacia un lado. 
+Michael y el coronel se encontraban a cubierto a ambos lados de las puertas del ascensor, asomando sus armas y tras éstas lo mínimo de sí mismos para poder evaluar la situación de manera segura. Ana estaba en medio del ascensor, cubriéndose tras Ricardo, su antiguo director y actual prisionero. La chica lo tenía sujeto por el cuello y presionaba la punta de la pistola contra su cabeza. Lucas, relegado al suelo del fondo del ascensor, se conformaba con ver la escena a través de las piernas de su amiga y del que había sido su jefe. Ana, sin embargo, lo obsequió con una mejor visión de lo que estaba pasando, al apartarse ligeramente ella y su prisionero hacia un lado. 
 
 “Quiere asegurarse de que me ven”, adivinó Lucas.
 
@@ -17,8 +17,8 @@ Michael y el coronel se encontraban a cubierto a ambos lados de las puertas del 
 - ¡Parece que estamos en un punto muerto! - gritó Cooper.
 - ¡Yo no lo veo así! - el líder de los enemigos se permitió el lujo de reír, confiado.
 - ¡Tenemos al director! - Cooper hizo caso omiso de aquella risa prepotente -. ¡Y a Lucas!
-- Son valiosos, ciertamente - el enemigo había dejado de reírse, pero mantenía su sonrisa -, pero no imprescindibles. El señor Ricardo ya sabía que la gran mayoría de nosotros somos prescindibles en esta... compañía, cuando aceptó trabajar para ella. En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor -. Es bastante valioso para nosotros, pero por suerte no es único.
-- ¿Pero por qué...? - comenzó a decir Lucas, pero se rindió enseguida. Le fallaba la voz, y estaba casi seguro de que ni siquiera Ana, situada delante suya, lo había oído.
+- Son valiosos, ciertamente - el enemigo había dejado de reírse, pero mantenía su sonrisa -, pero no imprescindibles. El señor Ricardo ya sabía que la gran mayoría de nosotros somos prescindibles en esta... "compañía", cuando aceptó trabajar para ella. En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor -. Es bastante valioso para nosotros, pero por suerte no es único.
+- ¿Pero por qué...? - comenzó a decir Lucas, pero se rindió enseguida. Le fallaba la voz y estaba casi seguro de que ni siquiera Ana, situada delante suya, lo había oído.
 - Hagamos algo - continuó el líder, dirigiéndose a Cooper -, dadnos a Ricardo y a Lucas y dejaremos que... - se interrumpió, riéndose - No, no puedo. Han llegado hasta aquí y respeto eso. Así que les recompensaré con la verdad; hagan lo que hagan, no van a salir de aquí con vida.
 - Vaya, gracias por la sinceridad - Le respondió Ana, irónica.
 - De nada, guapa. Será una lástima matarte junto con ellos, pero...
@@ -46,7 +46,7 @@ El líder de los enemigos se rió estrepitosamente, y los del ascensor continuar
 - Espera, ¿lo estabas escuchando todo?
 - Sí - se limitó a afirmar Jonás.
 - ¿Y por qué no nos sacaste de ahí antes? ¡No tenemos tiempo que perder!
-- ¿Cómo? - el brusco cambio de tono confirmó que aquello había ofendido bastante al vagabundo -. ¡Ustedes sí tienen tiempo que perder GRACIAS A MÍ!. ¡Yo no!. ¡Estoy ocupado intentando que no me pillen!. 
+- ¿Cómo? - el brusco cambio de tono confirmó que aquello había ofendido bastante al vagabundo -. ¡Ustedes sí tienen tiempo que perder GRACIAS A MÍ! ¡Yo no! ¡Estoy ocupado intentando que no me pillen!. 
 
 Jonás se detuvo y resopló. Cuando se hubo calmado ligeramente, continuó hablando
 
@@ -71,18 +71,18 @@ Ana había avanzado tras los militares mientras empujaba al prisionero. Cuando s
 
 Lucas se dio cuenta entonces. Desde que habían descendido desde la superficie, el coronel no había vuelto a contactar con los soldados que había dejado allí arriba, en el piso 26. Tampoco se había comunicado de nuevo con aquellos que se habían quedado en las primeras plantas, manteniendo a la policía a raya. Era obvio que Cooper no se perdonaría aquello en la vida. 
 
-El oficial no pudo disimular ni su preocupación ni un profundo odio hacía si mismo cuando de la radio no obtuvo respuesta alguna. A Ricardo, el anterior director de Lucas y Ana, la situación lo hizo reír. Sin embargo, la alegría desapareció rápidamente cuando ella le propinó un golpe en la cara con la culata de la pistola. Un hilillo de sangre comenzó a descenderle de una de las comisuras de los labios, y el prisionero volvió a mostrarse enfadado, desafiante.
+El oficial no pudo disimular ni su preocupación ni un profundo odio hacía sí mismo cuando de la radio no obtuvo respuesta alguna. A Ricardo, el anterior director de Lucas y Ana, la situación lo hizo reír. Sin embargo, la alegría desapareció rápidamente cuando ella le propinó un golpe en la cara con la culata de la pistola. Un hilillo de sangre comenzó a descenderle de una de las comisuras de los labios, y el prisionero volvió a mostrarse enfadado, desafiante.
 
-- Tranquilícese - Le ordenó a Cooper la voz omnipresente - Aunque se hubiera... aunque se hubiera acordado, no hubiera podido contactar con ellos. La Cadena sólo permite la comunicación con la superficie mediante determinados dispositivos, como los interfonos del ascensor y del despacho del director.
+- Tranquilícese - le ordenó a Cooper la voz omnipresente -. Aunque se hubiera... aunque se hubiera acordado, no hubiera podido contactar con ellos. La Cadena sólo permite la comunicación con la superficie mediante determinados dispositivos, como los interfonos del ascensor y del despacho del director.
 
 Pero aquello no bastaría para expiar la gran culpa que Cooper sentía.
 
-- Envíe a su escolta... ¿Michael? al ascensor - continuó Jonás -.  Lo enviaré a la superficie para que convenza al resto de sus hombres de bajar aquí y...
-- Ya lo ha oído - Cooper se mostraba abatido, con toda seguridad condenándose para sus adentros. Hablaba con los ojos cerrados, sin dirigirse a nadie en particular, pero el soldado sabía que se dirigía a él - Suba al ascensor y traiga a los... a los que queden.
+- Envíe a su escolta... ¿Michael?, al ascensor - continuó Jonás -.  Lo enviaré a la superficie para que convenza al resto de sus hombres de bajar aquí y...
+- Ya lo ha oído - Cooper se mostraba abatido, con toda seguridad condenándose para sus adentros. Hablaba con los ojos cerrados, sin dirigirse a nadie en particular, pero el soldado sabía que se dirigía a él -. Suba al ascensor y traiga a los... a los que queden.
 
 El soldado se limitó a asentir y enseguida se encaminó con paso decidido hacia el ascensor. Cuando metió medio cuerpo en el cubículo, las puertas comenzaron a cerrarse tras él.
 
-- Bien, pasaré al canal del ascensor para comunicarme con Michael. Si quieren hablar conmigo... muevan los brazos - Ana miró a su alrededor y les señaló una cámara en la pared, a unos metros por delante de ellos.
+- Bien, pasaré al canal del ascensor para comunicarme con Michael. Si quieren hablar conmigo... - dudó -, muevan los brazos - Ana miró a su alrededor y les señaló una cámara en la pared, a unos metros por delante de ellos.
 
 Al apagarse la comunicación se hizo el silencio. Un silencio que Lucas, visiblemente mejor, no tardó en romper.
 
@@ -94,9 +94,9 @@ La pregunta la pilló por sorpresa.
 
 “Al menos no es una completa desconocida”, se alegró Lucas, al volver a toparse con la faceta bromista de su compañera.
 
-- Parece que no hace falta que lo siga ocultando - Continuó la chica, mientras miraba fugazmente a Ricardo y volvía a posar su mirada en Lucas - Formo parte de una organización contraria a la corporación RIO y sus mentiras. Anteriormente luchábamos contra ella investigando y tratando de sacar a la luz sus farsas, pero cuando se demostró que eso no llevaba a ninguna parte... - dedicó una mirada resentida hacia Ricardo - nos vimos forzados a radicalizarnos. Ahora intentamos destruirla por todos los medios posibles. Y uno de esos métodos incluye a agentes infiltrados como yo.
+- Parece que no hace falta que lo siga ocultando - continuó la chica, mientras miraba fugazmente a Ricardo y volvía a posar su mirada en Lucas - Formo parte de una organización contraria a la corporación RIO y sus mentiras. Anteriormente luchábamos contra ella investigando y tratando de sacar a la luz sus farsas, pero cuando se demostró que eso no llevaba a ninguna parte... - dedicó una mirada resentida hacia Ricardo - nos vimos forzados a radicalizarnos. Ahora intentamos destruirla por todos los medios posibles. Y uno de esos métodos incluye a agentes infiltrados como yo.
 - Por eso no ponías mucho empeño en trabajar para ellos, ¿no? - sonrió Lucas.
-- Bueno, cada uno con sus razones, ¿no? - Lo miró su amiga, guiñándole un ojo.
+- Bueno, cada uno con sus razones, ¿no? - lo miró su amiga, guiñándole un ojo.
 - Maldita zorra... - le espetó el que había sido su director. 
 
 Ana, sin mediar palabra, le propinó un puñetazo que le hizo girar la cabeza completamente debido a la fuerza del impacto. Cuando comprobó que Ricardo se mantenía apenas consciente, le lanzó otro puñetazo, dejándolo esta vez noqueado en el suelo. Lucas, al que a estas alturas algo como aquello no podía sorprenderlo, se limitó a mirar a su amiga tranquilamente.
