@@ -7,11 +7,11 @@ El coronel Cooper no pudo evitar mostrar su alivio cuando las puertas del ascens
 
 De repente comenzaron a escuchar el ruido atronador de multitud de disparos. Los soldados recién llegados alzaron sus armas contra la amenaza invisible, pero el coronel les ordenó bajarlas. Entre el ruido del tiroteo se escuchó la voz omnipresente de Jonás.
 
-- Siento interrumpir, ¡pero mi “situación” es realmente urgente!.
+- Siento interrumpir, ¡pero mi situación es realmente urgente!.
 - ¿Qué sucede? - se preocupó Cooper. 
 - ¡Los enemigos han conseguido romper la primera línea de defensa!. ¡Tienen que darse prisa!.
 - Me hago cargo de la urgencia - le hizo saber el coronel -, pero aún no estamos todos. Si vamos ahora y nos fusilan nada de esto habrá servido de nada.
-- ¡A mí me parece que es usted quién no lo entiende! - le espetó la voz, tensándose por momentos -. Si esperan para la reunión familiar, mayores posibilidades hay de que acaben matándome. ¡Y si yo muero, fin de la partida! - sentenció, seguro de lo que decía.
+- ¡A mí me parece que es usted quién no lo entiende! - le espetó la voz, tensándose por momentos -. Si esperan para la reunión familiar, hay mayores posibilidades de que acaben matándome. ¡Y si yo muero, fin de la partida! - sentenció, seguro de lo que decía.
 - Mire - Cooper intentó mostrarse tranquilo, negociador -, es cierto que de no ser por usted no hubiéramos llegado hasta aquí, pero es peligroso. Si lo piensa con la cabeza fría, se dará cuenta de que lo mejor es esperar - Jonás quiso decir algo, pero Cooper continuó -. Además, si ha podido resistir solo hasta ahora, podrá aguantar un poco más.
 
 La voz omnipresente soltó un bufido. Le costaba asimilar lo que acababa de escuchar.
@@ -23,16 +23,16 @@ La voz omnipresente soltó un bufido. Le costaba asimilar lo que acababa de escu
 
 Jonás hizo caso omiso de la pregunta de la joven; al decir verdad, Lucas dudaba que Jonás hubiera escuchado a su amiga.
 
-- ¿Desea hablar con ellos? - continuó diciendo la voz omnipresente. Su voz reflejaba una gran tensión salpicada por la ira - Espere que se los paso.
+- ¿Desea hablar con ellos? - continuó diciendo la voz omnipresente. Su voz reflejaba una gran tensión salpicada por la ira -. Espere que se los paso.
 
 Por los ruidos que escucharon, parecía que Jonás había cogido su comunicador y lo estaba moviendo. Los disparos se oyeron ahora con más fuerza. Entre el ruido comenzaron a distinguirse multitud de gritos desgarradores 
 
-- ¡Vaya! Parece que no están disponibles. - Escupió la voz, sarcástica - Quizás sea porque SE ESTÁN MURIENDO - al cabo de un rato, añadió - ¡Joder, no entiendo cómo Ajani pudo confiar en usted!.
+- ¡Vaya! Parece que no están disponibles - Escupió la voz, sarcástica -. Quizás sea porque SE ESTÁN MURIENDO - al cabo de un rato, añadió -, ¡Joder, no entiendo cómo Ajani pudo confiar en usted!.
 - ¿Cómo sabes...? - Cooper enmudeció, quizás conviniendo en que no era el momento para preguntas. No obstante, al cabo de unos segundos dejó clara su postura. - Esperaré por mis hombres.
 
-Lucas, un mero espectador de la escena hasta ese momento, de repente quería gritarle algo a Cooper, condenar su inacción. Hasta hacía escasos segundos compartía la visión precavida del oficial, su frialdad, pero ahora que había escuchado los gritos de dolor y muerte al otro lado del comunicador... Lucas estuvo a punto de maldecir a Cooper, pero entonces escuchó una voz interior que le decía "“¿Y tú qué?”, “¿Qué has hecho durante todo este tiempo, aparte de trabajar para RIO esperando que las cosas se solucionaran solas?”. 
+Lucas, un mero espectador de la escena hasta ese momento, de repente quería gritarle algo a Cooper, condenar su inacción. Hasta hacía escasos segundos compartía la visión precavida del oficial, su frialdad, pero ahora que había escuchado los gritos de dolor y muerte al otro lado del comunicador... Lucas estuvo a punto de maldecir a Cooper, pero entonces escuchó una voz interior que le decía “¿Y tú qué?”, “¿Qué has hecho durante todo este tiempo, aparte de trabajar para RIO esperando que las cosas se solucionaran solas?”. 
 
-La voz acusadora de su conciencia tenía razón; Lucas se había mantenido al margen, observando como las cosas simplemente ocurrían, sin que el moviera un dedo para cambiarlas. Había pasado años ignorando la realidad, pero ésta se estaba vengando ahora de él, golpeándolo una y otra vez con una fuerza atroz. La misma fuerza con la que se escapaban los gritos de agonía de aquellos que sí se habían atrevido a hacer algo para parar a la corporación.
+La voz acusadora de su conciencia tenía razón. Lucas se había mantenido al margen, observando como las cosas simplemente ocurrían, sin que el moviera un dedo para cambiarlas. Había pasado años ignorando la realidad, pero ésta se estaba vengando ahora de él, golpeándolo una y otra vez con una fuerza atroz. La misma fuerza con la que se escapaban los gritos de agonía de aquellos que sí se habían atrevido a hacer algo para parar a la corporación.
 
 La voz de Ana libró momentáneamente a Lucas de la reprimenda de su conciencia.
 
@@ -40,7 +40,7 @@ La voz de Ana libró momentáneamente a Lucas de la reprimenda de su conciencia.
 
 “Es normal, son sus aliados”, reflexionó Lucas, mirándola fijamente.
 
-- No puedo obligarla a quedarse - la voz del oficial trataba de mantenerse impasible, solemne -. Mucha suerte.
+- No puedo obligarle a quedarse - la voz del oficial trataba de mantenerse impasible, solemne -. Mucha suerte.
 
 Lucas se sorprendió a si mismo cuando alzó la voz.
 
@@ -71,7 +71,7 @@ El silencio se prolongó unos segundos. Finalmente el vagabundo cedió.
 
 - Está bien. Sus hombres... ¡NO!
 - ¿Qué? ¿Qué ocurre?
-- No, no, no, no, ... - la ira anterior de Jonás se fue transformando con rapidez en desesperación - Esto se acabó... ya es imposible. - en su voz empezaba a notarse algo parecido al miedo.
+- No, no, no, no, ... - la ira anterior de Jonás se fue transformando con rapidez en desesperación -. Esto se acabó... ya es imposible - en su voz empezaba a notarse algo parecido al miedo.
 - ¡Dígame qué sucede!
 - ¡Es Elizabeth!
 
@@ -83,9 +83,9 @@ El agobio y el miedo creciente de Jonás empapaba el ambiente. Por su gesto, era
 Pero se interrumpió cuando vio que Ana empujaba a Lucas hacia sí. Antes de que pudiera reaccionar, una pared de humo negro se formó entre los militares y los civiles.
 
 - ¡Qué está haciendo! - la cara de Cooper se desdibujaba tras la translucidez de la pared, pero era obvio que estaba confuso y furioso.
-- Lo siento - se disculpó Jonás -, pero no puedo permitirme discutir con usted la imposibilidad de lo que me pide. ¿Ana?.
+- Lo siento - se disculpó Jonás -, pero no puedo permitirme discutir con usted la imposibilidad de lo que me pide. ¿Ana?
 
-Ana asintió, agarró a Lucas del brazo y empezó a correr, empujándolo consigo durante los primeros metros. Su amigo reaccionó rápidamente, y poco después, ambos corrían codo con codo.
+Ana asintió, agarró a Lucas del brazo y empezó a correr, empujándolo consigo durante los primeros metros. Su amigo reaccionó rápidamente y, poco después, ambos corrían codo con codo.
 
 - ¡Puto vagabundo! - profirió el coronel -. ¡Desactiva esta pared! ¡Nos vas a matar a todos!
 - ¡Usted es el que nos va a matar a todos! - le espetó el vagabundo -. Las posibilidades eran mínimas si conseguían venir todos sus refuerzos. ¡Ahora es imposible!
@@ -99,13 +99,13 @@ Ana y Lucas continuaban corriendo, mientras se alejaban del ascensor, de los mil
 Ya a cierta distancia, Lucas no llegó a entender lo que escupía Cooper entre gritos, pero estaba seguro de que no eran palabras agradables para con el vagabundo. Los dos jóvenes aún corrían hacia el fondo del pasillo, allí donde doblaba hacia la derecha.
 
 - ¿Sabías lo que iba a hacer?
-- No - confesó Ana -, pero me fijé en que este pasillo también tenía esos “poros” en la pared como en la planta del pelotón de fusilamiento. A medida que la tensión entre Jonás y el coronel iba en aumento, supuse que “el vagabundo” podría valerse de ese as en la manga.
+- No - confesó Ana -, pero me fijé en que este pasillo también tenía esos poros en la pared como en la planta del pelotón de fusilamiento. A medida que la tensión entre Jonás y el coronel iba en aumento, supuse que “el vagabundo” podría valerse de ese as en la manga.
 - Entiendo - se limitó a asentir su amigo - Bien, veamos que nos espera tras la esquina.
 - Un pequeño pasillo hasta una gran puerta acorazada. Ese tramo está libre - reveló la voz omnipresente del vagabundo.
 
 “Gracias, Jonás, me has quitado todo el misterio”, sonrió Lucas para sus adentros, intentando relajar la enorme tensión que sentía.
 
-Los dos jóvenes confiaron en la voz y cruzaron la esquina sin pararse a mirar. Tal como se les había informado, lo único que encontraron fue una imponente puerta acorazada que ocupaba toda la pared frontal. Cuando se detuvieron frente a ella, ésta comenzó a abrirse como por arte de magia.
+Los dos jóvenes confiaron en la voz y cruzaron la esquina sin pararse a mirar. Tal como se les había informado, lo único que encontraron fue una imponente puerta acorazada que ocupaba toda la pared frontal. Cuando se detuvieron frente a ella, esta comenzó a abrirse como por arte de magia.
 
 - Los enemigos están al fondo - les informó Jonás -, lo que tienen delante son aliados.
 

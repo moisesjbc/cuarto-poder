@@ -35,9 +35,9 @@ Tras aquello Lucas asintió y dejó de molestar a los militares. No quería hace
 
 - ¡Parece que se están quedando sin munición! ¿Coronel?
 - ¡Muy bien! - respondió este -. ¡Todos preparados!
-- ¡Señor! - gritó uno de los soldados desde las escaleras -. ¡El Venezolano solicita encabezar la avanzada!.
+- ¡Señor! - gritó uno de los soldados desde las escaleras -. ¡*El Venezolano* solicita encabezar la avanzada!.
 - ¡Jajaja! ¡Cómo no!
-- ¿El Venezolano? - quiso saber Lucas, ya recuperado casi por completo y de pie.
+- ¿*El Venezolano*? - quiso saber Lucas, ya recuperado casi por completo y de pie.
 - Ay Dios... - respondió Allan, haciendo caso omiso de la pregunta. Su compañero se reía - Yo digo que hoy tampoco lo matan.
 - Yo también creo que se salva.
 - ¡Yo también! - gritó una de los soldados de detrás del recibidor de mármol.
@@ -48,13 +48,13 @@ Una figura alta y delgada salió de las escaleras dando una voltereta y se coloc
 
 - ¡No tientes tanto a la suerte!
 
-El soldado que acababa de hacer su aparición bordeó entonces el recibidor y corrió agachado hasta colocarse entre Allan y Lucas. El Venezolano miró a este último con unos ojos que destilaban locura y cordura a partes iguales a través del pasamontañas negro que cubría su rostro.
+El soldado que acababa de hacer su aparición bordeó entonces el recibidor y corrió agachado hasta colocarse entre Allan y Lucas. *El Venezolano* miró a este último con unos ojos que destilaban locura y cordura a partes iguales a través del pasamontañas negro que cubría su rostro.
 
 - Arturo, encantado.
 
 Y antes de que Lucas pudiera responder siquiera, el soldado comprobó su munición y echó un último vistazo al pasillo que se extendía frente a él. Entonces abandonó rápidamente su cobertura, mientras disparaba a ambos lados con sus dos pistolas y gritaba:
 
-- ¡Qué pasó, perras! ¡Llegó el Venezolano!
+- ¡Qué pasó, perras! ¡Llegó *el Venezolano*!
 
 El resto de la unidad se apresuró a seguirlo, comenzando por el grupo de la derecha, para que Lucas pudiera ir en primera fila. “Cierto, soy el detector de peligros”, pensó, irónico. Luego se unieron los soldados del lado izquierdo, con Cooper a la cabeza, y finalmente los tres soldados de detrás del recibidor de mármol.
 
