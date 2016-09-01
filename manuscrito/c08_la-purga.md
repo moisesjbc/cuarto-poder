@@ -30,7 +30,7 @@ Los fusiles escupían ahora pequeños proyectiles que, al impactar sobre una per
 
 El terrorista se movía ágilmente de una columna a otra mientras se encaminaba hacia las grandes escaleras. No necesitaba preocuparse de disparar, sólo de correr. Enrique dirigió a su grupo al lado izquierdo de la sala para no perder de vista al enemigo que huía. Un mostrador de madera que formaba un círculo completo, y detrás de éste una gran fuente con la estatua del símbolo de RIO en el centro de la sala, harían que pronto dejaran de ver al terrorista si no se movían rápidamente.
 
-Enrique llegó con gran rapidez a la primera columna de la izquierda, allí donde el enemigo los había sorprendido. Entonces, haciendo gala de una gran agilidad, logró acertar al terrorista cuando éste estaba a punto de alcanzar las escaleras. El disparo del policía alcanzó la pierna derecha del terrorista y lo hizo caer. Enrique pudo oír entonces al resto de enemigos gritándose cosas en Inglés los unos a otros en la planta alta. Se habían ido reagrupando progresivamente hacia el fondo de la planta uno, allí donde se encontraba el ascensor y las escaleras que subían más allá del primer piso.
+Enrique llegó con gran rapidez a la primera columna de la izquierda, allí donde el enemigo los había sorprendido. Entonces, haciendo gala de una gran agilidad, logró acertar al terrorista cuando éste estaba a punto de alcanzar las escaleras. El disparo del policía alcanzó la pierna derecha del terrorista y lo hizo caer. Enrique pudo oír entonces al resto de enemigos gritándose cosas en inglés los unos a los otros en la planta alta. Se habían ido reagrupando progresivamente hacia el fondo de la planta uno, allí donde se encontraba el ascensor y las escaleras que subían más allá del primer piso.
 
 “¿Ya se retiran?”, dudó Enrique.
 
@@ -50,14 +50,14 @@ Pero era inútil; la marea de gente no atendía a las órdenes de la policía y 
 
 - ¡Vamos a por ellos! - ordenó Enrique cuando los siete hombres restantes a su cargo y él se reunieron al pie de las escaleras.
 - ¿Qué pasa con todas las salas que tenemos sobre nosotros? - Juan trató de abarcarlas todas con la mano
-- Dejaremos que los policías de a pie se ganen el pan - A enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
+- Dejaremos que los policías de a pie se ganen el pan - a enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
 - ¿Y qué ocurre con los hombres de negro? - preguntó otro.
 
 Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que habían problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver una orden judicial que les daba carta blanca.
 
-Con Enrique siguieron el mismo procedimiento, pero él ya estaba harto: harto de que le arrebatarán una y otra vez la oportunidad de hacer su trabajo. Harto de que ocultaran los secretos de una corporación que apestaba a podrido si tenías un pizco de cabeza y podías olerlo. Era por ello, que desoyendo las órdenes de sus superiores y de aquellos bastardos de negro, había ordenado a su unidad entrar en el edificio de La Cadena.
+Con Enrique siguieron el mismo procedimiento, pero él ya estaba harto: harto de que le arrebataran una y otra vez la oportunidad de hacer su trabajo. Harto de que ocultaran los secretos de una corporación que apestaba a podrido si tenías un pizco de cabeza y podías olerlo. Era por ello, que desoyendo las órdenes de sus superiores y de aquellos bastardos de negro, había ordenado a su unidad entrar en el edificio de La Cadena.
 
-La duda de su subordinado sobre si seguir o no era, por tanto, razonable; estaban metiendo las narices donde no los llamaban.
+La duda de su subordinado sobre si seguir o no era, por tanto, razonable. Estaban metiendo las narices donde no los llamaban.
 
 - ¡Que les follen a los hombres de negro! - Espetó mientras miraba hacia la entrada principal de La Cadena, como si con eso ya pudiera hacerse oír.
 
@@ -69,9 +69,9 @@ Los ocho hombres que quedaban de la unidad antiterrorista de la policía formaro
 
 - ¿Tendremos que subir todas estas plantas persiguiendo a esos cabrones? - se quejaba uno de los hombres a su espalda.
 - Te he visto haciendo esfuerzos muchos mayores y por gusto, Javier - sonrió Enrique, pero dudaba que su hombre lo hubiera visto.
--  Ya bueno... ¡pero era una situación menos peligrosa! - rió.
+-  Ya bueno, ¡pero era una situación menos peligrosa! - rió.
 
-Sin que nadie dijera nada acordaron callarse y reservar el aire para el esfuerzo que los esperaba. Los terroristas les llevaban unos cinco pisos de ventaja y no bajaban el ritmo. Ellos tampoco, pero tampoco podían subirlo para intentar alcanzarlos si querían aguantar hasta el final. Juan, el observador del grupo, iba informando en cada piso sobre los movimientos de los perseguidos. Al principio se permitía emplear más palabras de la estrictamente necesarias para informar a su equipo:
+Sin que nadie dijera nada, acordaron callarse y reservar el aire para el esfuerzo que los esperaba. Los terroristas les llevaban unos cinco pisos de ventaja y no bajaban el ritmo. Ellos tampoco, pero tampoco podían subirlo para intentar alcanzarlos si querían aguantar hasta el final. Juan, el observador del grupo, iba informando en cada piso sobre los movimientos de los perseguidos. Al principio se permitía emplear más palabras de la estrictamente necesarias para informar a su equipo:
 
 - Parece que nadie se ha quedado atrás para tendernos una emboscada.
 
@@ -79,15 +79,15 @@ A medida que subían empezó a obviar la última parte:
 
 - Parece que nadie se ha quedado atrás.
 
-A partir del piso once (sus perseguidos iban por el dieciséis) y entre ligeros jadeos se limitaba a decir:
+A partir del piso once se limitó a decir:
 
 - Nadie.
 
-Sólo encontraron un par de puertas abiertas durante la ascensión. Enrique apenas les prestaba atención: un rápido vistazo sin ni siquiera parar y continuaba. Los terroristas lo observaban a él y a sus hombres a cada rato, tal como Juan hacía con ellos.
+Sólo encontraron un par de puertas abiertas durante el ascenso. Enrique apenas les prestaba atención: un vistazo rápido sin ni siquiera parar y continuaba. Los terroristas lo observaban a él y a sus hombres a cada rato, tal como Juan hacía con ellos.
 
 “Esperan que me pare a mirar en cada planta, pero no es mi estilo”, pensó, orgulloso. La gente espera de la policía que se tome las cosas con mayor calma para asegurar la seguridad de los suyos y de los civiles, pensando bien antes de actuar. También esperan que cambien su manera de proceder dependiendo de si la prensa está presente o no. Los criminales siempre esperaban eso de Enrique y su grupo, pero esa confianza rápidamente se convertía en su perdición. No era que Enrique fuera un temerario y un peligro para sus subordinados, sino todo lo contrario: como los enemigos no se lo esperaban, el jefe de la unidad y los suyos siempre los cogían por sorpresa y se minimizaban las bajas.
 
-De repente Juan gritó.
+De repente, Juan gritó.
 
 - ¡Explosivos!
 
@@ -95,9 +95,9 @@ Todos se pararon en seco y se pusieron a cubierto, pero la explosión era lo suf
 
 - Diría - rompió el silencio uno de los últimos - que no quieren que los sigamos.
 - ¿Por qué romper este tramo y no justamente los que llevan del piso 25 al 26? - se preguntó otro.
-- Porque así evitan que podamos sorprenderlos volando el suelo bajo sus pies - Respondió Enrique, al tiempo que estudiaba la situación - Entremos en el piso 23 y busquemos rutas alternativas.
+- Porque así evitan que podamos sorprenderlos volando el suelo bajo sus pies - Respondió Enrique, al tiempo que estudiaba la situación -. Entremos en el piso 23 y busquemos rutas alternativas.
 
-El equipo obedeció y entró el piso 23. Entonces se toparon con tres pasillos; uno que avanzaba por cada lado y uno central que parecía unirse a los otros dos al final. Enrique dejó a tres hombres al principio: uno que vigilara las escaleras, y otros dos para los dos pasillos laterales. Los cinco hombres restantes, que incluían a Juan el observador y al propio Enrique, recorrerían el pasillo central. 
+El equipo obedeció y entró al piso 23. Entonces se toparon con tres pasillos: uno que avanzaba por cada lado y uno central que parecía unirse a los otros dos al final. Enrique dejó a tres hombres al principio: uno que vigilara las escaleras, y otros dos para los dos pasillos laterales. Los cinco hombres restantes, que incluían a Juan el observador y al propio Enrique, recorrerían el pasillo central. 
 
 Avanzaban despacio, con Enrique a la cabeza y el resto en fila de a dos. Se detenían a investigar en cada una de las puertas que habían a ambos lados del pasillo. Oficinas y salas de servidores, nada más.
 
@@ -105,13 +105,13 @@ Cuando se vio obligado a detenerse en mitad del pasillo, Enrique no hubiera podi
 
 - Le dijimos que nosotros nos encargábamos.
 
-El jefe de la unidad antiterrorista no se detuvo a palpar la herida y mirar la sangre, como había visto hacer en tantas películas. En lugar de eso se giró lo más rápidamente posible para descubrir quién lo había traicionado. Se trataba de los dos últimos hombres de la fila que exploraba el pasillo central: David y Mario. “Es la última vez que los dejo elegir cómo se colocan”, bromeó para sus adentros, intentando animarse.
+El jefe de la unidad antiterrorista no se detuvo a palpar la herida y mirar la sangre, como había visto hacer en tantas películas. En lugar de eso se giró lo más rápidamente posible para descubrir quién lo había traicionado. Se trataba de los dos últimos hombres de la fila que exploraba el pasillo central: David y Mario. “Es la última vez que les dejo elegir cómo se colocan”, bromeó para sus adentros, intentando animarse.
 
 Los otros dos disparos que Juan había sentido justo tras de sí habían sido para el joven Marcos y Juan El Observador. Este último miró su herida y luego a su jefe:
 
 - ¿Perderé mi puesto de observador por esto? - trató de sonreír a pesar del dolor mientras caía de rodillas, al igual que Marcos.
 
-Enrique se limitó a mirarlo y a sonreír mientras suspiraba, sin molestarse en ocultar su sorpresa. Luego volvió a mirar a los traidores: si David y Mario se mostraban arrepentidos, no lo aparentaban tras los visores de sus cascos. Enrique miró tras ellos, hacía el comienzo del pasillo. Allí donde había dejado a sus otros hombres ahora solo habían tres cuerpos inmóviles, tendidos sobre el suelo. Habían recibido sus correspondientes disparos cuando reaccionaron a la amenaza, pero estos disparos provinieron de las escaleras. 
+Enrique se limitó a mirarlo y a sonreír mientras suspiraba, sin molestarse en ocultar su sorpresa. Luego volvió a mirar a los traidores: si David y Mario se mostraban arrepentidos, no lo aparentaban tras los visores de sus cascos. Enrique miró tras ellos, hacia el comienzo del pasillo. Allí donde había dejado a sus otros hombres ahora solo habían tres cuerpos inmóviles, tendidos sobre el suelo. Habían recibido sus correspondientes disparos cuando reaccionaron a la amenaza, pero estos disparos provinieron de las escaleras. 
 
 Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos por una mujer imponente vestida de rojo. Avanzaron hacia el grupo de Enrique, sin inmutarse por los cuerpos tirados en el suelo. Juan y Marcos ya habían caído inconscientes, y Enrique no pudo mantener la compostura por más tiempo. Se encontraba de rodillas frente a la mujer de rojo, a punto de desmayarse.
 
