@@ -11,7 +11,7 @@ Paco no iba a permitir que nadie dudara de su labor como policía, y menos que s
 - ¡Miguel había desaparecido! ¡Tenía que asegurarme de que... !
 - ¡Tenías que pedir refuerzos antes de hacer nada, maldito inútil! - lo interrumpió su superior, furioso. Manuel parecía estar haciendo un esfuerzo sobrehumano por controlarse y no partirle la cara a aquel incompetente que, en teoría, estaba a sus órdenes.
 - ¡Gabriel está a salvo porque... ! - intentó excusarse el obseso policía.
-- ¡Gabriel está a salvo porque ese “vagabundo” que te redujo tan fácilmente y entró en la cadena lo quiso así! 
+- ¡Gabriel está a salvo porque ese “vagabundo” que te redujo tan fácilmente y entró en el edificio lo quiso así! 
 
 El jefe de policía resopló y alzó la cabeza hacia la brisa de la madrugada, como suplicando un poco de calma bien merecida. Tras unos segundos, continuó:
 
@@ -24,13 +24,13 @@ El jefe de policía resopló y alzó la cabeza hacia la brisa de la madrugada, c
 
 Y dicho esto, el obeso expolicía se giró y se dispuso a marcharse de aquel lugar lleno de incompetentes. Sin embargo, alguien lo detuvo.
 
-- Por favor, quédese ahí
+- Por favor, quédese ahí.
 
 Un hombre de negro había aparecido de la nada y, tras pedirle a Paco que no se moviera, se dirigió al jefe de policía. Cuando estuvo junto a él, le pidió hablar en privado, a una distancia de los presentes tal que estos no pudieran escuchar la conversación.
 
 Paco, perplejo, observaba cómo los gestos de negación tajante de su antiguo jefe se iban transformando poco a poco pero irremediablemente en una súplica. Tras unos instantes el hombre de negro se marchó sin despedirse, y Manuel se dirigió hacia donde estaba Paco. Por su voz parecía estar completamente abatido.
 
-- Vuelves a estar admitido... - resopló - que no vuelva a repetirse.
+- Vuelves a estar admitido - resopló -. Que no vuelva a repetirse.
 
 Luego se giró hacia el resto de policías de la zona. Estos últimos miraban con recelo al hombre de negro que se marchaba, y dudaban sobre si seguirlo o no
 
