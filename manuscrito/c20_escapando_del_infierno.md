@@ -156,7 +156,7 @@ Era verdad. La mujer de chandal azul y pelo pelirrojo situada tras el alcalde Ba
 - ¡No, por favor! - suplicó el alcalde Batido de Maíz.
 - ¡Es hora de que esta *Burbuja* estalle!
 
-El eco de los disparos fue pronto superado por la ovación del público, pero a los pocos segundos, también ésta fue silenciada por otro ruido.
+El eco de los disparos fue pronto superado por la ovación del público, pero a los pocos segundos, también esta fue silenciada por otro ruido.
 
 Tres notas agudas y largas de xilófono, seguida de una grave y corta.
 

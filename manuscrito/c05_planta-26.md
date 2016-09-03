@@ -95,7 +95,7 @@ Ricardo se limitó a mirar hacia otro lado, enfadado.
 
 La frase los cogió a todos por sorpresa. Los soldados se miraban entre sí, extrañados. Ana se limitó a suspirar mientras sonreía y miraba al coronel Cooper, cuya cara también era un poema.
 
-- Es un aliado. - luego giró la cabeza hacia el interfono - Genial, ahora tendremos que cambiar la clave. Es una pena; me gustaba ésta.
+- Es un aliado. - luego giró la cabeza hacia el interfono - Genial, ahora tendremos que cambiar la clave. Es una pena; me gustaba esta.
 - Lo siento mucho, señorita - Ana hizo una mueca. “No la llames así”, pensó Lucas, sonriendo para sus adentros -. Pero esto es muy cobarde, me disculparé en persona. Voy a subirles el ascensor.
 - Pero el ascensor... - quiso intervenir Cooper.
 - Lo desactivé yo mismo - respondió la voz -, para asegurarme de que después de mí no lo usara quién no debía.

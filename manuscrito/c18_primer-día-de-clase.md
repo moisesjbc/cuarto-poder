@@ -42,7 +42,7 @@ Las tres se pusieron en marcha, cruzando el arco que daba paso al salón. Entonc
 - ¡Deberías gastar tu energía en pensar nombres más originales! - rió su hermana.
 - ¡Bueno! - dijo la madre, sonriendo - ¡a la mesa!.
 
-Habían llegado a la amplia cocina-comedor, tras cruzar el arco que ésta compartía con el salón. Un amplio ventanal al jardín trasero los obsequiaba con una estancia perfectamente iluminada de manera natural y armoniosa.
+Habían llegado a la amplia cocina-comedor, tras cruzar el arco que esta compartía con el salón. Un amplio ventanal al jardín trasero los obsequiaba con una estancia perfectamente iluminada de manera natural y armoniosa.
 
 - ¿Y bien? - se interesó Mario, sentado frente a la gran mesa del comedor. Su silueta se recortaba contra la vista del verde jardín -. ¿Noemí o Lara?
 - ¡Yo! - se enorgulleció la mayor.

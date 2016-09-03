@@ -30,7 +30,7 @@ El soldado esperó con Ana frente a las escaleras. Cooper corrió hacia los mili
 - Eh...
 - ¡Joder, Lucas! ¡Sí, tú!
 
-El coronel volvió a empujarlo, esta vez hacia la cabeza de la fila. De esta forma, los que la encabezaban era, por este orden, John, el cada vez más confuso Lucas, y Cooper. Al grito de éste último la unidad se puso rápidamente en movimiento. Lucas supo que no le quedaba más remedio que correr con ellos, preguntándose por qué Cooper parecía tan empeñado en matarlo.
+El coronel volvió a empujarlo, esta vez hacia la cabeza de la fila. De esta forma, los que la encabezaban era, por este orden, John, el cada vez más confuso Lucas, y Cooper. Al grito de este último la unidad se puso rápidamente en movimiento. Lucas supo que no le quedaba más remedio que correr con ellos, preguntándose por qué Cooper parecía tan empeñado en matarlo.
 
 - Pero... - comenzó a decir el civil, tratando de adaptarse a todo lo que estaba pasando.
 - ¡Silencio!
@@ -44,9 +44,9 @@ Lucas esperó a que el oficial se colgara la radio del uniforme para intentar ha
 
 - No debemos malgastar energías. Hablaremos arriba.
 
-Arriba. Lucas nunca lo preguntó abiertamente, pero suponía que los militares se dirigían al despacho del director de La Cadena, y éste se encontraba en la planta 26, la última.
+Arriba. Lucas nunca lo preguntó abiertamente, pero suponía que los militares se dirigían al despacho del director de La Cadena, y este se encontraba en la planta 26, la última.
 
-El grupo se encontraba en el piso diecisiete y continuaba subiendo a toda prisa aquellas escaleras metálicas de cuatro tramos. En los pisos cuya puerta de acceso estaba abierta, John, el soldado que iba en cabeza, realizaba un pequeño sprint y comprobaba rápidamente que no había peligro. Tras cerciorarse de que el resto de la unidad podía proseguir con seguridad, esperaba por ésta y todos continuaban juntos. Aquel ciclo continuó repitiéndose mientras ascendían piso tras piso.
+El grupo se encontraba en el piso diecisiete y continuaba subiendo a toda prisa aquellas escaleras metálicas de cuatro tramos. En los pisos cuya puerta de acceso estaba abierta, John, el soldado que iba en cabeza, realizaba un pequeño sprint y comprobaba rápidamente que no había peligro. Tras cerciorarse de que el resto de la unidad podía proseguir con seguridad, esperaba por esta y todos continuaban juntos. Aquel ciclo continuó repitiéndose mientras ascendían piso tras piso.
 
 Acababan de llegar al último tramo de escaleras antes de alcanzar la planta 26, cuando el soldado que encabezaba la fila gritó.
 

@@ -16,7 +16,7 @@ El fogonazo, un pitido, y varios quejidos al fondo del pasillo fueron las señal
 
 - ¿Y el otro? - preguntó María, sin dejar de avanzar -. ¡Ah!
 
-Un disparo le alcanzó la pierna izquierda y la hizo caer. Ana, sin inmutarse, disparó con gran precisión hacia el enemigo restante, pero éste consiguió esconderse a tiempo tras la esquina derecha, al fondo del corredor. 
+Un disparo le alcanzó la pierna izquierda y la hizo caer. Ana, sin inmutarse, disparó con gran precisión hacia el enemigo restante, pero este consiguió esconderse a tiempo tras la esquina derecha, al fondo del corredor. 
 
 Ana continuó avanzando a toda prisa, dejando que sus compañeros le ofrecieran fuego de cobertura. Corrió los últimos metros y se colocó tras la esquina por la que había desaparecido el enemigo. Entonces se agachó y esperó a que un agente se colocara tras la esquina izquierda. Tras hacer una seña a su aliado, respiró profundamente. Con una gran determinación y agilidad, se asomó, decidida a enfrentarse a cualquier peligro. 
 

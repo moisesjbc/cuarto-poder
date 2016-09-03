@@ -15,7 +15,7 @@ Jonás mantenía la mirada baja, pero de vez en cuando se permitía alzarla, des
 - Te sangra la nariz, amigo - Iván se puso dos dedos sobre su labio superior, señalando su propia nariz.
 - Es que estoy pensando - rompió el silencio Jonás, tranquilo. Por un fugaz momento sonrió, pero su sonrisa pronto volvió a convertirse en una mueca de rencor.
 - ¡Por fin! - estalló de alegría su captor. Cada vez que algo le alegraba, se sacudía la calva tres veces -. ¿Y puedes decirme en qué estás pensando?
-- En como voy a salir de ésta.
+- En como voy a salir de esta.
 
 - Ni se te ocurra - masculló uno de los agentes de rango inferior, a la izquierda del propio Jonás. Ambos agentes, que no habían dejado de apuntar con sus fusiles al prisionero, le acercaron sus armas para recordarle a qué se enfrentaba si intentaba algo.
 - ¡Al fin! - Iván volvió a sacudirse la calva -. ¡Estoy pletórico! ¡Has conseguido hacer hablar a Pedro! Te diría que lo intentaras con Jacob, ¡pero eso costaría más! ¿Verdad? - rió.
@@ -47,7 +47,7 @@ Nada más abandonar el callejón, Jonás comprobó que otro callejón se extend�
 
 Jonás echó un vistazo hacia atrás, sin detenerse. Observó como Jacob, el chico mudo, avanzaba por el callejón que él había evitado. “Tres agentes por la calle de la derecha, Iván por esta, y el mudo por la izquierda”, recapituló. Cuando pasó por delante de un supermercado, vio un nuevo callejón nacer por su derecha.
 
-“¡Joder! ¿Me va a tener yendo de callejón en callejón?”, se quejó el perseguido. Sin dudarlo más, entró en el nuevo callejón y ésta vez se mantuvo con la mirada fija en el suelo, no fuera que se tropezara con alguien más. Al otro extremo, dos de los tres agentes que habían avanzado por la calle donde se detuvo el furgón, corrían hacia él. Jonás dudó por un segundo sobre si las instrucciones que se le habían dado no habrían sido una trampa cruel, una forma de jugar con sus ansias de libertad. Sin embargo, observó que a mitad del callejón había una bifurcación hacia la izquierda. “Derecha, derecha, izquierda”, se alegró Jonás.
+“¡Joder! ¿Me va a tener yendo de callejón en callejón?”, se quejó el perseguido. Sin dudarlo más, entró en el nuevo callejón y esta vez se mantuvo con la mirada fija en el suelo, no fuera que se tropezara con alguien más. Al otro extremo, dos de los tres agentes que habían avanzado por la calle donde se detuvo el furgón, corrían hacia él. Jonás dudó por un segundo sobre si las instrucciones que se le habían dado no habrían sido una trampa cruel, una forma de jugar con sus ansias de libertad. Sin embargo, observó que a mitad del callejón había una bifurcación hacia la izquierda. “Derecha, derecha, izquierda”, se alegró Jonás.
 
 Jonás realizó entonces un sprint para llegar a la bifurcación antes que los enemigos que corrían hacia él de frente. Los dos agentes alzaron sus fusiles para abatirlo, pero Iván, acercándose tras Jonás, los detuvo.
 
@@ -67,7 +67,7 @@ Jonás avanzó entonces por un pasillo estrecho, escuchando la madera crujir baj
 
 - ¡Ah! - exclamó el rebelde, al casi chocarse con Jonás -. ¡Por aquí!
 
-Jonás entró entonces en un salón ruinoso, lleno de polvo y sin ventanas. Tres sillones viejos lo esperaban, mirando hacia él desde la paredes frontal y laterales. Jonás se detuvo ante el sillón central, resopló, y tras un instante, se dejó caer sobre él. Su acompañante se quedó en la puerta, asomándose de vez en cuando al pasillo central. Se mostraba visiblemente nervioso y llevaba una pistola en la mano. Tras unos instantes, Jonás vio como el rebelde se asomaba a la puerta, y ésta vez se tranquilizaba. Se guardó el arma y se sentó en el sillón a la derecha de Jonás.
+Jonás entró entonces en un salón ruinoso, lleno de polvo y sin ventanas. Tres sillones viejos lo esperaban, mirando hacia él desde la paredes frontal y laterales. Jonás se detuvo ante el sillón central, resopló, y tras un instante, se dejó caer sobre él. Su acompañante se quedó en la puerta, asomándose de vez en cuando al pasillo central. Se mostraba visiblemente nervioso y llevaba una pistola en la mano. Tras unos instantes, Jonás vio como el rebelde se asomaba a la puerta, y esta vez se tranquilizaba. Se guardó el arma y se sentó en el sillón a la derecha de Jonás.
 
 - Me has hecho correr mucho - Iván lo miraba desde el umbral de la puerta, imponente. El sudor manchaba su camisa blanca.
 - Y tú me has hecho sangrar por la nariz.

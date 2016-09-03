@@ -2,7 +2,7 @@
 
 Cuando la gran puerta acorazada se abrió lo suficiente como para ver lo que había al otro lado, un inmenso contraste les golpeó. Lo que era un pasillo de hormigón frío, estrecho y sin vida, se transformaba, tras el umbral de la imponente puerta, en una amplia pero cálida sala que invitaba a quedarse. Lo único que podía hacerle a uno desistir de tal idea era el tiroteo que se podía escuchar al fondo.
 
-La habitación alargada, de dos pisos de altura, comenzaba en su primer tercio con un estrecho pasillo central. Éste avanzaba custodiado por sendas filas de tres bancos cada una. Los asientos eran de una madera fina y delicada, así como también lo eran el techo y las paredes de la estancia.
+La habitación alargada, de dos pisos de altura, comenzaba en su primer tercio con un estrecho pasillo central. Este avanzaba custodiado por sendas filas de tres bancos cada una. Los asientos eran de una madera fina y delicada, así como también lo eran el techo y las paredes de la estancia.
 
 Apenas Lucas y Ana cruzaron el umbral, la gran puerta acorazada comenzó a cerrarse tras ellos. Ana avanzó rápidamente entre los bancos, manteniéndose agachada e intentando identificar cualquier posible amenaza. Lucas la seguía como podía, sintiéndose sumamente torpe mientras intentaba imitar sus movimientos. 
 
@@ -39,7 +39,7 @@ Aprovechó que le tocaba a su compañera disparar para señalar con la mano haci
 “Él nos debe estar viendo claramente”, pensó Lucas, imaginándose la inutilidad de una sala de seguridad con un ventanal que fuera opaco por ambos lados. Marcos continuó hablando.
 
 - Se accede entrando por el piso de abajo, más adelante. Tras esta puerta... - entonces se interrumpió para asomarse a la puerta. Asomó únicamente la cabeza y estudió un momento la situación. - ¡Hijo de puta! - maldijo, al tiempo que escondía rápidamente la cabeza. Una ráfaga de balas obligó a su compañera a cubrirse también.
-- Por cierto, ésta es Lucía - dijo, mientras sonreía a su compañera. Ella le devolvió la sonrisa fugazmente, antes de asomarse de nuevo para disparar.
+- Por cierto, esta es Lucía - dijo, mientras sonreía a su compañera. Ella le devolvió la sonrisa fugazmente, antes de asomarse de nuevo para disparar.
 - Tras esta puerta... - le recordó Ana, poco interesada en presentaciones.
 - ¿Qué? ¡Ah, sí! Tras esta puerta hay un pasillo que avanza, con cuatro oficinas a cada lado. Esa parte la controlamos nosotros. El problema está más adelante.
 - Continúa - se limitó a decir Ana.

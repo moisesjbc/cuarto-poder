@@ -25,7 +25,7 @@ La entrada principal al edificio de La Cadena, en el otro lado, consistía en un
 
 La policía había recibido el aviso de un atentado terrorista hacía veinte minutos, a las nueve, y llegaron al lugar en poco más de diez minutos. Al llegar al sitio les asombró la calma reinante; realmente parecía otro día más. Como el edificio estaba completamente rodeado por rejas de tres metros con finos pero resistentes barrotes de hierro, tuvieron que dejar los coches en la calle. La mayoría de ellos se aparcaron en la parte delantera, unos pocos en la parte trasera, y aún menos y más dispersos por los laterales. 
 
-Paco y Miguel habían llegado algo tarde, y cuando alcanzaron a sus compañeros en la parte delantera, éstos ya habían ocupado posiciones tras las palmeras, con algunos valientes (o más bien estúpidos) de pie en medio del paseo peatonal. Alguien les contó que ya habían tratado de entrar, pero unos hombres vestidos de militares les habían recibido a tiros.
+Paco y Miguel habían llegado algo tarde, y cuando alcanzaron a sus compañeros en la parte delantera, estos ya habían ocupado posiciones tras las palmeras, con algunos valientes (o más bien estúpidos) de pie en medio del paseo peatonal. Alguien les contó que ya habían tratado de entrar, pero unos hombres vestidos de militares les habían recibido a tiros.
 
 - ¡Qué mal disparan! - narraba el policía -. ¡Nos sorprendieron y no dieron ni una!.
 
@@ -49,7 +49,7 @@ Al cruzar la esquina se topó de frente con un vagabundo vestido con una gabardi
 
 - ¡Hijo de...! - le espetó Paco.
 
-El policía fue a encañonar al intruso, pero éste último fue más rápido. El vagabundo corrió hacia el agente, lo desarmó y lo derribó de un puñetazo.
+El policía fue a encañonar al intruso, pero este último fue más rápido. El vagabundo corrió hacia el agente, lo desarmó y lo derribó de un puñetazo.
 
 - Uff - resopló Paco en el suelo. La pequeña carrera hasta la esquina y el reciente golpe lo habían dejado exhausto. - ¡Cabrón de mierda...!
 - ¿Me culpas a mí? ¡No pretendo herir a nadie! - se excusó el hombre harapiento - Con tu compañero sólo tuve que inutilizar su radio sin llamar su atención. Esperaba poder esconderme tras unos contenedores en lo que pedías refuerzos, y esquivarte cuando vinieras, pero parece que eres un pésimo policía.

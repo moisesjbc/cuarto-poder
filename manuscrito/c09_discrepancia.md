@@ -32,7 +32,7 @@ Por los ruidos que escucharon, parecía que Jonás había cogido su comunicador 
 
 Lucas, un mero espectador de la escena hasta ese momento, de repente quería gritarle algo a Cooper, condenar su inacción. Hasta hacía escasos segundos compartía la visión precavida del oficial, su frialdad, pero ahora que había escuchado los gritos de dolor y muerte al otro lado del comunicador... Lucas estuvo a punto de maldecir a Cooper, pero entonces escuchó una voz interior que le decía “¿Y tú qué?”, “¿Qué has hecho durante todo este tiempo, aparte de trabajar para RIO esperando que las cosas se solucionaran solas?”. 
 
-La voz acusadora de su conciencia tenía razón. Lucas se había mantenido al margen, observando como las cosas simplemente ocurrían, sin que el moviera un dedo para cambiarlas. Había pasado años ignorando la realidad, pero ésta se estaba vengando ahora de él, golpeándolo una y otra vez con una fuerza atroz. La misma fuerza con la que se escapaban los gritos de agonía de aquellos que sí se habían atrevido a hacer algo para parar a la corporación.
+La voz acusadora de su conciencia tenía razón. Lucas se había mantenido al margen, observando como las cosas simplemente ocurrían, sin que el moviera un dedo para cambiarlas. Había pasado años ignorando la realidad, pero esta se estaba vengando ahora de él, golpeándolo una y otra vez con una fuerza atroz. La misma fuerza con la que se escapaban los gritos de agonía de aquellos que sí se habían atrevido a hacer algo para parar a la corporación.
 
 La voz de Ana libró momentáneamente a Lucas de la reprimenda de su conciencia.
 

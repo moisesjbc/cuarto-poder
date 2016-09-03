@@ -64,7 +64,7 @@ Comenzaron a avanzar al unísono y con paso ligero por uno de los puentes que un
 
 Los enemigos, que en un primer momento habían dudado, ahora descargaban una auténtica tormenta de disparos sobre ellos. La nube de gas brillaba allí donde las balas iban deshaciéndose, antes siquiera de llegar a tocarlos.
 
-- Je - se confío el general -, ¿acaso éstos no saben que...?
+- Je - se confío el general -, ¿acaso estos no saben que...?
 
 Iban por la mitad del puente cuando la sangre salpicó de lleno a Cooper y al resto de personas que rodeaban a uno de los soldados de la izquierda. El cuerpo se desplomó dándose un golpe en la cabeza contra la barandilla y luego cayó aparatosamente sobre el suelo. Un agujero de bala perforaba la parte superior de su cabeza, tiñendo su pelo de rojo.
 

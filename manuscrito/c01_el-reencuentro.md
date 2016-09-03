@@ -24,7 +24,7 @@ La joven iba vestida con un top negro y ceñido de mangas largas, acompañado co
 - Me lo envió Paul. David también ha empezado a hacerme el vacío.
 - Vaya.
 
-Ana formaba parte del reducido grupo de compañeros que conocía lo suficientemente bien a Lucas como para darse cuenta de que La Cadena procuraba convertirlo injustamente en el enemigo público número uno. La razón de esto, imaginaba, sólo la conocía el propio Lucas, pero éste no se abría a nadie. Ni siquiera a su mejor amiga. 
+Ana formaba parte del reducido grupo de compañeros que conocía lo suficientemente bien a Lucas como para darse cuenta de que La Cadena procuraba convertirlo injustamente en el enemigo público número uno. La razón de esto, imaginaba, sólo la conocía el propio Lucas, pero este no se abría a nadie. Ni siquiera a su mejor amiga. 
 
 - Bueno, ya verás qué pronto se arregla todo - se limitó a decir la joven pelirroja.
 
@@ -62,7 +62,7 @@ Lucas se acomodó y prosiguió con su trabajo, ojeando informes y atendiendo alg
 
 Para llegar a los baños tenía que salir por la puerta este de la enorme sala llena de cubículos y llegar hasta el fondo de un largo pasillo con grandes estanterías a ambos lados. Odiaba aquel pasillo. Cada vez que lo cruzaba sufría un mareo horrible que hacía que el suelo temblara y que todo le diera vueltas. No quería ir al médico por ello (tampoco podía permitírselo) y últimamente parecía que le afectaba un poco menos. 
 
-Aún así, esta vez, como todas, fue un auténtico suplicio. Al llegar al pasillo y cruzar un tercio de éste ya iba tambaleándose. Intentar buscar un apoyo era inútil; las estanterías bailaban a su alrededor, amenazando con caer sobre él de un momento a otro. Lucas apenas se sentía en sí cuando logró alcanzar el baño, respirando nerviosamente y con un sabor a vómito en la boca.
+Aún así, esta vez, como todas, fue un auténtico suplicio. Al llegar al pasillo y cruzar un tercio de este ya iba tambaleándose. Intentar buscar un apoyo era inútil; las estanterías bailaban a su alrededor, amenazando con caer sobre él de un momento a otro. Lucas apenas se sentía en sí cuando logró alcanzar el baño, respirando nerviosamente y con un sabor a vómito en la boca.
 
 Tras hacer sus necesidades, el joven se tambaleó hacia el lavamanos y se echó agua en la cara varias veces, intentando mantener la consciencia. Acto seguido, se miró en el espejo. Lucas era un chico de 30 años, un año mayor que su amiga, moreno, alto y de complexión media. Tenía los ojos marrones, a juego con su pelo castaño, el cuál le gustaba mantener bien corto. No ocurría así con el bigote y la barba, los cuales no se había afeitado en dos semanas “Tengo que hacerlo pronto, empieza a picarme”, pensó. 
 

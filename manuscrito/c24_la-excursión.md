@@ -71,7 +71,7 @@ Lucas se quedó mirándola fijamente, su cara echa un poema. Noemí rió, divert
 Lucas y Noemí también miraron frente a ellos y vieron a Jonás y Ana venir hacia ellos.
 
 - ¿Qué ocurre? - se abalanzó a preguntar Lara, mirando fijamente a su hermano mayor Jonás.
-- No te preocupes - se limitó a decir éste -. Encontraremos la solución. No tienes nada que temer.
+- No te preocupes - se limitó a decir este -. Encontraremos la solución. No tienes nada que temer.
 
 Pero su voz seria no invitaba a la calma. Ana, siempre de carácter más optimista, tomó la palabra.
 
@@ -101,7 +101,7 @@ La fila alcanzó en silencio el gran portón de madera y lo cruzó, encontrándo
 
 Lucas miró hacia adelante y vio al cámara de la resistencia separado del grupo e inmortalizando el desliz de Ana.
 
-- No puedo, tengo que documentarlo todo - bromeó éste antes de girarse y continuar la marcha con el resto del grupo.
+- No puedo, tengo que documentarlo todo - bromeó este antes de girarse y continuar la marcha con el resto del grupo.
 
 Sin dejar de caminar, Ana se sacó un pequeño bote del bolsillo. Lo destapó, descubriendo un pequeño pincel enganchado a la tapa y de un brochazo acabó con los pocos pelos pelirrojos de su ceja.
 

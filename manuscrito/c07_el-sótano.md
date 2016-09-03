@@ -8,7 +8,7 @@ Frente al ascensor se extendía un largo y ancho pasillo de hormigón, con forma
 
 - ¡Mierda! - gritó por lo bajo Cooper, enfadado -. ¡Ese vagabundo nos ha llevado directos a un pelotón de fusilamiento!
 
-Michael y el coronel se encontraban a cubierto a ambos lados de las puertas del ascensor, asomando sus armas y tras éstas lo mínimo de sí mismos para poder evaluar la situación de manera segura. Ana estaba en medio del ascensor, cubriéndose tras Ricardo, su antiguo director y actual prisionero. La chica lo tenía sujeto por el cuello y presionaba la punta de la pistola contra su cabeza. Lucas, relegado al suelo del fondo del ascensor, se conformaba con ver la escena a través de las piernas de su amiga y del que había sido su jefe. Ana, sin embargo, lo obsequió con una mejor visión de lo que estaba pasando, al apartarse ligeramente ella y su prisionero hacia un lado. 
+Michael y el coronel se encontraban a cubierto a ambos lados de las puertas del ascensor, asomando sus armas y tras estas lo mínimo de sí mismos para poder evaluar la situación de manera segura. Ana estaba en medio del ascensor, cubriéndose tras Ricardo, su antiguo director y actual prisionero. La chica lo tenía sujeto por el cuello y presionaba la punta de la pistola contra su cabeza. Lucas, relegado al suelo del fondo del ascensor, se conformaba con ver la escena a través de las piernas de su amiga y del que había sido su jefe. Ana, sin embargo, lo obsequió con una mejor visión de lo que estaba pasando, al apartarse ligeramente ella y su prisionero hacia un lado. 
 
 “Quiere asegurarse de que me ven”, adivinó Lucas.
 
@@ -38,7 +38,7 @@ Y sin mediar palabra disparó contra Cooper. La bala lo hubiera alcanzado de lle
 
 - ¿Pero qué...? - preguntó un incrédulo Cooper.
 
-El líder de los enemigos se rió estrepitosamente, y los del ascensor continuaron escuchando su risa hasta instantes después de que las puertas del ascensor se cerraran y éste comenzara a bajar de nuevo.
+El líder de los enemigos se rió estrepitosamente, y los del ascensor continuaron escuchando su risa hasta instantes después de que las puertas del ascensor se cerraran y este comenzara a bajar de nuevo.
 
 - Siento la tardanza - Se disculpó Jonás, cuya voz volvía a ser una única, sin ecos, en el interfono del ascensor.
 - ¿Qué sientes la tardanza? ¡Casi nos matan! - Cooper dirigió su cara de enfado hacía el interfono, en lugar de a la cámara del techo.
@@ -56,7 +56,7 @@ Y así fue. Las puertas del ascensor se abrieron y dejaron ver un pasillo práct
 
 El coronel Cooper y su escolta Michael abandonaron el ascensor con los fusiles preparados para afrontar cualquier sorpresa. Cada uno avanzó por su lado del pasillo durante unos metros, hasta donde se encontraba Lucas, sentado en el suelo y contra la pared. Tenía unas pintas lamentables y estaba cubierto de sudor, pero en su cara se dibujaba una expresión de alivio. El ligero asomo de una sonrisa evidenciaba que el joven se encontraba mucho mejor allí que en el ascensor. 
 
-Ana había avanzado tras los militares mientras empujaba al prisionero. Cuando se reunió con ellos, miró hacia Lucas y éste la miró a su vez. Su amiga continuaba resultándole una desconocida fría y calculadora, pero al menos esta vez se permitió mostrar un poco de preocupación por él.
+Ana había avanzado tras los militares mientras empujaba al prisionero. Cuando se reunió con ellos, miró hacia Lucas y este la miró a su vez. Su amiga continuaba resultándole una desconocida fría y calculadora, pero al menos esta vez se permitió mostrar un poco de preocupación por él.
 
 - ¿Estás bien?
 - Estará bien - Jonás se tomó la osadía de responder por él. Su voz volvía a ser omnipresente en aquel pasillo, con sus ecos bailando por las paredes de hormigón - escuchen, me encuentro en una sala de seguridad de este mismo piso, ¡tienen que venir a por mí!
@@ -64,7 +64,7 @@ Ana había avanzado tras los militares mientras empujaba al prisionero. Cuando s
  Aunque se notaba su esfuerzo por aparentar tranquilidad, la preocupación manchaba cada una de sus palabras.
 
 - ¡Un momento! - la curiosidad del coronel, haciendo gala de una pésima educación, no daba paso al apremio que bañaba la situación -. ¿Estamos en el piso correcto? ¿Por qué nos paraste entonces ante el pelotón de fusilamiento?
-- Ah, se trata de un mecanismo de seguridad. Si desde aquí no se confirma la recepción del ascensor éste es redirigido al... - parecía querer buscar un nombre mejor, pero finalmente se rindió - ...al pelotón de fusilamiento, sí.
+- Ah, se trata de un mecanismo de seguridad. Si desde aquí no se confirma la recepción del ascensor este es redirigido al... - parecía querer buscar un nombre mejor, pero finalmente se rindió - ...al pelotón de fusilamiento, sí.
 - Pero entonces tú... 
 - ¡No hay tiempo que perder! - la insistencia de Cooper lo mosqueó -. ¡Tienen que rescatarme! Coronel, dígale a su hombre que se suba en el ascensor y lo enviaré a...
 - ¡MIERDA! - El coronel se golpeó con la mano en la cabeza; visiblemente furioso - ¡Joder! -. Se descolgó la radio de su uniforme y se la llevó a la boca. - ¡Steve! ¡Jordan! ¡Respondan!

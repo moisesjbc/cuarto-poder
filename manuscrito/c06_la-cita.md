@@ -4,7 +4,7 @@ Aitor aún trataba de hacerse a la idea de que aquello fuera real. Estaba a punt
 
 Aunque trataba de no pensar mucho en ello, el joven sabía que si estaba allí era en gran parte debido a la crisis. La situación económica había llevado al Costa Agraciada a rebajar sus precios una y otra vez para poder mantenerse en un mercado cada vez más difícil. Con el tiempo se transformó en lo que se conocía como un restaurante pseudolujoso: ya no estaba monopolizado por la élite de la isla, pero continuaba manteniéndose fuera de las posibilidades de una gran parte de la población.
 
-El suertudo joven miró a su izquierda para gozar una vez más de las vistas. Un gran ventanal le obsequiaba con la visión de un pequeño y precioso parque situado en la trasera del restaurante. La zona verde estaba presidida por una pequeña fuente situada en su centro, con un banco a cada lado mirando hacia ella. Una fila de árboles, y tras ésta una verja, separaban el parque del exterior. Aitor se preguntaba si se podría acceder al parque o sería un "un mírame pero no me toques”.
+El suertudo joven miró a su izquierda para gozar una vez más de las vistas. Un gran ventanal le obsequiaba con la visión de un pequeño y precioso parque situado en la trasera del restaurante. La zona verde estaba presidida por una pequeña fuente situada en su centro, con un banco a cada lado mirando hacia ella. Una fila de árboles, y tras esta una verja, separaban el parque del exterior. Aitor se preguntaba si se podría acceder al parque o sería un "un mírame pero no me toques”.
 
 Entonces giró la cabeza hacia la derecha, donde el resto de comensales hablaba y reía, ajenos a las penurias del mundo exterior. La sala principal del restaurante era un círculo donde las mesas se distribuían alrededor de una gran fuente. Esta última contaba con seis estatuas de delfines plateados que saltaban fuera del agua en distintas direcciones. Varios chorros de agua, tantos como delfines, surgían a presión del centro de la fuente para caer luego sobre la cabeza de cada cetáceo. Lejos de salpicar fuera, el agua bañaba la cabeza de los delfines y se deslizaba grácilmente sobre sus cuerpos.
 
@@ -103,9 +103,9 @@ Tal y como el Aitor había predicho, Andrés y Elizabeth se dirigieron hacia el 
 
 El túnel, rectangular y estrecho, avanzaba recto durante un buen trecho y luego giraba hacia la derecha. Fue en este giro tras el cuál Aitor los vio desaparecer, por lo que esprintó para no perderles el rastro. Sin embargo, tuvo que detenerse en seco cuando vio parte de la pared de la derecha ceder y caer delante suyo. “¡Putas termitas!”, se quejó, "¡qué inoportunas!”. 
 
-Del agujero de la pared aparecieron uno, dos y hasta tres ladrones harapientos, quienes rápidamente centraron su atención en Aitor y en el lujoso esmoquin que vestía éste.
+Del agujero de la pared aparecieron uno, dos y hasta tres ladrones harapientos, quienes rápidamente centraron su atención en Aitor y en el lujoso esmoquin que vestía este.
 
-"Termitas" era el nombre por el que se conocían a ciertos ladrones de los barrios estatales. Éstos se habían especializado en escarbar agujeros en los túneles que conectaban los barrios adinerados, y sorprendían así a los transeúntes más desafortunados para atracarles.
+"Termitas" era el nombre por el que se conocían a ciertos ladrones de los barrios estatales. Estos se habían especializado en escarbar agujeros en los túneles que conectaban los barrios adinerados, y sorprendían así a los transeúntes más desafortunados para atracarles.
 
 - ¡Vaya, vaya, vaya! - sonrió el que parecía ser el líder -. Mirad chicos, ¡parece que tenemos un botín con patas! - luego giró la cabeza hacia Aitor -. Y ahora quiero que... ¡Uf!
 
