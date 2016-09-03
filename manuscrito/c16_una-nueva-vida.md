@@ -7,7 +7,7 @@ Lucía jugaba con su gran melena lacia y rubia, nerviosa. Resopló antes de resp
 
 - Yo también lo siento. Es que... ¡es este maldito calor! - hizo una mueca de asco; la boca empezaba a saberle a vómito. Decidió entonces reservar fuerzas y recostarse una vez más.
 
-Mario miró entonces por el espejo retrovisor hacia los asientos traseros. Noemí y Lara, sus dos tesoros de 14 y 16 años, seguían dormidas. Aunque descansaban tranquilas, ajenas al bochorno, su padre pudo comprobar como una fina capa de sudor había comenzado a perlas sus frentes. “Espero que no acaben despertándose”, temió. Mario permaneció un rato embelesado, mirándolas.
+Mario miró entonces por el espejo retrovisor hacia los asientos traseros. Noemí y Lara, sus dos tesoros de 14 y 16 años, seguían dormidas. Aunque descansaban tranquilas, ajenas al bochorno, su padre pudo comprobar como una fina capa de sudor había comenzado a perlar sus frentes. “Espero que no acaben despertándose”, temió. Mario permaneció un rato embelesado, mirándolas.
 
 - Deberías centrarte en la carretera - le sonrió su mujer, al sorprenderlo distraído.
 - Bah, por no haber no hay ni un triste animal.
@@ -18,7 +18,7 @@ Tras abandonar la autopista, pararon a descansar media hora en un merendero y se
 
 - No me extraña nada. ¡Cualquiera viene a comer aquí! - sentenció entonces Lara, la hija mayor. Y tras hablar volvió a rendirse al sueño; como si se hubiera despertado únicamente para hacer la gracia.
 - No, ¡espera! - quiso detenerla su madre, al ver que cerraba los ojos entre bostezos - no te duermas, si vamos a parar aquí...
-- No, es mejor seguir - la contradijo Mario, sin detener el coche.
+- No, es mejor seguir - le contradijo Mario, sin detener el coche.
 - ¿Qué dices? ¡Tenemos que descansar!
 - Según me dijeron, tras pasar “el merendero perdido” sólo queda media hora. Creo que es mejor aguantar un poco más y ya descansar en casa.
 - También te dijeron que el viaje sería de cuatro horas y llevamos seis...
@@ -47,7 +47,7 @@ Eso había pasado hacía hora y media, y Mario aún daba gracias porque sus hija
 - No pasa nada - la tranquilizó Mario -, es la carretera.
 - ¿Qué carretera? - sonrió Lucía - me extraña que no se cortara antes.
 
-A medio kilómetro de las murallas del pueblo, el asfalto desaparecía para dejar paso a un camino de piedras en bastante mal estado. El coche tuvo entonces que aminorar la marcha, por pura consideración hacia sus amortiguadores.
+A medio kilómetro de las murallas del pueblo, el asfalto desaparecía para dejar paso a un camino de piedras en bastante mal estado. Mario tuvo entonces que aminorar la marcha, por pura consideración hacia los amortiguadores del coche.
 
 Alguien los vio acercarse desde la muralla y gritó algo hacia dentro. A los pocos segundos la gran puerta de madera de la muralla comenzó a abrirse, al tiempo que unos voladores surcaban los cielos y explotaban en las alturas.
 
@@ -79,11 +79,11 @@ Noemí enseguida le tapó la boca a Lara de la manera más disimulada que pudo. 
 El alcalde de la comunidad vestía un pijama blanco decorado con coches de colores. Las mangas de las manos y de los pies estaban hechas jirones, dando un gran contraste con el impecable sombrero de copa negro, exageradamente alto, que cubría su cabeza. Cuando la asombrada familia estuvo más cerca, comprobaron que el alcalde también iba maquillado. Toda su cara estaba empolvada en blanco, con unos círculos de colores pintados con rotulador alrededor de los ojos. Además, sus labios estaban pintados de un negro petróleo. Una gran nariz de payaso verde completaba la apariencia estrambótica de tan singular personaje.
 
 - ¡Adelante! ¡Acercaos! - les apresuró, con visible alegría.
-- De acuerdo - asintió Lucía, tratando de aparentar calma. Entonces se dirigió a Mario, en voz baja. - No sé si esto es una broma, o es algo de que no deberíamos reírnos en absoluto.
+- De acuerdo - asintió Lucía, tratando de aparentar calma. Entonces se dirigió a Mario, en voz baja. - No sé si esto es una broma, o es algo de lo que no deberíamos reírnos en absoluto.
 
 La familia subió entonces al escenario por unas escaleras de piedra que seguían su curvatura.
 
-- Permanezcamos en silencio - opinó su marido, sin dejar de mirar al alcalde -. Si es una broma ya se reirán de nosotros. ¡Y tú contrólate!
+- Permanezcamos en silencio - opinó su marido, sin dejar de mirar al alcalde -. Si es una broma ya se reirán de nosotros. ¡Y tú, contrólate!
 - Lo siento, no puedo aguantarme... - se excusó Lara, entre risitas.
 - ¡Inténtalo!
 - ¡Aquí los tenemos! - el alcalde se puso entre los padres y las hijas, y les pasó los brazos por encima con actitud amistosa. Lara, a la derecha del todo, bajó la cabeza, aparentando timidez -. ¡Es un orgullo para mí - continuó el alcalde, dirigiéndose al pueblo - presentarles a la familia Pérez!
@@ -96,16 +96,16 @@ El clamor y los aplausos se elevaron al cielo del mediodía, mientras la familia
 - No sé porqué, pero me da que usted ya lo sabe - Sonrió, pícara.
 - ¡Por supuesto, querida! Pero es tradición que los nuevos expongan qué ofrecerán a nuestra pequeña comunidad.
 - De acuerdo - se giró hacia el público allí congregado -. Seré profesora de matemáticas en el instituto.
-- No sé porqué, pero nos lo esperábamos, ¿verdad vecinos? - sonrió Batido de Maíz, y la masa sonrió a su vez, con algunas risas exageradas estallando aquí y allá - Bueno, ¿y qué nos puede decir el padre?
+- No sé porqué, pero nos lo esperábamos, ¿verdad, vecinos? - sonrió Batido de Maíz, y la masa sonrió a su vez, con algunas risas exageradas estallando aquí y allá - Bueno, ¿y qué nos puede decir el padre?
 - Yo... - Mario tosió y se aclaró la garganta -. ¡Hola! Yo soy Mario, tengo 31 años y trabajaba como técnico informático en la ciudad. Aquí desarrollaré el mismo trabajo en el ayuntamiento.
 - ¡Perfecto! ¡Necesitamos a alguien que dome a esas criaturas informáticas! - el público volvió a reír la gracia del alcalde -. ¿Y qué nos pueden contar estas pequeñas damas?
 - Yo soy Noemí, tengo 14 años y aún voy al instituto. Y... - dudó -, me gustaría saber por qué estamos encerrados aquí.
-- ¡Jo jo jo! La pequeña no pierde el tiempo, ¿verdad, amigos? - la multitud rió -. Tranquila pequeña. Es por seguridad ante los peligros de fuera. Además, queda más solemne si la mantenemos cerrada todo el año y la abrimos únicamente en situaciones especiales como esta. ¿No crees? - y sin esperar a que Noemí respondiera, continuó -. No te preocupes, la muralla dispone de puertas más pequeñas que se mantienen siempre abiertas. No queremos que nadie se sienta encerrado aquí. 
+- ¡Jo, jo, jo! La pequeña no pierde el tiempo, ¿verdad, amigos? - la multitud rió -. Tranquila pequeña. Es por seguridad ante los peligros de fuera. Además, queda más solemne si la mantenemos cerrada todo el año y la abrimos únicamente en situaciones especiales como esta. ¿No crees? - y sin esperar a que Noemí respondiera, continuó -. No te preocupes, la muralla dispone de puertas más pequeñas que se mantienen siempre abiertas. No queremos que nadie se sienta encerrado aquí. 
 
 Sin esperar respuesta por parte de Noemí, el alcalde se encaminó hacia Lara.
 
 ¡Bueno! Y esta preciosidad, ¿cómo se llama?
-- Me... llamo... Lara - La adolescente hacía increíbles esfuerzos por aguantarse la risa y por no mirar durante mucho tiempo al alcalde Batido de Maíz -. Tengo 16 años. Éste es mi último año en la ESO.
+- Me... llamo... Lara - La adolescente hacía increíbles esfuerzos por aguantarse la risa y por no mirar durante mucho tiempo al alcalde Batido de Maíz -. Tengo 16 años. Este es mi último año en la ESO.
 - ¡Y nosotros te deseamos muchísima suerte! - la gente allí reunida le lanzó gritos de ánimo. El anfitrión se dirigió hacia el gentío -. ¡Lucía, Mario, Noemí y Lara, amigos! - la ovación se elevó al cielo - ¡Amigos! - esta vez se dirigió a la familia - ¡Bienvenidos a nuestra comunidad!
 
 Una nueva ovación comenzaba a formarse, pero en seguida fue interrumpida por un sonido proveniente de todos sitios. Sobre sus cabezas, situados sobre grandes postes, habían unos grandes altavoces que empezaron a emitir el sonido de un xilófono. Tres notas graves, cortas, seguidas de una larga y aguda.
@@ -120,7 +120,7 @@ De repente, la cara todos los presentes, sin excepciones, se tornó seria. La mu
 La familia se mostró satisfecha con la idea y se encaminó hacia el coche. Entonces Mario arrancó el automóvil y lo dirigió siguiendo la curvatura de la plaza por su derecha y tomando la primera salida. Entraron en un barrio cuya carretera de doble sentido se encontraba también asfaltada en piedra grisácea, con una línea de abetos a ambos lados y aceras amarillentas. Sin embargo, a diferencia de aquellas de la avenida principal, las casas en esta zona disponían de un amplio jardín delantero y trasero. Lara abrió los ojos como platos.
 
 - ¡¿Tenemos jardín?!
-- Sí cariño - rió Lucía -, tenemos jardín.
+- Sí, cariño - rió Lucía -, tenemos jardín.
 
 Avanzaron varios metros y se detuvieron a la derecha, justo cuando la calle empezaba a girar tímidamente hacia la izquierda. 
 
