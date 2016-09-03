@@ -23,7 +23,7 @@ Ana continuó avanzando a toda prisa, dejando que sus compañeros le ofrecieran 
 Sin embargo, lo único que alcanzó a ver fue una silueta desapareciendo al fondo de un pasillo idéntico al anterior: baldosas blancas, paredes blancas, techo blanco, y una hilera de puertas metálicas, rojas y numeradas a cada lado. Cada puerta disponía de un recuadro de cristal a través del cual podía verse el interior de la habitación al otro lado.
 
 - ¡Cabrón! - Maldijo Ana -. ¡Cubrid estos pasillos! - ordenó a los dos agentes que estaban más cercanos a ella.
-- ¡Sí señora!
+- ¡Sí, señora!
 
 Ana retrocedió entonces para dirigirse hacia donde yacía su amiga en el suelo.
 
@@ -48,20 +48,20 @@ Uno tras otro, todos los agentes informaron de búsquedas infructuosas.
 
 - ¡Está bien! - gritó Ana -. ¡Comprobemos los siguientes pasillos!
 
-El grupo avanzó hasta el fondo del pasillo, donde éste bifurcaba en dos. Entonces los agentes se dividieron en dos grupos y cada uno exploró una de las bifurcaciones. Ana estaba con el grupo que tomó el camino de la derecha, cuando su radio comenzó a sonar.
+El grupo avanzó hasta el fondo del pasillo, donde este bifurcaba en dos. Entonces los agentes se dividieron en dos grupos y cada uno exploró una de las bifurcaciones. Ana estaba con el grupo que tomó el camino de la derecha, cuando su radio comenzó a sonar.
 
 - ¿Sí?
 - Aquí Miguel. Hemos conseguido llegar a la sala de control antes de que quemaran los documentos. Sin embargo, los cabrones se han cargado los monitores. Estamos ciegos.
-- De acuerdo - se lamentó Ana -. Bien, ¿Tienes ahí el registro de prisioneros?
+- De acuerdo - se lamentó Ana -. Bien, ¿tienes ahí el registro de prisioneros?
 - Espere... sí, aquí está - Y adivinando lo que su superiora deseaba saber, añadió -. Esto... lo siento, pero he olvidado el nombre del objetivo.
 
 Ana suspiró. La poca memoria de Miguel era legendaria.
 
 - Ramírez. Arturo Ramírez.
 - Bien. Veamos... - la búsqueda se demoró uno o dos minutos, que Ana aprovechó para comprobar las habitaciones cercanas -. ¡Lo encontré! La habitación es la 615.
-- ¡Uff! Y nosotros aún íbamos por la planta 3 - rió Ana, quien cortó la comunicación sin ni siquiera despedirse. ¡Muy bien! ¡Nuestro objetivo está en la sexta planta, habitación 615! ¡Ustedes suban por las escaleras de su lado! - gritó al grupo que había tomado el camino de la izquierda. Luego se centró en el grupo que la acompañaba -. ¡Ustedes conmigo!.
+- ¡Uff! Y nosotros aún íbamos por la planta 3 - rió Ana, quien cortó la comunicación sin ni siquiera despedirse. ¡Muy bien! ¡Nuestro objetivo está en la sexta planta, habitación 615! ¡Ustedes suban por las escaleras de su lado! - gritó al grupo que había tomado el camino de la izquierda. Luego se centró en el grupo que la acompañaba -. ¡Ustedes conmigo!
 
-Ambos equipos, de seis personas cada uno, se pusieron rápidamente en marcha. El grupo de Ana avanzó por su pasillo hasta el final, donde éste giraba hacia la izquierda. Un agente que iba por delante de ella se asomó rápidamente y confirmó que tenían vía libre. Tras la esquina, el pasillo avanzaba 2 metros y acababa en unas escaleras de dos tramos.
+Ambos equipos, de seis personas cada uno, se pusieron rápidamente en marcha. El grupo de Ana avanzó por su pasillo hasta el final, donde este giraba hacia la izquierda. Un agente que iba por delante de ella se asomó rápidamente y confirmó que tenían vía libre. Tras la esquina, el pasillo avanzaba 2 metros y acababa en unas escaleras de dos tramos.
 
 El equipo comenzó a subir las escaleras rápidamente, preocupándose en cada piso por no toparse con una emboscada. Sin embargo, no encontraron ningún peligro hasta que llegaron al sexto piso. Fue entonces cuando un disparo golpeó el pecho de Ana, quien cayó de espaldas sobre un aliado que iba tras ella. Ambos cayeron aparatosamente.
 
@@ -124,7 +124,7 @@ Cuando comenzaron a bajar, Ana se fijó en que Arturo continuaba con la camisa d
 - ¿Puedes decirme qué te hacían aquí? - se interesó Ana.
 - Pues poco para lo que pudieron haberme hecho esos cabrones - se extrañó Arturo - Las primeras semanas me llevaban a una sala y me obligaban a caminar de un lado a otro.
 -  ¿Qué? - sonrió Ana, incrédula. La pareja continuaba bajando las escaleras del manicomio, junto con su séquito. Iban por el cuarto piso, donde ella había recibido un disparo en el ascenso.
-- Como te lo cuento - confirmó El Venezolano -. Me hacían caminar de un lado a otro y entonces me preguntaban qué sentía. Luego me obligaban a caminar en el sentido contrario y volvían a preguntarme qué sentía. Y así una y otra y otra vez cada día - el soldado inglés de origen venezolano enfatizaba con el tono de su voz que había sido una experiencia bastante monótona y aburrida.
+- Como te lo cuento - confirmó El Venezolano -. Me hacían caminar de un lado a otro y entonces me preguntaban qué sentía. Luego me obligaban a caminar en el sentido contrario y volvían a preguntarme qué sentía. Y así una y otra y otra vez cada día - el soldado enfatizaba con el tono de su voz que había sido una experiencia bastante monótona y aburrida.
 - Ya veo - se solidarizó la joven -. ¿Podrías llevarnos a esa sala? Quizás encontremos algo interesante.
 - Claro. Justamente está en la planta dos.
 
