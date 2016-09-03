@@ -1,7 +1,7 @@
 # 18. Primer día de clase
 
 - ¡Lara! ¡Se te va a hacer tarde! - el grito provenía del piso inferior.
-- ¡Tranquila mamá! ¡Lo tengo controlado! - aseguró la adolescente, mientras terminaba de atusarse el pelo frente al espejo.
+- ¡Tranquila, mamá! ¡Lo tengo controlado! - aseguró la adolescente, mientras terminaba de atusarse el pelo frente al espejo.
 - ¡Que nos conocemos!
 
 Lara no pudo evitar sonreír. Ciertamente su familia la tenía calada en lo que a su coquetería se refería.
@@ -23,7 +23,7 @@ La mayor dio un par de zancadas dejando la barandilla de madera a su derecha. En
 
 - ¡Yo nunca me canso! - la amenazó su hermana -. ¡Ahora verás!
 
-Lara, la hermana mayor, sabía que ese era el momento decisivo. Tras un tramo largo de escaleras, estas doblaban hacia la derecha, donde unos pocos escalones la separaban de la ansiada victoria. Sin embargo, las escaleras de su antigua casa en la ciudad seguían la misma estructura, y su hermana Noemí se había especializado en alcanzarla en esa fatídica esquina.
+Lara sabía que ese era el momento decisivo. Tras un tramo largo de escaleras, estas doblaban hacia la derecha, donde unos pocos escalones la separaban de la ansiada victoria. Sin embargo, las escaleras de su antigua casa en la ciudad seguían la misma estructura, y su hermana Noemí se había especializado en alcanzarla en esa fatídica esquina.
 
 Sacando fuerzas de donde no las había, la hermana mayor hizo un sprint, giró junto con las escaleras y saltó.
 
@@ -48,14 +48,14 @@ Habían llegado a la amplia cocina-comedor, tras cruzar el arco que ésta compar
 - ¡Yo! - se enorgulleció la mayor.
 - Oh, felicidades.
 - Nunca se te ha dado muy bien disimular tus preferencias - se rió Lucía, sentándose en su sitio, frente a Mario.
-- Es que Noemí es una auténtica cazadora - le guiñó un ojo a la hija menor, quien ocupó un lugar a su izquierda -, mientras que Lara... - esto último lo dijo ralentizando las palabras, mientras miraba con picaresca a su hija mayor, sentada a su derecha.
+- Es que Noemí es una auténtica cazadora - dijo, guiñándole un ojo a la hija sentada a su izquierda -, mientras que Lara... - esto último lo dijo ralentizando las palabras, mientras miraba a esta última.
 Ja, ja, ja - su hija fingió sentirse ofendida - ya intenté ir a por ella, ¿recuerdas? Pero a ella le da igual llevar el pelo hecho un desastre, mientras que a mí...
 
-Entonces dirigió un rápido vistazo hacia su hermana de catorce años. Noemí no parecía sentir hacia su cabellera ni la mitad de la devoción que Lara sentía hacia la suya. El pelo de Noemí, rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes. Lara se había sorprendido muchas veces envidiando en secreto a su hermana, por su gran naturalidad y despreocupación.
+Entonces dirigió un rápido vistazo hacia su hermana. Noemí no parecía sentir hacia su cabellera ni la mitad de la devoción que Lara sentía hacia la suya. El pelo de Noemí, rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes. Lara se había sorprendido muchas veces envidiando en secreto a su hermana, por su gran naturalidad y despreocupación.
 
 - Sí - sonrió su padre -, ¡nos hacemos una ligera idea de lo mucho que te gusta tu pelo! - exclamó. Lara se mantuvo en silencio, mientras sonreía la gracia.
 
-Tras las bromas de rigor, finalmente se dispusieron a comer: Un plato lleno de tortitas, un bote de miel y un jarrón de leche aguardaban, en el centro de la mesa, a ser devorados. Tras acabar con una tortita, y mientras se mentalizaba para atacar la siguiente, Mario se interesó por sus hijas 
+Tras las bromas de rigor, finalmente se dispusieron a comer: un plato lleno de tortitas, un bote de miel y un jarrón de leche aguardaban en el centro de la mesa a ser devorados. Tras acabar con una tortita, y mientras se mentalizaba para atacar la siguiente, Mario se interesó por sus hijas. 
 
 - ¿Nerviosas?
 - ¡Por supuesto que no! - exclamó Noemí, soberbia.
@@ -161,7 +161,7 @@ Las tres chicas corrieron entonces hacia el pasillo, aprovechando la confusión 
 
 - No debieron arriesgarse... - se esforzaba en decir Lucía, al tiempo que sus hijas la ayudaban a avanzar por los pasillos del instituto hacia la salida.
 - ¡La traidora escapa! - era la voz del director, omnipresente a través de los altavoces repartidos por los pasillos -. ¡Debe ser ajusticiada!
-- ¡Mierda! ¡Corred! - Las apresuró Noemí.
+- ¡Mierda! ¡Corran! - Las apresuró Noemí.
 
 Por suerte el aviso del director se produjo tarde y las fugitivas se encontraban ya cerca de la puerta principal. Lara sintió un escalofrío mortal al escuchar una multitud de puertas abriéndose a sus espaldas y un montón de pasos que corrían hacia ellas.
 
@@ -169,15 +169,15 @@ Por suerte el aviso del director se produjo tarde y las fugitivas se encontraban
 - ¡Muerte a la traidora! - pudieron escuchar claramente a sus espaldas. Los pasos podían sentirse cada vez más cerca, al igual que las amenazas.
 - ¡La tengo! - Rió la madre, nerviosa -. ¡La tengo! 
 
-Rápidamente se sacó la llave del bolsillo y la agarró con fuerza en la mano. Todas juntas corrieron los pocos metros que las separaban de la libertad. Cuando llegaron a la puerta, Lucía se apresuró a intentar meter la llave en la cerradura.
+Rápidamente se sacó la llave del bolsillo y la agarró con fuerza en la mano. Todas juntas corrieron los pocos metros que les separaban de la libertad. Cuando llegaron a la puerta, Lucía se apresuró a intentar meter la llave en la cerradura.
 
 - ¡Date prisa! - la apresuró Lara.
 - ¡Ya están aquí! - gritó Noemí, mirando a los alumnos que corrían hacia ellas.
-- ¡Mierda! - protestó Lucía. Lara comprobó con horror cómo la llave no encajaba -. ¡Mierda! ¡Mierda! - resopló, al tiempo que miraba hacia la derecha -. ¡Seguidme!
+- ¡Mierda! - protestó Lucía. Lara comprobó con horror cómo la llave no encajaba -. ¡Mierda! ¡Mierda! - resopló, al tiempo que miraba hacia la derecha -. ¡Síganme!
 
-Sus hijas la siguieron hacia una puerta doble que daba al salón de actos. Lucía la abrió de un empujón y las tres entraron apresuradamente. Sin esperar ni un segundo, las tres comenzaron a coger sillas y amontonarlas contra las puertas.
+Sus hijas la siguieron hacia una puerta doble que daba al salón de actos. Lucía la abrió de un empujón y las tres entraron apresuradamente. Sin esperar ni un segundo, las tres comenzaron a coger sillas y a amontonarlas contra las puertas.
 
-- ¡Muerte a la traidora! - gos golpes aporreaban las puertas, moviendo las sillas amontonadas contra ellas.
+- ¡Muerte a la traidora! - los alumnos aporreaban las puertas, moviendo las sillas amontonadas contra ellas.
 - ¡Esto no aguantará mucho! - exclamó Noemí. Las tres intentaban mantener las sillas contra las puertas, pero sus fuerzas empezaban a resentirse.
 - ¡Las ventanas! - gritó Lara con alegría. 
 
@@ -219,7 +219,7 @@ Seguidamente miró ligeramente hacia la izquierda y hacia arriba, hacia una cám
 
 La turba se había detenido a pocos metros de ellas, tras el alcalde. Sus caras se habían transformado por completo y ya no quedaba ni rastro de la furia anterior.
 
-- ¿Qué le ha pasado? - se preocupó una mujer de voz dulce, acercándose hacia Lucia. Con todo lo que acababa de suceder, la profesora se había olvidado de las múltiples heridas que recorrían su cuerpo, así como de la blusa desgarrada -. ¡Debe verla un médico!
+- ¿Qué le ha pasado? - se preocupó una mujer de voz dulce, acercándose hacia Lucía. Con todo lo que acababa de suceder, la profesora se había olvidado de las múltiples heridas que recorrían su cuerpo, así como de la blusa desgarrada -. ¡Debe verla un médico!
 
 El resto de los presentes las miraba, asustados, y susurrándose cosas entre ellos. El alcalde, inmóvil, continuaba mirándolas con una sonrisa pícara. Entonces susurró algo. Lara, aterrada, creyó leer en sus labios:
 
