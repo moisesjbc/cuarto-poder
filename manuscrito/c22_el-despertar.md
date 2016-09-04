@@ -2,8 +2,8 @@
 
 Lucas se levantó tan rápido para abrazar a su amiga que sintió mareos, pero le daba igual. Ana y él se aferraron en un fuerte abrazo mientras luchaban por contener las lágrimas.
 
-- ¡Gracias! ¡gracias! ¡gracias!
-- ¡Creí que habías muerto! - Ana lo apretó contra si misma.
+- ¡Gracias! ¡Gracias! ¡Gracias!
+- ¡Creí que habías muerto! - Ana lo apretó contra sí misma.
 - ¡Por un instante yo también lo pensé!.
 
 Lucas no recordaba cuánto tiempo había pasado, pero que se sintió morir lo tenía claro como el agua. Había sucedido tras el asalto fallido de los ingleses y la resistencia al complejo subterráneo de RIO, bajo el AT de Gran Canaria. Corría por un túnel subterráneo junto con Ana y los demás cuando escuchó una pequeña explosión tras de si y un proyectil le impactó en la nuca. Pensó en su amiga durante el segundo que tardó en desplomarse en el suelo.
@@ -18,14 +18,14 @@ Tras aquello despertó siendo otra persona: Mario, un padre de familia que se mu
 
 Ana se había separado de Lucas y miraba, sonriente, a Jonás y Lara. Ahora eran ellos quiénes se fundían en un fuerte abrazo, con el pelo largo de ambos entrelazándose.
 
-- "Mario" - la que había sido su mujer durante aquella pesadilla lo llamaba desde el suelo -, ¿puedes ayudarme a laventarme?.
+- "Mario" - la que había sido su mujer durante aquella pesadilla lo llamaba desde el suelo -, ¿puedes ayudarme a levantarme?.
 
 Lucas se llevó la mano a la cabeza y resopló con los ojos cerrados. Cuando estuvo a punto de disculparse por la tardanza, observó que la mujer también respiraba profundamente. Parecía decirse algo para sus adentros.
 
 - ¿Estás bien? - Ana posó su mano sobre el hombro de Lucas, con gesto preocupado.
 - Sí - Lucas bajó la mano y tranquilizó a su amiga -, es sólo que...
 - ...es como si la otra persona que hemos sido intentara retomar el control - terminó Lucía. Seguía medio incorporada en el suelo, con la mano aún esperando la ayuda de Lucas. Este último se disculpó y la ayudó a levantarse.
-- Ya veo... - se preoupó Ana.
+- Ya veo... - se preocupó Ana.
 - Por cierto, me llamo María - se presentó la antigua Lucía -. ¿Ana y Lucas?.
 
 La pareja asintió.
@@ -53,10 +53,10 @@ Un miembro de la resistencia lo grababa todo. Las familias rotas, el descubrimie
 
 Lara y Lucas se separaron y se incorporaron mientras María ayudaba a Noemí a hacer lo propio.
 
-- ¿Cómo te llamas? Realmente, me refiero - Lucas enseguida se preguntó si habría echo mal al hacer la pregunta. Simplemente quería intentar distraer a la adolescente de su pérdida, pero hacerla hablar de su vida pasada tan pronto también podía ser doloroso.
+- ¿Cómo te llamas? Realmente, me refiero - Lucas enseguida se preguntó si habría echo mal al hacer la pregunta. Simplemente quería intentar distraer a la adolescente de su pérdida, pero hacerle hablar de su vida pasada tan pronto también podía ser doloroso.
 - ¿Mi nombre? - Noemí se secó una lágrima -. Noemí. También me llamaba Noemí.
 
-"¿Los menores de edad conservan su nombre?", pensó Lucas, al recordar que la hermana de Jonás también había conservado su nombre original, "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
+"¿Los menores de edad conservan su nombre?", pensó Lucas, al recordar que la, supuso, hermana de Jonás también había conservado su nombre original, "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
 
 - Documentamos el estallido de cada *Burbuja* y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Noemí, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz -, eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
 - Entiendo.
@@ -71,7 +71,7 @@ Ana no pudo disimular la sorpresa, pero rápidamente volvió a sonreir.
 
 - Qué fácil.
 - Ahora estoy seguro de que RIO nunca me dejará en paz, y todo lo que le ha hecho a esta gente... Quiero luchar contra ellos.
-- Me alegro tanto.
+- ¡Me alegro tanto!.
 
 Su amiga le posó una mano sobre el hombro. Lucas sonrió y miró a su alrededor.
 
@@ -82,7 +82,7 @@ Su amiga le posó una mano sobre el hombro. Lucas sonrió y miró a su alrededor
 
 La pareja permaneció sin hablar durante unos instantes. Finalmente Ana rompió el silencio.
 
-- Escucha, pronto llegará el transporte y tengo que atar algunos cabos antes. Te prometo que cuando llegemos al campamento charlalemos largo y tendido, ¿ok?.
+- Escucha, pronto llegará el transporte y tengo que atar algunos cabos antes. Te prometo que cuando llegemos al campamento charlaremos largo y tendido, ¿ok?.
 
 Ella lo abrazó y se marchó hacia el escenario donde se había producido la ejecución del alcalde Batido de Maíz y su séquito. Ignorando los cadáveres, Ana cruzó la zona y se adentró por la puerta de la gran torre de la plaza.
 
