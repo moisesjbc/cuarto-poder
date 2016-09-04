@@ -8,7 +8,7 @@ La furgoneta se tambaleaba violentamente mientras avanzaba sobre la carretera de
 - ¡Joder! - exclamó Lidia, a la izquierda de Aitor.
 - Vaya putada - convino Marta, a la derecha del superior.
 - Según nuestros informantes tendremos una hora libre de peligros - intentó tranquilizarles Joseph -. Suficiente para desactivar el sistema si nos damos prisa.
-- ¿Cuando nos ha salido un plan a la primera? - Preguntó Aitor, irónico.
+- ¿Cuándo nos ha salido un plan a la primera? - preguntó Aitor, irónico.
 
 Joseph se limitó a ignorarlo sin evitar una ligera sonrisa.
 
@@ -23,7 +23,7 @@ Joseph la ignoró a ella también.
 - ¡Llegando a la entrada, señor! - exclamó el conductor.
 - Muy bien, ¡todos preparados!.
 
-La furgoneta se detuvo en medio de un páramo desierto al merced de la noche. Conductor y pasajeros se equiparon con sus gafas de visión nocturna y sus armas: subfusiles para todos menos para Joseph,  que siempre confiaba en su fiel pistola. Acto seguido abandonaron el vehículo rápidamente, situándose frente a este.
+La furgoneta se detuvo en medio de un páramo desierto a merced de la noche. Conductor y pasajeros se equiparon con sus gafas de visión nocturna y sus armas: subfusiles para todos menos para Joseph,  que siempre confiaba en su fiel pistola. Acto seguido abandonaron el vehículo rápidamente, situándose frente a este.
 
 En el horizonte vislumbraron las altas murallas de piedra que rodeaban a la ciudad. Una sucesión de focos emplazados a lo largo de los muros bañaba de luz unos 50 metros hacia fuera.
 
@@ -77,7 +77,7 @@ Joseph, Marta, Lidia, Aitor y el conductor avanzaron hasta la siguiente estancia
 - Proyectaron sobre el cielo la señal de exceso de población - respondió la mujer mientras salía al jardín trasero. La brisa nocturna acarició su pelo largo y castaño.
 - Malditos cabrones - escupió él con desprecio.
 
-El grupo avanzó por el jardín trasero y accedió mediante una pequeña puerta en la valla de madera a la calle. Continuaron avanzando, pendientes de sus alrededor, hacia la avenida. Joseph se llevo la mano a un pequeño auricular en su oído derecho y sonrió, antes de responder ante el pequeño micrófono que acariciaba su mejilla.
+El grupo avanzó por el jardín trasero y accedió mediante una pequeña puerta en la valla de madera a la calle. Continuaron avanzando, pendientes de sus alrededor, hacia la avenida. Joseph se llevó la mano a un pequeño auricular en su oído derecho y sonrió, antes de responder ante el pequeño micrófono que acariciaba su mejilla.
 
 - Perfecto, esperad ahí - y al presionar de nuevo el botón del auricular para interrumpir la comunicación, informó a su grupo -. Ya se encuentran rodeando la plaza principal. Nos están esperando.
 - Pensé que llegarían todos al unísono - se extrañó Alicia.
@@ -92,7 +92,7 @@ Mientras avanzaban, Joseph giró la cabeza hacia su equipo y asintió. Todos men
 
 Alicia había avanzado varios metros antes de detenerse. Cuando se giró, la unidad estaba encañonándola. Lejos de sorprenderse, la mujer sonrió.
 
-- La comunicación de antes era un aviso de la traición inminente, ¿verdad Joseph?.
+- La comunicación de antes era un aviso de la traición inminente, ¿verdad, Joseph?.
 - Exactamente - le respondió este sin dejar de apuntarla con su pistola.
 
 El equipo de Joseph formó un semicírculo frente a la traidora. Estaban pendientes de cualquier movimiento, no sólo de Alicia, sino de los alrededores. La traidora dirigía una mirada rápida a cada uno mientras hablaba.
@@ -100,7 +100,7 @@ El equipo de Joseph formó un semicírculo frente a la traidora. Estaban pendien
 - El único problema, para ustedes, es que en las *Burbujas* no sólo interrumpimos toda comunicación con el exterior - entonces sonrió a Joseph -, salvo filtraciones, por supuesto. También escuchamos todas las comunicaciones que se producen dentro; ya sabía que me habían descubierto - dijo, señalándose el comunicador de su oído.
 - Entiendo. Aitor, Marta - dijo, sin dejar de mirar a Alicia -, abrid una de las casas cercanas. Conductor, Lidia, cubrid los laterales.
 
-El silencio de la noche se rompió cuando tres notas agudas y largas de xilófono, seguida de una grave y corta, fueron escupidas por todos los altavoces de la ciudad. Antes de que Alicia pudiera reaccionar, Joseph le disparó en la cabeza. El cuerpo se desplomó, al tiempo que todas las puertas de la ciudad de abrían casi al unísono. Aitor y Marta, que se encontraban forzando una, se apartaron a un lado al ver que se abría desde el interior. Dejaron salir a los vecinos que, con semblante serio, ignoraban a los extranjeros y se limitaban a avanzar hasta el borde de la acera. Mujeres, hombres y niños formaron una fila en el borde de la acera, a cada lado de la avenida. Todos miraban fijamente al cielo.
+El silencio de la noche se rompió cuando tres notas agudas y largas de xilófono, seguida de una grave y corta, fueron escupidas por todos los altavoces de la ciudad. Antes de que Alicia pudiera reaccionar, Joseph le disparó en la cabeza. El cuerpo se desplomó, al tiempo que todas las puertas de la ciudad se abrían casi al unísono. Aitor y Marta, que se encontraban forzando una, se apartaron a un lado al ver que se abría desde el interior. Dejaron salir a los vecinos que, con semblante serio, ignoraban a los forasteros y se limitaban a avanzar hasta el borde de la acera. Mujeres, hombres y niños formaron una fila a cada lado de la avenida. Todos miraban fijamente al cielo.
 
 - A mi señal, entrad en la casa. - se limitó a ordenar Joseph, sin dejar de mirar al cielo nocturno. Su unidad no dejó de formar guardia alrededor de la puerta, listos para entrar en cualquier momento.
 
