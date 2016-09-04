@@ -57,7 +57,7 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 - A **Ana “sólo letras”**. Porque nunca te demostré lo importante que fuiste para mí. Porque me animaste e inspiraste cuando comenzaba a escribir.
 - A **Cynthia**. Por aceptar el sacrificio de ser la primera en leer el primer capítulo “remasterizado”.
 - A **Daniel**. Por darme la idea del personaje Arturo.
-- A **Alejandro**. Por dedicar tiempo, no sólo a leer los primeros capítulos, sino también a darme correcciones valiosas. También por darme la clave para terminar el libro poco a poco: escribir aunque sea media hora al día.
+- A **Alejandro**. Por dedicar tiempo, no sólo a leer el libro, sino también a llenarlo de correcciones valiosas. También por darme la clave para terminar el libro poco a poco: escribir aunque sea media hora al día.
 - A **Lena**. Por no dejar de sorprenderme. Por leer los primeros capítulos y ayudarme a mejorarlos.
 - A **Vero**. Por ayudar a escapar a uno de los personajes.
 - A **Garoe**. Porque al tiempo de escribir esto no ha visto nada del libro, pero cuando lo haga, su exquisitez mejorará el realismo del libro... o romperá nuestra amistad.
