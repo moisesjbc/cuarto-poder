@@ -8,11 +8,11 @@ Un retraso de 3 minutos no tenía que significar nada malo necesariamente, pero.
 
 Permaneció callada unos segundos, antes de dejar aflorar una sonrisa.
 
-- ¡Perfecto! ¡Nos vemos en 1 hora!
+- ¡Perfecto! ¡Nos vemos en una hora!
 
 Acto seguido desactivó el comunicador. Se recreó en las miradas expectantes de Lucas, Jonás, Lara y Noemí, pero lejos de aclararles el retraso de 3 minutos sin noticias, se dio la vuelta, se subió al escenario de madera y gritó a viva voz.
 
-- ¡Atención, por favor! - la potencia del grito alcanzó a todos los presentes en la plaza. Ana esperó unos segundos antes de continuar -. ¡El primer grupo me acaba de comunicar que ha llegado correctamente al destino! ¡En media hora saldremos hacia la estación! ¡Gracias por su paciencia!
+- ¡Atención, por favor! - la potencia del grito alcanzó a todos los presentes en la plaza. Ana esperó unos segundos antes de continuar -. ¡El primer grupo me acaba de comunicar que ha llegado sin problemas al destino! ¡En media hora saldremos hacia la estación! ¡Gracias por su paciencia!
 
 Quizás esperando un mensaje más largo del que no querían perderse ni una parte, la gente congregada en la plaza se había acercado hasta formar un grupo más compacto al pie del escenario. Cuando la portavoz dio por finalizado el mensaje y se bajó del escenario, la congregación se dividió entre los que volvieron a ocupar posiciones dispersas en la plaza y los que permanecieron juntos al pie de la torre.
 
@@ -20,7 +20,7 @@ Quizás esperando un mensaje más largo del que no querían perderse ni una part
 - ¿Y podríamos sentarnos? - añadió Lara, aprovechando la ocasión.
 - Ok, me parece bien - sonrió Ana.
 
-El grupo estudió la plaza, buscando bancos alejados de la gente. Todos los asientos se situaban a intervalos regulares a lo largo de la curvatura de la plaza, orientados hacia la torre y el escenario. Tanto los más cercanos  como los más lejanos al escenario estaban ocupados, por lo que se conformaron con un banco en la mitad del extremo Este de la plaza. Mientras se dirigían al objetivo, Lucas alzó la vista y sonrió. Cuando Lara y Noemí se dieron cuenta también sonrieron.
+El grupo estudió la plaza, buscando bancos alejados de la gente. Todos los asientos se situaban a intervalos regulares a lo largo de la curvatura de la plaza, orientados hacia la torre y el escenario. Tanto los más cercanos  como los más lejanos al escenario estaban ocupados, por lo que se conformaron con un banco en la mitad del extremo este de la plaza. Mientras se dirigían al objetivo, Lucas alzó la vista y sonrió. Cuando Lara y Noemí se dieron cuenta también sonrieron.
 
 - ¿Qué ocurre? - se interesó Ana.
 - Detrás del banco, la calle que empieza al otro lado de la carretera. Ahí vivíamos - aclaró Lucas.
@@ -36,13 +36,13 @@ La pregunta de Jonás los pilló a todos por sorpresa. Lara se apresuró a lleva
 - ¿Entonces por qué...?
 - ¡Contesta! - el grito asustó a Lara, quien pegó un respingo en el asiento.
 - Sí, esta mañana, en clase. Estábamos en clase de matemáticas y...
-- Mierda - la cortó Jonás, alejándose mientras se maldecía para sus adentros -. mierda, mierda...
+- Mierda - la cortó Jonás, alejándose mientras se maldecía para sus adentros -. Mierda, mierda...
 
 Lucas hizo el amago de levantarse, pero Ana lo detuvo.
 
 - Quédate con las chicas, yo hablaré con él.
 
-El joven obedeció mientras su amiga alcanzaba al ex-vagabundo. Lara, Noemí y Lucas observaban a la pareja hablar sin ser capaces de oír ni una palabra de lo que estaban diciendo. El tono de la conversación parecía debatirse entre los gestos cada vez más acelerados y nerviosos de Jonás y el aspecto tranquilizador de Ana. Decidido a acatar la orden de su amiga de no entrometerse, Lucas optó por intentar distraer a las adolescentes que habían sido sus hijas por tan poco tiempo.
+El joven obedeció mientras su amiga alcanzaba a Jonás. Lara, Noemí y Lucas observaban a la pareja hablar sin ser capaces de oír ni una palabra de lo que estaban diciendo. El tono de la conversación parecía debatirse entre los gestos cada vez más acelerados y nerviosos de Jonás y el aspecto tranquilizador de Ana. Decidido a acatar la orden de su amiga de no entrometerse, Lucas optó por intentar distraer a las que habían sido sus hijas.
 
 - ¿Deseando salir de aquí tanto como yo? - soltó con una sonrisa forzada. Apenas había materializado la pregunta, Lucas se lamentó de no haber pensado una mejor cuya respuesta no fuera obvia y potencialmente un monosílabo.
 - Sí - Lara asintió como una autómata, sin dejar de mirar a su hermano mayor discutir con la mujer.
@@ -57,7 +57,7 @@ Entonces Lara apartó la mirada de la pareja discutiendo y la posó sobre la que
 - ¿Y qué fue lo que descubrieron tus padres? - se interesó Lucas.
 - Que la invasión que Inglaterra supuestamente planeaba contra Estados Unidos hace unos años fue una farsa.
 
-A Lucas se le hizo un nudo en la garganta. ¿Recordaría Noemí haber visto el montaje en el que él, Lucas, reportero de RIO, sentenciaba a Inglaterra a múltiples sanciones internacionales?. Como una adivina que dominaba la telepatía, Noemí lo miró fijamente.
+A Lucas se le hizo un nudo en la garganta. ¿Recordaría Noemí haber visto el montaje en el que él, Lucas, reportero de RIO, sentenciaba a Inglaterra a múltiples sanciones internacionales? Como una adivina que dominaba la telepatía, Noemí lo miró fijamente.
 
 - Recuerdo ver el vídeo.
 - Noemí...
@@ -75,7 +75,7 @@ Lucas y Noemí también miraron frente a ellos y vieron a Jonás y Ana venir hac
 
 Pero su voz seria no invitaba a la calma. Ana, siempre de carácter más optimista, tomó la palabra.
 
-- Lo importante es que esto no nos afecta a la hora de escapar de este lugar. En pocos minutos nos dirigiremos a la estación y tomaremos el tren como está planeado. Todo lo demás es un problema para luego - y cuando observó la mueca de Jonás, añadió -. Una eventualidad, si lo prefieres. Podemos resolverlo.
+- Lo importante es que esto no nos afecta a la hora de escapar de este lugar. En pocos minutos nos dirigiremos a la estación y tomaremos el tren como está planeado. Todo lo demás es un problema para luego - y cuando observó la mueca de Jonás, añadió -: Una eventualidad, si lo prefieres. Podemos resolverlo.
 
 Jonás no parecía muy convencido de aquello, pero se limitó a pedirle a Lara hablar en privado. La adolescente asintió con nerviosismo visible y se levantó para seguir a su hermano mayor lejos de los presentes. Ana se sentó por fin, ocupando el hueco que había dejado libre Lara.
 
@@ -86,7 +86,7 @@ Conscientes de que no iban a lograr sonsacarle la información, Lucas y Noemí l
 
 - Es la hora - dijo al fin Ana. Acto seguido se levantó y se dirigió al escenario, atrayendo las miradas curiosas de las personas allí congregadas. Se subió de un salto al escenario y gritó -. ¡Es la hora, gente! ¡Vamos a la estación!
 
-La joven retrocedió entonces hasta la puerta abierta situada en la base en la torre y golpeó la misma tres veces. Sin esperar respuesta, bajó del escenario y se dirigió hacia Lucas y los demás. Viendo que los demás presentes hacían el amago de seguirla, Ana les informó de que ella iría en la retaguardia y que siguieran a sus compañeros.
+La joven retrocedió entonces hasta la puerta abierta situada en la base de la torre y golpeó la misma tres veces. Sin esperar respuesta, bajó del escenario y se dirigió hacia Lucas y los demás. Viendo que los demás presentes hacían el amago de seguirla, Ana les informó de que ella iría en la retaguardia y que siguieran a sus compañeros.
 
 Rápidamente, los otros miembros de la resistencia, ya disfrazados como civiles organizaron a los presentes formando una fila india. Tras esperar a que los últimos compañeros emergieran del centro de control bajo la torre, pusieron en marcha a la comitiva.
 
@@ -114,10 +114,10 @@ Al fin llegaron a la estación, la cuál era poco más que una gran habitación 
 - No sabía que habría compañeros tuyos aquí - comentó Jonás. Miraba hacia Ana con suspicacia.
 - Yo sí - lo tranquilizó ella.
 
-El grupo entró en la construcción a través de unas grandes puertas de cristal ultrajadas por múltiples rayones, agujeros y otras heridas. La línea de personas fue entrando para encontrarse con una gran sala abandonada a su suerte, con muebles de madera carcomida, mostradores de vidrio destrozados, ratas campando a sus anchas... De repente Lucas comenzó a sentirse mal. Las náuseas lo pillaron por sopesa; aunque se consideraba una persona ordenada, no era ajeno al desorden y la suciedad. ¿A qué venía aquella indisposición? Los más cercanos a él lo miraron con curiosidad, hasta que Jonás se percató.
+El grupo entró en la construcción a través de unas grandes puertas de cristal ultrajadas por múltiples rayones, agujeros y otras heridas. La línea de personas fue entrando para encontrarse con una gran sala abandonada a su suerte, con muebles de madera carcomida, mostradores de vidrio destrozados, ratas campando a sus anchas... De repente Lucas comenzó a sentirse mal. Las náuseas lo pillaron por sopresa; aunque se consideraba una persona ordenada, no era ajeno al desorden y la suciedad. ¿A qué venía aquella indisposición? Los más cercanos a él lo miraron con curiosidad, hasta que Jonás se percató.
 
 - ¡FUERA DE AQUÍ! - gritó, agarrando de la mano a Lara y corriendo hacia la salida.
-- ¡Mierda! - exclamó Ana, empujando a Lucas y Noemí hacia la salida, pero refiriéndose a todo el mundo -. ¡SALID!
+- ¡Mierda! - exclamó Ana, empujando a Lucas y Noemí hacia la salida, pero refiriéndose a todo el mundo -. ¡SALGAN!
 
 De repente el suelo desapareció bajo sus pies, haciendo que todos los presentes se precipitaran hacia al vacío. Lucas estaba a escasa distancia de la puerta cuando su pie se hundió en la oscuridad. Tropezó y cayó, golpeándose la cabeza contra el suelo de la entrada, el cuál permanecía intacto.
 
