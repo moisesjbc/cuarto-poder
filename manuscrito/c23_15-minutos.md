@@ -8,13 +8,13 @@ Lucas observó a su alrededor. Los vecinos y vecinas se miraban unos a otros e i
 
 - Mis compañeros se encargarán de formar sendos grupos. Entendemos los riesgos de pertenecer a uno o a otro, pero por favor, intenten mantener la calma y respetar el grupo asignado. El segundo grupo abandonará el pueblo en el tren de las 19:12, una hora después del primero.
 
-La congregación reunida en la plaza había empezado a resquebrajarse formando dos grupos separados por una línea de miembros de la resistencia. La línea avanzaba desde el extremo delantero de la plaza hacia el escenario situado bajo la torre, al pie del cuál se encontraba Lucas. Algunos gritos, tantos furiosos como lastimosos, empezaron a lanzarse desde cada grupo hacia el otro y hacia los miembros de la resistencia. También empezaron pequeños disturbios que la resistencia aplacaba con comprensión pero con mano dura.
+La congregación reunida en la plaza había empezado a resquebrajarse formando dos grupos separados por una línea de miembros de la resistencia. La línea avanzaba desde el extremo delantero de la plaza hacia el escenario situado bajo la torre, al pie del cuál se encontraba Lucas. Algunos gritos, tantos furiosos como lastimosos, empezaron a lanzarse desde cada grupo hacia el otro y hacia los miembros de la resistencia. También empezaron pequeños disturbios que la resistencia entendía pero que aplacaba con mano dura.
 
 La voz de Ana permanecía inmutable:
 
-- Una vez formados ambos grupos, el grupo de la zona Este de la plaza será dirigido hacia la estación mientras que el de la zona Oeste esperará en el pueblo. Gracias por su colaboración.
+- Una vez formados ambos grupos, el grupo de la zona este de la plaza será dirigido hacia la estación mientras que el de la zona oeste esperará en el pueblo. Gracias por su colaboración.
 
-"Así que estaré en el segundo grupo", pensó Lucas, sin terminar de decidirse sobre si aquello le parecía bien o no. De pronto, sintió una mano agarrando la suya. Noemí, su "hija adoptiva" se había situado a su lado y se aferraba a su mano con fuerza. Lucas miró a los miembros de la resistencia que se dirigían hacia ellos separando a los vecinos en dos mitades irreconciliables. Al parecer no se habían percatado del cambio de grupo de la adolescente. Lucas miró entonces hacia María, la que había sido su mujer y madre de Noemí. La mujer no se había movido del sitio, por lo que viajaría en el primer tren de seguir así.
+"Así que estaré en el segundo grupo", pensó Lucas, sin terminar de decidirse sobre si aquello le parecía bien o no. De pronto, sintió una mano agarrando la suya. Noemí, se había situado a su lado y se aferraba a su mano con fuerza. Lucas miró a los miembros de la resistencia que se dirigían hacia ellos separando a los vecinos en dos mitades irreconciliables. Al parecer no se habían percatado del cambio de grupo de la adolescente. Lucas miró entonces hacia María, la que había sido su pareja. La mujer no se había movido del sitio, por lo que viajaría en el primer tren de seguir así.
 
 - ¿No vienes? - le susurró Lucas.
 - No, no te preocupes - le respondió ella, sonriente -. Siempre fuiste su favorito.
@@ -31,7 +31,7 @@ El miembro de la resistencia se llevó la mano a su oreja derecha y presionó un
 
 El combatiente dirigió una rápida mirada hacia Lucas y entonces miró hacia la torre de la plaza. Lucas lo imitó. De la puerta situada en la base de la torre comenzaron a salir hombres y mujeres vestidos de manera informal. Sin haber reconocido ninguno de los rostros, Lucas se aventuró a suponer que estaba viendo a miembros de la resistencia camuflados como simples civiles.
 
-Entonces vio una figura femenina delgada y esbelta abandonando la torre en último lugar. Llevaba una camiseta negra con el logotipo de un grupo de Rock que Lucas desconocía sobre el abundante pecho, y unos pantalones vaqueros de un color azul fuerte. Cuando Lucas le vio el pelo largo y moreno le dirigió una sonrisa burlona, que fue recibida por la chica con una mueca de reproche y una posterior sonrisa cómplice.
+Entonces vio una figura femenina delgada y esbelta abandonando la torre en último lugar. Llevaba una camiseta negra con el logotipo de un grupo de rock que Lucas desconocía sobre el abundante pecho, y unos pantalones vaqueros de un color azul fuerte. Cuando Lucas le vio el pelo largo y moreno le dirigió una sonrisa burlona, que fue recibida por la chica con una mueca de reproche y una posterior sonrisa cómplice.
 
 La joven caminó con paso decidido sobre el escenario de madera que rodeaba la torre y se dejó caer del mismo frente a Lucas.
 
@@ -48,14 +48,14 @@ Ana se había pintado las pestañas de negro, a juego con la peluca morena. Sin 
 La sonrisa de Lucas se difuminó al recordar a Noemí. El joven miró a la adolescente disimuladamente. Ella seguía en silencio, pero al menos había levantado el rostro y miraba hacia Ana. Tenía los ojos rojos de llorar, pero el joven creyó adivinar un asomo de sonrisa. Lucas recordó fugazmente la última vez que vio a la que había sido su hija sonreír. Fue ese mismo día por la mañana, durante el desayuno, tras haber jugado a “Revuélvele el pelo a tu hermana la coqueta” y...
 
 - ¡Lara! - escupió -, ¡y Jonás!
-- ¿Eh? - Ana se sobresaltó ante el grito de su amigo. Noemí también lo miró rápidamente, sorprendida -. Ah, ¿no venían detrás mío?.
+- ¿Eh? - Ana se sobresaltó ante el grito de su amigo. Noemí también lo miró rápidamente, sorprendida -. Ah, ¿no venían detrás mío?
 
 La falsa morena miró hacia su espalda, encontrándose el escenario vacío. También miró a ambos lados; nada. Cuando su mirada se volvió a posar en la de Lucas se encontró con unos ojos inquisidores, nerviosos.
 
 - No te preocupes - sonrió -. Jonás irrumpió con... ¿Lara? en el centro de control y se ofreció a ayudarnos a evitar que RIO nos descubra. Saldrá de un momento a otro.
 - ¿Te fías de él? - quiso saber su amigo.
 - No tanto como de ti - Ana le guiñó un ojo, burlona -, pero nos necesita. Hasta ahora ha sabido mantenerse bajo el radar, pero ahora tiene a Lara, y sabe que podemos ayudarle a protegerla.
-- Me preocupa que huya y los capturen. Creo recordar que Jonás estaba muy nervioso durante el asalto al AT de Gran Canaria. Realmente me dio la impresión de que estar tan cerca de RIO era lo último que deseaba, y esperar aquí, en medio de uno de sus complejo...
+- Me preocupa que huya y los capturen. Creo recordar que Jonás estaba muy nervioso durante el asalto al AT de Gran Canaria. Realmente me dio la impresión de que estar tan cerca de RIO era lo último que deseaba, y esperar aquí, en medio de uno de sus complejos...
 - Por desgracia no es la primera vez que "está tan cerca de RIO"... la corporación lo capturó hace tiempo y experimentó con él. Y no fue precisamente algo voluntario.
 - Oh - Lucas no sabía qué decir.
 
@@ -64,7 +64,7 @@ Ana intentó quitarle hierro al asunto:
 - Pero vamos. Ahora mismo, Jonás nos necesita tanto como nosotros a él, y eso es lo que...
 - ¡En marcha!
 
-El grito los sobresaltó. Provenía del grupo situado frente a ellos, cerca de Noemí, quien también pegó un respingo. Casi al unísono, el grupo se puso en movimiento, bordeando la torre de la plaza y abandonándola poco a poco en dirección Norte. La marcha era una masa homogénea, con los miembros de la resistencia disfrazados como simples civiles ocultándose entre los verdaderos ciudadanos. Ana, Lucas, Noemí, y los demás de su grupo se quedaron mirando a la fila de viajantes hasta que la perdieron de vista tras la torre. Lucas miró entonces a su amiga, quien permanecía inmóvil a su lado.
+El grito los sobresaltó. Provenía del grupo situado frente a ellos, cerca de Noemí, quien también pegó un respingo. Casi al unísono, el grupo se puso en movimiento, bordeando la torre de la plaza y abandonándola poco a poco en dirección norte. La marcha era una masa homogénea, con los miembros de la resistencia disfrazados como simples civiles ocultándose entre los verdaderos ciudadanos. Ana, Lucas, Noemí, y los demás de su grupo, se quedaron mirando a la fila de viajantes hasta que la perdieron de vista tras la torre. Lucas miró entonces a su amiga, quien permanecía inmóvil a su lado.
 
 - ¿No...? ¿No vas con ellos?
 - No, iré en tu grupo - le respondió ella.
@@ -77,7 +77,7 @@ Años atrás, mucho antes de ser capturado por RIO y convertirse a la fuerza en 
 - ¿En qué piensas?
 - ¿Eh? En nada - Lucas rezó para que el rubor que sintió estuviera sólo en su imaginación -. En lo que falta para salir de aquí.
 
-Ana lo miró durante unos segundos en los que Lucas intentó por todos los medios mantener la serenidad. Entonces ella, sin perder la sonrisa, miró hacia la derecha de Lucas y bajó la vista. ¡Noemí! ¡Durante su ensoñación privada, Lucas se había olvidado por completo de ella!. Cuando la miró vio que Noemí lo observaba sonriente antes de mirar a Ana y regalarle otra sonrisa a la pelirroja convertida en morena.
+Ana lo miró durante unos segundos en los que Lucas intentó por todos los medios mantener la serenidad. Entonces ella, sin perder la sonrisa, miró hacia la derecha de Lucas y bajó la vista. ¡Noemí! Durante su ensoñación privada, Lucas se había olvidado por completo de ella. Cuando la miró vio que Noemí lo observaba sonriente antes de mirar a Ana y regalarle otra sonrisa a la pelirroja convertida en morena.
 
 - ¿Q-qué ocurre? - tartamudeó Lucas.
 - ... nada - sonrió Noemí. 
@@ -88,10 +88,10 @@ Ana lo miró durante unos segundos en los que Lucas intentó por todos los medio
 
 Aquella petición lo cogió por sorpresa. Se preguntó si aquel deseo provenía de Noemí la desconocida o de Noemí su hija. A decir verdad, sintió el impulso de abrazarla y tampoco sabía si era Lucas o era Mario quién le hablaba. "Lo importante es que es lo que siento ahora", se sorprendió diciéndose. Soltó la mano de la adolescente y se agachó levemente a su encuentro, estrechando a la chica entre sus brazos.
 
-El cálido abrazo se prolongó durante unos instantes hasta que ambos se sobresaltaron al escuchar el escenario de madera crujir tras de si. Ana también se giró hacia el origen del ruido, llevándose la mano a su cadera. Fue entonces cuando Lucas se percató de la pistola que su amiga llevaba en el pantalón, oculta bajo la camiseta del grupo de Rock.
+El cálido abrazo se prolongó durante unos instantes hasta que ambos se sobresaltaron al escuchar el escenario de madera crujir tras de si. Ana también se giró hacia el origen del ruido, llevándose la mano a su cadera. Fue entonces cuando Lucas se percató de la pistola que su amiga llevaba en el pantalón, oculta bajo la camiseta del grupo de rock.
 
 - ¡Ah! - exclamó Lara, parándose en seco en medio del escenario.
-- Calma, calma - Jonás, el ex-vagabundo, alzó las manos en señal de rendición detrás de Lara.
+- Calma, calma - Jonás alzó las manos en señal de rendición detrás de Lara.
 
 Ana resopló al tiempo que liberaba la empuñadura de su arma.
 
@@ -110,7 +110,7 @@ Ana sopesó aquello durante unos segundos que a Lucas le parecieron una eternida
 
 Los presentes permanecieron de pie en aquella plaza medio llena intercambiando miradas y trivialidades hasta que Ana pidió silencio, al tiempo que activaba su comunicador.
 
-- Muy bien - dijo, su mirada perdida en el horizonte -. Avisad a vuestra llegada. Suerte y buen viaje.
+- Muy bien - dijo, su mirada perdida en el horizonte -. Avisen a su llegada. Suerte y buen viaje.
 
 Al cortar la comunicación, Ana se encontró con miradas expectantes. Se limitó a informales.
 
