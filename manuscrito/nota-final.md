@@ -9,4 +9,4 @@ De nuevo, muchas gracias.
 ## Navegación
 
 - [Capítulo anterior: 24 - La excursión](c24_la-excursión.md)
-- [Nota final](nota-final.md)
+- [Curiosidades](curiosidades.md)
