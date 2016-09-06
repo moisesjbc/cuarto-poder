@@ -20,7 +20,7 @@ La división entre barrios empresariales y estatales surgió de la siguiente lis
 5. **¿Y por qué no túneles y ya está?**
 
 
-# 2. De cháchara
+## 2. De cháchara
 
 En las primeras versiones del capítulo 3 ("El ascenso"), Cooper se quedaba hablando con Lucas y Ana en lugar de subir con el primero a la planta 26. Las siguientes notas que puse en el capítulo evidencian que no era algo que me cuadrada mucho.
 
@@ -28,7 +28,7 @@ En las primeras versiones del capítulo 3 ("El ascenso"), Cooper se quedaba habl
 - *¡OTRO MOMENTO, OTRO MOMENTO, OTRO MOMENTO!  Y encima usó el ascensor para encontrarse con Lucas y Ana, y cuando Lucas le dice que el ascensor le da mareos... ¿no dice ningún comentario gracioso sobre que ha estado en peligro, o que contaba con el factor sorpresa o algo? ¡PERO QUÉ POLLADA!*
 
 
-# 3. Versión alternativa: Jonás está en la planta 26
+## 3. Versión alternativa: Jonás está en la planta 26
 
 Antes de escribir que Jonás se cuela en el AT de Gran Canaria y baja al sótano, idee una versión en la que el vagabundo va a los pisos superiores del edificio en lugar de bajar:
 
@@ -39,7 +39,7 @@ Antes de escribir que Jonás se cuela en el AT de Gran Canaria y baja al sótano
 *Se pierde la comunicación con Jonás y Ana. Ana aparecerá algunos capítulos (por ejemplo xD) y les dará parte de la información, así como los planos de la base aérea. Dirá que capturaron a Jonás y que este, antes de despedirse de Ana le dijo que seguramente lo llevarían allí, y que tienen que rescatarlo, pero antes... (¿ciudades burbuja, o almacén en áfrica?) -> Jonás no pudo recuperar la información y las pruebas, pero consiguió averigurar el destino, el almacén de África. Ciudades burbuja después, cuando consiguen repartir las pruebas de lo de Inglaterra.*
 
 
-# 4. Versión alternativa de la reunión con Jonás
+## 4. Versión alternativa de la reunión con Jonás
 
 A continuación presento una versión alternativa del final del capítulo 11 ("Refuerzos"), cuando Jonás se reúne finalmente con los militares y la resistencia:
 
@@ -65,7 +65,7 @@ A continuación presento una versión alternativa del final del capítulo 11 ("R
 *Jonás se limitó a sonreír amargamente. Un hilillo de sangre le salía de la nariz y dividía su sonrisa en dos. Ninguna de ellas parecía albergar grandes esperanzas.*
 
 
-# 5. Lluvia de ideas para la forma de escapar de Jonás en el capítulo 19.
+## 5. Lluvia de ideas para la forma de escapar de Jonás en el capítulo 19.
 
 De una forma similar a la presentada en "Cómo llegué a los barrios empresariales y estatales", comencé a elaborar una lista con alternativas para la huida de Jonás en el capítulo 19 ("El trayecto") hasta que di con la definitiva:
 
@@ -155,7 +155,7 @@ De una forma similar a la presentada en "Cómo llegué a los barrios empresarial
     3. Hay un tiroteo y en una explosión (¿O Ajani le pega un puñetazo?), Lucas recibe un golpe en la cabeza y ve dos lunas en el cielo antes de desmayarse.
 
 
-# 7. Idas de olla varias / descartes
+## 7. Idas de olla varias / descartes
 
 - *Las nanomáquinas de Jonás le permite manejar a otras personas con una restricción: cuando está en el modo “fantasma” tiene que moverse y poseer a la víctima estando en su misma posición para poder sincronizarse con ella.*
     - *Al final del libro, cuando está a punto de poseer al malo este último dice “no, no me poseerás” y empezará a bailar y a moverse hacia todos lados.*
