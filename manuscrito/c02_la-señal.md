@@ -4,7 +4,7 @@ Jonás abrió los ojos con mala gana, molesto por la luz que, aunque tenue, bañ
 
 “Otro sueño movidito”.
 
-Se dio la vuelta y se sentó con la cabeza apoyada en la pared, contemplando aquel zulo inmundo que él mismo había transformado en su hogar. Su cama (si a aquello se le podía llamar cama) se encontraba a lo largo de la pared del fondo, frente a la puerta oxidada que daba entrada a la estancia. Frente a sí, Jonás podía ver perfectamente la montaña de latas de comida y botellas de agua que se amontonaba al pie de su lugar de descanso.
+Se dio la vuelta y se sentó con la cabeza apoyada en la pared, contemplando aquel zulo inmundo que él mismo había transformado en su hogar. Su cama (si a aquello se le podía llamar cama) se encontraba a lo largo de la pared del fondo, frente a la puerta oxidada que daba entrada a la estancia. Delante suya Jonás podía ver perfectamente la montaña de latas de comida y botellas de agua que se amontonaba al pie de su lugar de descanso.
 
 De repente Jonás recordó que algo lo había despertado; un pitido proveniente del escritorio situado a su derecha, a medio camino entre la entrada y su cama. Giró la cabeza y confirmó que, efectivamente, el ruido lo emitía su ordenador portátil. La máquina era una de las pocas piezas de tecnología de la habitación. Aunque era relativamente nueva, luchaba en vano por mantenerse limpia y pura en una estancia tan sucia y demacrada como aquella.
 
