@@ -1,6 +1,6 @@
 # 7. El sótano
 
-Las puertas metálicas del ascensor comenzaron a abrirse. Jonás intentó salir desesperadamente para librarse del terrible mareo que, sentía, estaba a punto de matarlo. Sin embargo, Cooper fue más rápido. El militar lo agarró y lo empujó contra la pared del fondo, sin mediar palabra. El brusco movimiento y el posterior golpe se aliaron para dar la estocada final al estómago de Lucas. El joven, que se había quedado sentado contra la pared, vomitó hacia un lado.
+Las puertas metálicas del ascensor comenzaron a abrirse. Jonás intentó salir desesperadamente para librarse del terrible mareo que estaba a punto de matarlo. Sin embargo, Cooper fue más rápido. El militar lo agarró y lo empujó contra la pared del fondo, sin mediar palabra. El brusco movimiento y el posterior golpe se aliaron para dar la estocada final al estómago de Lucas. El joven, que se había quedado sentado contra la pared, vomitó hacia un lado.
 
 - ¡Quietos!
 

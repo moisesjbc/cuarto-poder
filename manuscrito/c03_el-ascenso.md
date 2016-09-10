@@ -80,7 +80,7 @@ El coronel hurgó en uno de los bolsillos de su uniforme, sacó un papel doblado
 
 *Buenos días coronel Cooper.*
 
-*Me he enterado de su ataque a RIO. Por desgracia no podré acompañarle, pero intentaré procurarle toda la ayuda posible. Para empezar, tengo entendido que conoce a Lucas, el ex-reportero de La Cadena. Procure tenerlo cerca en todo momento, pues tiene un... “sexto sentido” para el peligro. Si tiene que elegir entre dos caminos, elije uno y Lucas comienza a sentirse mal, retroceda inmediatamente y tome el otro camino. No se preocupe por tener que llevarlo en la vanguardia, es demasiado valioso para que los de la corporación lo maten. Usted y sus hombres, sin embargo...  extremen las precauciones.*
+*Me he enterado de su ataque a RIO. Por desgracia no podré acompañarle, pero intentaré procurarle toda la ayuda posible. Para empezar, tengo entendido que conoce a Lucas, el ex-reportero de La Cadena. Procure tenerlo cerca en todo momento, pues tiene un... “sexto sentido” para el peligro. Si tiene que elegir entre dos caminos, elija uno y Lucas comienza a sentirse mal, retroceda inmediatamente y tome el otro camino. No se preocupe por tener que llevarlo en la vanguardia, es demasiado valioso para que los de la corporación lo maten. Usted y sus hombres, sin embargo...  extremen las precauciones.*
 
 *Le deseo toda la suerte del mundo.*
 

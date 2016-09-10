@@ -50,7 +50,7 @@ La joven rió, y Aitor también, al recordar el porqué. A medio camino entre la
 
 - ¡Bah! Nunca me llaman al móvil, ¡no importa!
 
-La pareja continuó charlando un rato más, a la espera de la comida. Bebieron vino y disfrutaron de las vistas hasta que por fin vieron al camarero que los atendió aparecer en la sala. Este portaba dos platos: pescado encebollado y lasaña vegetal. Cuando tuvieron la comida delante, a la joven pareja se le comenzó a hacer la boca agua, pero entonces los sobresaltó un grito.
+La pareja continuó charlando un rato más, a la espera de la comida. Bebieron vino y disfrutaron de las vistas hasta que por fin vieron al camarero  aparecer en la sala portando dos platos. Cuando tuvieron la comida delante a la joven pareja se le comenzó a hacer la boca agua, pero entonces los sobresaltó un grito.
 
 - ¡Así que ahí estás! - El hombre, alto y de complexión fuerte, irrumpió en el restaurante con cara de pocos amigos. Caminaba rápidamente, con la vista clavada en Elizabeth. - ¡Tenemos que irnos!
 
@@ -65,7 +65,7 @@ El camarero, sin saber qué hacer, obedeció al visitante y salió de la sala po
 - ¡Hace media hora que han iniciado un ataque contra La Cadena! - le espetó el visitante -. ¿Para que demonios tienes el móvil?
 - ¿Qué? 
 
-La cara de ella se desencajó durante un segundo, perpleja. Cuando asimiló la información, recuperó la confianza, mostrando esta vez una expresión fría y distante.
+La cara de Elizabeth se desencajó durante un segundo, perpleja. Cuando asimiló la información, recuperó la confianza, mostrando esta vez una expresión fría y distante.
 
 - Parece que nuestra cita ha terminado - dijo, mientras miraba a Aitor. Rápidamente giró la cabeza hacía Andrés -. Vayamos.
 
