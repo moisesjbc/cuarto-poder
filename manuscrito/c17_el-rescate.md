@@ -48,7 +48,7 @@ Uno tras otro, todos los agentes informaron de búsquedas infructuosas.
 
 - ¡Está bien! - gritó Ana -. ¡Comprobemos los siguientes pasillos!
 
-El grupo avanzó hasta el fondo del pasillo, donde este bifurcaba en dos. Entonces los agentes se dividieron en dos grupos y cada uno exploró una de las bifurcaciones. Ana estaba con el grupo que tomó el camino de la derecha, cuando su radio comenzó a sonar.
+El grupo avanzó hasta el fondo del pasillo, donde este se bifurcaba en dos. Entonces los agentes se dividieron en dos grupos y cada uno exploró una de las bifurcaciones. Ana estaba con el grupo que tomó el camino de la derecha, cuando su radio comenzó a sonar.
 
 - ¿Sí?
 - Aquí Miguel. Hemos conseguido llegar a la sala de control antes de que quemaran los documentos. Sin embargo, los cabrones se han cargado los monitores. Estamos ciegos.

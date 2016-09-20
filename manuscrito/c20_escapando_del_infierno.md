@@ -160,7 +160,7 @@ El eco de los disparos fue pronto superado por la ovación del público, pero a 
 
 Tres notas agudas y largas de xilófono, seguida de una grave y corta.
 
-La familia empezó a sentir cómo les fallaban las piernas. Instintivamente, los padres abrazaron a sus hijas: Lucía a Lara y Mario a Noemí. Mientras se tambaleaban comprobaron que no eran los únicos. A excepción de los extranjeros vestidos de azul, toda la ciudad había comenzado a sentirse mal. Mario vio incluso que algunos vecinos vomitaban antes de desplomarse.
+La familia empezó a sentir cómo les fallaban las piernas. Lucía abrazó a Lara y Mario a Noemí. Mientras se tambaleaban comprobaron que no eran los únicos. A excepción de los extranjeros vestidos de azul, toda la ciudad había comenzado a sentirse mal. Mario vio incluso que algunos vecinos vomitaban antes de desplomarse.
 
 - ¡Papá! ¡La mujer...! - el grito de Noemí se desvaneció a medida que perdía la consciencia.
 

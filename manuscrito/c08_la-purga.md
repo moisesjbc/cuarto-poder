@@ -113,9 +113,11 @@ Los otros dos disparos que Juan había sentido justo tras de sí habían sido pa
 
 Enrique se limitó a mirarlo y a sonreír mientras suspiraba, sin molestarse en ocultar su sorpresa. Luego volvió a mirar a los traidores: si David y Mario se mostraban arrepentidos, no lo aparentaban tras los visores de sus cascos. Enrique miró tras ellos, hacia el comienzo del pasillo. Allí donde había dejado a sus otros hombres ahora solo habían tres cuerpos inmóviles, tendidos sobre el suelo. Habían recibido sus correspondientes disparos cuando reaccionaron a la amenaza, pero estos disparos provinieron de las escaleras. 
 
-Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos por una mujer imponente vestida de rojo. Avanzaron hacia el grupo de Enrique, sin inmutarse por los cuerpos tirados en el suelo. Juan y Marcos ya habían caído inconscientes, y Enrique no pudo mantener la compostura por más tiempo. Se encontraba de rodillas frente a la mujer de rojo, a punto de desmayarse.
+Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos por una mujer imponente vestida de rojo. Avanzaron hacia el grupo de Enrique, sin inmutarse por los cuerpos tirados en el suelo. Juan y Marcos ya habían caído inconscientes, y Enrique no pudo mantener la compostura por más tiempo. 
 
-- ¿A quién debo cobrarle... - comenzó a decir, fingiendo sentirse ofendida. Enrique escuchó las últimas palabras cada vez más lejanas, justo antes de desplomarse - ...la cena de lujo que no he podido ni tan siquiera catar?
+Antes de desplomarse, Enrique escuchó a la mujer decir una última frase.
+
+- ¿A quién debo cobrarle la cena de lujo que no he podido ni tan siquiera catar?
 
 
 ## Navegación

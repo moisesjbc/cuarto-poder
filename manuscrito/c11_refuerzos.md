@@ -8,7 +8,7 @@ Apenas Lucas y Ana cruzaron el umbral, la gran puerta acorazada comenzó a cerra
 
 Tras el pasillo inicial se encontraba un gran mostrador circular de madera. Ana y Lucas se detuvieron en la parte delantera, y la joven asomó ligeramente la cabeza por encima.
 
-- Ahí está - sonrió -. No dispares.
+- Ahí está - dijo -. No dispares.
 
 Lucas apenas tuvo tiempo de reaccionar cuando su amiga echó a correr por el lado derecho del mostrador. Avanzaba rápidamente hacia el final de la sala. Cuando Lucas salió de su escondite, observó que había dos personas, un hombre y una mujer, que se escondían a ambos lados de la única puerta situada en la pared del fondo. La pareja desconocida, vestida de manera formal, no había reparado en los nuevos visitantes, pues estaban ocupados respondiendo con disparos a una amenaza invisible.
 
@@ -19,12 +19,12 @@ La mujer desconocida que estaba a la izquierda de la puerta tampoco tuvo tiempo 
 Lucas no supo entonces por qué sentirse peor: por no haber disparado a quien podría haber matado a su mejor amiga, o por haber estado a punto de hacerlo y matar a la que parecía ser una aliada. Sin dejar más tiempo para el abatimiento, volvió a fijarse en Ana. Su amiga y el hombre, un individuo de color bastante alto, se miraban fijamente, con extrema seriedad. Tras un instante, ambos sonrieron.
 
 - ¡Siempre me sorprendes! - rió él, sin dejar de mirar a Ana -. ¿Cuándo me tocará a mí?
-- Nunca, como sigas así - rió a su vez Ana, mientras le soltaba la mano. 
+- Nunca, como sigas así - se burló Ana, mientras le soltaba la mano. 
 
-El hombre sonrió y volvió a su misión de alternarse con su compañera para responder al fuego enemigo.
+El hombre fingió sentirse ofendido y volvió a su misión de alternarse con su compañera para responder al fuego enemigo.
 
 - ¿Qué tal, Marcos? - se interesó Ana, sin mostrar la mínima preocupación por el tiroteo.
-- Con el orgullo herido... pero bien, dentro de lo que cabe - Lucas no observaba en él ningún atisbo de miedo cada vez que se asomaba a la puerta y disparaba. Hablaba con Ana como si estuvieran charlando en una cafetería cualquiera -. El vagabundo nos ha dicho que sólo están ustedes.
+- Con el orgullo herido... pero bien, dentro de lo que cabe - Lucas no observaba en él ningún atisbo de miedo cada vez que se asomaba a la puerta y disparaba. Hablaba con Ana como si estuvieran charlando en una cafetería cualquiera -. Jonás nos ha dicho que sólo están ustedes.
 - Sí... podría decirse que sí.
 
 Entonces, fruto de la coincidencias, empezaron a escuchar golpes en la gran puerta acorazada, al comienzo de la sala. Ana continuó hablando.
@@ -32,14 +32,14 @@ Entonces, fruto de la coincidencias, empezaron a escuchar golpes en la gran puer
 - Como puedes ver hay más gente, pero de momento no son de gran ayuda.
 - ¿Enemigos? - dijo Marcos, tensando su rostro.
 - No - lo tranquilizó ella -, pero pueden entorpecer la operación.
-- Ya veo. Bueno, te comento: el vagabundo está aquí arriba, en la sala de seguridad.
+- Ya veo. Bueno, te comento: Jonás está aquí arriba, en la sala de seguridad.
 
 Aprovechó que le tocaba a su compañera disparar para señalar con la mano hacia arriba. La pared contra la que estaban se transformaba, en el segundo piso, en un gran ventanal de cristales ahumados.
 
 “Él nos debe estar viendo claramente”, pensó Lucas, imaginándose la inutilidad de una sala de seguridad con un ventanal que fuera opaco por ambos lados. Marcos continuó hablando.
 
 - Se accede entrando por el piso de abajo, más adelante. Tras esta puerta... - entonces se interrumpió para asomarse a la puerta. Asomó únicamente la cabeza y estudió un momento la situación. - ¡Hijo de puta! - maldijo, al tiempo que escondía rápidamente la cabeza. Una ráfaga de balas obligó a su compañera a cubrirse también.
-- Por cierto, esta es Lucía - dijo, mientras sonreía a su compañera. Ella le devolvió la sonrisa fugazmente, antes de asomarse de nuevo para disparar.
+- Por cierto, esta es Lucía - dijo, mientras miraba a su compañera. Ella asintió fugazmente, antes de asomarse de nuevo para disparar.
 - Tras esta puerta... - le recordó Ana, poco interesada en presentaciones.
 - ¿Qué? ¡Ah, sí! Tras esta puerta hay un pasillo que avanza, con cuatro oficinas a cada lado. Esa parte la controlamos nosotros. El problema está más adelante.
 - Continúa - se limitó a decir Ana.
@@ -49,7 +49,7 @@ Aprovechó que le tocaba a su compañera disparar para señalar con la mano haci
 - Entiendo... - entonces sonrió - ¿y lo de que no des ni una disparando?
 - ¡Je! - Marcos se apartó a un lado, cediendo su cobertura a Ana - Por favor, enséñeme señorita.
 
-Ana sonrió y se puso al borde de la puerta. Cuando Lucía, la chica de la derecha dejó de disparar, Ana asomó la cabeza y estudió ella misma la situación.
+Entonces la joven se puso al borde de la puerta. Cuando Lucía dejó de disparar, Ana asomó la cabeza y estudió ella misma la situación.
 
 - Creo que ese me conoce.
 - ¿Qué? - se extrañó Marcos.

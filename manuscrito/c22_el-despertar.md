@@ -18,7 +18,7 @@ Tras aquello despertó siendo otra persona: Mario, un padre de familia que se mu
 
 Ana se había separado de Lucas y miraba, sonriente, a Jonás y Lara. Ahora eran ellos quiénes se fundían en un fuerte abrazo, con el pelo largo de ambos entrelazándose.
 
-- "Mario" - la que había sido su mujer durante aquella pesadilla lo llamaba desde el suelo -, ¿puedes ayudarme a levantarme?.
+- Mario - la que había sido su mujer durante aquella pesadilla lo llamaba desde el suelo -, ¿puedes ayudarme a levantarme?.
 
 Lucas se llevó la mano a la cabeza y resopló con los ojos cerrados. Cuando estuvo a punto de disculparse por la tardanza, observó que la mujer también respiraba profundamente. Parecía decirse algo para sus adentros.
 

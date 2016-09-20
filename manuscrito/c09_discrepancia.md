@@ -28,7 +28,7 @@ Jonás hizo caso omiso de la pregunta de la joven; al decir verdad, Lucas dudaba
 Por los ruidos que escucharon, parecía que Jonás había cogido su comunicador y lo estaba moviendo. Los disparos se oyeron ahora con más fuerza. Entre el ruido comenzaron a distinguirse multitud de gritos desgarradores 
 
 - ¡Vaya! Parece que no están disponibles - Escupió la voz, sarcástica -. Quizás sea porque SE ESTÁN MURIENDO - al cabo de un rato, añadió -, ¡Joder, no entiendo cómo Ajani pudo confiar en usted!.
-- ¿Cómo sabes...? - Cooper enmudeció, quizás conviniendo en que no era el momento para preguntas. No obstante, al cabo de unos segundos dejó clara su postura. - Esperaré por mis hombres.
+- ¿Cómo sabes...? - Cooper enmudeció, conviniendo en que no era el momento para preguntas. No obstante, al cabo de unos segundos dejó clara su postura. - Esperaré por mis hombres.
 
 Lucas, un mero espectador de la escena hasta ese momento, de repente quería gritarle algo a Cooper, condenar su inacción. Hasta hacía escasos segundos compartía la visión precavida del oficial, su frialdad, pero ahora que había escuchado los gritos de dolor y muerte al otro lado del comunicador... Lucas estuvo a punto de maldecir a Cooper, pero entonces escuchó una voz interior que le decía “¿Y tú qué?”, “¿Qué has hecho durante todo este tiempo, aparte de trabajar para RIO esperando que las cosas se solucionaran solas?”. 
 
@@ -50,7 +50,7 @@ Lucas se sorprendió a si mismo cuando alzó la voz.
 
 Cooper resopló, pero finalmente cedió.
 
-- Está bien... - y tras un momento añadió - lo siento.
+- Está bien - y tras un momento, añadió -. Lo siento.
 
 La disculpa hizo mella en Lucas, poco acostumbrado a los conflictos. El joven empezó a dudar si no habría sido muy duro con el oficial, pero enseguida se limitó a mirar hacia otro lado, evitando la mirada del militar. Ana, por su parte, hizo caso omiso de la disculpa; miraba hacia Ricardo, el directivo motero. Aún permanecía inconsciente en el suelo, y parecía que la joven dudaba sobre qué hacer con él.
 

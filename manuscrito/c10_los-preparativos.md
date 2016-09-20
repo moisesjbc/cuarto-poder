@@ -3,7 +3,7 @@
 - Realmente lamento lo de tu cita - la voz intentaba hacerse oír por encima del chirrido de las ruedas.
 - Gracias, amigo. ¿Puedo confesarte algo?
 - Por supuesto, dime.
-- Realmente esperaba que esta fuera LA psicópata asesina que me hiciera sentar la cabeza. Ya sabes, la definitiva - Aitor fingió sentirse abatido.
+- Realmente esperaba que esta fuera *la* psicópata asesina que me hiciera sentar la cabeza. Ya sabes, la definitiva - Aitor fingió sentirse abatido.
 - ¡Ja, ja, ja! - Fernando rió estruendosamente -. ¡Eh, cabrón! ¡No vale hacerme reír! - se quejó, mientras empujaba el contenedor hasta recortar la poca distancia que le había ganado su compañero. 
 
 Ambos empujaron con presteza sus contenedores los últimos metros, compitiendo por ver quién dejaba el suyo antes con los demás. Cuando Fernando se declaró victorioso, y tras jactarse bastante de ello, se encaminaron a buscar los siguientes.
