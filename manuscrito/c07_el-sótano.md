@@ -31,12 +31,11 @@ Sin que nadie tuviera tiempo de reaccionar, una cortina de humo negro surgió de
 - Ya veo. Y dime una cosa: me habían dicho que esta pared estaba bloqueada, ¿cómo has conseguido desbloquearla?
 - ¿Olvidas quién diseñó su tecnología?
 - Por supuesto - A pesar de la distorsión, Lucas hubiera asegurado que el líder enemigo tenía una sonrisa dibujada en su cara.
-- ¿Por qué no disparan? - se preguntó Cooper. Su voz sonó lo suficientemente alta como para que el enemigo lo escuchara.
-- Ah claro, ustedes no saben nada. Pues bien, ¡sólo para sus ojos!.
 
-Y sin mediar palabra disparó contra Cooper. La bala lo hubiera alcanzado de lleno, de no ser por que al atravesar el gas simplemente se desvaneció, sin dejar rastro alguno.
+Los del ascensor se miraron unos a otros fugazmente sin saber qué hacer. Aprovechando el momento de duda, el jefe de la unidad enemiga disparó contra Cooper. La bala lo hubiera alcanzado de lleno de no ser por que al atravesar el gas, esta simplemente se desvaneció, sin dejar rastro alguno.
 
-- ¿Pero qué...? - preguntó un incrédulo Cooper.
+- ¿Pero qué...? - preguntó el oficial, incrédulo.
+- ¡Tienes que informar a tus aliados, Jonás!
 
 El líder de los enemigos se rió estrepitosamente, y los del ascensor continuaron escuchando su risa hasta instantes después de que las puertas del ascensor se cerraran y este comenzara a bajar de nuevo.
 
