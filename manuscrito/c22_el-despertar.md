@@ -18,6 +18,7 @@ Tras aquello despertó siendo otra persona: Mario, un padre de familia que se mu
 
 Ana se había separado de Lucas y miraba, sonriente, a Jonás y Lara. Ahora eran ellos quiénes se fundían en un fuerte abrazo, con el pelo largo de ambos entrelazándose.
 
+- Es su hermana - dijo la joven cuando percibió la confusión de Lucas.
 - Mario - la que había sido su mujer durante aquella pesadilla lo llamaba desde el suelo -, ¿puedes ayudarme a levantarme?.
 
 Lucas se llevó la mano a la cabeza y resopló con los ojos cerrados. Cuando estuvo a punto de disculparse por la tardanza, observó que la mujer también respiraba profundamente. Parecía decirse algo para sus adentros.
@@ -56,7 +57,7 @@ Lara y Lucas se separaron y se incorporaron mientras María ayudaba a Noemí a h
 - ¿Cómo te llamas? Realmente, me refiero - Lucas enseguida se preguntó si habría echo mal al hacer la pregunta. Simplemente quería intentar distraer a la adolescente de su pérdida, pero hacerle hablar de su vida pasada tan pronto también podía ser doloroso.
 - ¿Mi nombre? - Noemí se secó una lágrima -. Noemí. También me llamaba Noemí.
 
-"¿Los menores de edad conservan su nombre?", pensó Lucas, al recordar que la, supuso, hermana de Jonás también había conservado su nombre original, "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
+"¿Los menores de edad conservan su nombre?", pensó Lucas, al recordar que la hermana de Jonás también había conservado su nombre original, "Lara". Entonces volvió a fijarse en el cámara; otra vez estaba enfocándolo a él.
 
 - Documentamos el estallido de cada *Burbuja* y publicamos la información en medios de información alternativos - le explicó Ana al adivinar su duda -. RIO normalmente lo tiene fácil para desmentir la información; al fin y al cabo, los sujetos suelen ser vagabundos, repudiados o... - miró hacia Noemí, abrazada a María, y bajó la voz - o gente sin familia. En este caso - volvió a alzar la voz -, eres relativamente famoso por los hechos de Inglaterra. La resistencia quiere aprovechar esta baza para apretar el cerco entorno a RIO.
 - Entiendo.
