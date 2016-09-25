@@ -21,15 +21,19 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 
 - Si has descargado el repositorio y estás leyendo este documento localmente, puedes leer el libro en la carpeta *manuscrito* anexa.
 - [Pulsa aquí para leer el libro online](manuscrito/c01_el-reencuentro.md).
-- [Pulsa aquí para descargar el libro (v1.3, PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.2.1/cuarto-poder-v1.3.pdf).
-- [Pulsa aquí para descargar el libro (v1.3, PDF, formato libro)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.3/libro-cuarto-poder-v1.2.1pdf).
-- [Pulsa aquí para descargar el libro (v1.3, Epub)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.2.1/libro-cuarto-poder-v1.3.epub).
+- [Pulsa aquí para descargar el libro (v1.3, PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.3/cuarto-poder-v1.3.pdf).
+- [Pulsa aquí para descargar el libro (v1.3, PDF, formato libro)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.3/libro-cuarto-poder-v1.3.pdf).
+- [Pulsa aquí para descargar el libro (v1.3, Epub)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.3/libro-cuarto-poder-v1.3.epub).
 
 ## Última versión
 
 ¿Estás leyendo la última versión de la novela? ¡Visita <https://github.com/moisesjbc/cuarto-poder> y compruébalo!
 
 ## Noticias
+
+### Versión 1.3 publicada (25/09/2016)
+
+Gracias a las correcciones de mi amigo Alejandro el libro ha pegado un buen salto cualitativo. Los cambios van desde las correcciones de erratas hasta cambios en el estilo para aclarar las partes más confusas.
 
 ### Versión 1.2.1 publicada (24/07/2016)
 
