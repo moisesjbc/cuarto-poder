@@ -33,7 +33,7 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 
 ### Versión 1.3 publicada (25/09/2016)
 
-Gracias a las correcciones de mi amigo Alejandro el libro ha pegado un buen salto cualitativo. Los cambios van desde las correcciones de erratas hasta cambios en el estilo para aclarar las partes más confusas.
+Gracias a las correcciones de mi amigo Alejandro el libro ha pegado un buen salto cualitativo. Los cambios van desde las correcciones de erratas hasta cambios en el estilo para aclarar las partes más confusas. Además, en esta versión he añadido una sección *Curiosidades* al final del libro.
 
 ### Versión 1.2.1 publicada (24/07/2016)
 
