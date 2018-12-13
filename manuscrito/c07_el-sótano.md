@@ -18,7 +18,7 @@ Michael y el coronel se encontraban a cubierto a ambos lados de las puertas del 
 - ¡Yo no lo veo así! - el líder de los enemigos se permitió el lujo de reír, confiado.
 - ¡Tenemos al director! - Cooper hizo caso omiso de aquella risa prepotente -. ¡Y a Lucas!
 - Son valiosos, ciertamente - el enemigo había dejado de reírse, pero mantenía su sonrisa -, pero no imprescindibles. El señor Ricardo ya sabía que la gran mayoría de nosotros somos prescindibles en esta... "compañía", cuando aceptó trabajar para ella. En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor -. Es bastante valioso para nosotros, pero por suerte no es único.
-- ¿Pero por qué...? - comenzó a decir Lucas, pero se rindió enseguida. Le fallaba la voz y estaba casi seguro de que ni siquiera Ana, situada delante suya, lo había oído.
+- ¿Pero por qué...? - comenzó a decir Lucas, pero se rindió enseguida. Le fallaba la voz y estaba casi seguro de que ni siquiera Ana, situada delante de él, lo había oído.
 - Hagamos algo - continuó el líder, dirigiéndose a Cooper -, dadnos a Ricardo y a Lucas y dejaremos que... - se interrumpió, riéndose - No, no puedo. Han llegado hasta aquí y respeto eso. Así que les recompensaré con la verdad; hagan lo que hagan, no van a salir de aquí con vida.
 - Vaya, gracias por la sinceridad - Le respondió Ana, irónica.
 - De nada, guapa. Será una lástima matarte junto con ellos, pero...

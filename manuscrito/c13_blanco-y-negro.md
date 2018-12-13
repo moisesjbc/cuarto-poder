@@ -4,7 +4,7 @@ El ascensor al final del pasillo era diferente a aquellos en los que se habían 
 
 Los miembros de la resistencia y los militares entraron en el ascensor y ocuparon posiciones alternas a lo largo de su curvatura. Únicamente tres personas se posicionaron en el centro: el coronel Cooper, Jonás el vagabundo, y Ricardo, el director motero del AT de Gran Canaria. Este último, de nuevo consciente, permanecía de rodillas y esposado. 
 
-Jonás estaba ocupado tecleando en un complejo panel lleno de botones que se alzaba en el centro mismo del ascensor. El coronel permanecía justo detrás suyo y observaba de vez en cuando a Ricardo, pero se mantenía concentrado en el vagabundo. Lucas podía ver la expresión de desconfianza en su rostro.
+Jonás estaba ocupado tecleando en un complejo panel lleno de botones que se alzaba en el centro mismo del ascensor. El coronel permanecía justo detrás de él y observaba de vez en cuando a Ricardo, pero se mantenía concentrado en el vagabundo. Lucas podía ver la expresión de desconfianza en su rostro.
 
 El ascensor comenzó un descenso lento y silencioso. La única prueba perceptible de su movimiento se dilucidaba más allá de los cristales, donde unas luces verticales y alargadas los saludaban y se despedían a medida que el ascensor bajaba.
 

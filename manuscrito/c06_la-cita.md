@@ -101,7 +101,7 @@ Los barrios estatales, por el otro lado, habían sido construidos por el Estado 
 
 Tal y como el Aitor había predicho, Andrés y Elizabeth se dirigieron hacia el acceso subterráneo para tomar el túnel que conectaba con el barrio de La Cadena. El perseguidor aguardó un momento tras una esquina, mientras sus objetivos mostraban sus pases a los guardias. Entonces esperó otro momento para ganar distancia de seguridad con respecto a ellos. Cuando lo consideró oportuno, corrió hacia el acceso, mostró su pase a un guardia con cara de pocos amigos y bajó por las escaleras de caracol hasta el túnel.
 
-El túnel, rectangular y estrecho, avanzaba recto durante un buen trecho y luego giraba hacia la derecha. Fue en este giro tras el cuál Aitor los vio desaparecer, por lo que esprintó para no perderles el rastro. Sin embargo, tuvo que detenerse en seco cuando vio parte de la pared de la derecha ceder y caer delante suyo. “¡Putas termitas!”, se quejó, "¡qué inoportunas!”. 
+El túnel, rectangular y estrecho, avanzaba recto durante un buen trecho y luego giraba hacia la derecha. Fue en este giro tras el cuál Aitor los vio desaparecer, por lo que esprintó para no perderles el rastro. Sin embargo, tuvo que detenerse en seco cuando vio parte de la pared de la derecha ceder y caer delante de él. “¡Putas termitas!”, se quejó, "¡qué inoportunas!”. 
 
 Del agujero de la pared aparecieron uno, dos y hasta tres ladrones harapientos, quienes rápidamente centraron su atención en Aitor y en el lujoso esmoquin que vestía este.
 
