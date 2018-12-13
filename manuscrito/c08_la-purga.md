@@ -16,7 +16,7 @@ Los enemigos se encontraban desperdigados por el pasillo de la primera planta, c
 
 - ¡Ahora!
 
-El que gritó fue Enrique, jefe de la unidad y el segundo en la fila de la izquierda. En ese momento la mayoría de los enemigos dejaron de disparar sobre ellos; en lugar de eso se ocultaron tras sus respectivas coberturas, en la planta superior. Aquello lo extrañó sobremanera, y pensó que seguramente se trataría de una trampa. No obstante, cuando habían rehenes en juego, no había tiempo que perder. Siguiendo su orden, el equipo se puso en marcha.
+El que gritó fue Enrique, jefe de la unidad y el segundo en la fila de la izquierda. En ese momento la mayoría de los enemigos dejaron de disparar sobre ellos; en lugar de eso se ocultaron tras sus respectivas coberturas, en la planta superior. Aquello lo extrañó sobremanera, y pensó que seguramente se trataría de una trampa. No obstante, cuando había rehenes en juego, no había tiempo que perder. Siguiendo su orden, el equipo se puso en marcha.
 
 - ¡Agh! - gritaron al unísono el primer hombre de cada columna.
 
@@ -53,7 +53,7 @@ Pero era inútil; la marea de gente no atendía a las órdenes de la policía y 
 - Dejaremos que los policías de a pie se ganen el pan - a enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
 - ¿Y qué ocurre con los hombres de negro? - preguntó otro.
 
-Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que habían problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver una orden judicial que les daba carta blanca.
+Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que había problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver una orden judicial que les daba carta blanca.
 
 Con Enrique siguieron el mismo procedimiento, pero él ya estaba harto: harto de que le arrebataran una y otra vez la oportunidad de hacer su trabajo. Harto de que ocultaran los secretos de una corporación que apestaba a podrido si tenías un pizco de cabeza y podías olerlo. Era por ello, que desoyendo las órdenes de sus superiores y de aquellos bastardos de negro, había ordenado a su unidad entrar en el edificio de La Cadena.
 
@@ -99,7 +99,7 @@ Todos se pararon en seco y se pusieron a cubierto, pero la explosión era lo suf
 
 El equipo obedeció y entró al piso 23. Entonces se toparon con tres pasillos: uno que avanzaba por cada lado y uno central que parecía unirse a los otros dos al final. Enrique dejó a tres hombres al principio: uno que vigilara las escaleras, y otros dos para los dos pasillos laterales. Los cinco hombres restantes, que incluían a Juan el observador y al propio Enrique, recorrerían el pasillo central. 
 
-Avanzaban despacio, con Enrique a la cabeza y el resto en fila de a dos. Se detenían a investigar en cada una de las puertas que habían a ambos lados del pasillo. Oficinas y salas de servidores, nada más.
+Avanzaban despacio, con Enrique a la cabeza y el resto en fila de a dos. Se detenían a investigar en cada una de las puertas que había a ambos lados del pasillo. Oficinas y salas de servidores, nada más.
 
 Cuando se vio obligado a detenerse en mitad del pasillo, Enrique no hubiera podido decir qué oyó primero, si la voz fría o los múltiples disparos. Una bala, más poderosa que su chaleco antibalas, acababa de atravesarle espalda y pecho.
 
@@ -111,7 +111,7 @@ Los otros dos disparos que Juan había sentido justo tras de sí habían sido pa
 
 - ¿Perderé mi puesto de observador por esto? - trató de sonreír a pesar del dolor mientras caía de rodillas, al igual que Marcos.
 
-Enrique se limitó a mirarlo y a sonreír mientras suspiraba, sin molestarse en ocultar su sorpresa. Luego volvió a mirar a los traidores: si David y Mario se mostraban arrepentidos, no lo aparentaban tras los visores de sus cascos. Enrique miró tras ellos, hacia el comienzo del pasillo. Allí donde había dejado a sus otros hombres ahora solo habían tres cuerpos inmóviles, tendidos sobre el suelo. Habían recibido sus correspondientes disparos cuando reaccionaron a la amenaza, pero estos disparos provinieron de las escaleras. 
+Enrique se limitó a mirarlo y a sonreír mientras suspiraba, sin molestarse en ocultar su sorpresa. Luego volvió a mirar a los traidores: si David y Mario se mostraban arrepentidos, no lo aparentaban tras los visores de sus cascos. Enrique miró tras ellos, hacia el comienzo del pasillo. Allí donde había dejado a sus otros hombres ahora solo había tres cuerpos inmóviles, tendidos sobre el suelo. Habían recibido sus correspondientes disparos cuando reaccionaron a la amenaza, pero estos disparos provinieron de las escaleras. 
 
 Los hombres de negro comenzaron entonces a hacer acto de aparición, precedidos por una mujer imponente vestida de rojo. Avanzaron hacia el grupo de Enrique, sin inmutarse por los cuerpos tirados en el suelo. Juan y Marcos ya habían caído inconscientes, y Enrique no pudo mantener la compostura por más tiempo. 
 

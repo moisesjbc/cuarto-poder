@@ -108,7 +108,7 @@ Sin esperar respuesta por parte de Noemí, el alcalde se encaminó hacia Lara.
 - Me... llamo... Lara - La adolescente hacía increíbles esfuerzos por aguantarse la risa y por no mirar durante mucho tiempo al alcalde Batido de Maíz -. Tengo 16 años. Este es mi último año en la ESO.
 - ¡Y nosotros te deseamos muchísima suerte! - la gente allí reunida le lanzó gritos de ánimo. El anfitrión se dirigió hacia el gentío -. ¡Lucía, Mario, Noemí y Lara, amigos! - la ovación se elevó al cielo - ¡Amigos! - esta vez se dirigió a la familia - ¡Bienvenidos a nuestra comunidad!
 
-Una nueva ovación comenzaba a formarse, pero en seguida fue interrumpida por un sonido proveniente de todos sitios. Sobre sus cabezas, situados sobre grandes postes, habían unos grandes altavoces que empezaron a emitir el sonido de un xilófono. Tres notas graves, cortas, seguidas de una larga y aguda.
+Una nueva ovación comenzaba a formarse, pero en seguida fue interrumpida por un sonido proveniente de todos sitios. Sobre sus cabezas, situados sobre grandes postes, había unos grandes altavoces que empezaron a emitir el sonido de un xilófono. Tres notas graves, cortas, seguidas de una larga y aguda.
 
 De repente, la cara todos los presentes, sin excepciones, se tornó seria. La multitud, sin decir una palabra, comenzó a abandonar la plaza en todas las direcciones, sin prisa pero sin pausa.
 
