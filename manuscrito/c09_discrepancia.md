@@ -10,7 +10,7 @@ De repente comenzaron a escuchar el ruido atronador de multitud de disparos. Los
 - Siento interrumpir, ¡pero mi situación es realmente urgente!.
 - ¿Qué sucede? - se preocupó Cooper. 
 - ¡Los enemigos han conseguido romper la primera línea de defensa!. ¡Tienen que darse prisa!.
-- Me hago cargo de la urgencia - le hizo saber el coronel -, pero aún no estamos todos. Si vamos ahora y nos fusilan nada de esto habrá servido de nada.
+- Me hago cargo de la urgencia - le hizo saber el coronel -, pero aún no estamos todos. Si vamos ahora y nos fusilan nada de esto habrá servido de algo.
 - ¡A mí me parece que es usted quién no lo entiende! - le espetó la voz, tensándose por momentos -. Si esperan para la reunión familiar, hay mayores posibilidades de que acaben matándome. ¡Y si yo muero, fin de la partida! - sentenció, seguro de lo que decía.
 - Mire - Cooper intentó mostrarse tranquilo, negociador -, es cierto que de no ser por usted no hubiéramos llegado hasta aquí, pero es peligroso. Si lo piensa con la cabeza fría, se dará cuenta de que lo mejor es esperar - Jonás quiso decir algo, pero Cooper continuó -. Además, si ha podido resistir solo hasta ahora, podrá aguantar un poco más.
 
@@ -100,7 +100,7 @@ Ya a cierta distancia, Lucas no llegó a entender lo que escupía Cooper entre g
 
 - ¿Sabías lo que iba a hacer?
 - No - confesó Ana -, pero me fijé en que este pasillo también tenía esos poros en la pared como en la planta del pelotón de fusilamiento. A medida que la tensión entre Jonás y el coronel iba en aumento, supuse que “el vagabundo” podría valerse de ese as en la manga.
-- Entiendo - se limitó a asentir su amigo - Bien, veamos que nos espera tras la esquina.
+- Entiendo - se limitó a asentir su amigo - Bien, veamos qué nos espera tras la esquina.
 - Un pequeño pasillo hasta una gran puerta acorazada. Ese tramo está libre - reveló la voz omnipresente del vagabundo.
 
 “Gracias, Jonás, me has quitado todo el misterio”, sonrió Lucas para sus adentros, intentando relajar la enorme tensión que sentía.

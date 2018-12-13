@@ -114,7 +114,7 @@ De repente, la cara todos los presentes, sin excepciones, se tornó seria. La mu
 
 - ¿Qué ocurre? - preguntó Mario.
 - ¡Hora de la siesta! - sonrió Batido de Maíz -. ¡Nos la tomamos muy en serio! - y sin dejar tiempo a replicar, bajó del escenario y se fue por su lado.
-- ¿Qué acaba de pasar? - se mosqueó Noemí. No tardaron en encontrarse sólos en la plaza.
+- ¿Qué acaba de pasar? - se mosqueó Noemí. No tardaron en encontrarse solos en la plaza.
 - No tengo ni idea... - respondió Mario, al tiempo que comenzaba a bajar del escenario, seguido por su familia. Se sacó el móvil del bolsillo y comparó la hora con la del reloj de la torre. Eran las dos del mediodía -. Una siesta no sé, pero ya va siendo hora de comer - Vayamos a nuestra nueva casa y ya luego pondremos las ideas en orden.
 
 La familia se mostró satisfecha con la idea y se encaminó hacia el coche. Entonces Mario arrancó el automóvil y lo dirigió siguiendo la curvatura de la plaza por su derecha y tomando la primera salida. Entraron en un barrio cuya carretera de doble sentido se encontraba también asfaltada en piedra grisácea, con una línea de abetos a ambos lados y aceras amarillentas. Sin embargo, a diferencia de aquellas de la avenida principal, las casas en esta zona disponían de un amplio jardín delantero y trasero. Lara abrió los ojos como platos.

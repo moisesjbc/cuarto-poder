@@ -65,7 +65,7 @@ Lara y Lucas se separaron y se incorporaron mientras María ayudaba a Noemí a h
 La mirada de Lucas volvió a posarse sobre aquel cámara que parecía tener un fetiche con él. Resuelta la curiosidad sobre su observador, Lucas lanzó otra pregunta.
 
 - ¿Por qué RIO se molesta en mantenerme vivo?
-- Oh, eso. Digamos que tienes una "sensibilidad especial" muy valiosa para ellos. Si te unieras a la resistencia, podría decirte más... - Ana le sonrió con su picarezca habitual, intentando...
+- Oh, eso. Digamos que tienes una "sensibilidad especial" muy valiosa para ellos. Si te unieras a la resistencia, podría decirte más... - Ana le sonrió con su picardía habitual, intentando...
 - Lo haré. Me uniré a ustedes.
 
 Ana no pudo disimular la sorpresa, pero rápidamente volvió a sonreir.
@@ -89,7 +89,7 @@ Ella lo abrazó y se marchó hacia el escenario donde se había producido la eje
 
 Lucas se quedó un rato mirando hacia la puerta, quizás esperando que su amiga saliera en un par de segundos, cosa que no ocurrió. Entonces se acordó de su antigua familia y pensó en unirse a ellos en lo que su amiga volvía. 
 
-Noemí y María seguían juntas, observando la plaza en silencio. La adolescente había dejado de llorar, aunque amenazaba con volver a hacerlo en cualquier momento. Jonás recordó a la Noemí que había conocido siendo Mario, su padre; una chica alegre, siempre dispuesta a molestar a su hermana mayor...
+Noemí y María seguían juntas, observando la plaza en silencio. La adolescente había dejado de llorar, aunque amenazaba con volver a hacerlo en cualquier momento. Lucas recordó a la Noemí que había conocido siendo Mario, su padre; una chica alegre, siempre dispuesta a molestar a su hermana mayor...
 
 - ¿Y Lara? - dejó escapar en voz alta.
 

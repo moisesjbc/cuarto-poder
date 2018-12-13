@@ -38,7 +38,7 @@ Ana alzó la voz.
 - Comprueben las habitaciones en busca del paquete. No liberen a nadie más, el equipo de limpieza se encargará de ello. ¿Entendido?
 - ¡Sí! - asintieron todos al unísono.
 
-Los agentes comenzaron entonces a echar un rápido vistazo rápido a través del recuadro de cristal de cada puerta. Una rápida comprobación, y cada agente pasaba con presteza a la siguiente puerta.
+Los agentes comenzaron entonces a echar un vistazo rápido a través del recuadro de cristal de cada puerta. Una rápida comprobación, y cada agente pasaba con presteza a la siguiente puerta.
 
 - No localizo el paquete - informó un agente.
 - Aquí tampoco está - confirmó otro.

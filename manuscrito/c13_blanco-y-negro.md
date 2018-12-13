@@ -10,7 +10,7 @@ El ascensor comenzó un descenso lento y silencioso. La única prueba perceptibl
 
 - Je - murmuró Lucas, tratando de romper aquel silencio incómodo -, inocencia. Como si eso los caracterizara.
 
-Únicamente Ana, situada a su lado, se permitió mirarlo de reojo, pero en seguida volvió a concentrarse en la monotonía al otro lado de las paredes. Lucas continuó hablando, aunque sin saber muy bien porqué.
+Únicamente Ana, situada a su lado, se permitió mirarlo de reojo, pero en seguida volvió a concentrarse en la monotonía al otro lado de las paredes. Lucas continuó hablando, aunque sin saber muy bien por qué.
 
 - El blanco simboliza la inocencia... y aquí el ascensor es blanco, las paredes de fuera son blancas, las luces...
 
@@ -51,7 +51,7 @@ El coronel volvió a centrarse en Jonás el vagabundo, quien había alzado el pu
 
 Nadie parecía dispuesto a obedecer y acercarse al gas negro. Sin embargo, el gas se detuvo de repente y comenzó a parpadear brillante durante unos instantes, al igual que el guante de Jonás. El resto de personas en el ascensor se quedó atónita mirando la escena, sin excepciones. Incluso Ricardo, el director de la AT de Gran Canaria, lo miraba sorprendido.
 
-- ¡Qué vayan hacia la puerta de una puta vez! - volvió a gritar el vagabundo, al ver que nadie se movía. Un hilo de sangre había comenzado a brotar de su nariz, y el dolor expresado en su cara era notable.
+- ¡Que vayan hacia la puerta de una puta vez! - volvió a gritar el vagabundo, al ver que nadie se movía. Un hilo de sangre había comenzado a brotar de su nariz, y el dolor expresado en su cara era notable.
 
 Ana alzó a Ricardo y ambos avanzaron hacia la puerta, igual que el resto. A medida que se acercaban, la nube comenzó a formar un techo y tres paredes al otro lado de la puerta, esperando para escoltarlos.
 
@@ -64,7 +64,7 @@ Comenzaron a avanzar al unísono y con paso ligero por uno de los puentes que un
 
 Los enemigos, que en un primer momento habían dudado, ahora descargaban una auténtica tormenta de disparos sobre ellos. La nube de gas brillaba allí donde las balas iban deshaciéndose, antes siquiera de llegar a tocarlos.
 
-- Je - se confío el general -, ¿acaso estos no saben que...?
+- Je - se confió el general -, ¿acaso estos no saben que...?
 
 Iban por la mitad del puente cuando la sangre salpicó de lleno a Cooper y al resto de personas que rodeaban a uno de los soldados de la izquierda. El cuerpo se desplomó dándose un golpe en la cabeza contra la barandilla y luego cayó aparatosamente sobre el suelo. Un agujero de bala perforaba la parte superior de su cabeza, tiñendo su pelo de rojo.
 

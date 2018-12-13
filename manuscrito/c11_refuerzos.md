@@ -1,6 +1,6 @@
 # 11. Refuerzos
 
-Cuando la gran puerta acorazada se abrió lo suficiente como para ver lo que había al otro lado, un inmenso contraste les golpeó. Lo que era un pasillo de hormigón frío, estrecho y sin vida, se transformaba, tras el umbral de la imponente puerta, en una amplia pero cálida sala que invitaba a quedarse. Lo único que podía hacerle a uno desistir de tal idea era el tiroteo que se podía escuchar al fondo.
+Cuando la gran puerta acorazada se abrió lo suficiente como para ver lo que había al otro lado, un inmenso contraste los golpeó. Lo que era un pasillo de hormigón frío, estrecho y sin vida, se transformaba, tras el umbral de la imponente puerta, en una amplia pero cálida sala que invitaba a quedarse. Lo único que podía hacerle a uno desistir de tal idea era el tiroteo que se podía escuchar al fondo.
 
 La habitación alargada, de dos pisos de altura, comenzaba en su primer tercio con un estrecho pasillo central. Este avanzaba custodiado por sendas filas de tres bancos cada una. Los asientos eran de una madera fina y delicada, así como también lo eran el techo y las paredes de la estancia.
 

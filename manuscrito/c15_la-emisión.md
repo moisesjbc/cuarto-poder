@@ -45,7 +45,7 @@ Pasaron unos segundos hasta que Ana alzó la mirada hacia su interlocutor. Este 
 
 - ¿Por qué no se me informó del ataque?
 - Pregúntale a los Ingleses - escupió Luis, sintiéndose ofendido por la insinuación de Ana -. Atacaron sin avisar. Nuestros infiltrados tuvieron que decidir en el momento si los ayudaban o mantenían un perfil bajo... ha sido un maldito caos.
-- Pero aún así podrían haberme avisado en el mFomento en el que se enteraron del ataque. ¿No crees?
+- Pero aún así podrían haberme avisado en el momento en el que se enteraron del ataque. ¿No crees?
 - Era un ataque suicida - respondió Luis de manera tajante -. Nuestros superiores acordaron que era mejor no reventar tu tapadera por nada. No contaron con que no podrías mantenerte al margen.
 
 La joven pelirroja lo miró fijamente a los ojos, tratando de desentrañar si lo que decía era cierto. Tras unos instantes bajó la vista de nuevo.

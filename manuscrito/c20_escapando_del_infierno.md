@@ -80,7 +80,7 @@ El coche derrapó hacia la izquierda justo cuando los disparos comenzaron. Ahora
 - ¿Qué está ocurriendo? - preguntó el alcalde. A diferencia de antes, ahora su voz sonaba distante, como si estuviera alejado del micrófono. - ¿Qué? ¡Me importa una mierda que el micrófono esté abierto! ¡Solucionad esto! ¡Los activos no se mueven!
 - ¿Activos? - se preguntó Lucía, la madre - ¿Cómo que act...? ¡ah!
 
-Una mujer de unos cuarenta años se había avalanzado contra un lateral del coche con los ojos inyectados en sangre. La fuerza del impacto la lanzó hacia atrás y ahora yacía insconsciente en la carretera. Otros vecinos comenzaron a correr contra el coche, imitándola.
+Una mujer de unos cuarenta años se había abalanzado contra un lateral del coche con los ojos inyectados en sangre. La fuerza del impacto la lanzó hacia atrás y ahora yacía insconsciente en la carretera. Otros vecinos comenzaron a correr contra el coche, imitándola.
 
 - ¿Ves? ¡Esto me gusta más! - se alegró el alcalde Batido de Maíz -. Pero me gustaría que no fueran tan suicidas; no quiero perder votantes - rió.
 

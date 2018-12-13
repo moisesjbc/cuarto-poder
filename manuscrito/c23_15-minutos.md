@@ -37,10 +37,10 @@ La joven caminó con paso decidido sobre el escenario de madera que rodeaba la t
 
 - Estás mucho mejor de pelirroja.
 - Lo sé - resopló Ana -, pero por desgracia las pelirrojas no somos muy frecuentes por aquí. Y me he ganado una cierta fama entre las filas de RIO. Esperemos que no hayan muchos en el tren que puedan reconocerme.
-- Hombre, puede que llames un poco la atención con esa mancha pelirroja - Lucas se señaló la pestaña derecha con la mano izquierda; su mano derecha no había soltado la mano de Noemí, a su lado.
-- Mierda - Ana se llevó la mano hacia la pestaña, pero se detuvo al recordar la pintura - lo hice a las prisas y...
+- Hombre, puede que llames un poco la atención con esa mancha pelirroja - Lucas se señaló la ceja derecha con la mano izquierda; su mano derecha no había soltado la mano de Noemí, a su lado.
+- Mierda - Ana se llevó la mano hacia la ceja, pero se detuvo al recordar la pintura - lo hice a las prisas y...
 
-Ana se había pintado las pestañas de negro, a juego con la peluca morena. Sin embargo, unos pocos pelos pelirrojos se habían resistido a la conversión y resaltaba, orgullosos, sobre su pestaña izquierda. La joven se limitó a sonreír y restarle importancia.
+Ana se había pintado las cejas de negro, a juego con la peluca morena. Sin embargo, unos pocos pelos pelirrojos se habían resistido a la conversión y resaltaba, orgullosos, sobre su ceja izquierda. La joven se limitó a sonreír y restarle importancia.
 
 - En fin, luego me lo retocaré. recuérdamelo.
 - Está bien - sonrió Lucas.

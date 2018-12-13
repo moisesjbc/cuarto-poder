@@ -23,7 +23,7 @@ Ambos empujaron con presteza sus contenedores los últimos metros, compitiendo p
 
 Aitor sabía a qué se refería. De no ser por la resistencia, ellos seguirían viviendo en un barrio estatal como aquel, intentando sobrevivir a duras penas día tras día. Aquel era su hogar y aquella su gente, por capricho y obra del destino. No obstante, durante la adolescencia, ambos amigos descubrieron una forma de cambiar las cartas tan malas que la vida les ofrecía: descubrieron sus capacidades interpretativas. Y las aprovecharon para convertirse en maestros estafadores.
 
-Poco a poco fueron mejorando su situación a costa de aquellos que no despertaban sus simpatías. Fue entonces cuando un cazatalentos de la resistencia los descubrió, y Aitor y Fernando accedieron a convertirse en periodistas ficticios para evitar la cárcel. La farsa debía ser perfecta; RIO no podía encontrar ni un ápice de hostilidad hacía ella, algo que abundaba en los barrios estatales. Era preciso, por tanto, cortar lazos. Por esa razón, Aitor y su amigo se crearon unas nuevas vidas acomodados en sus respectivos barrios empresariales. Ambos comenzaron a vivir ajenos, muy a su pesar, al sufrimiento de sus gentes y sus familias.
+Poco a poco fueron mejorando su situación a costa de aquellos que no despertaban sus simpatías. Fue entonces cuando un cazatalentos de la resistencia los descubrió, y Aitor y Fernando accedieron a convertirse en periodistas ficticios para evitar la cárcel. La farsa debía ser perfecta; RIO no podía encontrar ni un ápice de hostilidad hacia ella, algo que abundaba en los barrios estatales. Era preciso, por tanto, cortar lazos. Por esa razón, Aitor y su amigo se crearon unas nuevas vidas acomodados en sus respectivos barrios empresariales. Ambos comenzaron a vivir ajenos, muy a su pesar, al sufrimiento de sus gentes y sus familias.
 
 El señuelo estaba lanzado y ahora era cuestión de tiempo, perseverancia y suerte. Ambos espías debían hacer méritos suficientes como para que RIO los contratara entre sus filas, primero como periodistas y luego como agentes.
 
@@ -46,7 +46,7 @@ Y así era. Mientras que Aitor continuaba vestido de gala, tal como había asist
 - Bien... - la mujer vaciló, y tras un momento añadió -. ¿Creen que lo conseguirán?
 - Sí - se limitó a asentir Fernando.
 - Yo también - se unió Aitor -. Están los ingleses, los infiltrados... y también está Ana. Además, no olvidemos que tenemos a Ajani moviendo los hilos.
-- Pues Ajani ha debido pensar que los ingleses son prescindibles - la superiora se mantuvo seria -. Lo último que recibí antes de perder la comunicación fue que los de RIO estaban retomando el control rápidamente y que habían cogido a la mayoría de los militares.
+- Pues Ajani ha debido de pensar que los ingleses son prescindibles - la superiora se mantuvo seria -. Lo último que recibí antes de perder la comunicación fue que los de RIO estaban retomando el control rápidamente y que habían cogido a la mayoría de los militares.
 - Vaya... - Aitor intentó buscar rápidamente algo para animar a sus interlocutores, pero cada vez era más complicado -. Debemos confiar en ellos. Nunca está de más mantener la esperanza.
 - Eso está bien - respondió la mujer -. Al menos alguien la conserva aquí.
 

@@ -53,9 +53,9 @@ Pero era inútil; la marea de gente no atendía a las órdenes de la policía y 
 - Dejaremos que los policías de a pie se ganen el pan - a enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
 - ¿Y qué ocurre con los hombres de negro? - preguntó otro.
 
-Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que había problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver una orden judicial que les daba carta blanca.
+Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que había problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían en el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver una orden judicial que les daba carta blanca.
 
-Con Enrique siguieron el mismo procedimiento, pero él ya estaba harto: harto de que le arrebataran una y otra vez la oportunidad de hacer su trabajo. Harto de que ocultaran los secretos de una corporación que apestaba a podrido si tenías un pizco de cabeza y podías olerlo. Era por ello, que desoyendo las órdenes de sus superiores y de aquellos bastardos de negro, había ordenado a su unidad entrar en el edificio de La Cadena.
+Con Enrique siguieron el mismo procedimiento, pero él ya estaba harto: harto de que le arrebataran una y otra vez la oportunidad de hacer su trabajo. Harto de que ocultaran los secretos de una corporación que apestaba a podrido si tenías dos dedos de frente y podías olerlo. Era por ello, que desoyendo las órdenes de sus superiores y de aquellos bastardos de negro, había ordenado a su unidad entrar en el edificio de La Cadena.
 
 La duda de su subordinado sobre si seguir o no era, por tanto, razonable. Estaban metiendo las narices donde no los llamaban.
 
@@ -68,10 +68,10 @@ Entre sus hombres se mezclaron las muestras de apoyo y de duda. Aquellos que se 
 Los ocho hombres que quedaban de la unidad antiterrorista de la policía formaron una fila, con Enrique a la cabeza, y subieron corriendo las grandes escaleras que llevaban al primer piso. Tras alcanzar la primera planta se metieron, no sin antes comprobar que era seguro, en las escaleras que llevaban a las plantas superiores. Las nuevas escaleras, mucho menos glamurosas que las presentadas en la recepción, eran de cuatro tramos. Los perseguidores podían mirar hacia arriba por el hueco de las escaleras para observar los movimientos de sus perseguidos, y estos a su vez podían mirar hacia abajo y observarlos a ellos.
 
 - ¿Tendremos que subir todas estas plantas persiguiendo a esos cabrones? - se quejaba uno de los hombres a su espalda.
-- Te he visto haciendo esfuerzos muchos mayores y por gusto, Javier - sonrió Enrique, pero dudaba que su hombre lo hubiera visto.
+- Te he visto haciendo esfuerzos mucho mayores y por gusto, Javier - sonrió Enrique, pero dudaba que su hombre lo hubiera visto.
 -  Ya bueno, ¡pero era una situación menos peligrosa! - rió.
 
-Sin que nadie dijera nada, acordaron callarse y reservar el aire para el esfuerzo que los esperaba. Los terroristas les llevaban unos cinco pisos de ventaja y no bajaban el ritmo. Ellos tampoco, pero tampoco podían subirlo para intentar alcanzarlos si querían aguantar hasta el final. Juan, el observador del grupo, iba informando en cada piso sobre los movimientos de los perseguidos. Al principio se permitía emplear más palabras de la estrictamente necesarias para informar a su equipo:
+Sin que nadie dijera nada, acordaron callarse y reservar el aire para el esfuerzo que los esperaba. Los terroristas les llevaban unos cinco pisos de ventaja y no bajaban el ritmo. Ellos tampoco, pero tampoco podían subirlo para intentar alcanzarlos si querían aguantar hasta el final. Juan, el observador del grupo, iba informando en cada piso sobre los movimientos de los perseguidos. Al principio se permitía emplear más palabras de las estrictamente necesarias para informar a su equipo:
 
 - Parece que nadie se ha quedado atrás para tendernos una emboscada.
 
