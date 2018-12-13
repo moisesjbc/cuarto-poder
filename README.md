@@ -67,6 +67,7 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 - A **Garoe**. Porque al tiempo de escribir esto no ha visto nada del libro, pero cuando lo haga, su exquisitez mejorará el realismo del libro... o romperá nuestra amistad.
 - A **Abián**. Porque te sorprendiste cuando supiste que yo escribía, y eso a su vez me motivó a escribir este libro.
 - A **Bruno**. Por tus críticas y correcciones sobre el primer capítulo.
+- A **Marina** (["kaoseto"](https://bardinflor.perso.aquilenet.fr/cetere/kaoseto-es)). Por "devorar" el libro. Por todas tus correcciones y tu inestimables consejos.
 - A **mi familia**. Por estar siempre ahí.
     - Mención especial a **mi hermana Laura** por ser la primera en leerse la novela (que yo sepa). ¡Muchas gracias!
 
