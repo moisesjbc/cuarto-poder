@@ -2,7 +2,7 @@
 
 - ¡Lucas! ¡Lucas!
 
-La voz le llegaba ahogada, junto con sonido del fuego cruzado. Este último se hizo cada vez más insoportable a medida que el joven recuperaba la conciencia. Sin embargo, Lucas sólo podía preocuparse de una cosa.
+La voz le llegaba ahogada, junto con el sonido del fuego cruzado. Este último se hizo cada vez más insoportable a medida que el joven recuperaba la conciencia. Sin embargo, Lucas sólo podía preocuparse de una cosa.
 
 - Ana... ¿está bien? - consiguió preguntar a duras penas.
 - Yo diría que sabe cuidarse bastante bien - le respondió Allan, agachado a su lado.
@@ -13,7 +13,7 @@ Lucas estaba tendido en el suelo. Cuando pudo incorporarse un poco y sentarse co
 
 Lucas, Allan y un tercer soldado se encontraban ocultos tras la esquina derecha que daba al pasillo. Los dos militares se alternaban para asomarse a la esquina y responder al fuego enemigo, mientras el civil continuaba intentando hacerse a la situación. 
 
-El joven paseó su mirada por la estancia, tratando de hacer un recuento de los militares allí congregados. Tres eran los que disparaban y se protegían tras un gran recibidor de mármol situado en el centro de la sala, entre el ascensor y el pasillo dónde presumiblemente se encontraban los enemigos. Lucas observó cómo se producían disparos de algún lugar tras los soldados apostados en el recibidor. “Deben quedar soldados en las escaleras”, supuso.
+El joven paseó su mirada por la estancia, tratando de hacer un recuento de los militares allí congregados. Tres eran los que disparaban y se protegían tras un gran recibidor de mármol situado en el centro de la sala, entre el ascensor y el pasillo dónde presumiblemente se encontraban los enemigos. Lucas observó cómo se producían disparos desde algún lugar tras los soldados apostados en el recibidor. “Deben quedar soldados en las escaleras”, supuso.
 
 Entonces miró hacia el otro lado, hacia la otra esquina que daba al pasillo. Allí se encontraba el coronel Cooper, aún quejándose de la espalda, junto a otros tres militares. El coronel no participaba en el tiroteo; en lugar de eso gritaba a su radio, visiblemente enfadado. Lucas sólo podía oír lo que decía el oficial.
 
