@@ -67,7 +67,7 @@ El camarero, sin saber qué hacer, obedeció al visitante y salió de la sala po
 
 La cara de Elizabeth se desencajó durante un segundo, perpleja. Cuando asimiló la información, recuperó la confianza, mostrando esta vez una expresión fría y distante.
 
-- Parece que nuestra cita ha terminado - dijo, mientras miraba a Aitor. Rápidamente giró la cabeza hacía Andrés -. Vayamos.
+- Parece que nuestra cita ha terminado - dijo, mientras miraba a Aitor. Rápidamente giró la cabeza hacía Andrés -. Vamos.
 
 La chica se quitó los tacones, sacó un calzado más deportivo de su bolso y se lo puso. Acto seguido se levantó rápidamente y, sin mediar palabra (ni pagar), emprendió la carrera con el recién llegado hacia la salida.
 
