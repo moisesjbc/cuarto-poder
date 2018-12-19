@@ -60,7 +60,7 @@ Ana había avanzado tras los militares mientras empujaba al prisionero. Cuando s
 - ¿Estás bien?
 - Estará bien - Jonás se tomó la osadía de responder por él. Su voz volvía a ser omnipresente en aquel pasillo, con sus ecos bailando por las paredes de hormigón - escuchen, me encuentro en una sala de seguridad de este mismo piso, ¡tienen que venir a por mí!
 
- Aunque se notaba su esfuerzo por aparentar tranquilidad, la preocupación manchaba cada una de sus palabras.
+Aunque se notaba su esfuerzo por aparentar tranquilidad, la preocupación manchaba cada una de sus palabras.
 
 - ¡Un momento! - la curiosidad del coronel, haciendo gala de una pésima educación, no daba paso al apremio que bañaba la situación -. ¿Estamos en el piso correcto? ¿Por qué nos paraste entonces ante el pelotón de fusilamiento?
 - Ah, se trata de un mecanismo de seguridad. Si desde aquí no se confirma la recepción del ascensor este es redirigido al... - parecía querer buscar un nombre mejor, pero finalmente se rindió - ...al pelotón de fusilamiento, sí.
