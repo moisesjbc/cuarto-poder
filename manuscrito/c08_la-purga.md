@@ -50,7 +50,7 @@ Pero era inútil; la marea de gente no atendía a las órdenes de la policía y 
 
 - ¡Vamos a por ellos! - ordenó Enrique cuando los siete hombres restantes a su cargo y él se reunieron al pie de las escaleras.
 - ¿Qué pasa con todas las salas que tenemos sobre nosotros? - Juan trató de abarcarlas todas con la mano
-- Dejaremos que los policías de a pie se ganen el pan - a enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
+- Dejaremos que los policías de a pie se ganen el pan - a Enrique no le molestaba que dudaran sobre sus órdenes. Al contrario, lo valoraba, siempre que fueran dudas razonables.
 - ¿Y qué ocurre con los hombres de negro? - preguntó otro.
 
 Sabía perfectamente a quiénes se refería: hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Enrique se había encontrado con ellos en más de una ocasión; curiosamente aparecían siempre que había problemas en los que la corporación RIO estaba involucrada de una manera u otra. ¿Su forma de proceder? Aparecían en el lugar, observándolo y estudiándolo todo, y tomaban el control de la situación. Si no eras un simple currante entonces tenías el privilegio de verlos dirigirse a ti: “Nosotros nos encargamos”. Intentar sonsacarle más que esas palabras sólo daba como resultado que pudieras ver una orden judicial que les daba carta blanca.
