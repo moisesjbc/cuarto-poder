@@ -84,7 +84,7 @@ La pareja se besó y cada uno se alejó por su lado. Lucía por la izquierda y M
 
 La clase de matemáticas estaba resultando mortalmente aburrida. Lara hacía todo lo posible para mantenerse despierta, pero se le antojaba casi imposible. Además, no tenía nadie con quien hablar: los pocos intentos que había llevado a cabo para romper el hielo con las chicas del lugar habían resultado infructuosos. En cuanto a los chicos... tal como había previsto, estaban demasiado ocupados alabando sus atributos femeninos.
 
-Lo único que parecía mantenerla despierta era una sensación extraña que no era capaz de describir. Cada vez que miraba hacia la pizarra llena de fórmulas, sentía como una nube nublaba su cabeza, como si le costara pensar con claridad.
+Lo único que parecía mantenerla despierta era una sensación extraña que no era capaz de describir. Cada vez que miraba hacia la pizarra llena de ecuaciones, sentía como una nube nublaba su cabeza, como si le costara pensar con claridad.
 
 - 32.35 - dijo de repente, de manera totalmente involuntaria, con un hilo de voz que solo fue capaz de percibir la compañera sentada a su lado.
 - ¿Uhm? - murmuró su compañera, pero no le prestó mayor atención. Era obvio que ella también se estaba quedando dormida.
