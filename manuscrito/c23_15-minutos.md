@@ -108,7 +108,7 @@ Ana sopesó aquello durante unos segundos que a Lucas le parecieron una eternida
 - Ok, esperemos que no haya problemas.
 - Yo también - coincidió Jonás.
 
-Los presentes permanecieron de pie en aquella plaza medio llena intercambiando miradas y trivialidades hasta que Ana pidió silencio, al tiempo que activaba su comunicador.
+Los presentes permanecieron de pie en aquella plaza medio llena, intercambiando miradas y trivialidades hasta que Ana pidió silencio, al tiempo que activaba su comunicador.
 
 - Muy bien - dijo, su mirada perdida en el horizonte -. Avisen a su llegada. Suerte y buen viaje.
 

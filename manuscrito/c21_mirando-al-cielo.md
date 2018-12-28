@@ -31,7 +31,7 @@ En el horizonte vislumbraron las altas murallas de piedra que rodeaban a la ciud
 
 Entonces apareció una nueva luz, tímida, sobre el portón de madera. Parpadeó un par de veces antes de apagarse para siempre.
 
-- Esa es nuestra señal - se alegrón Joseph -, ¡vamos!.
+- Esa es nuestra señal - se alegró Joseph -, ¡vamos!.
 
 El conductor, Lidia y Aitor avanzaban por el lado izquierdo de la carretera de piedras que conducía directamente hacia la entrada sur de la ciudad. Marta y Joseph corrían por el lado derecho.
 
