@@ -1,4 +1,4 @@
-# 24. Viaje en tren
+# 24. La excursión
 
 El reloj de la gran torre de la plaza marcó las 18:30 horas bajo la atenta mirada de los presentes. Hacía 18 minutos, la mitad de los vecinos de la *Burbuja* y de sus libertadores se habían marchado en el tren de las 18:12. El trayecto debía durar 15 minutos y entonces el primer grupo avisaría al segundo de que todo había ido bien. Pero ya hacía 18 minutos que no recibían noticias.
 
@@ -44,7 +44,7 @@ Lucas hizo el amago de levantarse, pero Ana lo detuvo.
 
 El joven obedeció mientras su amiga alcanzaba a Jonás. Lara, Noemí y Lucas observaban a la pareja hablar sin ser capaces de oír ni una palabra de lo que estaban diciendo. El tono de la conversación parecía debatirse entre los gestos cada vez más acelerados y nerviosos de Jonás y el aspecto tranquilizador de Ana. Decidido a acatar la orden de su amiga de no entrometerse, Lucas optó por intentar distraer a las que habían sido sus hijas.
 
-- ¿Deseando salir de aquí tanto como yo? - soltó con una sonrisa forzada. Apenas había materializado la pregunta, Lucas se lamentó de no haber pensado una mejor cuya respuesta no fuera obvia y potencialmente un monosílabo.
+- ¿Deseando salir de aquí tanto como yo? - soltó con una sonrisa forzada. Apenas había materializado la pregunta, Lucas se lamentó de no haber pensado una mejor, cuya respuesta no fuera obvia y potencialmente un monosílabo.
 - Sí - Lara asintió como una autómata, sin dejar de mirar a su hermano mayor discutir con la mujer.
 - No - antes de que Noemí continuara, Lucas pensó en los estúpido que había sido -. Aquí dentro estaba tanto en peligro como fuera. Pero al menos tenía una familia.
 
@@ -101,7 +101,7 @@ La fila alcanzó en silencio el gran portón de madera y lo cruzó, encontrándo
 
 Lucas miró hacia adelante y vio al cámara de la resistencia separado del grupo e inmortalizando el desliz de Ana.
 
-- No puedo, tengo que documentarlo todo - bromeó este antes de girarse y continuar la marcha con el resto del grupo.
+- No puedo, tengo que documentarlo todo - bromeó este, antes de girarse y continuar la marcha con el resto del grupo.
 
 Sin dejar de caminar, Ana se sacó un pequeño bote del bolsillo. Lo destapó, descubriendo un pequeño pincel enganchado a la tapa y de un brochazo acabó con los pocos pelos pelirrojos de su ceja.
 
