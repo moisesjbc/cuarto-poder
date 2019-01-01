@@ -1,6 +1,6 @@
 # Curiosidades
 
-A continuación presente una lista de subsecciones con curiosidades sobre la novela.
+A continuación presento una lista de subsecciones con curiosidades sobre la novela.
 
 ## 1. Cómo llegué a los barrios empresariales y estatales
 
@@ -21,7 +21,7 @@ La división entre barrios empresariales y estatales surgió de la siguiente lis
 
 En las primeras versiones del capítulo 3 ("El ascenso"), Cooper se quedaba hablando con Lucas y Ana en lugar de subir con el primero a la planta 26. La siguiente nota que puse en el capítulo evidencia que no era algo que me cuadrada mucho.
 
-- *¡UN MOMENTO, UN MOMENTO, UN MOMENTO! Cooper tiene que usar a Jonás para detectar trampas, ¿y en lugar de eso se queda con él de cháchara contándole lo de Inglaterra a Ana?*
+- *¡UN MOMENTO, UN MOMENTO, UN MOMENTO! Cooper tiene que usar a Lucas para detectar trampas, ¿y en lugar de eso se queda con él de cháchara contándole lo de Inglaterra a Ana?*
 
 
 ## 3. Versión alternativa: Jonás está en la planta 26
@@ -139,7 +139,7 @@ De una forma similar a la presentada en "Cómo llegué a los barrios empresarial
 - *Ida de olla: Lucas consulta un libro "La historia de RIO" [...]. Alguien le grita que no lo abra, pero es demasiado tarde; el libro explota y mata a Lucas.*
 - *Idea loca: las ciudades burbuja no existen físicamente. Se introducen a las personas en un coma inducido y se les plantea esa realidad para convertirlos en agentes durmientes y / o torturarlos.*
 - *Inicialmente planteé que el libro comenzara el 20 de Agosto de 2025, un Miércoles. Pero al final opté por no mencionar dicha fecha.*
-- *Al final del capítulo 1, Cooper y sus dos escoltas subían en el ascensor. Lo cambié y los hice subir a las escaleras porque no me parecía muy profesional usar el ascensor en un asalto.*
+- *Al final del capítulo 1, Cooper y sus dos escoltas subían en el ascensor. Lo cambié y los hice subir por las escaleras porque no me parecía muy profesional usar el ascensor en un asalto.*
 - *Las Burbujas se llamaban antes ciudades burbuja. En esa versión anterior, tras su liberación, Lucas insinúa que deberían llamarse "pueblos burbujas", a lo que Ana responde que "pueblo burbuja" no sonaba tan bien.*
 
 
