@@ -107,4 +107,4 @@ Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés
 
 ## Navegación
 
-- [Capítulo siguiente: 02 - La señal](c02_la-señal.md)
+— [Capítulo siguiente: 02 — La señal](c02_la—señal.md)

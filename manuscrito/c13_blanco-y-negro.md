@@ -8,11 +8,11 @@ Jonás estaba ocupado tecleando en un complejo panel lleno de botones que se alz
 
 El ascensor comenzó un descenso lento y silencioso. La única prueba perceptible de su movimiento se dilucidaba más allá de los cristales, donde unas luces verticales y alargadas los saludaban y se despedían a medida que el ascensor bajaba.
 
-- Je - murmuró Lucas, tratando de romper aquel silencio incómodo -, inocencia. Como si eso los caracterizara.
+— Je — murmuró Lucas, tratando de romper aquel silencio incómodo —, inocencia. Como si eso los caracterizara.
 
 Únicamente Ana, situada a su lado, se permitió mirarlo de reojo, pero en seguida volvió a concentrarse en la monotonía al otro lado de las paredes. Lucas continuó hablando, aunque sin saber muy bien por qué.
 
-- El blanco simboliza la inocencia... y aquí el ascensor es blanco, las paredes de fuera son blancas, las luces...
+— El blanco simboliza la inocencia... y aquí el ascensor es blanco, las paredes de fuera son blancas, las luces...
 
 El joven se detuvo y miró a su alrededor, sólo para certificar que nadie parecía prestarle la más mínima atención. Sintió como un rubor le hacía cosquillas en las mejillas, y la vergüenza que le embargó fue indescriptible.
 
@@ -24,39 +24,39 @@ Todo allí era blanco: los techos, las paredes, los suelos, las barandillas... P
 
 Lentamente atravesaron varias plantas idénticas en las que no encontraron presencia alguna, hasta que uno de los miembros de la resistencia gritó.
 
-- ¡Ahí están!
+— ¡Ahí están!
 
 A su alrededor comenzaron a aparecer cada vez más efectivos de RIO armados organizándose en el pasillo que rodeaba al elevador. Jonás ya había avisado a sus compañeros de que los cristales del ascensor eran antibalas. Por este motivo, ni los enemigos de fuera ni los aliados de dentro se molestaban en desperdiciar munición, o tan siquiera en apuntar. No obstante, la tensión se dejaba entrever entre los presentes, pues sólo un cristal los separaba de una muerte segura, y eso no era algo fácil de ignorar. Además, tendrían que abandonar el ascensor tarde o temprano, lo cual menguaba aún más sus expectativas de supervivencia.
 
 De repente, el elevador se detuvo en seco, sobresaltando a sus ocupantes. Se miraban los unos a los otros, esperando alguna respuesta. Finalmente, el primero en hablar fue el coronel Cooper.
 
-- ¡Has sido tú! - acusó a Jonás, al tiempo que lo encañonaba con su pistola.
-- No, no he sido yo - le respondió el vagabundo, serio, sin inmutarse.
-- ¡Mientes! Si no eres tú, ¿cómo estás tan tranquilo?
-- Porque, de momento, todo está siguiendo el plan.
-- ¿De qué hablas? Si esto es...
-- ¡Señor! - lo interrumpió uno de los militares. 
+— ¡Has sido tú! — acusó a Jonás, al tiempo que lo encañonaba con su pistola.
+— No, no he sido yo — le respondió el vagabundo, serio, sin inmutarse.
+— ¡Mientes! Si no eres tú, ¿cómo estás tan tranquilo?
+— Porque, de momento, todo está siguiendo el plan.
+— ¿De qué hablas? Si esto es...
+— ¡Señor! — lo interrumpió uno de los militares. 
 
 El receptáculo había comenzado a oscurecerse. Una nube de gas negro había salido de ninguna parte y avanzaba hacia ellos desde todas las direcciones.
 
-- ¡Otra vez no! - exclamó el coronel -. ¡¿Pero qué...?!
+— ¡Otra vez no! — exclamó el coronel —. ¡¿Pero qué...?!
 
 La nube empezó a atravesar el ascensor y a, literalmente, deshacerlo. Las paredes se difuminaban, se evaporaban, al entrar en contacto con la espesa negrura. Todos los presentes empezaron a retroceder hacia el centro del elevador.
 
-- ¡Alto! ¿Qué estás haciendo?
+— ¡Alto! ¿Qué estás haciendo?
 
 El coronel volvió a centrarse en Jonás el vagabundo, quien había alzado el puño derecho. Nadie se había percatado hasta entonces de que tenía un guante negro hecho de un material plástico aparentemente muy resistente. Jonás miró fugazmente al general.
 
-- ¡Salvarnos! ¿Le parece poco? ¡Acérquense a esa puerta! - ordenó, señalando con la mano desnuda a la puerta que tenía a su izquierda.
+— ¡Salvarnos! ¿Le parece poco? ¡Acérquense a esa puerta! — ordenó, señalando con la mano desnuda a la puerta que tenía a su izquierda.
 
 Nadie parecía dispuesto a obedecer y acercarse al gas negro. Sin embargo, el gas se detuvo de repente y comenzó a parpadear brillante durante unos instantes, al igual que el guante de Jonás. El resto de personas en el ascensor se quedó atónita mirando la escena, sin excepciones. Incluso Ricardo, el director de la AT de Gran Canaria, lo miraba sorprendido.
 
-- ¡Que vayan hacia la puerta de una puta vez! - volvió a gritar el vagabundo, al ver que nadie se movía. Un hilo de sangre había comenzado a brotar de su nariz, y el dolor expresado en su cara era notable.
+— ¡Que vayan hacia la puerta de una puta vez! — volvió a gritar el vagabundo, al ver que nadie se movía. Un hilo de sangre había comenzado a brotar de su nariz, y el dolor expresado en su cara era notable.
 
 Ana alzó a Ricardo y ambos avanzaron hacia la puerta, igual que el resto. A medida que se acercaban, la nube comenzó a formar un techo y tres paredes al otro lado de la puerta, esperando para escoltarlos.
 
-- Y ahora, ¡vamos! - gritó Jonás, al tiempo que le pegaba un manotazo al panel de control del ascensor, allí donde se encontraba el botón para abrir las puertas.
-- ¡No, espera! - quiso detenerlo el coronel, pero ya era tarde. 
+— Y ahora, ¡vamos! — gritó Jonás, al tiempo que le pegaba un manotazo al panel de control del ascensor, allí donde se encontraba el botón para abrir las puertas.
+— ¡No, espera! — quiso detenerlo el coronel, pero ya era tarde. 
 
 Jonás avanzó corriendo hacia la puerta, a medida que los presentes le dejaban paso. El coronel no tuvo otra opción que guardarse su orgullo, una vez más, y avanzar con el grupo.
 
@@ -64,11 +64,11 @@ Comenzaron a avanzar al unísono y con paso ligero por uno de los puentes que un
 
 Los enemigos, que en un primer momento habían dudado, ahora descargaban una auténtica tormenta de disparos sobre ellos. La nube de gas brillaba allí donde las balas iban deshaciéndose, antes siquiera de llegar a tocarlos.
 
-- Je - se confió el general -, ¿acaso estos no saben que...?
+— Je — se confió el general —, ¿acaso estos no saben que...?
 
 Iban por la mitad del puente cuando la sangre salpicó de lleno a Cooper y al resto de personas que rodeaban a uno de los soldados de la izquierda. El cuerpo se desplomó dándose un golpe en la cabeza contra la barandilla y luego cayó aparatosamente sobre el suelo. Un agujero de bala perforaba la parte superior de su cabeza, tiñendo su pelo de rojo.
 
-- ¡VAMOS!
+— ¡VAMOS!
 
 Jonás aceleró el paso al tiempo que miraba hacia arriba. La habitación de tres paredes que formaba la nube de gas comenzó a convertirse en un único techo totalmente opaco sobre ellos. Los presentes que tuvieron tiempo de reaccionar comenzaron a responder al fuego enemigo proveniente del piso actual y de los inferiores.
 
@@ -78,10 +78,10 @@ Cuando llegó al final del puente, el grupo de dieciséis personas se había red
 
 Cuando Cooper avanzó decididamente hacia el vagabundo para detenerlo, una figura se asomó tras una de las esquinas al final del pasillo, a unos metros frente a ellos. Vestía como un enemigo, pero no actuaba como tal. Ni siquiera se inmutó al ver a los militares y a la resistencia. De hecho, daba la sensación de que los había estado esperando durante mucho tiempo.
 
-- ¡Llegan tarde! - se quejó -. ¡Vamos, o perderemos el barco!
+— ¡Llegan tarde! — se quejó —. ¡Vamos, o perderemos el barco!
 
 
 ## Navegación
 
-- [Capítulo anterior: 12 - La bronca](c12_la-bronca.md)
-- [Capítulo siguiente: 14 - El puerto](c14_el-puerto.md)
+— [Capítulo anterior: 12 — La bronca](c12_la—bronca.md)
+— [Capítulo siguiente: 14 — El puerto](c14_el—puerto.md)
