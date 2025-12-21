@@ -36,7 +36,7 @@ Entonces, fruto de la coincidencias, empezaron a escuchar golpes en la gran puer
 
 Aprovechó que le tocaba a su compañera disparar para señalar con la mano hacia arriba. La pared contra la que estaban se transformaba, en el segundo piso, en un gran ventanal de cristales ahumados.
 
-“Él nos debe estar viendo claramente”, pensó Lucas, imaginándose la inutilidad de una sala de seguridad con un ventanal que fuera opaco por ambos lados. Marcos continuó hablando.
+«Él nos debe estar viendo claramente», pensó Lucas, imaginándose la inutilidad de una sala de seguridad con un ventanal que fuera opaco por ambos lados. Marcos continuó hablando.
 
 — Se accede entrando por el piso de abajo, más adelante. Tras esta puerta... — entonces se interrumpió para asomarse a la puerta. Asomó únicamente la cabeza y estudió un momento la situación. — ¡Hijo de puta! — maldijo, al tiempo que escondía rápidamente la cabeza. Una ráfaga de balas obligó a su compañera a cubrirse también.
 — Por cierto, esta es Lucía — dijo, mientras miraba a su compañera. Ella asintió fugazmente, antes de asomarse de nuevo para disparar.
@@ -91,5 +91,5 @@ Jonás se permitió, sin embargo, detenerse y mirar durante un momento a Lucas. 
 
 ## Navegación
 
-— [Capítulo anterior: 10 — Los preparativos](c10_los—preparativos.md)
-— [Capítulo siguiente: 12 — La bronca](c12_la—bronca.md)
+- [Capítulo anterior: 10 — Los preparativos](c10_los-preparativos.md)
+- [Capítulo siguiente: 12 — La bronca](c12_la-bronca.md)

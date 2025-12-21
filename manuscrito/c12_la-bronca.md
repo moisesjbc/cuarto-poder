@@ -11,7 +11,7 @@ Paco no iba a permitir que nadie dudara de su labor como policía, y menos que s
 — ¡Miguel había desaparecido! ¡Tenía que asegurarme de que... !
 — ¡Tenías que pedir refuerzos antes de hacer nada, maldito inútil! — lo interrumpió su superior, furioso. Manuel parecía estar haciendo un esfuerzo sobrehumano por controlarse y no partirle la cara a aquel incompetente que, en teoría, estaba a sus órdenes.
 — ¡Gabriel está a salvo porque... ! — intentó excusarse el obseso policía.
-— ¡Gabriel está a salvo porque ese “vagabundo” que te redujo tan fácilmente y entró en el edificio lo quiso así! 
+— ¡Gabriel está a salvo porque ese «vagabundo» que te redujo tan fácilmente y entró en el edificio lo quiso así! 
 
 El jefe de policía resopló y alzó la cabeza hacia la brisa de la madrugada, como suplicando un poco de calma bien merecida. Tras unos segundos, continuó:
 
@@ -44,5 +44,5 @@ El rostro del jefe de policía Manuel se ensombreció aún más con una sonrisa 
 
 ## Navegación
 
-— [Capítulo anterior: 11 — Refuerzos](c11_refuerzos.md)
-— [Capítulo siguiente: 13 — Blanco y negro](c13_blanco—y—negro.md)
+- [Capítulo anterior: 11 — Refuerzos](c11_refuerzos.md)
+- [Capítulo siguiente: 13 — Blanco y negro](c13_blanco-y-negro.md)

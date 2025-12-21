@@ -7,7 +7,7 @@ Lucía jugaba con su gran melena lacia y rubia, nerviosa. Resopló antes de resp
 
 — Yo también lo siento. Es que... ¡es este maldito calor! — hizo una mueca de asco; la boca empezaba a saberle a vómito. Decidió entonces reservar fuerzas y recostarse una vez más.
 
-Mario miró entonces por el espejo retrovisor hacia los asientos traseros. Noemí y Lara, sus dos tesoros de 14 y 16 años, seguían dormidas. Aunque descansaban tranquilas, ajenas al bochorno, su padre pudo comprobar como una fina capa de sudor había comenzado a perlar sus frentes. “Espero que no acaben despertándose”, temió. Mario permaneció un rato embelesado, mirándolas.
+Mario miró entonces por el espejo retrovisor hacia los asientos traseros. Noemí y Lara, sus dos tesoros de 14 y 16 años, seguían dormidas. Aunque descansaban tranquilas, ajenas al bochorno, su padre pudo comprobar como una fina capa de sudor había comenzado a perlar sus frentes. «Espero que no acaben despertándose», temió. Mario permaneció un rato embelesado, mirándolas.
 
 — Deberías centrarte en la carretera — le sonrió su mujer, al sorprenderlo distraído.
 — Bah, por no haber no hay ni un triste animal.
@@ -20,7 +20,7 @@ Tras abandonar la autopista, pararon a descansar media hora en un merendero y se
 — No, ¡espera! — quiso detenerla su madre, al ver que cerraba los ojos entre bostezos — no te duermas, si vamos a parar aquí...
 — No, es mejor seguir — le contradijo Mario, sin detener el coche.
 — ¿Qué dices? ¡Tenemos que descansar!
-— Según me dijeron, tras pasar “el merendero perdido” sólo queda media hora. Creo que es mejor aguantar un poco más y ya descansar en casa.
+— Según me dijeron, tras pasar «el merendero perdido» sólo queda media hora. Creo que es mejor aguantar un poco más y ya descansar en casa.
 — También te dijeron que el viaje sería de cuatro horas y llevamos seis...
 — ¡Pero eso fue culpa mía! Por aquel cruce que dije que era a la izquierda...
 — Sigo diciendo que es mejor descansar — Lucía comenzó a ponerse a la defensiva.
@@ -36,11 +36,11 @@ Mario suspiró.
 — Está bien... — se rindió su pareja — ¡pero harás esta última parte!.
 — Me lo esperaba — sonrió Mario. Se habían ido alternando para conducir el coche y estaba previsto que le tocara a Lucía pronto.
 
-Eso había pasado hacía hora y media, y Mario aún daba gracias porque sus hijas siguieran dormidas. Disculparse frecuentemente ante su mujer era una cosa, pero aquellas pequeñas “diablas” no tendrían tanta compasión ante su traición.
+Eso había pasado hacía hora y media, y Mario aún daba gracias porque sus hijas siguieran dormidas. Disculparse frecuentemente ante su mujer era una cosa, pero aquellas pequeñas «diablas» no tendrían tanta compasión ante su traición.
 
 — ¡Ah! ¡Ahí está! — Exclamó Lucía al ver las murallas del pueblo.
 
-“¡Maldita sea”, se lamentó Mario. Había sentido el deseo de ser el primero en “avistar tierra” desde hacía horas. Sin embargo, tendría que conformarse con avisar a sus hijas.
+«¡Maldita sea», se lamentó Mario. Había sentido el deseo de ser el primero en «avistar tierra» desde hacía horas. Sin embargo, tendría que conformarse con avisar a sus hijas.
 
 — ¡Niñas!
 — ¿Eh? ¿Ya hemos llegad...? ¡ah! — se quejó Lara cuando el coche se sacudió violentamente.
@@ -68,7 +68,7 @@ Las casas a ambos lados eran de los más variados colores, con cada una defendie
 
 La plaza era una rotonda enorme, con aparcamientos a lo largo de toda su curvatura. Mario detuvo el coche en el primer sitio que vio libre. La familia Pérez se apeó del vehículo, ante los aplausos y el griterío de la multitud allí congregada. 
 
-Los habitantes del pueblo se iban haciendo a un lado para dejarles pasar. Con gestos amables y amplias sonrisas, los dirigían hacia el centro de la plaza, la cual estaba precedida por la gran torre de piedra rojiza que habían visto según iban llegando al pueblo. Lucía iba delante, seguida por Mario con “sus pequeñas”. El padre no pudo evitar fijarse en que Noemí continuaba preocupada, seguramente pensando en la muralla y la enorme puerta cerrada que los separaba del mundo exterior.
+Los habitantes del pueblo se iban haciendo a un lado para dejarles pasar. Con gestos amables y amplias sonrisas, los dirigían hacia el centro de la plaza, la cual estaba precedida por la gran torre de piedra rojiza que habían visto según iban llegando al pueblo. Lucía iba delante, seguida por Mario con «sus pequeñas». El padre no pudo evitar fijarse en que Noemí continuaba preocupada, seguramente pensando en la muralla y la enorme puerta cerrada que los separaba del mundo exterior.
 
 Los gritos de bienvenida los escoltaron hasta un gran escenario que rodeaba a la torre en su base. El alcalde, un hombre de unos cincuenta años, bastante obeso y con un ostentoso bigote negro, los esperaba allí, sonriente.
 
@@ -147,5 +147,5 @@ La familia decidió hacer caso a la autoridad y entró en su nuevo hogar casi po
 
 ## Navegación
 
-— [Capítulo anterior: 15 — La emisión](c15_la—emisión.md)
-— [Capítulo siguiente: 17 — El rescate](c17_el—rescate.md)
+- [Capítulo anterior: 15 — La emisión](c15_la-emisión.md)
+- [Capítulo siguiente: 17 — El rescate](c17_el-rescate.md)

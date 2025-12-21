@@ -123,5 +123,5 @@ De repente sintieron la destrucción sobre sus cabezas. Un proyectil atravesó e
 
 ## Navegación
 
-— [Capítulo anterior: 20 — Escapando del infierno](c20_escapando_del_infierno.md)
-— [Capítulo siguiente: 22 — El despertar](c22_el—despertar.md)
+- [Capítulo anterior: 20 — Escapando del infierno](c20_escapando-del-infierno.md)
+- [Capítulo siguiente: 22 — El despertar](c22_el-despertar.md)

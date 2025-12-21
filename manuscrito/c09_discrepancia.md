@@ -30,7 +30,7 @@ Por los ruidos que escucharon, parecía que Jonás había cogido su comunicador 
 — ¡Vaya! Parece que no están disponibles — Escupió la voz, sarcástica —. Quizás sea porque SE ESTÁN MURIENDO — al cabo de un rato, añadió —, ¡Joder, no entiendo cómo Ajani pudo confiar en usted!.
 — ¿Cómo sabes...? — Cooper enmudeció, conviniendo en que no era el momento para preguntas. No obstante, al cabo de unos segundos dejó clara su postura. — Esperaré por mis hombres.
 
-Lucas, un mero espectador de la escena hasta ese momento, de repente quería gritarle algo a Cooper, condenar su inacción. Hasta hacía escasos segundos compartía la visión precavida del oficial, su frialdad, pero ahora que había escuchado los gritos de dolor y muerte al otro lado del comunicador... Lucas estuvo a punto de maldecir a Cooper, pero entonces escuchó una voz interior que le decía “¿Y tú qué?”, “¿Qué has hecho durante todo este tiempo, aparte de trabajar para RIO esperando que las cosas se solucionaran solas?”. 
+Lucas, un mero espectador de la escena hasta ese momento, de repente quería gritarle algo a Cooper, condenar su inacción. Hasta hacía escasos segundos compartía la visión precavida del oficial, su frialdad, pero ahora que había escuchado los gritos de dolor y muerte al otro lado del comunicador... Lucas estuvo a punto de maldecir a Cooper, pero entonces escuchó una voz interior que le decía «¿Y tú qué?», «¿Qué has hecho durante todo este tiempo, aparte de trabajar para RIO esperando que las cosas se solucionaran solas?». 
 
 La voz acusadora de su conciencia tenía razón. Lucas se había mantenido al margen, observando como las cosas simplemente ocurrían, sin que el moviera un dedo para cambiarlas. Había pasado años ignorando la realidad, pero esta se estaba vengando ahora de él, golpeándolo una y otra vez con una fuerza atroz. La misma fuerza con la que se escapaban los gritos de agonía de aquellos que sí se habían atrevido a hacer algo para parar a la corporación.
 
@@ -38,7 +38,7 @@ La voz de Ana libró momentáneamente a Lucas de la reprimenda de su conciencia.
 
 — Si usted quiere quedarse aquí a esperar a los suyos, muy bien — la joven pelirroja se había girado hacia el coronel y lo miraba fijamente —, pero yo voy.
 
-“Es normal, son sus aliados”, reflexionó Lucas, mirándola fijamente.
+«Es normal, son sus aliados», reflexionó Lucas, mirándola fijamente.
 
 — No puedo obligarle a quedarse — la voz del oficial trataba de mantenerse impasible, solemne —. Mucha suerte.
 
@@ -46,7 +46,7 @@ Lucas se sorprendió a si mismo cuando alzó la voz.
 
 — Voy con ella.
 — No, es mejor que... — comenzó a decir Cooper, pero el civil lo interrumpió.
-— Iré en la vanguardia, que es lo que querías desde un principio, ¿no? — Lucas había olvidado lo utilizado que se había sentido por parte del coronel y Jonás en lo que respectaba a sus mareos. Pero ahora ese sentimiento había vuelto, enfriando sus palabras y su trato para con el militar — Si encuentro algún peligro lo marcaré, “señor”.
+— Iré en la vanguardia, que es lo que querías desde un principio, ¿no? — Lucas había olvidado lo utilizado que se había sentido por parte del coronel y Jonás en lo que respectaba a sus mareos. Pero ahora ese sentimiento había vuelto, enfriando sus palabras y su trato para con el militar — Si encuentro algún peligro lo marcaré, «señor».
 
 Cooper resopló, pero finalmente cedió.
 
@@ -99,11 +99,11 @@ Ana y Lucas continuaban corriendo, mientras se alejaban del ascensor, de los mil
 Ya a cierta distancia, Lucas no llegó a entender lo que escupía Cooper entre gritos, pero estaba seguro de que no eran palabras agradables para con el vagabundo. Los dos jóvenes aún corrían hacia el fondo del pasillo, allí donde doblaba hacia la derecha.
 
 — ¿Sabías lo que iba a hacer?
-— No — confesó Ana —, pero me fijé en que este pasillo también tenía esos poros en la pared como en la planta del pelotón de fusilamiento. A medida que la tensión entre Jonás y el coronel iba en aumento, supuse que “el vagabundo” podría valerse de ese as en la manga.
+— No — confesó Ana —, pero me fijé en que este pasillo también tenía esos poros en la pared como en la planta del pelotón de fusilamiento. A medida que la tensión entre Jonás y el coronel iba en aumento, supuse que «el vagabundo» podría valerse de ese as en la manga.
 — Entiendo — se limitó a asentir su amigo — Bien, veamos qué nos espera tras la esquina.
 — Un pequeño pasillo hasta una gran puerta acorazada. Ese tramo está libre — reveló la voz omnipresente del vagabundo.
 
-“Gracias, Jonás, me has quitado todo el misterio”, sonrió Lucas para sus adentros, intentando relajar la enorme tensión que sentía.
+«Gracias, Jonás, me has quitado todo el misterio», sonrió Lucas para sus adentros, intentando relajar la enorme tensión que sentía.
 
 Los dos jóvenes confiaron en la voz y cruzaron la esquina sin pararse a mirar. Tal como se les había informado, lo único que encontraron fue una imponente puerta acorazada que ocupaba toda la pared frontal. Cuando se detuvieron frente a ella, esta comenzó a abrirse como por arte de magia.
 
@@ -116,10 +116,10 @@ La puerta aún se estaba abriendo cuando una voz masculina les gritó desde el o
 Los jóvenes obedecieron y se mantuvieron en cuclillas mientras la puerta terminaba de abrirse. Lucas se dio cuenta de que al oír la voz, Ana se extrañó súbitamente, como si le resultara familiar. Tras un instante, la joven comenzó a sonreír.
 
 — ¿Qué ocurre? — inquirió su amigo.
-— Si es quien creo que es — su sonrisa animó ligeramente a Lucas —, realmente es cierto eso de que “el mundo es un pañuelo”.
+— Si es quien creo que es — su sonrisa animó ligeramente a Lucas —, realmente es cierto eso de que «el mundo es un pañuelo».
 
 
 ## Navegación
 
-— [Capítulo anterior: 08 — La purga](c08_la—purga.md)
-— [Capítulo siguiente: 10 — Los preparativos](c10_los—preparativos.md)
+- [Capítulo anterior: 08 — La purga](c08_la-purga.md)
+- [Capítulo siguiente: 10 — Los preparativos](c10_los-preparativos.md)

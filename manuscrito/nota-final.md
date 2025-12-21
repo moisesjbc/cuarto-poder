@@ -8,5 +8,5 @@ De nuevo, muchas gracias.
 
 ## Navegación
 
-— [Capítulo anterior: 24 — La excursión](c24_la—excursión.md)
-— [Curiosidades](curiosidades.md)
+- [Capítulo anterior: 24 — La excursión](c24_la-excursión.md)
+- [Curiosidades](curiosidades.md)

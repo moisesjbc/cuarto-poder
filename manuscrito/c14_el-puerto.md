@@ -9,7 +9,7 @@
 
 Corrían a toda prisa por la calle, dejando atrás la emboscada que habían preparado para cubrir la huida de sus aliados. Avanzaron un par de manzanas amparados por la oscuridad y el abandono propios de un barrio estatal. Entonces giraron hacia la izquierda, en el último cruce antes de llegar a la calle que discurría paralela al muro que servía de frontera entre la prosperidad y la pobreza.
 
-Finalmente llegaron a la dirección destino: un edificio abandonado de tres plantas, sucio y lleno de grietas, donde un vagabundo los esperaba con la puerta abierta. Fernando y Aitor se adentraron en el edificio y se encaminaron rápidamente hacia el sótano. Allí encontraron a otro vagabundo, sujetando la puerta de una trampilla abierta en la pared. “Genial, nos han ahorrado bastante tiempo”, se alegró Aitor, quien conocía el estado normal del pasadizo: cerrado y tras un pesado armario que ahora descansaba a la izquierda. 
+Finalmente llegaron a la dirección destino: un edificio abandonado de tres plantas, sucio y lleno de grietas, donde un vagabundo los esperaba con la puerta abierta. Fernando y Aitor se adentraron en el edificio y se encaminaron rápidamente hacia el sótano. Allí encontraron a otro vagabundo, sujetando la puerta de una trampilla abierta en la pared. «Genial, nos han ahorrado bastante tiempo», se alegró Aitor, quien conocía el estado normal del pasadizo: cerrado y tras un pesado armario que ahora descansaba a la izquierda. 
 
 Los dos agentes de la resistencia cruzaron la trampilla y corrieron por un túnel que parecía a punto de venirse abajo de un momento a otro. No tardaron en pasar bajo el muro que en la superficie impedía el acceso al barrio empresarial del puerto. 
 
@@ -59,5 +59,5 @@ Los cuatro miembros de la resistencia continuaron en silencio, mientras el coche
 
 ## Navegación
 
-— [Capítulo anterior: 13 — Blanco y negro](c13_blanco—y—negro.md)
-— [Capítulo siguiente: 15 — La emisión](c15_la—emisión.md)
+- [Capítulo anterior: 13 — Blanco y negro](c13_blanco-y-negro.md)
+- [Capítulo siguiente: 15 — La emisión](c15_la-emisión.md)

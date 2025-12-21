@@ -98,5 +98,5 @@ María y Noemí miraron hacía él y se giraron hacia donde Lara estaba hasta ha
 
 ## Navegación
 
-— [Capítulo anterior: 21 — Mirando al cielo](c21_mirando—al—cielo.md)
-— [Capítulo siguiente: 23 — 15 minutos](c23_15—minutos.md)
+- [Capítulo anterior: 21 — Mirando al cielo](c21_mirando-al-cielo.md)
+- [Capítulo siguiente: 23 — 15 minutos](c23_15-minutos.md)

@@ -39,25 +39,25 @@ Entonces Jonás se levantó apresuradamente para mirar por el agujero frente a �
 
 Entonces corrió hacia la acera que tenía enfrente, llena de edificios de dos y tres plantas con locales en la planta calle. Tras alcanzarla se abalanzó hacia un callejón un metro a su izquierda, entre una tienda de juguetes y otra de pesca. El callejón estaba iluminado por las luces que escapaban de algunas de las ventanas que daban a él. De algunas de ellas se asomaban personas cuya curiosidad había sido despertada por el ruido de un furgón frenando en seco y las maldiciones lanzadas por unos hombres. Jonás pudo observar cómo una anciana lo miraba asustada desde su ventana, mientras él avanzaba por el callejón oscuro. Sin preocuparse por los testigos, Jonás hizo que la nube de humo negro lo siguiera y le deshiciera las mangas y parte de los antebrazos de su camisa de fuerza, liberándolo. Un guante negro parpadeaba brillante en su mano derecha.
 
-— Derecha, derecha, izquierda — se repetía en voz baja, jadeante, mientras alcanzaba el final del callejón —. ¡Ah! — Jonás cayó al suelo tras tropezar con un vagabundo que dormía en medio del callejón —. ¡Cabrón! — maldijo al pobre hombre al que acababa de despertar de manera tan brusca. Se reincorporó rápidamente y comprobó como sus perseguidores le habían ganado terreno. “Sólo están Iván y el mudo”, se fijó Jonás, “los otros deben de haber continuado por la misma calle donde se detuvo el furgón, por si se me ocurre volver”.
+— Derecha, derecha, izquierda — se repetía en voz baja, jadeante, mientras alcanzaba el final del callejón —. ¡Ah! — Jonás cayó al suelo tras tropezar con un vagabundo que dormía en medio del callejón —. ¡Cabrón! — maldijo al pobre hombre al que acababa de despertar de manera tan brusca. Se reincorporó rápidamente y comprobó como sus perseguidores le habían ganado terreno. «Sólo están Iván y el mudo», se fijó Jonás, «los otros deben de haber continuado por la misma calle donde se detuvo el furgón, por si se me ocurre volver».
 
-Nada más abandonar el callejón, Jonás comprobó que otro callejón se extendía frente a él, al otro lado de la calle. Sin embargo, giró hacia su derecha. Avanzaba por una calle casi idéntica a la anterior: llena de edificios de dos y tres pisos, con locales comerciales en la planta calle. Aquí, sin embargo, no se encontró con un lugar desierto como la calle donde se había detenido el furgón. En la zona había unas cuantas discotecas, y no pocos jóvenes se agolpaban en ambas aceras, al borde de la inconsciencia. “Debe de estar cerca de amanecer. Esta gente está en las últimas”, supuso Jonás. Los juerguistas apenas se inmutaron cuando Iván gritó al agente que lo acompañaba.
+Nada más abandonar el callejón, Jonás comprobó que otro callejón se extendía frente a él, al otro lado de la calle. Sin embargo, giró hacia su derecha. Avanzaba por una calle casi idéntica a la anterior: llena de edificios de dos y tres pisos, con locales comerciales en la planta calle. Aquí, sin embargo, no se encontró con un lugar desierto como la calle donde se había detenido el furgón. En la zona había unas cuantas discotecas, y no pocos jóvenes se agolpaban en ambas aceras, al borde de la inconsciencia. «Debe de estar cerca de amanecer. Esta gente está en las últimas», supuso Jonás. Los juerguistas apenas se inmutaron cuando Iván gritó al agente que lo acompañaba.
 
 — ¡Corre hacia ese callejón y avanza por la otra calle! — hablaba con gran determinación y enfado. Atrás había quedado su humor y despreocupación.
 
-Jonás echó un vistazo hacia atrás, sin detenerse. Observó como Jacob, el chico mudo, avanzaba por el callejón que él había evitado. “Tres agentes por la calle de la derecha, Iván por esta, y el mudo por la izquierda”, recapituló. Cuando pasó por delante de un supermercado, vio un nuevo callejón nacer por su derecha.
+Jonás echó un vistazo hacia atrás, sin detenerse. Observó como Jacob, el chico mudo, avanzaba por el callejón que él había evitado. «Tres agentes por la calle de la derecha, Iván por esta, y el mudo por la izquierda», recapituló. Cuando pasó por delante de un supermercado, vio un nuevo callejón nacer por su derecha.
 
-“¡Joder! ¿Me va a tener yendo de callejón en callejón?”, se quejó el perseguido. Sin dudarlo más, entró en el nuevo callejón y esta vez se mantuvo con la mirada fija en el suelo, no fuera que se tropezara con alguien más. Al otro extremo, dos de los tres agentes que habían avanzado por la calle donde se detuvo el furgón, corrían hacia él. Jonás dudó por un segundo sobre si las instrucciones que se le habían dado no habrían sido una trampa cruel, una forma de jugar con sus ansias de libertad. Sin embargo, observó que a mitad del callejón había una bifurcación hacia la izquierda. “Derecha, derecha, izquierda”, se alegró Jonás.
+«¡Joder! ¿Me va a tener yendo de callejón en callejón?», se quejó el perseguido. Sin dudarlo más, entró en el nuevo callejón y esta vez se mantuvo con la mirada fija en el suelo, no fuera que se tropezara con alguien más. Al otro extremo, dos de los tres agentes que habían avanzado por la calle donde se detuvo el furgón, corrían hacia él. Jonás dudó por un segundo sobre si las instrucciones que se le habían dado no habrían sido una trampa cruel, una forma de jugar con sus ansias de libertad. Sin embargo, observó que a mitad del callejón había una bifurcación hacia la izquierda. «Derecha, derecha, izquierda», se alegró Jonás.
 
 Jonás realizó entonces un sprint para llegar a la bifurcación antes que los enemigos que corrían hacia él de frente. Los dos agentes alzaron sus fusiles para abatirlo, pero Iván, acercándose tras Jonás, los detuvo.
 
 — ¡Lo quiero intacto!
 
-Jonás alcanzó la bifurcación y se topó con una camino cerrado. El nuevo callejón avanzaba un par de metros hasta toparse con un edificio de dos plantas cuya única puerta estaba cerrada. “¿Pero qué? Bueno, la puerta parece en bastante mal estado. Querrán que la rompan”. Pero antes de que pudiera mentalizarse, la puerta se abrió y una figura cubierta con harapos lo apresuró con voz femenina.
+Jonás alcanzó la bifurcación y se topó con una camino cerrado. El nuevo callejón avanzaba un par de metros hasta toparse con un edificio de dos plantas cuya única puerta estaba cerrada. «¿Pero qué? Bueno, la puerta parece en bastante mal estado. Querrán que la rompan». Pero antes de que pudiera mentalizarse, la puerta se abrió y una figura cubierta con harapos lo apresuró con voz femenina.
 
 — ¡Rápido!
 
-Jonás, al límite del agotamiento, hizo un último esfuerzo por su libertad. Cuando le quedaban pocos metros hasta la puerta, las dos ventanas de la segunda planta se abrieron de par en par. Por cada una se asomó un vagabundo armado y ambos comenzaron a efectuar disparos contra los perseguidores de Jonás. “¡Perfecto!”, se alegró este al escuchar lo disparos amortiguados por los silenciadores.
+Jonás, al límite del agotamiento, hizo un último esfuerzo por su libertad. Cuando le quedaban pocos metros hasta la puerta, las dos ventanas de la segunda planta se abrieron de par en par. Por cada una se asomó un vagabundo armado y ambos comenzaron a efectuar disparos contra los perseguidores de Jonás. «¡Perfecto!», se alegró este al escuchar lo disparos amortiguados por los silenciadores.
 
 La mujer de la puerta se apartó para dejar entrar a Jonás, quién se sumió en una oscuridad igual o mayor que la del callejón que acababa de abandonar.
 
@@ -89,15 +89,15 @@ A Jonás le costaba hacerse a la seriedad de su interlocutor. Había sufrido dur
 — A pesar del ataque, con el tiempo, RIO se ha vuelto muy confiada. El almacén del hospital psiquiátrico apenas tenía vigilancia y, según el registro, llevan años sin hacer inventario. Fue fácil.
 — Entiendo. Bueno — Jonás se recostó sobre el respaldar de su sillón —, ¿ahora me puedes contar cómo está el patio?
 
-Iván rió levemente. Durante los meses que estuvieron en el hospital psiquiátrico, Jonás intentó sonsacarle información sobre el mundo exterior en múltiples ocasiones. Su captor, por el contrario, se limitaba a responderle por lo bajo “ahora no”. Acto seguido, y para acallar posibles sospechas, lo golpeaba mientras se burlaba.
+Iván rió levemente. Durante los meses que estuvieron en el hospital psiquiátrico, Jonás intentó sonsacarle información sobre el mundo exterior en múltiples ocasiones. Su captor, por el contrario, se limitaba a responderle por lo bajo «ahora no». Acto seguido, y para acallar posibles sospechas, lo golpeaba mientras se burlaba.
 
 — RIO realizó una purga en el AT de Gran Canaria. Muchos de nuestros agentes cayeron, pero por suerte aún quedan unos cuantos. Sin embargo, dudo que se arriesguen a actuar de nuevo sin pensárselo bien, visto como salió el último plan — Iván resopló —. Debimos haber metido al coronel Cooper en nuestro círculo. Quizás así hubiera tenido algo más de paciencia antes de lanzarse a un ataque suicida, y...
 — Espera — lo interrumpió Jonás —, ¿la resistencia no ha hecho nada más después de que yo entrara en La Cadena?
-— Oh, sí, sí que ha hecho, pero nada tan “vistoso” — sonrió —. Hemos decidido esperar a que se calmen las aguas para hacer otro ataque frontal. De momento nos estamos centrando en liberar a los ingleses capturados. Y seguimos estallando *Burbujas* para debilitar a RIO. Bueno, yo no, yo estoy haciendo mi papel, pero tú me entiendes — sonrió de nuevo.
+— Oh, sí, sí que ha hecho, pero nada tan «vistoso» — sonrió —. Hemos decidido esperar a que se calmen las aguas para hacer otro ataque frontal. De momento nos estamos centrando en liberar a los ingleses capturados. Y seguimos estallando *Burbujas* para debilitar a RIO. Bueno, yo no, yo estoy haciendo mi papel, pero tú me entiendes — sonrió de nuevo.
 — Entiendo.
 — Por cierto... — Iván pareció recordar algo —. ¿Por qué un xilófono?
 — No tengo ni idea — Jonás sabía a qué se refería Iván —. Me obligaron a que les programara esa clave a los sujetos y así lo hice.
-— ¿Que les “programaras”?
+— ¿Que les «programaras»?
 
 Jonás se dió un toque con el dedo índice en la cabeza.
 
@@ -109,7 +109,7 @@ Tras hacer el movimiento con la mano, Jonás recordó algo.
 — Dime.
 — ¿Por qué frotarte en la calva?
 — ¡Ah, eso! — Iván rió —. Cuando creé este personaje pensé que le vendría bien alguna manía, y se me ocurrió que podría gustarle frotarse la calva. Me permite meter variaciones lo suficientemente imperceptibles como para introducir un código.
-— Entiendo — “Derecha, derecha, izquierda”, recordó Jonás. Mientras iban en el furgón, Iván se frotó la calva tres veces. Las dos primeras lo hizo por el lado derecho, y la tercera, por el izquierdo —. “Gira a la derecha dos veces, luego a la izquierda”, la verdad es que no me costó nada descifrarlo.
+— Entiendo — «Derecha, derecha, izquierda», recordó Jonás. Mientras iban en el furgón, Iván se frotó la calva tres veces. Las dos primeras lo hizo por el lado derecho, y la tercera, por el izquierdo —. «Gira a la derecha dos veces, luego a la izquierda», la verdad es que no me costó nada descifrarlo.
 — ¿Cómo? — aquello casi le dolió —. ¡Pero si la sangre te brotaba de la nariz antes de escapar!.
 — ¡Haberme puesto un código más difícil! — se burló Jonás.
 — Entonces... ¿qué estabas pensando en aquel momento para que te sangrara así la nariz?
@@ -117,7 +117,7 @@ Tras hacer el movimiento con la mano, Jonás recordó algo.
 — Oh, ¡claro!
 — Bueno, nos estamos yendo por las ramas — sentenció Jonás —. Me contabas que la resistencia ha evitado los ataques frontales y se ha centrado en liberar a los ingleses y en liberar *Burbujas*.
 — Exacto — verificó su interlocutor.
-— ¿Y cuál es el plan maestro? ¿Qué planea hacer la resistencia una vez “se calmen las aguas”?
+— ¿Y cuál es el plan maestro? ¿Qué planea hacer la resistencia una vez «se calmen las aguas»?
 — ¡Je! Esa información ya es muy sensible como para que la comparta con un mero simpatizante — observó de reojo a Jonás, intentando adivinar si su puya había tenido efecto. El vagabundo, sin embargo, permaneció serio.
 — Sabes que lo único que deseo es alejarme de RIO tanto como pueda — dirigió una mirada sincera hacia Iván —. Sobre todo después de lo que le hicieron a mi hermana — Jonás guardó silencio durante unos segundos. Ambos bajaron la mirada —. Sólo accedí a lo del ataque porque Ajani me lo pidió. Le debo mi libertad y tengo que saldar la deuda.
 — ¿Cómo puedes ser tan inteligente y no verlo? — Iván intentó controlarse para mantenerse sereno. Sin embargo, no pudo evitar aumentar el tono de su voz — RIO no te dejará en paz. La única manera es hacerle pagar por sus crímenes.
@@ -147,5 +147,5 @@ Hasta que la vio a ella.
 
 ## Navegación
 
-— [Capítulo anterior: 18 — Primer día de clase](c18_primer—día—de—clase.md)
-— [Capítulo siguiente: 20 — Escapando del infierno](c20_escapando_del_infierno.md)
+- [Capítulo anterior: 18 — Primer día de clase](c18_primer-día-de-clase.md)
+- [Capítulo siguiente: 20 — Escapando del infierno](c20_escapando-del-infierno.md)

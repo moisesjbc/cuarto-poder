@@ -46,11 +46,7 @@ La joven se sentó a su lado y se colocó uno de los auriculares que Lucas siemp
 —En fin, tengo que volver a mi puesto —anunció Ana al terminar de ver el vídeo y de comprobar la hora en el reloj azul de la pared—. Presiento que tengo que estar en mi puesto durante los próximos... diez minutos. ¡Hasta luego!
 —¡Hasta luego, Ana! —se despidió Lucas, sonriendo.
 
-<<<<<<< Updated upstream
-La joven pelirroja dejó su auricular sobre la mesa y se levantó. Seguidamente se acercó a una de las paredes de madera de dos metros de la oficina, se puso de puntillas y oteó el resto de la planta. Cuando se cercioró de que no había superiores a la vista susurró “¡Ahora!” como si gritara. Acto seguido cogió rápidamente su silla y desapareció por el pasillo, mientras Lucas contemplaba la escena, divertido.
-=======
-La joven pelirroja dejó su auricular sobre la mesa y se levantó. Seguidamente se acercó a una de las paredes de madera de dos metros de la oficina, se puso de puntillas y oteó el resto de la planta. Cuando se cercioró de que no habían superiores a la vista susurró «¡Ahora!» como si gritara. Acto seguido cogió rápidamente su silla y desapareció por el pasillo, mientras Lucas contemplaba la escena, divertido.
->>>>>>> Stashed changes
+La joven pelirroja dejó su auricular sobre la mesa y se levantó. Seguidamente se acercó a una de las paredes de madera de dos metros de la oficina, se puso de puntillas y oteó el resto de la planta. Cuando se cercioró de que no había superiores a la vista susurró «¡Ahora!» como si gritara. Acto seguido cogió rápidamente su silla y desapareció por el pasillo, mientras Lucas contemplaba la escena, divertido.
 
 «Hora de volver a la amarga realidad», pensó el joven tras unos segundos. No sin cierta reticencia, cerró la ventana del navegador y fue abofeteado por un fondo de escritorio con el logotipo de un «río de información» fluyendo desde un planeta hacia una cabeza humana. Lucas trabajaba para la corporación RIO, en una cadena de noticias situada en Gran Canaria. La compañía monopolizaba el sector de los medios de información, englobando emisoras de televisión y de radio, periódicos y sitios web repartidos a lo largo de más de medio mundo.
 
@@ -107,4 +103,4 @@ Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés
 
 ## Navegación
 
-— [Capítulo siguiente: 02 — La señal](c02_la—señal.md)
+- [Capítulo siguiente: 02 — La señal](c02_la-señal.md)

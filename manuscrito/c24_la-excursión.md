@@ -128,5 +128,5 @@ De repente, una luz verdosa lo embargó, sacándolo de la oscuridad. Sintió la 
 
 ## Navegación
 
-— [Capítulo anterior: 23 — 15 minutos](c23_15—minutos.md)
-— [Nota final](nota—final.md)
+- [Capítulo anterior: 23 — 15 minutos](c23_15-minutos.md)
+- [Nota final](nota-final.md)

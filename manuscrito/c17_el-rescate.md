@@ -89,7 +89,7 @@ Ana hizo una seña visible por todos, indicando que se dirigieran hacia allí do
 
 — ¡Mierda!
 
-En su cabeza imaginó miles de posibilidades en unos pocos segundos “¿Y si han bajado por las escaleras delanteras? ¿O habrán subido? ¿En qué piso se habrán quedado? ¿Y si se han escondido en alguna habitación de las decenas que tiene este sitio? ¿Y si...?
+En su cabeza imaginó miles de posibilidades en unos pocos segundos «¿Y si han bajado por las escaleras delanteras? ¿O habrán subido? ¿En qué piso se habrán quedado? ¿Y si se han escondido en alguna habitación de las decenas que tiene este sitio? ¿Y si...?
 
 — Aquí el equipo de francotiradores — la interrumpió una voz proveniente de su radio — hemos abatido a los enemigos en la azotea. El paquete está a salvo.
 — ¡Perfecto! — exclamó Ana. A continuación se dirigió a su equipo —. ¡Ya lo han oído! ¡Nuestro objetivo está en la azotea! ¡Volvamos a separarnos y que cada equipo tome las escaleras por las que subió antes!.
@@ -114,7 +114,7 @@ Cuando comenzaron a bajar, Ana se fijó en que Arturo continuaba con la camisa d
 — ¿No quieres que te desatemos? — preguntó.
 — Nah, voy bien así.
 
-“Pues sí que es un poco raro”, pensó su interlocutora, al tiempo que sonreía.
+«Pues sí que es un poco raro», pensó su interlocutora, al tiempo que sonreía.
 
 — No quiero ser desagradecido — continuó Arturo —, pero ¿por qué han tardado tres meses en liberarme? ¿Acaso soy el último?
 — No, de hecho eres uno de los primeros.
@@ -131,7 +131,7 @@ Cuando comenzaron a bajar, Ana se fijó en que Arturo continuaba con la camisa d
 El grupo estaba a medio camino entre las plantas tres y dos. Cuando llegaron a la planta destino, el grupo comenzó a avanzar con cuidado, siguiendo las indicaciones de Arturo.
 
 — Y dime — continuó Ana, aprovechando una pausa en las indicaciones del soldado — ¿qué más te hicieron aquí?
-— Me pasaba la mayor parte del tiempo encerrado en mi “habitación”. Media hora de ejercicios al día, tres comidas, ... e inyecciones.
+— Me pasaba la mayor parte del tiempo encerrado en mi «habitación». Media hora de ejercicios al día, tres comidas, ... e inyecciones.
 — ¿Inyecciones? ¿Y para qué...?
 — No tengo ni idea — confesó el militar — pero siempre me las inyectaban media hora antes de llevarme a la sala donde caminaba de un lado para otro.
 — Entiendo.
@@ -151,5 +151,5 @@ El soldado la imitó. En el piso de abajo se apilaban sillas y mesas de cualquie
 
 ## Navegación
 
-— [Capítulo siguiente: 16 — Una nueva vida](c16_una—nueva—vida.md)
-— [Capítulo siguiente: 18 — Primer día de clase](c18_primer—día—de—clase.md)
+- [Capítulo siguiente: 16 — Una nueva vida](c16_una-nueva-vida.md)
+- [Capítulo siguiente: 18 — Primer día de clase](c18_primer-día-de-clase.md)

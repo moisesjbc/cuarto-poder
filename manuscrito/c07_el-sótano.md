@@ -10,7 +10,7 @@ Frente al ascensor se extendía un largo y ancho pasillo de hormigón, con forma
 
 Michael y el coronel se encontraban a cubierto a ambos lados de las puertas del ascensor, asomando sus armas y tras estas lo mínimo de sí mismos para poder evaluar la situación de manera segura. Ana estaba en medio del ascensor, cubriéndose tras Ricardo, su antiguo director y actual prisionero. La chica lo tenía sujeto por el cuello y presionaba la punta de la pistola contra su cabeza. Lucas, relegado al suelo del fondo del ascensor, se conformaba con ver la escena a través de las piernas de su amiga y del que había sido su jefe. Ana, sin embargo, lo obsequió con una mejor visión de lo que estaba pasando, al apartarse ligeramente ella y su prisionero hacia un lado. 
 
-“Quiere asegurarse de que me ven”, adivinó Lucas.
+«Quiere asegurarse de que me ven», adivinó Lucas.
 
 — Si es verdad que eres tan valioso para ellos, mejor que te tengan bien presente antes de hacer ninguna tontería — le confirmó Ana, fría, sin dejar de mirar fijamente a los enemigos.
 — ¡He dicho quietos! — gritó de nuevo el superior de la comitiva de bienvenida, al ver que Ana se movía. Esta vez Lucas lo localizó: estaba en la segunda fila de soldados, a la izquierda del hombre del centro.
@@ -91,7 +91,7 @@ La pregunta la pilló por sorpresa.
 
 — Soy tu amiga — sentenció. Cuando vio que Lucas la miraba impaciente, se rió —. Está bien, está bien. Era broma, sólo quería ver tu cara.
 
-“Al menos no es una completa desconocida”, se alegró Lucas, al volver a toparse con la faceta bromista de su compañera.
+«Al menos no es una completa desconocida», se alegró Lucas, al volver a toparse con la faceta bromista de su compañera.
 
 — Parece que no hace falta que lo siga ocultando — continuó la chica, mientras miraba fugazmente a Ricardo y volvía a posar su mirada en Lucas — Formo parte de una organización contraria a la corporación RIO y sus mentiras. Anteriormente luchábamos contra ella investigando y tratando de sacar a la luz sus farsas, pero cuando se demostró que eso no llevaba a ninguna parte... — dedicó una mirada resentida hacia Ricardo — nos vimos forzados a radicalizarnos. Ahora intentamos destruirla por todos los medios posibles. Y uno de esos métodos incluye a agentes infiltrados como yo.
 — Por eso no ponías mucho empeño en trabajar para ellos, ¿no? — sonrió Lucas.
@@ -105,17 +105,17 @@ Ana, sin mediar palabra, le propinó un puñetazo que le hizo girar la cabeza co
 — Sería mucho mejor que te deshicieras de él — Jonás parecía ser una persona poco propensa a mantenerse aparte. Su voz volvía a ser fría.
 — Pensaba que no nos oías — sospechó Ana, mirando hacia la cámara situada frente a ellos.
 — Y no lo hacía, pero vi los puñetazos que le diste y quería ver qué pasaba — confesó —. No conseguirás sonsacarle nada; no hay nada que justifique el peligro de tenerlo cerca.
-— Si consigo llevarlo con los míos, puede que se vuelva más hablador. Bueno, me refiero a que diga algo más útil que “zorra” — le replicó Ana en un tono ameno, que sin embargo no admitía discusión.
+— Si consigo llevarlo con los míos, puede que se vuelva más hablador. Bueno, me refiero a que diga algo más útil que «zorra» — le replicó Ana en un tono ameno, que sin embargo no admitía discusión.
 — Como gustes, pero recuerda que te lo he advertido. Bien, voy a seguir intentando que no me maten. En cuanto Michael vuelva con... ¡mierda!
 — ¿Qué ocurre? — Se apresuró a preguntar Cooper. En su cara se reflejaba que esperaba de todo menos buenas noticias.
 — La policía ha entrado en el edificio. Espero que detengan a sus hombres.
 — ¿Pero qué estás diciendo? — se enfadó el coronel.
-— Por lo que veo, hay policías que parecen seguir sus propias órdenes, y me jugaría el cuello a que son agentes infiltrados de RIO. No estoy tan seguro de que para ellos sea una prioridad capturar vivos a los “asaltantes”, tal como lo es para la policía.
+— Por lo que veo, hay policías que parecen seguir sus propias órdenes, y me jugaría el cuello a que son agentes infiltrados de RIO. No estoy tan seguro de que para ellos sea una prioridad capturar vivos a los «asaltantes», tal como lo es para la policía.
 — ¡Tenemos que volver a subir! — exclamó el coronel, tratando de convencer a los presentes y a la cámara de seguridad con su mirada. Intentaba mantener su autoridad, pero frente a cuatro civiles, de los cuales uno era un enemigo inconsciente, y otro tenía el control de la situación, la tarea se le antojaba difícil. Una nota de nerviosismo comenzó a teñir su expresión mientras esperaba, ansioso, una respuesta.
 — De ninguna manera — Sentenció Jonás —. Puede que tardemos años en tener otra oportunidad como esta, y subir arriba ahora mismo sería un suicidio. Tendrá que confiar en su hombre.
 
 
 ## Navegación
 
-— [Capítulo anterior: 06 — La cita](c06_la—cita.md)
-— [Capítulo siguiente: 08 — La purga](c08_la—purga.md)
+- [Capítulo anterior: 06 — La cita](c06_la-cita.md)
+- [Capítulo siguiente: 08 — La purga](c08_la-purga.md)

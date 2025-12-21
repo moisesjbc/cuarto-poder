@@ -172,5 +172,5 @@ Mario intentó agarrarla, pero entonces él también cayó y lo único que pudo 
 
 ## Navegación
 
-— [Capítulo anterior: 19 — El trayecto](c19_el—trayecto.md)
-— [Capítulo siguiente: 21 — Mirando al cielo](c21_mirando—al—cielo.md)
+- [Capítulo anterior: 19 — El trayecto](c19_el-trayecto.md)
+- [Capítulo siguiente: 21 — Mirando al cielo](c21_mirando-al-cielo.md)

@@ -29,7 +29,7 @@ El señuelo estaba lanzado y ahora era cuestión de tiempo, perseverancia y suer
 
 — Para mí se acabó el fingir — confesó Aitor tras la reflexión y la nostalgia que, estaba seguro, compartía con su amigo.
 — ¿Qué?
-— Elizabeth y Andrés me descubrieron persiguiéndoles. ¡Por poco no me llevo un balazo!. Menos mal que soy una “prioridad” mucho menor para ellos que alcanzar el edificio de La Cadena. Me dejaron en paz en cuanto pudieron perderme de vista.
+— Elizabeth y Andrés me descubrieron persiguiéndoles. ¡Por poco no me llevo un balazo!. Menos mal que soy una «prioridad» mucho menor para ellos que alcanzar el edificio de La Cadena. Me dejaron en paz en cuanto pudieron perderme de vista.
 — ¡Cabronazo con suerte! ¡Con razón no vas disfrazado!
 
 Y así era. Mientras que Aitor continuaba vestido de gala, tal como había asistido a la cena con Elizabeth, Fernando iba vestido como un vagabundo más. Llevaba una capucha sobre la cabeza y un pañuelo en la cara para resultar tan irreconocible como le fuera posible. Aún así, el mero hecho de que estuviera allí era un peligro para la operación. No obstante, Fernando era demasiado terco como para que nadie pudiera convencerlo de mantenerse al margen. Y más cuando se trataba de lo que podía ser un gran golpe contra RIO.
@@ -53,5 +53,5 @@ Y así era. Mientras que Aitor continuaba vestido de gala, tal como había asist
 
 ## Navegación
 
-— [Capítulo anterior: 09 — Discrepancia](c09_discrepancia.md)
-— [Capítulo siguiente: 11 — Refuerzos](c11_refuerzos.md)
+- [Capítulo anterior: 09 — Discrepancia](c09_discrepancia.md)
+- [Capítulo siguiente: 11 — Refuerzos](c11_refuerzos.md)

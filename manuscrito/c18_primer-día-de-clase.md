@@ -38,7 +38,7 @@ Lara cayó delante de la puerta principal y la tocó, sentenciando su victoria.
 Las tres se pusieron en marcha, cruzando el arco que daba paso al salón. Entonces giraron a la derecha y recorrieron la estancia, pasando tras un largo sillón azul.
 
 — Es un poco cruel haber jugado hoy — le comentaba Lara a su hermana pequeña mientras caminaban —. El primer día de clase hay que causar buena impresión. Debería ser sagrado.
-— ¡No hay nada más sagrado que el juego “Revuélvele el pelo a tu hermana la coqueta”!
+— ¡No hay nada más sagrado que el juego «Revuélvele el pelo a tu hermana la coqueta»!
 — ¡Deberías gastar tu energía en pensar nombres más originales! — rió su hermana.
 — ¡Bueno! — dijo la madre, sonriendo — ¡a la mesa!.
 
@@ -62,7 +62,7 @@ Tras las bromas de rigor, finalmente se dispusieron a comer: un plato lleno de t
 — Un poco — reconoció Lara.
 — ¡Bah! No te preocupes — quiso tranquilizarla su madre — ya verás que les encantarás.
 
-“Ya sé que les encantaré”, se dijo a si misma la hija, “pero no por lo que me gustaría”. Lara había heredado de su madre unos pechos generosos, algo que le había causado algún que otro disgusto en su antiguo instituto.
+«Ya sé que les encantaré», se dijo a si misma la hija, «pero no por lo que me gustaría». Lara había heredado de su madre unos pechos generosos, algo que le había causado algún que otro disgusto en su antiguo instituto.
 
 La familia terminó de comer mientras hablaba de trivialidades. Tras el desayuno, los padres se lavaron los dientes en el aseo del piso de abajo y las hijas en el baño del piso superior. Ya estaban listos para un día de trabajo.
 
@@ -73,7 +73,7 @@ La familia terminó de comer mientras hablaba de trivialidades. Tras el desayuno
 Lara la cogió de la mano, y ambas se despidieron de sus padres. Estos esperaron un momento en el umbral de la puerta, viendo como sus hijas se alejaban hacia la izquierda, donde estaba la plaza del pueblo.
 
 — ¿No vas con ellas? — le preguntó Mario a su mujer.
-— Prefiero dejar un poco de margen entre ellas y yo. No les daría “buena imagen” llegar con una profesora.
+— Prefiero dejar un poco de margen entre ellas y yo. No les daría «buena imagen» llegar con una profesora.
 — ¿Acaso te has olvidado de nuestra presentación de ayer frente a todo el pueblo? Yo diría que ya están condenadas — sonrió Mario.
 — ¡Es verdad! — exclamó su mujer —. Cuando pienso en ello sólo me acuerdo del alcalde... ¿Batido de Maíz? — Mario asintió y ambos sonrieron —. ¿Cómo piensas aguantar en el ayuntamiento teniéndolo tan cerca?
 — No lo sé, pero... ¡llego tarde! — exclamó de repente.
@@ -89,11 +89,11 @@ Lo único que parecía mantenerla despierta era una sensación extraña que no e
 — 32.35 — dijo de repente, de manera totalmente involuntaria, con un hilo de voz que solo fue capaz de percibir la compañera sentada a su lado.
 — ¿Uhm? — murmuró su compañera, pero no le prestó mayor atención. Era obvio que ella también se estaba quedando dormida.
 
-“¿Qué acaba de pasar?”, se preocupó Lara,  “¿Qué es 32.35?”. Era una chica bastante asustadiza con las cosas que no podía controlar, y no le importaba reconocer que aquello la había asustado bastante. Estuvo dándole vueltas al asunto durante cerca de un minuto, el tiempo que el profesor tardó en terminar de garabatear en la pizarra y girarse hacia la clase.
+«¿Qué acaba de pasar?», se preocupó Lara,  «¿Qué es 32.35?». Era una chica bastante asustadiza con las cosas que no podía controlar, y no le importaba reconocer que aquello la había asustado bastante. Estuvo dándole vueltas al asunto durante cerca de un minuto, el tiempo que el profesor tardó en terminar de garabatear en la pizarra y girarse hacia la clase.
 
 — Y resuelto esto — dijo a su audiencia —, obtenemos que la solución es 32.35.
 
-“¿Qué?”, Lara se revolvía en su interior, “¿Cómo es posible? ¡No puede ser una coincidencia” Entonces miró nuevamente hacia la pizarra. “¡La ecuación ocupaba toda la pizarra! ¿Cómo puedo haberla resulto sin apenas mirarla!”
+«¿Qué?», Lara se revolvía en su interior, «¿Cómo es posible? ¡No puede ser una coincidencia» Entonces miró nuevamente hacia la pizarra. «¡La ecuación ocupaba toda la pizarra! ¿Cómo puedo haberla resulto sin apenas mirarla!»
 
 — ¿Le sucede algo señorita? — el profesor la miraba fijamente.
 — No — mintió —, no es nada.
@@ -228,5 +228,5 @@ El resto de los presentes las miraba, asustados, y susurrándose cosas entre ell
 
 ## Navegación
 
-— [Capítulo anterior: 17 — El rescate](c17_el—rescate.md)
-— [Capítulo siguiente: 19 — El trayecto](c19_el—trayecto.md)
+- [Capítulo anterior: 17 — El rescate](c17_el-rescate.md)
+- [Capítulo siguiente: 19 — El trayecto](c19_el-trayecto.md)

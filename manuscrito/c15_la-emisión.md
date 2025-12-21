@@ -30,7 +30,7 @@ Luis resopló, sin dejar de mirar, meditativo, el paisaje desolador de un barrio
 — ¿Y los militares? ¿Y Cooper? — quiso desviar el tema Luis.
 — Fueron capturados antes de llegar al barco.
 — ¿Y Jonás, el vagabundo?
-— Se tiró al agua, desesperado, aprovechando la confusión del tiroteo. Chillaba una y otra vez “¡no volverán a cogerme!”.
+— Se tiró al agua, desesperado, aprovechando la confusión del tiroteo. Chillaba una y otra vez «¡no volverán a cogerme!».
 — ¿Ya había sido prisionero de RIO?
 — Eso parece. Y por como gritaba, pareciera que realmente prefería la muerte.
 — Ya veo — respondió Luis, sombrío —. ¿Dijo algo más?
@@ -65,5 +65,5 @@ Ana hizo una mueca. Luis sabía que esconderse no era su estilo, pero lo aceptar
 
 ## Navegación
 
-— [Capítulo anterior: 14 — El puerto](c14_el—puerto.md)
-— [Capítulo siguiente: 16 — Una nueva vida](c16_una—nueva—vida.md)
+- [Capítulo anterior: 14 — El puerto](c14_el-puerto.md)
+- [Capítulo siguiente: 16 — Una nueva vida](c16_una-nueva-vida.md)

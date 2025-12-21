@@ -12,7 +12,7 @@ Ana, aún en shock, era incapaz de alcanzar a comprender la naturalidad que dest
 — Tú te vienes con nosotros.
 — ¿Cómo? 
 
-La cara de incredulidad que puso el joven hubiera arrancado más de una risa en una comedia televisiva, pero ninguno de los allí presentes parecía tener motivos para reír. Lucas miró instintivamente a Ana, situada a su lado. La pobre estaba tan conmocionada, que la expectativa de quedarse sola con los militares parecía ser únicamente una gota más sobre un vaso que se había desbordado hacía rato. “No parece ella”, pensó Lucas, más extrañado que preocupado. Que un grupo terrorista asalte tu lugar de trabajo no es algo precisamente tranquilizador, pero la reacción de su amiga le parecía... muy exagerada, y más en una persona tan atrevida y optimista como ella.
+La cara de incredulidad que puso el joven hubiera arrancado más de una risa en una comedia televisiva, pero ninguno de los allí presentes parecía tener motivos para reír. Lucas miró instintivamente a Ana, situada a su lado. La pobre estaba tan conmocionada, que la expectativa de quedarse sola con los militares parecía ser únicamente una gota más sobre un vaso que se había desbordado hacía rato. «No parece ella», pensó Lucas, más extrañado que preocupado. Que un grupo terrorista asalte tu lugar de trabajo no es algo precisamente tranquilizador, pero la reacción de su amiga le parecía... muy exagerada, y más en una persona tan atrevida y optimista como ella.
 
 — ¡No hay tiempo! — lo apremió Cooper, interrumpiendo sus cavilaciones —. Allan cuidará de ella.
 — ¿Y quién cuida de mí? — Respondió Lucas, intentando aparentar diversión para restar seriedad al asunto —. No me malinterpretes Cooper, quiero ver el fin de RIO tanto como ustedes, pero no tengo intención de morir tan pronto.
@@ -25,7 +25,7 @@ Cooper lo empujó, con tacto pero con firmeza, hacia las escaleras. Allí una fi
 
 El soldado esperó con Ana frente a las escaleras. Cooper corrió hacia los militares y Lucas y gritó — ¡Bien, subamos! ¡John y Lucas al frente! 
 
-“Qué curioso, un tocayo inglés”, pensó Lucas, pero enseguida se dio cuenta de que algo fallaba. Sólo uno de los soldados nombrados se había puesto al frente, y todos miraban hacía él. 
+«Qué curioso, un tocayo inglés», pensó Lucas, pero enseguida se dio cuenta de que algo fallaba. Sólo uno de los soldados nombrados se había puesto al frente, y todos miraban hacía él. 
 
 — Eh...
 — ¡Joder, Lucas! ¡Sí, tú!
@@ -80,7 +80,7 @@ El coronel hurgó en uno de los bolsillos de su uniforme, sacó un papel doblado
 
 *Buenos días coronel Cooper.*
 
-*Me he enterado de su ataque a RIO. Por desgracia no podré acompañarle, pero intentaré procurarle toda la ayuda posible. Para empezar, tengo entendido que conoce a Lucas, el ex—reportero de La Cadena. Procure tenerlo cerca en todo momento, pues tiene un... “sexto sentido” para el peligro. Si tiene que elegir entre dos caminos, elija uno y Lucas comienza a sentirse mal, retroceda inmediatamente y tome el otro camino. No se preocupe por tener que llevarlo en la vanguardia, es demasiado valioso para que los de la corporación lo maten. Usted y sus hombres, sin embargo...  extremen las precauciones.*
+*Me he enterado de su ataque a RIO. Por desgracia no podré acompañarle, pero intentaré procurarle toda la ayuda posible. Para empezar, tengo entendido que conoce a Lucas, el ex—reportero de La Cadena. Procure tenerlo cerca en todo momento, pues tiene un... «sexto sentido» para el peligro. Si tiene que elegir entre dos caminos, elija uno y Lucas comienza a sentirse mal, retroceda inmediatamente y tome el otro camino. No se preocupe por tener que llevarlo en la vanguardia, es demasiado valioso para que los de la corporación lo maten. Usted y sus hombres, sin embargo...  extremen las precauciones.*
 
 *Le deseo toda la suerte del mundo.*
 
@@ -89,7 +89,7 @@ El coronel hurgó en uno de los bolsillos de su uniforme, sacó un papel doblado
 *PD. El resto de la ayuda se le suministrará in situ.*
 
 — ¿Y bien? — se interesó Cooper —. ¿Tienes idea de a qué se refiere?
-— ¡Esto es una locura! — exclamó Lucas, perplejo —. No sé a que “sexto sentido” se refiere, ni sé por qué coño soy tan valioso. Además, jamás he visto a ese hombre, ¿cómo puede hablar con tanto conocimiento de mí?
+— ¡Esto es una locura! — exclamó Lucas, perplejo —. No sé a que «sexto sentido» se refiere, ni sé por qué coño soy tan valioso. Además, jamás he visto a ese hombre, ¿cómo puede hablar con tanto conocimiento de mí?
 — Muy bien, te creo — lo tranquilizó su amigo, mientras cogía el mensaje y se lo volvía a guardar en el bolsillo — yo tampoco me hubiera creído nada del mensaje si no me lo hubiera enviado quien lo ha hecho. Supongo que tendremos que averiguarlo nosotros mismos. Veamos... ¿hay algún lugar o momento en el que te sientas mal mientras trabajas aquí?
 — Siempre desde el reportaje en Inglaterra — de repente Lucas recordó el sentimiento de culpa que lo acompañaba desde hacía tiempo. Su voz se ensombreció —. Escucha... no he sido capaz de encontrar pruebas en todos estos años... lo siento.
 
@@ -154,5 +154,5 @@ Aquella visión de su amiga, junto con el miedo a perderla hicieron mella en Luc
 
 ## Navegación
 
-— [Capítulo anterior: 02 — La señal](c02_la—señal.md)
-— [Capítulo siguiente: 04 — La guardia](c04_la—guardia.md)
+- [Capítulo anterior: 02 — La señal](c02_la-señal.md)
+- [Capítulo siguiente: 04 — La guardia](c04_la-guardia.md)

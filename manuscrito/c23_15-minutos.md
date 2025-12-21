@@ -45,7 +45,7 @@ Ana se había pintado las cejas de negro, a juego con la peluca morena. Sin emba
 — En fin, luego me lo retocaré. recuérdamelo.
 — Está bien — sonrió Lucas.
 
-La sonrisa de Lucas se difuminó al recordar a Noemí. El joven miró a la adolescente disimuladamente. Ella seguía en silencio, pero al menos había levantado el rostro y miraba hacia Ana. Tenía los ojos rojos de llorar, pero el joven creyó adivinar un asomo de sonrisa. Lucas recordó fugazmente la última vez que vio a la que había sido su hija sonreír. Fue ese mismo día por la mañana, durante el desayuno, tras haber jugado a “Revuélvele el pelo a tu hermana la coqueta” y...
+La sonrisa de Lucas se difuminó al recordar a Noemí. El joven miró a la adolescente disimuladamente. Ella seguía en silencio, pero al menos había levantado el rostro y miraba hacia Ana. Tenía los ojos rojos de llorar, pero el joven creyó adivinar un asomo de sonrisa. Lucas recordó fugazmente la última vez que vio a la que había sido su hija sonreír. Fue ese mismo día por la mañana, durante el desayuno, tras haber jugado a «Revuélvele el pelo a tu hermana la coqueta» y...
 
 — ¡Lara! — escupió —, ¡y Jonás!
 — ¿Eh? — Ana se sobresaltó ante el grito de su amigo. Noemí también lo miró rápidamente, sorprendida —. Ah, ¿no venían detrás mío?
@@ -126,5 +126,5 @@ Lucas compartió miradas serias con los presentes y luego alzó la mirada hacia 
 
 ## Navegación
 
-— [Capítulo anterior: 22 — El despertar](c22_el—despertar.md)
-— [Capítulo siguiente: 24 — La excursión](c24_la—excursión.md)
+- [Capítulo anterior: 22 — El despertar](c22_el-despertar.md)
+- [Capítulo siguiente: 24 — La excursión](c24_la-excursión.md)

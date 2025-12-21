@@ -83,5 +83,5 @@ Cuando Cooper avanzó decididamente hacia el vagabundo para detenerlo, una figur
 
 ## Navegación
 
-— [Capítulo anterior: 12 — La bronca](c12_la—bronca.md)
-— [Capítulo siguiente: 14 — El puerto](c14_el—puerto.md)
+- [Capítulo anterior: 12 — La bronca](c12_la-bronca.md)
+- [Capítulo siguiente: 14 — El puerto](c14_el-puerto.md)

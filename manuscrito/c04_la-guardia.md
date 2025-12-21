@@ -5,7 +5,7 @@ Paco escupió al suelo con asco y lanzó varias maldiciones a la brisa cálida d
 — Tengo la ligera impresión de que no te gusta estar aquí — Se burló — Y eso que sólo llevamos veinte minutos.
 — ¡Qué te follen, Miguel! — Le espetó el policía — ¡Te la estás jugando!
 
-“Ya, seguro”, pensó su compañero, divertido, “como no me ataques lanzándome tu grasa...”. La imagen hizo que Miguel tuviera que mirar a otro lado para que su compañero no lo viera reírse. Paco cumplía a rajatabla con el estereotipo de policía gordo y amante de la comida basura. Además, tenía una facilidad increíble para quejarse de todo y de todos e insultar a todo lo que se moviera. ¿Sus temas preferidos? la ineptitud de sus superiores para ver su valía en el cuerpo, y los compañeros que se reían de él, lo cual atribuía sin duda a su calvicie.
+«Ya, seguro», pensó su compañero, divertido, «como no me ataques lanzándome tu grasa...». La imagen hizo que Miguel tuviera que mirar a otro lado para que su compañero no lo viera reírse. Paco cumplía a rajatabla con el estereotipo de policía gordo y amante de la comida basura. Además, tenía una facilidad increíble para quejarse de todo y de todos e insultar a todo lo que se moviera. ¿Sus temas preferidos? la ineptitud de sus superiores para ver su valía en el cuerpo, y los compañeros que se reían de él, lo cual atribuía sin duda a su calvicie.
 
 Lo que él no sabía era que en realidad al resto de la comisaría le daba igual su calvicie. De lo que se reían era de su mal humor y de sus pataletas continuas. A sus compañeros también les gustaba mantener un acalorado debate sobre el gran bigote negro que ostentaba: ¿realmente le gustaba llevarlo, o era otro vano intento de alejar la atención de su calvicie?
 
@@ -19,7 +19,7 @@ La gente a menudo no entendía por qué Miguel no intentaba cambiar de compañer
 — ¡Excusas! ¡Yo no he escuchado una puta mierda!
 — Porque te pasas todo el tiempo quejándote por todo y no atiendes a tu alrededor — y antes de que su amigo le lanzara una nueva tanda de insultos, añadió —. Voy a mirar.
 
-Miguel dejó a su amigo con la palabra en la boca y avanzó hacia la esquina del edificio donde había oído el ruido. Paco se quedó solo y no tardó en lanzar nuevas maldiciones, esta vez para sus adentros: “Malditos cabrones”, se dijo. “Mi sitio es la entrada delantera, donde está la acción, y no esta mierda de puerta trasera”.
+Miguel dejó a su amigo con la palabra en la boca y avanzó hacia la esquina del edificio donde había oído el ruido. Paco se quedó solo y no tardó en lanzar nuevas maldiciones, esta vez para sus adentros: «Malditos cabrones», se dijo. «Mi sitio es la entrada delantera, donde está la acción, y no esta mierda de puerta trasera».
 
 La entrada principal al edificio de La Cadena, en el otro lado, consistía en unas escaleras anchas, custodiadas a ambos lados por sendas rampas que bajaban hasta los aparcamientos subterráneos. Tras subir los escalones, el visitante se encontraba un paseo peatonal de tres metros de ancho, decorado a ambos lados con palmeras endémicas de quince metros de altura, así como farolas y bancos.
 
@@ -70,5 +70,5 @@ El policía perdió la consciencia durante lo que creyó, fueron diez minutos, �
 
 ## Navegación
 
-— [Capítulo anterior: 03 — El ascenso](c03_el—ascenso.md)
-— [Capítulo siguiente: 05 — Planta 26](c05_planta—26.md)
+- [Capítulo anterior: 03 — El ascenso](c03_el-ascenso.md)
+- [Capítulo siguiente: 05 — Planta 26](c05_planta-26.md)

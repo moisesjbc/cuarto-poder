@@ -41,7 +41,7 @@ Lo que sigue es una versión alternativa del final del capítulo 11 ("Refuerzos"
 
 — *[...] pero hay un pasillo que avanza, con cuatro oficinas a cada lado, hasta un ascensor y unas escaleras. El ascensor únicamente baja, pero las escaleras suben hasta la sala previa a la oficina de seguridad. Los de RIO entraron por las escaleras y nos separaron en dos grupos, uno en cada planta y... nos tienen contra las cuerdas.*
 — *Entiendo – se limitó a asentir Ana –. Supongo que el cristal del segundo piso es a prueba de balas.*
-— *Exacto – respondió Marcos – ya hemos intentado bajarlo “directamente” sin resultados. Pero el equipo de arriba tiene acceso a mecanismos más contundentes para echar esa ventana abajo.* 
+— *Exacto – respondió Marcos – ya hemos intentado bajarlo «directamente» sin resultados. Pero el equipo de arriba tiene acceso a mecanismos más contundentes para echar esa ventana abajo.* 
 — *¿Entonces? — Lucas se adelantó a Ana. Estaba cansado de mantenerse al margen —. ¿Por qué no lo han hecho ya?* 
 — *¡Qué desagradecidos! — Exclamó Marcos, divertido —. ¡Estábamos esperando por ustedes! El vagabundo está intentando preparar y mantener un camino de huida. Yo personalmente no tenía ni idea de que alguien tuviera tanto poder desde la sala de seguridad de esta planta... En fin, que una vez que nos reunamos todos, tendremos el tiempo justo (espero) para salir de aquí con vida.*
 — *Tendremos que hacerlo ya – irrumpió nuevamente la voz omnipresente de Jonás, inundando la sala* –. *Elizabeth y los suyos han conseguido acceder al ascensor. 
@@ -130,8 +130,8 @@ De una forma similar a la presentada en "Cómo llegué a los barrios empresarial
 
 ## 7. Idas de olla varias / descartes
 
-— *Las nanomáquinas de Jonás le permite manejar a otras personas con una restricción: cuando está en el modo “fantasma” tiene que moverse y poseer a la víctima estando en su misma posición para poder sincronizarse con ella.*
-    — *Al final del libro, cuando está a punto de poseer al malo este último dice “no, no me poseerás” y empezará a bailar y a moverse hacia todos lados.*
+— *Las nanomáquinas de Jonás le permite manejar a otras personas con una restricción: cuando está en el modo «fantasma» tiene que moverse y poseer a la víctima estando en su misma posición para poder sincronizarse con ella.*
+    — *Al final del libro, cuando está a punto de poseer al malo este último dice «no, no me poseerás» y empezará a bailar y a moverse hacia todos lados.*
 — *Lara es la hija de Jonás, no su hermana. El vagabundo embarazó a la madre de Lara después de que escapara de La Cadena.*
     — *Alternativa: al final del libro, antes de las explosiones, Jonás corre hacia el enemigo y se convierte en una nube de nanomáquinas que se lleva al enemigo consigo. Jonás quiere salvarlo para interrogarlo y saber dónde esconde a su hija.*
 — *En el episodio de la Huida, Lucas huye con los ingleses. Entre las pruebas que Jonás consiguió reunir en la Cadena y que les da se encuentra el video original de Inglaterra, Lucas lo ve mientras está en el barco con Allan y así cuento de manera indirecta lo de Inglaterra.*
@@ -145,4 +145,4 @@ De una forma similar a la presentada en "Cómo llegué a los barrios empresarial
 
 ## Navegación
 
-— [Nota final](nota—final.md)
+- [Nota final](nota-final.md)
