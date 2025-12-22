@@ -4,7 +4,7 @@ Jonás abrió los ojos con mala gana, molesto por la luz que, aunque tenue, bañ
 
 «Otro sueño movidito».
 
-Se dio la vuelta y se sentó con la cabeza apoyada en la pared, contemplando aquel zulo inmundo que él mismo había transformado en su hogar. Su cama (si a aquello se le podía llamar cama) se encontraba a lo largo de la pared del fondo, frente a la puerta oxidada que daba entrada a la estancia. Delante de él Jonás podía ver perfectamente la montaña de latas de comida y botellas de agua que se amontonaba al pie de su lugar de descanso.
+Se dio la vuelta y se sentó con la cabeza apoyada en la pared, contemplando aquel zulo inmundo que él mismo había transformado en su hogar. Su cama (si a aquello se le podía llamar cama) se encontraba a lo largo de la pared del fondo, frente a la puerta oxidada que daba entrada a la estancia. Delante suya, Jonás podía ver perfectamente la montaña de latas de comida y botellas de agua que se amontonaba al pie de su lugar de descanso.
 
 De repente Jonás recordó que algo lo había despertado; un pitido proveniente del escritorio situado a su derecha, a medio camino entre la entrada y su cama. Giró la cabeza y confirmó que, efectivamente, el ruido lo emitía su ordenador portátil. La máquina era una de las pocas piezas de tecnología de la habitación. Aunque era relativamente nueva, luchaba en vano por mantenerse limpia y pura en una estancia tan sucia y demacrada como aquella.
 
@@ -12,16 +12,16 @@ El mendigo supuso que el mensaje sería importante, pues su benefactor, su únic
 
 Cuando se sintió preparado, se sentó en la silla destartalada de madera e introdujo la contraseña para desbloquear el sistema. Observó con indiferencia cómo sus dedos se ensuciaban al tocar la fina capa de polvo que yacía sobre el teclado. Una vez hubo desbloqueado su máquina, miró la hora (eran las 21:00) y comprobó su aplicación de mensajería. Tenía un nuevo mensaje sin leer.
 
-*Está ocurriendo, comprueba la radio* — rezaba el escrito.
+«Está ocurriendo, comprueba la radio», rezaba el escrito.
 
 Los nervios y el miedo empezaron a tomar el control rápidamente, mientras Jonás se apresuraba a encender la emisora de la policía, situada al lado del portátil. Intentando guardar el máximo silencio, escuchó la conversación entre los dos agentes.
 
-— … ¡No jodas! ¿Al final han acabado asaltándola?
-— Cómo que «¿Al final?», ¿te esperabas esto?
-— ¡Claro! ¿Tú no? Muchísima gente quiere ver RIO destruida, por una razón u otra. No consiguen lavar el cerebro a nadie con el autobombo que se dan a todas horas. Bueno, parece que a los estúpidos sí consiguen engañarlos...
-— Que te den, Pedro.
-— Ja ja ja..., ¡mierda! Mira, viene el jefe. Ya avisé a las unidades, pero no creo que le haga gracia que estemos de cháchara por aquí. Y seguro que le mosquearía mucho ver que tardas tanto en llegar con lo cerca que estás. Hasta luego.
-— Hasta luego.
+—¡No jodas! ¿Al final han acabado asaltándola?
+—¿Cómo que «¿Al final?», ¿te esperabas esto?
+—¡Claro! ¿Tú no? Muchísima gente quiere ver RIO destruida, por una razón u otra. No consiguen lavar el cerebro a nadie con el autobombo que se dan a todas horas. Bueno, parece que a los estúpidos sí consiguen engañarlos...
+—Que te den, Pedro.
+—Jajaja..., ¡mierda! Mira, viene el jefe. Ya avisé a las unidades, pero no creo que le haga gracia que estemos de cháchara por aquí. Y seguro que le mosquearía mucho ver que tardas tanto en llegar con lo cerca que estás. Hasta luego.
+—Hasta luego.
 
 Jonás sólo llegó a escuchar el final de la conversación, pero parecía que el aviso de su benefactor estaba en lo cierto. El vagabundo maldijo su suerte, e incluso sintió la tentación de ignorar la llamada del deber, de no devolver el favor y simplemente huir como llevaba tiempo haciendo. No obstante, la imagen de su benefactor salvándole la vida tiempo atrás se impuso. Tenía que hacerlo.
 
@@ -45,7 +45,7 @@ Hacía una noche estupenda para estar en pleno agosto. Una ligera brisa trataba 
 
 Una vez se cercioró de que no hubiera nadie a su alrededor, Jonás sacó el rollo de planos de la mochila y lo ojeó. El logotipo de la corporación RIO, un «río de información» partiendo del mundo hacia la cabeza de una persona, marcaba cada una de las hojas.
 
-— Vamos a ejercitar la memoria — resopló, mentalizándose para lo que estaba a punto de pasar —. Después de esta estaremos en paz, Ajani.
+—Vamos a ejercitar la memoria —resopló, mentalizándose para lo que estaba a punto de pasar—. Después de esta estaremos en paz, Ajani.
 
 Intentó reír nerviosamente, como si así pudiera paliar el dolor. Comenzó a ojear los planos. 
 
