@@ -23,7 +23,7 @@ Cooper lo empujó, con tacto pero con firmeza, hacia las escaleras. Allí una fi
 —Cuide de ella.
 —¡Sí, señor!
 
-El soldado esperó con Ana frente a las escaleras. Cooper corrió hacia los militares y Lucas y gritó —¡Bien, subamos! ¡John y Lucas al frente! 
+El soldado esperó con Ana frente a las escaleras. Cooper corrió hacia los militares y Lucas y gritó: —¡Bien, subamos! ¡John y Lucas al frente! 
 
 «Qué curioso, un tocayo inglés», pensó Lucas, pero enseguida se dio cuenta de que algo fallaba. Sólo uno de los soldados nombrados se había puesto al frente, y todos miraban hacía él.
 
@@ -61,11 +61,11 @@ El soldado logró ponerse a cubierto a un lado de la puerta, justo a tiempo para
 Cooper se quedó mirando hacia Lucas, esperando que este iniciara la conversación. Al civil le vinieron muchas preguntas diferentes a la cabeza, a cada cual más interesante. Sin embargo, ganó la pregunta fácil:
 
 —¿Por qué intentas matarme?
-—¿Cómo? —a pesar de la tensión del momento, Cooper no pudo evitar sonreír.
+—¿Cómo? —A pesar de la tensión del momento, Cooper no pudo evitar sonreír.
 —Ni siquiera entiendo por qué debo acompañarte, pero aún así... ¿por qué voy delante, dónde es mucho más fácil que me gane un tiro y me vaya al otro barrio?
-—¡Ah! ¡Eso! —rió nuevamente el coronel—. Me temo que yo tampoco conozco la respuesta.
+—¡Ah! ¡Eso! —Rió nuevamente el coronel—. Me temo que yo tampoco conozco la respuesta.
 —¿Qué? —Lucas no daba crédito.
-—Como lo oyes —el coronel trató de sonreír mientras disimulaba el cansancio producido por el rápido ascenso—. Durante el viaje hacia aquí recibí un email del mismísimo Ajani. Supongo que lo conoces.
+—Como lo oyes —El coronel trató de sonreír mientras disimulaba el cansancio producido por el rápido ascenso—. Durante el viaje hacia aquí recibí un email del mismísimo Ajani. Supongo que lo conoces.
 
 A Lucas no le costó nada hacer memoria.
 
@@ -84,21 +84,21 @@ El coronel hurgó en uno de los bolsillos de su uniforme, sacó un papel doblado
 
 *Le deseo toda la suerte del mundo.*
 
-*——Ajani*
+*—Ajani*
 
 *PD. El resto de la ayuda se le suministrará in situ.*
 
-—¿Y bien? —se interesó Cooper—. ¿Tienes idea de a qué se refiere?
+—¿Y bien? —Se interesó Cooper—. ¿Tienes idea de a qué se refiere?
 —¡Esto es una locura! —exclamó Lucas, perplejo—. No sé a que «sexto sentido» se refiere, ni sé por qué coño soy tan valioso. Además, jamás he visto a ese hombre, ¿cómo puede hablar con tanto conocimiento de mí?
-—Muy bien, te creo —lo tranquilizó su amigo, mientras cogía el mensaje y se lo volvía a guardar en el bolsillo—. Yo tampoco me hubiera creído nada del mensaje si no me lo hubiera enviado quien lo ha hecho. Supongo que tendremos que averiguarlo nosotros mismos. Veamos... ¿hay algún lugar o momento en el que te sientas mal mientras trabajas aquí?
-—Siempre desde el reportaje en Inglaterra —de repente Lucas recordó el sentimiento de culpa que lo acompañaba desde hacía tiempo. Su voz se ensombreció—. Escucha... no he sido capaz de encontrar pruebas en todos estos años... lo siento.
+—Muy bien, te creo. —Lo tranquilizó su amigo, mientras cogía el mensaje y se lo volvía a guardar en el bolsillo—. Yo tampoco me hubiera creído nada del mensaje si no me lo hubiera enviado quien lo ha hecho. Supongo que tendremos que averiguarlo nosotros mismos. Veamos... ¿hay algún lugar o momento en el que te sientas mal mientras trabajas aquí?
+—Siempre desde el reportaje en Inglaterra. —De repente Lucas recordó el sentimiento de culpa que lo acompañaba desde hacía tiempo. Su voz se ensombreció—. Escucha... no he sido capaz de encontrar pruebas en todos estos años... lo siento.
 
 El militar le puso una mano en el hombro.
 
-—RIO sabe cómo cubrir sus huellas. Nosotros tampoco hemos podido conseguir pruebas, y como puedes ver nos quedamos sin opciones —Trató de sonreír, pero era obvio que estaba preocupado por sus hombres—. ¿Entonces?
-—Pues ahora que lo pienso... —se intrigó Lucas—. Nunca cojo el ascensor; sufro unos mareos terribles cuando lo hago, así que siempre subo las escaleras.
-—Y mis hombres querían usarlo... Al menos tiene el punto positivo de que seguiste bastante bien el ritmo mientras subíamos —lo felicitó Cooper—. ¿Algo más?
-—Pues sí... la verdad —respondió Lucas—. En la planta donde trabajo, en el pasillo que va a los baños... ahí también sufro unos mareos enormes, por lo que ir al baño es un sufrimiento. Aunque luego se me pasan, y en el baño y durante la vuelta a mi puesto de trabajo no vuelvo a sentirlos — puntualizó.
+—RIO sabe cómo cubrir sus huellas. Nosotros tampoco hemos podido conseguir pruebas, y como puedes ver nos quedamos sin opciones. —Trató de sonreír, pero era obvio que estaba preocupado por sus hombres—. ¿Entonces?
+—Pues ahora que lo pienso... —Se intrigó Lucas—. Nunca cojo el ascensor; sufro unos mareos terribles cuando lo hago, así que siempre subo las escaleras.
+—Y mis hombres querían usarlo... Al menos tiene el punto positivo de que seguiste bastante bien el ritmo mientras subíamos. —Lo felicitó Cooper—. ¿Algo más?
+—Pues sí... la verdad —respondió Lucas—. En la planta donde trabajo, en el pasillo que va a los baños... ahí también sufro unos mareos enormes, por lo que ir al baño es un sufrimiento. Aunque luego se me pasan, y en el baño y durante la vuelta a mi puesto de trabajo no vuelvo a sentirlos —puntualizó.
 —¡Mierda! —se lamentó el militar—. ¡Tengo que avisar a Allan!
 
 El coronel echó mano de su radio lo más rápidamente posible.
@@ -110,17 +110,17 @@ Silencio.
 —¿Allan? ¡Responda!
 —… —Lucas pudo escuchar al otro lado los quejidos del soldado.
 —¿Allan? ¡Responda!
-—Sí... —tosió—. la chica...
+—Sí... —tosió—. La chica...
 —¿Qué ocurre con ella?
 —Me ha atacado.
 —¡Imposible! —Lucas no pudo contenerse.
 —¡Silencio! ¡Allan! ¿Qué ha ocurrido?
-—Ocurrió un momento después de que usted se fuera. La chica dejó de sollozar de repente, me miró y seriamente me pidió disculpas —resopló—. Cuando le fui a preguntar por qué, avanzó rápidamente hacia mí, me desarmó y me golpeó. No perdí el sentido de milagro.
-—¡Estás loco! —gritó Lucas— ¡Ella nunca haría eso!
+—Ocurrió un momento después de que usted se fuera. La chica dejó de sollozar de repente, me miró y seriamente me pidió disculpas. —Resopló—. Cuando le fui a preguntar por qué, avanzó rápidamente hacia mí, me desarmó y me golpeó. No perdí el sentido de milagro.
+—¡Estás loco! —gritó Lucas—. ¡Ella nunca haría eso!
 —¡Que te calles! —le espetó el coronel—. ¡Allan!, ¿sabe hacia dónde se dirigió?
 —Sí, coronel, comenzó a subir las escaleras. Yo diría que va hacia su posición.
 —Muy bien, si eso es cierto la interceptaremos y le pediremos explicaciones. ¡Persígala y evite que se quede en algún piso intermedio!
-—¡Sí, señor!.
+—¡Sí, señor!
 
 Cuando el coronel colgó su radio del uniforme, su cara se había transformado completamente; ahora mostraba una seriedad y una frialdad que no invitaban al diálogo. No obstante, Lucas se veía obligado a defender a su amiga.
 
@@ -143,9 +143,9 @@ Con el estruendo del tiroteo, ninguno de los soldados que disparaban escaleras a
 
 De repente, Ana se inclinó hacía Lucas y lo besó muy cerca de los labios, luego alejó su cara un palmo de la de Lucas—. Lo siento mucho, pero debo hacerlo. Confía en mí. 
 
-—Ellos... —trató de hablar Lucas, le fallaban las palabras—. Ellos..., no son terroristas, lo que ocurre es que...
-—Lo sé —lo interrumpió Ana con una voz dulce—. Y también sé lo de Inglaterra.
-—¿Cómo...? —quiso saber Lucas, sorprendido, pero fue en vano. Ana se limitó a dedicarle una sonrisa, justo antes de subir rápidamente las escaleras.
+—Ellos... —Lucas trató de hablar, pero le fallaban las palabras—. Ellos..., no son terroristas, lo que ocurre es que...
+—Lo sé. —Lo interrumpió Ana con una voz dulce—. Y también sé lo de Inglaterra.
+—¿Cómo...? —Quiso saber Lucas, sorprendido, pero fue en vano. Ana se limitó a dedicarle una sonrisa, justo antes de subir rápidamente las escaleras.
 —¡Detenedla! —gritó el coronel escaleras abajo, aún recuperándose de la aparatosa caída.
 
 Los soldados escucharon la orden, y aquellos que no estaban respondiendo al fuego enemigo en aquel momento se giraron rápidamente para obedecer. Sin embargo Ana, con una agilidad casi inhumana, apartó todos los fusiles uno tras otro y golpeó a cada soldado que se interponía en su camino. Acto seguido sacó una pistola, empujó a los soldados que defendían la puerta y entró en la planta 26 mientras respondía al fuego enemigo.

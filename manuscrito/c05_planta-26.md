@@ -4,12 +4,12 @@
 
 La voz le llegaba ahogada, junto con el sonido del fuego cruzado. Este último se hizo cada vez más insoportable a medida que el joven recuperaba la conciencia. Sin embargo, Lucas sólo podía preocuparse de una cosa.
 
-—Ana... ¿está bien? —consiguió preguntar a duras penas.
+—Ana... ¿está bien? —Consiguió preguntar a duras penas.
 —Yo diría que sabe cuidarse bastante bien —le respondió Allan, agachado a su lado.
 
 Lucas estaba tendido en el suelo. Cuando pudo incorporarse un poco y sentarse contra la pared, observó que se encontraba en una estancia amplia y luminosa. Frente a él estaba el ascensor y, a la derecha de este, las escaleras por las que habían subido antes de que el joven perdiera el conocimiento.
 
-«Así que hemos conseguido entrar en la planta 26», se sorprendió Lucas. Ya había estado allí en alguna que otra ocasión, por lo que hizo memoria y recordó la distribución del lugar: la sala—recibidor en la que se encontraban desembocaba en un pasillo más estrecho, el cual avanzaba entre dos grandes salas hasta el despacho del director de La Cadena.
+«Así que hemos conseguido entrar en la planta 26», se sorprendió Lucas. Ya había estado allí en alguna que otra ocasión, por lo que hizo memoria y recordó la distribución del lugar: la sala-recibidor en la que se encontraban desembocaba en un pasillo más estrecho, el cual avanzaba entre dos grandes salas hasta el despacho del director de La Cadena.
 
 Lucas, Allan y un tercer soldado se encontraban ocultos tras la esquina derecha que daba al pasillo. Los dos militares se alternaban para asomarse a la esquina y responder al fuego enemigo, mientras el civil continuaba intentando hacerse a la situación.
 
@@ -25,19 +25,19 @@ Lo que fuera que respondiera el pobre soldado del otro lado pareció enfadar aú
 
 Tras colgar, Cooper miró fugazmente hacia Lucas, pero enseguida volvió a centrarse en el tiroteo.
 
-—Cuando te desmayaste y Ana empezó a demostrar sus habilidades, aprovechamos para avanzar un poco —le aclaró Allan, cuando comprobó que Lucas había terminado de volver en sí—. Quizás hubiera sido más seguro dejarte en las escaleras, pero no me fiaba. A lo mejor tenías otra compañera ninja suelta por ahí y que no fuera una aliada —sonrió.
+—Cuando te desmayaste y Ana empezó a demostrar sus habilidades, aprovechamos para avanzar un poco —le aclaró Allan, cuando comprobó que Lucas había terminado de volver en sí—. Quizás hubiera sido más seguro dejarte en las escaleras, pero no me fiaba. A lo mejor tenías otra compañera ninja suelta por ahí y que no fuera una aliada —Sonrió.
 —¿Una aliada? —preguntó Lucas, mientras miraba a Cooper, al otro lado de la sala.
 —Sí, tu amiga sólo atacó a los nuestros para evitar que se interpusieran en su camino. Con los que se cebó fue con los enemigos. Dejó a unos cinco vivos, dos en la sala de la izquierda y tres en la de la derecha. Son pocos, pero los cabrones están dando guerra.
 —¿Y dónde está ella? —se preocupó el joven.
-—Entró en la oficina del director, al final del pasillo —contestó Allan, sin dejar de disparar—. Al principio se escucharon disparos y mucho ruido, pero después quedó en silencio... o eso creo, a veces cuesta distinguirlo —su interlocutor comprendió aquello; el ruido de los disparos en el pasillo era ensordecedor—. No sé nada más —concluyó.
+—Entró en la oficina del director, al final del pasillo —contestó Allan, sin dejar de disparar—. Al principio se escucharon disparos y mucho ruido, pero después quedó en silencio... o eso creo, a veces cuesta distinguirlo. —Su interlocutor comprendió aquello; el ruido de los disparos en el pasillo era ensordecedor—. No sé nada más —concluyó.
 
 Tras aquello Lucas asintió y dejó de molestar a los militares. No quería hacerles perder un tiempo que podía resultar valiosísimo de cara a ayudar a su amiga. El tiroteo se prolongó unos minutos más, hasta que uno de los soldados de la esquina izquierda gritó:
 
 —¡Parece que se están quedando sin munición! ¿Coronel?
 —¡Muy bien! —respondió este—. ¡Todos preparados!
-—¡Señor! —gritó uno de los soldados desde las escaleras—. ¡*El Venezolano* solicita encabezar la avanzada!.
+—¡Señor! —gritó uno de los soldados desde las escaleras—. ¡*El Venezolano* solicita encabezar la avanzada!
 —¡Jajaja! ¡Cómo no!
-—¿*El Venezolano*? —quiso saber Lucas, ya recuperado casi por completo y de pie.
+—¿*El Venezolano*? —Quiso saber Lucas, ya recuperado casi por completo y de pie.
 —Ay Dios... —respondió Allan, haciendo caso omiso de la pregunta. Su compañero se reía—. Yo digo que hoy tampoco lo matan.
 —Yo también creo que se salva.
 —¡Yo también! —gritó una de los soldados de detrás del recibidor de mármol.
@@ -76,8 +76,8 @@ Cuando accedieron a la gran oficina del directivo, se encontraron un reguero de 
 
 Los soldados que pudieron entrar en la habitación la habían ocupado formando un círculo alrededor de Ana y el prisionero. Lucas no podía dejar de mirar a su amiga, sin ocultar su alegría. Ella, sin embargo, permanecía impasible. Paseaba su mirada por todas las caras de la sala, sin dejar de apuntar a Ricardo.
 
-—Ahora podrías explicarnos... —empezó Cooper.
-—No disponemos de mucho tiempo —lo interrumpió Ana—. La policía no tardará en entrar en el edificio ahora que ha habido disparos, y los refuerzos de RIO también estarán llegando, si no lo han hecho ya.
+—Ahora podrías explicarnos... —Comenzó Cooper.
+—No disponemos de mucho tiempo. —Lo interrumpió Ana—. La policía no tardará en entrar en el edificio ahora que ha habido disparos, y los refuerzos de RIO también estarán llegando, si no lo han hecho ya.
 —¿Y qué propones?
 —Tomar el ascensor.
 
@@ -89,15 +89,15 @@ Algunos soldados no pudieron evitar reírse de manera burlona. Cooper se limitó
 Ricardo se limitó a mirar hacia otro lado, enfadado.
 
 —Necesitamos la tarjeta de Ricardo —informó Ana—. Por suerte la lleva siempre consigo y no dudó en entregármela amablemente —se burló, mostrando a los presentes un rectángulo de  plástico blanco, sin más decoración que el logotipo de RIO en azul.
-—No funcionará —los sorprendió una voz proveniente del interfono blanco situado sobre la mesa del director—. Es falsa, un amigo le dio el cambiazo hará cosa de unos días.
+—No funcionará —Los sorprendió una voz proveniente del interfono blanco situado sobre la mesa del director—. Es falsa, un amigo le dio el cambiazo hará cosa de unos días.
 —Interesante... —respondió Ana, manteniendo la tranquilidad—. ¿Y debemos considerarte un amigo o un enemigo?
 —Qué buenas son las fresas en otoño.
 
 La frase los cogió a todos por sorpresa. Los soldados se miraban entre sí, extrañados. Ana se limitó a suspirar mientras sonreía y miraba al coronel Cooper, cuya cara también era un poema.
 
-—Es un aliado —luego giró la cabeza hacia el interfono—. Genial, ahora tendremos que cambiar la clave. Es una pena; me gustaba esta.
+—Es un aliado. —Luego giró la cabeza hacia el interfono—. Genial, ahora tendremos que cambiar la clave. Es una pena; me gustaba esta.
 —Lo siento mucho, señorita —Ana hizo una mueca. «No la llames así», pensó Lucas, sonriendo para sus adentros—. Pero esto es muy cobarde, me disculparé en persona. Voy a subirles el ascensor.
-—Pero el ascensor... —quiso intervenir Cooper.
+—Pero el ascensor... —Quiso intervenir Cooper.
 —Lo desactivé yo mismo —respondió la voz—. Para asegurarme de que después de mí no lo usara quién no debía.
 —¿Eres el vagabundo? —preguntó el coronel, que ahora empezaba a mostrar cierta enemistad.
 —Sí... aunque también puede llamarme Jonás, si no le molesta. En fin, debemos darnos prisa, los refuerzos no tardarán en llegar. Vayan al ascensor y los bajaré. ¡Ah! —El vagabundo pareció recordar algo justo en ese momento—- Y no se preocupen por Lucas, estará bien.
@@ -118,11 +118,11 @@ La joven asintió. Había llevado a Ricardo a punta de pistola por todo el pasil
 
 El ascensor B le puso enfermo enseguida, al igual que lo hacía el A. El mundo comenzó a darle vueltas, y estuvo a punto de abandonar el ascensor, pero Cooper lo empujó hacia dentro y entró tras él.
 
-—Aguanta—. Fue todo lo que le dijo mientras las puertas se cerraban.
+—Aguanta. —Fue todo lo que le dijo mientras las puertas se cerraban.
 
 El coronel dirigió su mano y su vista hacía donde uno esperaría un panel con los botones de los pisos, pero este era inexistente. En su lugar sólo estaba el botón para cerrar las puertas, un pequeño altavoz, y una ranura para introducir tarjetas. El oficial dudó unos segundos e hizo el amago de pedirle la tarjeta a Ana, cuando la voz de Jonás lo interrumpió.
 
-—Ya le he dicho que es falsa, hombre —Cooper investigó el techo del ascensor y no tardó en descubrir la cámara—. No se preocupe.
+—Ya le he dicho que es falsa, hombre. —Cooper investigó el techo del ascensor y no tardó en descubrir la cámara—. No se preocupe.
 
 Acto seguido el ascensor comenzó a descender rápidamente. Lucas se sentía fatal. El suelo bailaba bajo sus pies, amenazando con desmoronarse en cualquier momento. El joven se tambaleaba, intentaba aclarar sus pensamientos, pero le resultaba imposible. Cooper lo sujetó y lo llevó a una de las esquinas traseras del ascensor.
 
@@ -131,8 +131,8 @@ Acto seguido el ascensor comenzó a descender rápidamente. Lucas se sentía fat
 Pero la mejoría fue insignificante. Como las desgracias nunca vienen solas, el grito de Jonás le taladró la sien.
 
 —¡Mierda!
-—¿Qué ocurre? —quiso saber Cooper. Todos los presentes miraban al interfono, como si pudieran arrancarle la información con la mirada.
-—¡Me han descubierto! No debería extrañarme, ¡pero creí que tendríamos algo más de tiempo! Intentaré ganar todo el tiempo posible y... —su voz se quebró, parecía estar a punto de llorar—.  No quiero volver, ¡no! ¡no! ¡no quiero!
+—¿Qué ocurre? —Quiso saber Cooper. Todos los presentes miraban al interfono, como si pudieran arrancarle la información con la mirada.
+—¡Me han descubierto! No debería extrañarme, ¡pero creí que tendríamos algo más de tiempo! Intentaré ganar todo el tiempo posible y... —Su voz se quebró, parecía estar a punto de llorar—.  No quiero volver, ¡no! ¡no! ¡no quiero!
 
 De repente la transmisión se cortó. 
 

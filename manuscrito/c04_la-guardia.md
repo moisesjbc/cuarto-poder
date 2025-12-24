@@ -9,15 +9,15 @@ Paco escupió al suelo con asco y lanzó varias maldiciones a la brisa cálida d
 
 Lo que él no sabía era que en realidad al resto de la comisaría le daba igual su calvicie. De lo que se reían era de su mal humor y de sus pataletas continuas. A sus compañeros también les gustaba mantener un acalorado debate sobre el gran bigote negro que ostentaba: ¿realmente le gustaba llevarlo, o era otro vano intento de alejar la atención de su calvicie?
 
-—¿No dices nada, eh, cabrón? —se confió Paco, al notar el silencio de su amigo—. Haces muy bien.
+—¿No dices nada, eh, cabrón? —Se confió Paco, al notar el silencio de su amigo—. Haces muy bien.
 —Eres un amor, Paco —volvió a bromear su compañero. 
 
 La gente a menudo no entendía por qué Miguel no intentaba cambiar de compañero. Este, sin embargo, aseguraba que Paco era una gran persona cuando se le llegaba a conocer. Y era verdad.
 
 —¡Hijo de … !
-—Shhh —lo interrumpió Miguel—. He oído algo.
+—Shhh. —Lo interrumpió Miguel—. He oído algo.
 —¡Excusas! ¡Yo no he escuchado una puta mierda!
-—Porque te pasas todo el tiempo quejándote por todo y no atiendes a tu alrededor —y antes de que su amigo le lanzara una nueva tanda de insultos, añadió—: Voy a mirar.
+—Porque te pasas todo el tiempo quejándote por todo y no atiendes a tu alrededor. —Y antes de que su amigo le lanzara una nueva tanda de insultos, añadió—: Voy a mirar.
 
 Miguel dejó a su amigo con la palabra en la boca y avanzó hacia la esquina del edificio donde había oído el ruido. Paco se quedó solo y no tardó en lanzar nuevas maldiciones, esta vez para sus adentros: «Malditos cabrones», se dijo. «Mi sitio es la entrada delantera, donde está la acción, y no esta mierda de puerta trasera».
 
@@ -53,12 +53,12 @@ El policía fue a encañonar al intruso, pero este último fue más rápido. El 
 
 —¡Uff! —resopló Paco en el suelo. La pequeña carrera hasta la esquina y el reciente golpe lo habían dejado exhausto. —¡Cabrón de mierda...!
 —¿Me culpas a mí? ¡No pretendo herir a nadie! —se excusó el hombre harapiento—. Con tu compañero sólo tuve que inutilizar su radio sin llamar su atención. Esperaba poder esconderme tras unos contenedores en lo que pedías refuerzos, y esquivarte cuando vinieras, pero parece que eres un pésimo policía.
-—¡Qué te jodan, mugriento de mierda! —se enfadó Paco—. Por cierto, te sangra la nariz —sonrió con desdén.
+—¡Qué te jodan, mugriento de mierda! —Se enfadó Paco—. Por cierto, te sangra la nariz. —Sonrió con desdén.
 
 El vagabundo trató de limpiarse la sangre con la manga.
 
 —Bueno, a ti también te sangra.
-— Qué dices? Si me pegaste en la barri... ¡uff! —el puñetazo le cogió la nariz de lleno, y sintió como si el tabique se le hiciera añicos.
+—Qué dices? Si me pegaste en la barri... ¡uff! —El puñetazo le cogió la nariz de lleno, y sintió como si el tabique se le hiciera añicos.
 —Capullo...  —le espetó el vagabundo mientras tomaba la esquina y se dirigía hacia la puerta desprotegida.
 —Hijo de... —Paco trató de insultarle, pero le fallaba la respiración.
 

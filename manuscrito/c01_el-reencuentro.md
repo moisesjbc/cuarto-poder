@@ -14,7 +14,7 @@ Ciertamente estaban jugando a volver a todos sus compañeros contra él, concedi
 
 Quizás fuera por eso mismo. Debido a que él era una hormiga frente al más grande de los gigantes, sus superiores ni se molestaban en levantar el pie y aplastarlo para acabar con su sufrimiento. Sin embargo, Lucas seguía siendo incapaz de dilucidar por qué preferían jugar con él y tenerlo pululando por allí, aún sabiendo que no era una amenaza, en lugar de, simplemente, quitarle su sustento y dejarlo morir de hambre en las calles.
 
-—¿Otra vez cabizbajo? —dijo una voz femenina a sus espaldas—. Al menos me alegra saber que siempre tienes ánimos para ver otro vídeo sin un contenido, digamos... estrictamente profesional —rió.
+—¿Otra vez cabizbajo? —dijo una voz femenina a sus espaldas—. Al menos me alegra saber que siempre tienes ánimos para ver otro vídeo sin un contenido, digamos... estrictamente profesional —Rió.
 
 Lucas miró a su ordenador. No había vuelto a abrir la ventana del navegador con el vídeo, pero el título de la misma era todo lo que necesitaba una chica con una vista tan buena como Ana. Lucas se giró y la miró: su amiga era una belleza de 29 años, de piel blanca, alta y delgada. Su pelo ondulado y de un pelirrojo anaranjado acariciaba su cara pecosa y casi rozaba sus hombros desnudos. De su fino cuello colgaba un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo. Semejante joya no hacía más que enfatizar su mantra, «¡Odio a los conejitos!», repetido hasta la saciedad. Lucas le había preguntado mil veces dónde había conseguido un collar tan singular, pero Ana, divertida, nunca le respondía o se limitaba a darle largas.
 
@@ -26,7 +26,7 @@ La joven iba vestida con un top negro y ceñido de mangas largas, acompañado co
 
 Ana formaba parte del reducido grupo de compañeros que conocía lo suficientemente bien a Lucas como para darse cuenta de que La Cadena procuraba convertirlo injustamente en el enemigo público número uno. La razón de esto, imaginaba, sólo la conocía el propio Lucas, pero este no se abría a nadie. Ni siquiera a su mejor amiga. 
 
-—Bueno, ya verás qué pronto se arregla todo —se limitó a decir la joven pelirroja.
+—Bueno, ya verás qué pronto se arregla todo. —Se limitó a decir la joven pelirroja.
 
 Lucas no pudo evitar sonreír, aún cuando supiera que no era cierto. No obstante, el mero hecho de que Ana siempre estuviera ahí, tratando de animarlo… le alegraba, aunque esa felicidad fuera algo temporal.
 
@@ -34,7 +34,7 @@ Lucas no pudo evitar sonreír, aún cuando supiera que no era cierto. No obstant
 
 Ana se volvió, caminó hacia la entrada y se inclinó hasta que la parte superior de su cuerpo se escondió tras la pared de madera del cubículo de Lucas. Al enderezarse de nuevo, arrastraba consigo su silla giratoria.
 
-—Y siguen sin pillarte —sonrió Lucas.
+—Y siguen sin pillarte —Sonrió Lucas.
 —Y siguen sin pillarme —confirmó Ana con otra sonrisa.
 
 El despacho de Ana estaba en el otro lado del pasillo, por lo que la joven tuvo que haberlo recorrido completamente llevando su silla consigo, pasando incluso por delante del pasillo central que cruzaba toda la planta hasta el ascensor. Además, dejó la silla al lado de la entrada del despacho de Lucas durante el tiempo en que ambos hablaron. Durante todo este tiempo, nadie que pudiera poner en peligro su presencia en la corporación había visto a Ana abandonar su puesto. 
@@ -44,7 +44,7 @@ La suerte de su amiga ya no impresionaba lo más mínimo a Lucas. Ana gozaba de 
 La joven se sentó a su lado y se colocó uno de los auriculares que Lucas siempre tenía conectados a su ordenador. Juntos vieron el vídeo de caídas, mientras trataban de no reírse.
 
 —En fin, tengo que volver a mi puesto —anunció Ana al terminar de ver el vídeo y de comprobar la hora en el reloj azul de la pared—. Presiento que tengo que estar en mi puesto durante los próximos... diez minutos. ¡Hasta luego!
-—¡Hasta luego, Ana! —se despidió Lucas, sonriendo.
+—¡Hasta luego, Ana! —Se despidió Lucas, sonriendo.
 
 La joven pelirroja dejó su auricular sobre la mesa y se levantó. Seguidamente se acercó a una de las paredes de madera de dos metros de la oficina, se puso de puntillas y oteó el resto de la planta. Cuando se cercioró de que no había superiores a la vista susurró «¡Ahora!» como si gritara. Acto seguido cogió rápidamente su silla y desapareció por el pasillo, mientras Lucas contemplaba la escena, divertido.
 
@@ -80,8 +80,8 @@ La llegada de los soldados, además de estimular el consumo, elevó la sensació
 
 —Ya está —le avisó Ana a sus espaldas. 
 —¿Algún día me dirás por qué te quedas cinco minutos de más todos los días?
-—¿Tú que crees? —sonrió ella.
-—Que no —sonrió él.
+—¿Tú que crees? —Sonrió ella.
+—Que no. —Sonrió él.
 
 Ambos jóvenes se dirigieron hacia el pasillo central que cruzaba toda la planta y llegaba hasta el ascensor situado en la pared norte.
 
@@ -98,7 +98,7 @@ Ana se había quedado atónita, incapaz de mediar palabra. No ocurría así con 
 
 Ana se sorprendió aún más cuando el oficial, a pesar de sus pintas de inglés, respondió al joven en un perfecto español.
 
-—Desafiar a tu gobierno y poner en peligro a tu país requiere tiempo —sonrió—. ¿Cómo estás, amigo?
+—Desafiar a tu gobierno y poner en peligro a tu país requiere tiempo. —Sonrió—. ¿Cómo estás, amigo?
 
 
 ## Navegación
