@@ -134,7 +134,7 @@ Ante ellos se alzaba una casa de madera blanca de dos pisos. Tenía un tejado pr
 La familia se encaminó hacia su nuevo hogar, pero un grito a sus espaldas los detuvo.
 
 —¡Deberían huir de este lugar en cuanto puedan!
-—¿Cómo? —Se extrañó Mario, al tiempo que la familia se giraba hacia la fuente de la advertencia. Un chico de unos quince años, con el pelo castaño y ondulado, los miraba fijamente desde el centro de la calle, montado en su bicicleta.
+—¿Cómo? —Se extrañó Mario, al tiempo que la familia se giraba hacia la fuente de la advertencia. Un chico de unos diecisiete años, con el pelo castaño y ondulado, los miraba fijamente desde el centro de la calle, montado en su bicicleta.
 —Este sitio es el mismísimo infierno. ¡Huyan!
 —¡Eh!
 
