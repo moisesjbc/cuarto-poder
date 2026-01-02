@@ -97,7 +97,7 @@ La pregunta la pilló por sorpresa.
 «Al menos no es una completa desconocida», se alegró Lucas, al volver a toparse con la faceta bromista de su compañera.
 
 —Parece que no hace falta que lo siga ocultando —continuó la chica, mientras miraba fugazmente a Ricardo y volvía a posar su mirada en Lucas—. Formo parte de una organización contraria a la corporación RIO y sus mentiras. Anteriormente luchábamos contra ella investigando y tratando de sacar a la luz sus farsas, pero cuando se demostró que eso no llevaba a ninguna parte... —dedicó una mirada resentida hacia Ricardo—. Nos vimos forzados a radicalizarnos. Ahora intentamos destruirla por todos los medios posibles. Y uno de esos métodos incluye a agentes infiltrados como yo.
-—Por eso no ponías mucho empeño en trabajar para ellos, ¿no? —sonrió Lucas.
+—Por eso no ponías mucho empeño en trabajar para ellos, ¿no? —Sonrió Lucas.
 —Bueno, cada uno con sus razones, ¿no? —lo miró su amiga, guiñándole un ojo.
 —Maldita zorra... —le espetó el que había sido su director. 
 

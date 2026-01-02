@@ -120,7 +120,7 @@ La madre se giró hacia el padre y le preguntó su opinión, mientras ella baraj
 La familia miró al joven que les había gritado desde la puerta de una casa cercana. Les resultaba familiar, pero no conseguían ubicarlo. Por fin, Mario se acordó.
 
 —¡Eres el ciclista de ayer! ¡El que nos dijo que huyéramos de este lugar!
-—¡Exacto! —sonrió el chico.
+—¡Exacto! —Sonrió el chico.
 —¿Cómo sabemos que no es una trampa? —desconfió Noemí, la madre.
 —No lo saben —se sinceró él.
 

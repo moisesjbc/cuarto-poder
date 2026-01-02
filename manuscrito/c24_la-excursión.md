@@ -18,7 +18,7 @@ Quizás esperando un mensaje más largo del que no querían perderse ni una part
 
 —¿Podemos separarnos? —preguntó Jonás. Tras un segundo, añadió—. No me siento cómodo con mucha gente alrededor.
 —¿Y podríamos sentarnos? —añadió Lara, aprovechando la ocasión.
-—Ok, me parece bien —sonrió Ana.
+—Ok, me parece bien. —Sonrió Ana.
 
 El grupo estudió la plaza, buscando bancos alejados de la gente. Todos los asientos se situaban a intervalos regulares a lo largo de la curvatura de la plaza, orientados hacia la torre y el escenario. Tanto los más cercanos  como los más lejanos al escenario estaban ocupados, por lo que se conformaron con un banco en la mitad del extremo este de la plaza. Mientras se dirigían al objetivo, Lucas alzó la vista y sonrió. Cuando Lara y Noemí se dieron cuenta también sonrieron.
 

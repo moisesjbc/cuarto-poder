@@ -53,7 +53,7 @@ Ja, ja, ja —Su hija fingió sentirse ofendida—. Ya intenté ir a por ella, �
 
 Entonces dirigió un rápido vistazo hacia su hermana. Noemí no parecía sentir hacia su cabellera ni la mitad de la devoción que Lara sentía hacia la suya. El pelo de Noemí, rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes. Lara se había sorprendido muchas veces envidiando en secreto a su hermana, por su gran naturalidad y despreocupación.
 
-—Sí —sonrió su padre—. ¡Nos hacemos una ligera idea de lo mucho que te gusta tu pelo! —Exclamó. Lara se mantuvo en silencio, mientras sonreía la gracia.
+—Sí. —Sonrió su padre—. ¡Nos hacemos una ligera idea de lo mucho que te gusta tu pelo! —Exclamó. Lara se mantuvo en silencio, mientras sonreía la gracia.
 
 Tras las bromas de rigor, finalmente se dispusieron a comer: un plato lleno de tortitas, un bote de miel y un jarrón de leche aguardaban en el centro de la mesa a ser devorados. Tras acabar con una tortita, y mientras se mentalizaba para atacar la siguiente, Mario se interesó por sus hijas.
 
@@ -214,7 +214,7 @@ El alcalde hizo caso omiso de la segunda pregunta.
 Tras el alcalde, una multitud enfurecida corría hacia ellos desde todas partes.
 
 —¡Joder! —Se preocupó Noemí. Mirando hacia todos lados, sin encontrar una vía de escape—. ¡Mierda!
-—¡Pero hoy no! —sonrió el alcalde.
+—¡Pero hoy no! —Sonrió el alcalde.
 
 Seguidamente miró ligeramente hacia la izquierda y hacia arriba, hacia una cámara de seguridad situada en el muro del instituto y asintió con la cabeza. Entonces las supervivientes escucharon un ruido familiar proveniente de todas partes: tres notas de xilófono cortas y agudas, seguidas de una larga y grave.
 

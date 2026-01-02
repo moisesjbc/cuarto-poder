@@ -43,7 +43,7 @@ La joven caminó con paso decidido sobre el escenario de madera que rodeaba la t
 Ana se había pintado las cejas de negro, a juego con la peluca morena. Sin embargo, unos pocos pelos pelirrojos se habían resistido a la conversión y resaltaba, orgullosos, sobre su ceja izquierda. La joven se limitó a sonreír y restarle importancia.
 
 —En fin, luego me lo retocaré. Recuérdamelo.
-—Está bien —sonrió Lucas.
+—Está bien. —Sonrió Lucas.
 
 La sonrisa de Lucas se difuminó al recordar a Noemí. El joven miró a la adolescente disimuladamente. Ella seguía en silencio, pero al menos había levantado el rostro y miraba hacia Ana. Tenía los ojos rojos de llorar, pero el joven creyó adivinar un asomo de sonrisa. Lucas recordó fugazmente la última vez que vio a la que había sido su hija sonreír. Fue ese mismo día por la mañana, durante el desayuno, tras haber jugado a «Revuélvele el pelo a tu hermana la coqueta» y...
 
@@ -80,7 +80,7 @@ Años atrás, mucho antes de ser capturado por RIO y convertirse a la fuerza en 
 Ana lo miró durante unos segundos en los que Lucas intentó por todos los medios mantener la serenidad. Entonces ella, sin perder la sonrisa, miró hacia la derecha de Lucas y bajó la vista. ¡Noemí! Durante su ensoñación privada, Lucas se había olvidado por completo de ella. Cuando la miró vio que Noemí lo observaba sonriente antes de mirar a Ana y regalarle otra sonrisa a la pelirroja convertida en morena.
 
 —¿Q—qué ocurre? —tartamudeó Lucas.
-—...Nada. —sonrió Noemí. 
+—...Nada. —Sonrió Noemí.
 —¡Por fin! —Se alegró Lucas. Sinceramente celebraba que Noemí volviera a hablar, aunque no podía negar que también se alegraba de poder desviar el tema—. ¿Qué tal estás?
 —Mal —dijo, sin dejar de sonreír.
 —Oh, entiendo. —Y tras una breve pausa añadió—: ¿Puedo hacer algo para que te sientas mejor?

@@ -4,7 +4,7 @@ Cuando Lucas quiso darse cuenta, estaba subiendo a toda prisa hacia el último p
 
 Tras el encuentro frente al ascensor, el coronel Cooper y sus dos subalternos se habían quedado allí de pie, frente a Lucas y Ana. Cooper los miraba fijamente, mientras los dos soldados exploraban la estancia, preparados para responder a posibles amenazas ocultas. El coronel se sorprendió cuando sus hombres volvieron y se reunieron con ellos.
 
-—De esta planta sólo Ana y yo nos quedamos un poco más de lo estrictamente necesario —sonrió Lucas, adivinando el motivo de la sorpresa reflejada en el rostro del coronel.
+—De esta planta sólo Ana y yo nos quedamos un poco más de lo estrictamente necesario. —Sonrió Lucas, adivinando el motivo de la sorpresa reflejada en el rostro del coronel.
 —Ya veo.
 
 Ana, aún en shock, era incapaz de alcanzar a comprender la naturalidad que destilaba su amigo en aquellos momentos. Permanecía alerta y, tras unos instantes, fue la primera en fijarse en los soldados que aparecieron por la puerta de las escaleras, a la derecha del ascensor. Cooper miró un segundo a los recién llegados y se volvió nuevamente hacia la pareja de civiles. Fue entonces cuando dijo algo que cortó por lo sano la naturalidad de Lucas:

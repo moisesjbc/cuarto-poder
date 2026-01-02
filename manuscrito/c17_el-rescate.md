@@ -70,7 +70,7 @@ El equipo comenzó a subir las escaleras rápidamente, preocupándose en cada pi
 
 Entonces, sintiendo el morbo de ver lo que pudo haber acabado con su vida, se bajó la cremallera de su chándal. Tras esto, arrancó la bala aplastada cerca de su corazón, la observó durante unos segundos y entonces se la guardó en uno de los bolsillos del pantalón.
 
-—¡Un recuerdo! —sonrió, ante la mueca de extrañeza de su compañero. La joven ayudó entonces a levantarse al agente que aún se encontraba en el suelo—. Muy bien, vamos allá.
+—¡Un recuerdo! —Sonrió, ante la mueca de extrañeza de su compañero. La joven ayudó entonces a levantarse al agente que aún se encontraba en el suelo—. Muy bien, vamos allá.
 
 Cuando volvieron a lo alto de las escaleras, el grupo había conseguido abatir al enemigo que disparó a Ana, pero este se había cobrado dos vidas antes.
 

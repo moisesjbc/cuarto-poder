@@ -84,7 +84,7 @@ Iván avanzó y se sentó en el sillón a la izquierda de Jonás. Este último p
 
 A Jonás le costaba hacerse a la seriedad de su interlocutor. Había sufrido durante meses a su personaje: un jefe de seguridad sádico, chulo y burlón, que disfrutaba con su sufrimiento. Pero ahora volvía a conocer al actor: un agente serio y honorable, comprometido con la causa de la resistencia. El cambio le llevaría tiempo; Iván había hecho un gran papel. Había actuado tan bien, que una parte de Jonás quería levantarse de aquel sillón y pegarle una paliza a su captor.
 
-—Parece que el guante funcionó bastante bien, ¿eh? —sonrió Iván.
+—Parece que el guante funcionó bastante bien, ¿eh? —Sonrió Iván.
 —Sí, muchas gracias —respondió Jonás, al tiempo que se miraba la mano derecha. La giraba frente a su cara para apreciar aquel guante plástico de color negro con el que ya sentía una especie de conexión simbionte. Jonás apretó el puño, volvió a abrirlo, y posó el brazo sobre su muslo—. ¿Cómo lo conseguiste?
 —A pesar del ataque, con el tiempo, RIO se ha vuelto muy confiada. El almacén del hospital psiquiátrico apenas tenía vigilancia y, según el registro, llevan años sin hacer inventario. Fue fácil.
 —Entiendo. Bueno —Jonás se recostó sobre el respaldar de su sillón—, ¿ahora me puedes contar cómo está el patio?
