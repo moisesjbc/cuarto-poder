@@ -21,15 +21,19 @@ Esta obra está sujeta a la licencia Reconocimiento-NoComercial-CompartirIgual 4
 
 - Si has descargado el repositorio y estás leyendo este documento localmente, puedes leer el libro en la carpeta *manuscrito* anexa.
 - [Pulsa aquí para leer el libro online](manuscrito/c01_el-reencuentro.md).
-- [Pulsa aquí para descargar el libro (v1.3, PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.3/cuarto-poder-v1.3.pdf).
-- [Pulsa aquí para descargar el libro (v1.3, PDF, formato libro)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.3/libro-cuarto-poder-v1.3.pdf).
-- [Pulsa aquí para descargar el libro (v1.3, Epub)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.3/libro-cuarto-poder-v1.3.epub).
+- [Pulsa aquí para descargar el libro (v1.4, PDF)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.4/cuarto-poder-v1.4.pdf).
+- [Pulsa aquí para descargar el libro (v1.4, PDF, formato libro)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.4/libro-cuarto-poder-v1.4.pdf).
+- [Pulsa aquí para descargar el libro (v1.4, Epub)](https://github.com/moisesjbc/cuarto-poder/releases/download/v1.4/libro-cuarto-poder-v1.4.epub).
 
 ## Última versión
 
 ¿Estás leyendo la última versión de la novela? ¡Visita <https://github.com/moisesjbc/cuarto-poder> y compruébalo!
 
 ## Noticias
+
+### Versión 1.4 publicada (09/01/2026)
+
+Pues casi diez añitos de nada... Mientras sigo trabajando en la segunda parte, he aprovechado para corregir la puntuación de diálogos y pensamientos de esta primera parte, así como algunas erratas.
 
 ### Versión 1.3 publicada (25/09/2016)
 
@@ -45,7 +49,7 @@ Nueva versión del libro publicada. ¡La novedad principal es que ahora se puede
 
 ### Versión 1.1 publicada (24/06/2016)
 
-He publicado una nueva versión del libro con algunas correcciones. Puedes descargarlo en los enlaces de la sección "Acceso al libro" anterior.
+He publicado una nueva versión del libro con algunas correcciones. Puedes descargarlo en los enlaces de la sección «Acceso al libro» anterior.
 
 ### ¡Libro terminado! (18/06/2016)
 
@@ -58,8 +62,8 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 
 ## Agradecimientos
 
-- A **Ana “sólo letras”**. Porque nunca te demostré lo importante que fuiste para mí. Porque me animaste e inspiraste cuando comenzaba a escribir.
-- A **Cynthia**. Por aceptar el sacrificio de ser la primera en leer el primer capítulo “remasterizado”.
+- A **Ana «solo letras»**. Porque nunca te demostré lo importante que fuiste para mí. Porque me animaste e inspiraste cuando comenzaba a escribir.
+- A **Cynthia**. Por aceptar el sacrificio de ser la primera en leer el primer capítulo «remasterizado».
 - A **Daniel**. Por darme la idea del personaje Arturo.
 - A **Alejandro**. Por dedicar tiempo, no sólo a leer el libro, sino también a llenarlo de correcciones valiosas. También por darme la clave para terminar el libro poco a poco: escribir aunque sea media hora al día.
 - A **Lena**. Por no dejar de sorprenderme. Por leer los primeros capítulos y ayudarme a mejorarlos.
@@ -67,9 +71,9 @@ Tras un tiempo pensándolo, **finalmente me he decidido a portar el libro en el 
 - A **Garoe**. Porque al tiempo de escribir esto no ha visto nada del libro, pero cuando lo haga, su exquisitez mejorará el realismo del libro... o romperá nuestra amistad.
 - A **Abián**. Porque te sorprendiste cuando supiste que yo escribía, y eso a su vez me motivó a escribir este libro.
 - A **Bruno**. Por tus críticas y correcciones sobre el primer capítulo.
-- A **Marina** (["kaoseto"](https://bardinflor.perso.aquilenet.fr/cetere/kaoseto-es)). Por "devorar" el libro. Por todas tus correcciones y tu inestimables consejos.
+- A **Marina** («kaoseto» - https://bardinflor.perso.aquilenet.fr/kaosfantasy/index-es.html). Por «devorar» el libro. Por todas tus correcciones y tu inestimables consejos.
 - A **mi familia**. Por estar siempre ahí.
-    - Mención especial a **mi hermana Laura** por ser la primera en leerse la novela (que yo sepa). ¡Muchas gracias!
+  - Mención especial a **mi hermana Laura** por ser la primera en leerse la novela (que yo sepa). ¡Muchas gracias!
 
 
 ## Contacto
